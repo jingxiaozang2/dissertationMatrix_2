@@ -1,0 +1,171 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.01.26'
+101 52
+
+&[num]
+Aglaophyton_major                       000000000000000?0000?000000000000000000000000000000000000?000000000000000000?0?0000000?000??000000???
+Psilophyton_crenutatum                  000?00000000010?0000?0000000000000102100000010000000000000000000000000000000?0?0000000?000??????0????
+Cladoxylon                              000?1011000000???000?0??1022000000212?02000010200110000100000000000000000000???0000?0???????????0????
+Rhacophyton                             000?1011??000010?202?0?00002000000212100010013?001100?0120000000000000000000?0?0000000?11000????0????
+Biscalitheca_musata                     000?000100000010?20230111000000000414100210013200110?1011002100010000010010420?0000000?0?0??????0????
+Corynepteris_involucrata                000?000100000010?20230111000000000414100210013200110?1011002100010000010010320?0000000?0?0??????0????
+Stauropteris_burntislandica             000??00???0000???001?0001001000000202000100024000000000?00000000000000000000?0?1?10000?1?0?0????0????
+Stauropteris_oldhamia                   000??00???0000???001?0001011000000202000100024000000000?00000000000000000000?0?0000000?1?0?0????0????
+Gillespiea_randolphensis                000??00???0000???001?0000001000000202000100024000000000?000000000?0000100000???1?1000??????0????0????
+Psilotum                                000000002000010?00000000001?000000?04100100024310000100120020110110000100000?000000001001000100000000
+Tmesipteris                             001000002000010?000000000011000000204100000024000000100120020110110000100000?000000001001000100000000
+Psaronius                               000?101110000011?100101101200011113020102002210110000?0100021000110000000000?0?000000??01000????0????
+Marattia                                0001101110000011110010110120001111202012200211000000000100021000110000000000?000000001001000701001001
+Angiopteris                             00011011100000111100101101200011112020122002110000000001000210001?0000000000?000000000001000701001011
+Botrychium_s._l.                        00001001100000100210?01000200011003041002002211001100001200?1000000000000000?0000000000010002010000??
+Ophioglossum                            00001001100000100210011000200???00304101200221100000000120010000000000000000?000000000001000201000000
+Ankyropteris_brongniartii               000?110121000010?1001010000000000020200020002300000000010002100010000010110201?0000000?0?0?0????0????
+Sermaya_plant                           000???0100001010?1001010000000??0020310020012100000000010002100010000000110201?0000000?1?0?0????0????
+Botryopteris_forensis                   001?100100001010?10010100000000000204100201021000000000120000000000000101100?1?00000001000?0????0????
+Botryopteris_cratis                     ??0?1001??001010?10010100000000000104100201021000000?0012000000000000010110101?0000000101000????0????
+Botryopterist_tridentata_plant          000?1001?0001010?1001010002000110030410020102100000000011002100010000110110101?0000000?0?0?0????0????
+Psalixochlaena_antiqua                  000?0?01200010???100?01000000000002030002000210000000001000?100010000010110101?0000000?0?0?0????0????
+Psalixochlaena_cylindrica               000?000120001010?100101000000000002030002001210000000001000?100010000010110101?0000000?0?0?0????0????
+Anachoropteris_clavata_plant            000?1201?0001010?1001010000000000040410020012100000000010002100010111021110511?0000000?0?0?0????0????
+Skaaripteris_minuta                     000?00010000?010???????000200011002030002012210100000001?00110001000001011020??0000000?0?0?0????0????
+Osmunda                                 000110011000001011001010002000101020310020022121000010112001000000000010?102011000000000100070000?100
+Schizaea                                0001100120000010110020100020001100202100201221210100100120021000000001101112011000000110100031010100?
+Gleichenia                              0001000100000010110010110000001100202100201221000000100100021000100000101115111000000?01100070000??0?
+Stromatopteris                          000?000120000010010010110000001100?02000200221000000101100010000101000101115111000000100100020000???0
+Hymenophyllum                           0001000120000010110000100000001100?02100200221000000100100010000101110101112111000000000100041100110?
+Matonia                                 000100010000001001001110002000110120??1000022101100000110002100010001010111?1220000000012010610001102
+Cyathea                                 00011011100000101100101100200011102021122002242110001011000210001011102011111210000000111000600101?0?
+Dennstaedtia                            00010001000010101100101000200011002041102002210100000011000100001001102011112220000000112000610101102
+Pteridium                               00010001000010101100101100200011102041122002240010001011000100001012102111112220000000112010610101102
+Acrostichum                             00011001100000101100111100200011102031122002242000001011100210001012002111112220000000112000610101100
+Adiantum                                0001?0012000001011001001002000110020??112002211100000011000100001012012011112220000000112020610101102
+Onoclea                                 00010001200000100100111100200011102041112002210000001001200210001011112111112220000001112000610101100
+Polypodium                              000100010000001011001011002000111020??122002240000001001000210001012002111112220000001101000610101102
+Marsilea                                1001000100000010010011100020001100204110200221010000100121021000100110101000?211110000112000812101102
+Pilularia                               1001000100000010010010100020001100202110200221010000100121021000100110101000?211110000112010812101102
+Regnellidium                            1001000100000010010010100020001100202110200221010000100121021000100110101000?211110000112010812101102
+Hydropteris_pinnata                     100?000100?0001??100111000????????????????????????00???12102100010???0??1??0?2?1?10000112021??2?0????
+Salvinia                                110100010000000??10001100000000000?02100200021100000100121110000101010101000?211110000112021812101101
+Azolla                                  1101000100000010110000100000000000?02100000021100000100121110000101010101000?211110000112021812101?02
+Equisetum                               1000000121010010110000000020100000203100000010200000100120020001001000000000?100000002111100500000000
+Calamites                               100?001121010010?1000000002010000020?100000010200110110120020001001000000000?10???0000?11100????0????
+Archaeocalamites                        100?000121010010?100?0000020100000204100000010200110110120020001001000000000?1?0000000?1??00????0????
+Archaeopteris                           000?101100000010?100?0?0002001000020410000001000011101011002010010?000000000?2?1?00000?100?0????0????
+Elkinsia_polymorpha                     000?1001????00???100?0?00002010000204101200210300111000120000000110000000000?2?1111000?100?0822?11???
+Lyginopteris_oldhamia                   000?100121100010?100101000200100002041012002103001110101?0020000110000000000?2?1111010?100?0822?11???
+Medullosa                               000?111121100010?100101000200100002041020000103001110101?000000011?000000000?2?11111111100?0822?11???
+Pinus                                   0002101121100010110000000020010000304101000021100111010120021000100000000000?2011111110100?0822211211
+
+;
+
+
+cnames
+{ 0 Growth_habit Terrestrial Amphibious_or_aquatic;
+{ 1 Growth_as_floating_aquatic Absent Present;
+{ 2 Epiphytic_growth Absent Present;
+{ 3 Model_of_growth Psilotioid Selagineiloid Cotyledonoid;
+{ 4 Growth_form_of_stem/axis Rhizomatous Erect;
+{ 5 Growth_as_a_liana Absent Present Character_state_not_defined_by_author;
+{ 6 Arborescence Absent Present;
+{ 7 Clearly_differentiated_stem/leaf-shoot_organography Absent Present;
+{ 8 Branching_of_stem/axis Apparently_apical_only Typically_absent Lateral_and/or_from_buds;
+{ 9 Branching_consistently_associated_with_nodes Absent Present;
+{ 10 Branches_vascularized_by_two_bundles_that_are_derived_from_cauline_bundles_that_flank_the_orthostichy_of_the_subtending_leaf Absent Present;
+{ 11 Branches_alternating_with_leaves_at_nodes Absent Present;
+{ 12 Epiphyllous_branching Absent Present;
+{ 13 Unvascularized_enations Absent Present;
+{ 14 Roots Absent Present;
+{ 15 Root_anatomy 2-5_arch Polyarch;
+{ 16 Root_hairs Absent Present;
+{ 17 Planation_of_vegetative_leaves Absent Throughout In_distal_region_only;
+{ 18 Biseriate_vegetative_leaves Absent Throughout Above_basal_fork In_distal_regions_only;
+{ 19 Quadriseriate_branching_of_vegetative_leaves Absent Throughout At_base_only;
+{ 20 Vernation Erect Adaxially_rolled_crosiers Abaxially_rolled_crosiers Erect_rachis,_abxially_rolled_crosiers_on_primary_pinnae,_and_adaxially_rolled_crosiers_on_more_distal_frond_segments;
+{ 21 Venation_ofpinnule_or_ultimate_axis Not_anastomosing Anastomosing;
+{ 22 Trichomes Largely_absent Present;
+{ 23 Scales Absent Present;
+{ 24 Vascularized_aphlebiae Absent Present;
+{ 25 Stipules Absent Present;
+{ 26 Pith_in_stem/axis Absent Present Character_state_not_defined_by_author;
+{ 27 Stele_with_radiating_arms_of_xylem Absent As_rounded_lobes As_narrow_ribs;
+{ 28 Equisetostele Absent Present;
+{ 29 Stele_with_sympodiaI_architecture Absent Present;
+{ 30 Stele_with_leaf_gaps_in_xylem Absent Present;
+{ 31 Stele_with_leaf_gaps_in_phloem Absent Present;
+{ 32 Dictyostele Absent Present;
+{ 33 Polycyclic_stele Absent Present;
+{ 34 Protoxylem_of_stem/axis None Centrarch Mesarch Endarch Exarch;
+{ 35 Peripheral_loops Absent Present;
+{ 36 Pitting_pattern_ofmetaxylem None Annular-helical Scalariform Multiseriate_scalariform Oval-circular;
+{ 37 Borders_on_metaxylem_pitting Absent Present;
+{ 38 Phloem_disposition Ectophloic Amphiphloic;
+{ 39 Xylem_at_base_of_rachis/axis Single_bundle Two_bundles Numerous_bundles;
+{ 40 Radial_rachis/axis_trace Round-elliptical Lobed Absent;
+{ 41 Clepsadroid_petiole_trace Absent Present;
+{ 42 Omega-shaped_trace Absent Present;
+{ 43 "C"-shaped_trace Absent Abaxially_convex Adaxially_convex;
+{ 44 Rachis/axis_protoxylem_between_levels_of_branching Absent Internal Near_peripheral-peripheral;
+{ 45 Position_of_protoxylem_in_rachis/axis Toward_no_face Adaxial Abaxial Lateral Toward_several_faces;
+{ 46 Cortical_sclerenchyma As_continuous_cylinder Absent As_scattered_nests_or_bundles As_discontinuous_cylinder;
+{ 47 Pith_sclerenchyma Absent Present;
+{ 48 Sclerenchyma_accompanying_vascular_tissue_of_stele Absent Present;
+{ 49 Radially_aligned_tracheids Absent Present;
+{ 50 Xylem_rays Absent Present;
+{ 51 Bifacial_vascular_cambium Absent Present;
+{ 52 Endodermis_in_adult_stem_or_axis Absent Present;
+{ 53 Secondary_cortex_or_periderm Absent Present;
+{ 54 Adaxial_outline_ofstipe/axis Convex_or_flattened Sulcate;
+{ 55 Sporangium_produced_by_axis Absent Present;
+{ 56 Meio/microsporangium-bearing_structure Similar_to_vegetative Somewhat_modified_from_vegetative Unlike_vegetative;
+{ 57 Sporocarps Absent Present;
+{ 58 Monosporangiate_sporocarp Absent Present;
+{ 59 Position_of_attachment_of_meio-_or_microsporangium Terminal Marginal Surficial;
+{ 60 Abaxially_attached_sporangia Absent Present;
+{ 61 Adaxially_attached_sporangia Absent Present;
+{ 62 Sporangia_borne_on_forked_enations Absent Present;
+{ 63 Sporangia_borne_on_sporangiophores Absent Present;
+{ 64 Meio/microsporangial_grouping Absent Present;
+{ 65 Sporangia_fused_forming_synangia Absent Present;
+{ 66 Number_of_meio/microsporangia_per_group Few_(usually_<12) Many_(usually_>20);
+{ 67 Pattern_ofsporangial_maturation Simple Gradate Mixed;
+{ 68 Indusium Absent Present;
+{ 69 Sporangia_enclosed_by_abaxially_rolled_lamina,_forming_a_false_indusium Absent Present;
+{ 70 Sporangial_stalk Absent Broad Narrow;
+{ 71 Length_of_sporangial_stalk Sessile-short Long;
+{ 72 Sporangial_capsule Large_with_thick_wall Small_with_thin_wall;
+{ 73 Functional_annulus Absent Present;
+{ 74 Uniseriate_annulus Absent Present;
+{ 75 Annular_ring Diffuse Wide_lateral_opening Narrow_lateral_opening Narrow_basal_opening Open_apically_and_basally Narrow_apical_opening;
+{ 76 Orientation_of_annulus Absent_or_unoriented Horizontal Oblique Longitudinal;
+{ 77 Number_of_spores_per_meio/microsporangium >512 128-512 <128;
+{ 78 Ontogenetic_origin_of_sporangia From_several_cells From_approximately_two_cells From_one_cell;
+{ 79 Sexual_reproduction Homosporous Heterosporous;
+{ 80 Coenocytic_development_ofmegagametophyte Absent Present;
+{ 81 One_or_two_megaspores_only Absent Present;
+{ 82 Meio/megasporangial_dehiscence Absent Present;
+{ 83 Nonhydrasperman_pollen_chamber Absent Present;
+{ 84 Integument_with_micropyle Absent Present;
+{ 85 Meio/microspore_morphology Radial_and_trilete Bilateral_and_monolete Radial_and_alete;
+{ 86 Exospore_structure 2-layered 3-layered;
+{ 87 Exospore_surface Nearly_smooth_or_plain Obviously_sculptured;
+{ 88 Perispore_of_meio/microspore Absent Thin,_conforming_to_contours_of_exine Thick,_forming_contours_of_spore_wall;
+{ 89 Perispore_forming_elaters Absent Present;
+{ 90 Fine_structure_of_meio/microspore_perispore Solid Filamentous Lamellar;
+{ 91 Meio/microsporangiate_massulae Absent Present;
+{ 92 Form_of_mature_prothallus Highly_branched_and_vascularized Subterranean,_elongate,_and_cylindrical Tuberous_and_subterranean Filamentous Branched_and_ribbon_shaped Deeply_lobed Cordate,_may_be_branched Cordate,_becoming_ribbon_like Highly_reduced;
+{ 93 Prothallus Thick_or_with_midrib Thin,_without_midrib Alveolar;
+{ 94 Position_of_antheridia Surficial Embedded Character_state_not_defined_by_author;
+{ 95 Morphology_of_antheridia Large,_several_irregular_jacket_cells Small,_few_regularly_arranged_jacket_cells Without_jacket;
+{ 96 Pollination_preceding_fertilization Absent Present;
+{ 97 Potential_number_ofsporophytes_per_prothallus Two_or_more One;
+{ 98 First_division_of_zygote More_or_less_transverse More_or_less_longitudinal Free_nuclear;
+{ 99 Suspensor Absent Present;
+{ 100 Aboveground_organs_of_sporophyte_from Apical_hemisphere_of_proembryo Basal_hemisphere_of_proembryo Lateral_hemisphere_of_proembryo;
+;
+
+
+ccode  - 0.100;
+
+
+;

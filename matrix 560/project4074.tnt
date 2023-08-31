@@ -1,0 +1,56 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.00.58'
+26 12
+
+&[num]
+Family_Osmundaceae               00000121011000000001000001
+Family_Hymenophyllaceae          100000210101?101-01010101-
+Stromatopteris                   11111110101110100111011011
+Gleichenia                       01101111101110100111011011
+Dicranopteris                    001011011111201001110110?1
+Lygodium                         10010000000001000001011110
+Mohria                           0100010000100100100101112?
+Anemia                           00000100001001001001011100
+Schizaea                         00010000001001101001011121
+Lygodium_bierhorstiana           ?????????00001000001011??0
+Lygodium_kaulfussi               ?????????00001100?????11?1
+Lygodium_dinmorphyllum           ?????????00001100?????11?0
+
+;
+
+
+cnames
+{ 0 Leaf_distribution_on_rhizome Absent Present;
+{ 1 Scales_on_rhizome Absent Present;
+{ 2 Cortex_divided_into_2_layers Absent Present;
+{ 3 Metaxylem_distinguishable Present Absent;
+{ 4 Pseudodichotomous_branching Absent Present;
+{ 5 Vascular_bundle_C-shaped Absent Present;
+{ 6 Endodermis_at_petiole Enclosing_completely_internal_and_external_periphery Only_external_endodermis Circular_surrounding_the_vascular_bundle;
+{ 7 Metaxylem_formed_by_annular_or_spiral_tracheids Present Absent;
+{ 8 Protoxylem_formed_by_spiral_tracheids Present Absent;
+{ 9 Secondary_veins_bifurcated_at_least_once Present Absent;
+{ 10 Sori_with_indusium_or_false_indusium Present Absent;
+{ 11 Sporangia_aggregation Solitary Grouped;
+{ 12 Numer_of_sporangia_per_sori one 4_OR_6 More_than_6;
+{ 13 Position_of_sorus_or_sori On_lamina Sorophore/margin_of_lamina;
+{ 14 Spores Trilete Monolete_and_trilete;
+{ 15 Stomata Present Absent;
+{ 16 Stomata_anomocytic_or_diacytic Present Absent;
+{ 17 Sporangium_shape Ovate_or_globose Clavate;
+{ 18 Sporangium_symmetry Asymmetric Symmetric;
+{ 19 Annulus Oblique Terminal;
+{ 20 Dehiscence Longitudinal Lateral;
+{ 21 Sporangium_cap Absent Present;
+{ 22 Receptacle_of_sorus Present Absent;
+{ 23 Leaf_Morphology Monomorphic Dimorphic;
+{ 24 Rhizome_stele Dictyostele Protostele Siphonostele;
+{ 25 Arrangement_of_stomata Random Patterned;
+;
+
+
+ccode  - 0.25;
+
+
+;

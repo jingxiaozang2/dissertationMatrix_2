@@ -1,0 +1,181 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.28.59'
+100 30
+
+&[cont]
+Cedaria_minor                                         0.4364 0.5641 0.2856-0.0 0.8092-0.0 0.2468-0.0 1.2548-0.0 0.5788-0.0 0.2558-0.0 0.4948-0.0 0.6141-0.0 0.9066-0.0 0.6631-0.0 0.3175-0.0 0.2494-0.0 ? 0.4079-0.0 0.5934-0.0 0.4124-0.0 0.5634-0.0 1.5305-0.0 0.3105-0.0 0.2083-0.0 ? 2.0 6.0 5.0-6.0 0.0 5.0
+Aphelaspis_australis                                  0.6087 0.5929-0.0 ? 0.9107-0.0 0.239-0.0 1.0616-0.0 0.5448-0.0 ? ? ? 0.9067-0.0 0.5349-0.0 ? 0.2977-0.0 0.2-0.0 ? ? 0.6087-0.0 0.4318-0.0 1.5449-0.0 ? 0.0595-0.0 ? 2.0 ? 5.0 0.0 4.0
+Andrarina_costata                                     0.8122-0.0 0.6675 ? 0.8028-0.0 0.2007-0.0 0.98-0.0 0.5698-0.0 ? 0.6205-0.0 0.2521-0.0 1.1854-0.0 0.72-0.0 0.2871-0.0 0.2195-0.0 0.0482-0.0 0.2883-0.0 ? 0.3923-0.0 0.4318-0.0 1.3666-0.0 1.0741-0.0 0.1773-0.0 ? 0.0 12.0 6.0 0.0 5.0
+Pterocephalia_norfordi                                0.629-0.0 0.3901-0.0 0.1815-0.0 0.9505-0.0 0.2302-0.0 0.5972-0.0 0.099-0.0 0.2981-0.0 0.568-0.0 0.5933-0.0 0.9021-0.0 0.5789-0.0 0.2275-0.0 0.1963-0.0 0.4244-0.0 0.3817-0.0 0.514-0.0 0.4738-0.0 0.6102-0.0 1.4946-0.0 0.7257-0.0 0.3562-0.0 ? 3.0 11.0-12.0 8.0 0.0 5.0
+Strigambitus_transversus                              0.5373-0.0 0.5238-0.0 ? 0.8413-0.0 0.2126-0.0 2.9275-0.0 0.5446-0.0 ? 0.4062-0.0 1.1108-0.0 0.9229-0.0 0.7899-0.0 ? 0.3239-0.0 0.3343-0.0 ? ? 0.5239-0.0 0.5792-0.0 1.578-0.0 0.3814-0.0 0.3636-0.0 ? 3.0 ? 2.0-3.0 0.0 1.0-2.0
+Prehousia_diverta                                     0.4272-0.0 0.5603-0.0 ? 0.8751-0.0 0.263-0.0 2.0-0.0 0.4718-0.0 ? 0.4475-0.0 0.5177-0.0 0.8253-0.0 0.6263-0.0 ? 0.3093-0.0 0.3376-0.0 ? ? 0.4813-0.0 0.6242-0.0 1.6127-0.0 0.3365-0.0 0.2404-0.0 ? 1.0 ? 3.0-4.0 0.0 2.0-3.0
+Olenus_gibbosus                                       0.525-0.0 0.49-0.0 0.24-0.0 1.0-0.0 0.25-0.0 1.15-0.0 0.7-0.0 0.233-0.0 0.757-0.0 0.9867-0.0 0.85-0.0 0.7-0.0 0.333-0.0 0.337-0.0 ? 0.289-0.0 0.395-0.0 0.375-0.0 0.5-0.0 1.3502-0.0 0.152-0.0 ? ? 3.0 15.0 5.0-8.0 1.0-2.0 5.0-8.0
+Parabolina_Neoparabolina_frequens_argentina           0.4033-0.0 0.7176-0.0 0.3024-0.0 1.0239-0.0 0.2545-0.0 0.2151-0.0 0.4026-0.0 0.6696-0.0 0.6696-0.0 1.3885-0.0 0.7144-0.0 0.5497-0.0 0.4159-0.0 ? ? ? 0.4201-0.0 0.3157-0.0 ? 1.3192-0.0 0.1192-0.0 0.0735-0.0 ? 1.0-3.0 12.0 4.0 3.0 4.0-5.0
+Parabolinella_argentinensis                           0.388-0.0 0.578-0.0 0.314-0.0 1.081-0.0 0.205-0.0 2.434-0.0 0.768-0.0 0.252-0.0 0.605-0.0 1.2945-0.0 0.831-0.0 0.751-0.0 0.318-0.0 0.35-0.0 0.216-0.0 0.326-0.0 0.326-0.0 0.336-0.0 0.234-0.0 1.1096-0.0 0.166-0.0 0.1008-0.0 ? 3.0 21.0 1.0 0.0 1.0
+Jujuyaspis_keideli                                    0.278-0.0 0.796-0.0 0.355-0.0 0.97-0.0 0.193-0.0 0.0001-0.0 0.0001-0.0 0.26-0.0 1.109-0.0 0.0001-0.0 0.653-0.0 0.6799-0.0 0.4623-0.0 0.4169-0.0 0.2666-0.0 0.3249-0.0 0.4628-0.0 0.3246-0.0 0.4436-0.0 1.386-0.0 0.1818-0.0 0.0955-0.0 ? 0.0 12.0 4.0 0.0 4.0
+Plicatolina_scalpta                                   0.275-0.0 0.611-0.0 0.3047-0.0 0.966-0.0 0.22-0.0 0.641-0.0 0.669-0.0 ? 0.438-0.0 0.8223-0.0 0.753-0.0 0.641-0.0 0.422-0.0 ? ? ? ? ? ? 1.2072-0.0 0.129-0.0 0.0687-0.0 ? 4.0 21.0 2.0 0.0 3.0
+Bienvillia_parchaensis                                0.239-0.0 0.779-0.0 0.58-0.0 1.075-0.0 0.195-0.0 0.6042-0.0 0.681-0.0 0.153-0.0 0.344-0.0 0.9-0.0 0.433-0.0 0.604-0.0 0.43-0.0 0.434-0.0 0.159-0.0 0.354-0.0 0.58-0.0 0.413-0.0 0.355-0.0 1.0965-0.0 0.5048-0.0 0.1296-0.0 ? 2.0 14.0 2.0 0.0 2.0
+Hypermecaspis_armata                                  0.366-0.0 0.6627-0.0 0.336-0.0 1.1429-0.0 0.2439-0.0 1.5-0.0 0.6229-0.0 0.239-0.0 0.6034-0.0 0.3502-0.0 0.72-0.0 0.635-0.0 0.338-0.0 0.3125-0.0 0.2778-0.0 0.814-0.0 0.442-0.0 0.5714-0.0 0.4821-0.0 1.2593-0.0 0.145-0.0 0.1296-0.0 0.0001-0.0 3.0 19.0 5.0 0.0 4.0
+Hypermecaspis_inermis                                 0.2929 0.793-0.0 0.311-0.0 0.9872-0.0 0.1842-0.0 0.2993-0.0 0.0001-0.0 0.2453-0.0 0.894-0.0 0.0001-0.0 0.7705-0.0 0.4983-0.0 0.3395-0.0 0.2857-0.0 0.3025-0.0 ? ? 0.4703-0.0 0.5587-0.0 1.116-0.0 0.2535-0.0 0.4076-0.0 0.0001-0.0 3.0 12.0 5.0-6.0 0.0 5.0-6.0
+Hypermecaspis_chamarrensis                            0.326 0.6321-0.0 0.3578-0.0 1.068-0.0 0.3195-0.0 1.1569-0.0 0.7843-0.0 0.1651-0.0 0.7483-0.0 0.626-0.0 0.6429-0.0 0.4152-0.0 0.33-0.0 0.3011-0.0 0.2273-0.0 0.3668-0.0 0.667-0.0 0.46-0.0 0.4851-0.0 1.1953-0.0 0.1532-0.0 0.2097-0.0 ? 3.0 12.0 6.0 0.0 5.0-6.0
+Hypermecaspis_occidentalis                            0.2563 0.712-0.0 ? 0.8-0.0 0.238-0.0 1.0141-0.0 0.7324-0.0 ? ? ? 0.6933-0.0 0.4164-0.0 ? 0.3125-0.0 0.5494-0.0 ? ? 0.525-0.0 0.697-0.0 1.3277-0.0 ? 0.3992-0.0 0.1114-0.0 3.0 ? 5.0 0.0 5.0
+Hypermecaspis_edselbrussai                            0.107 0.6742-0.0 ? 1.1347-0.0 0.2289-0.0 0.7213-0.0 0.6197-0.0 ? 0.6346-0.0 0.0966-0.0 0.7147-0.0 0.4098-0.0 0.3436-0.0 0.3793-0.0 0.5199-0.0 ? ? 0.5909-0.0 0.7975-0.0 1.2104-0.0 0.2591-0.0 0.3518-0.0 0.1481-0.0 3.0 17.0 3.0 0.0 3.0
+Hypermecaspis_latigena                                0.2602 0.757-0.0 ? 1.0012-0.0 0.2004-0.0 1.4936-0.0 0.8538-0.0 ? 0.9167-0.0 0.1351-0.0 0.7661-0.0 0.5941-0.0 ? 0.243-0.0 0.5975-0.0 ? ? 0.4427-0.0 0.7275-0.0 1.2219-0.0 0.6378-0.0 0.4373-0.0 0.0512-0.0 3.0 ? 4.0 0.0 4.0
+Hypermecaspis_brevifrons                              0.1824 0.7196-0.0 ? 1.1808-0.0 0.2812-0.0 0.3218-0.0 0.7059-0.0 ? 0.978-0.0 ? 0.677-0.0 0.546-0.0 ? 0.3333-0.0 0.5072-0.0 ? ? 0.4844-0.0 0.7935-0.0 1.1291-0.0 0.3914-0.0 0.4284-0.0 0.1623-0.0 3.0 ? 4.0 0.0 4.0
+Hypermecaspis_venulosa                                0.2819 0.4397-0.0 ? 0.958-0.0 0.2427-0.0 4.3745-0.0 0.9348-0.0 ? 0.6714-0.0 0.0001-0.0 ? ? ? 0.2793-0.0 0.5212-0.0 ? ? 0.6449-0.0 0.6897-0.0 1.1053-0.0 0.3681-0.0 0.4769-0.0 0.012-0.0 3.0 ? 4.0 0.0 4.0
+Hypermecaspis_rugosa                                  0.3728 0.6901-0.0 ? 1.0719-0.0 0.2659-0.0 0.6633-0.0 0.7308-0.0 ? ? ? 0.5863-0.0 0.6633-0.0 ? ? ? ? ? 0.5278-0.0 ? 1.1096-0.0 ? ? ? 3.0 ? ? 0.0 ?
+Hypermecaspis_venerabilis                             0.1414 0.6953-0.0 ? 1.3085-0.0 0.2692-0.0 0.5634-0.0 0.7667-0.0 ? ? ? 0.6709-0.0 0.5122-0.0 0.3196-0.0 0.2839-0.0 0.5516-0.0 ? ? 0.4883-0.0 0.8466-0.0 1.1481-0.0 ? 0.2732-0.0 0.1609-0.0 3.0 18.0 3.0 0.0 3.0
+Hypermecaspis_kolouros                                0.2103 0.6747-0.0 ? 1.1319-0.0 0.316-0.0 0.4845-0.0 0.8191-0.0 ? ? ? 0.5904-0.0 0.5619-0.0 ? 0.2805-0.0 0.5073-0.0 ? ? 0.3746-0.0 0.4986-0.0 1.172-0.0 ? 0.4519-0.0 0.0809-0.0 2.0 ? 3.0 0.0 3.0
+Hypermecaspis_alveus                                  0.3226 0.5691-0.0 ? 1.0685-0.0 0.2171-0.0 2.3529-0.0 0.9162-0.0 ? 0.4123-0.0 0.0001-0.0 0.5906-0.0 0.5038-0.0 ? 0.3004-0.0 0.4928-0.0 ? ? 0.4683-0.0 0.6794-0.0 1.2583-0.0 0.4319-0.0 0.3612-0.0 0.0001-0.0 3.0 ? 4.0 0.0 4.0
+Tropidopyge_broeggeri                                 ? ? ? ? ? ? ? ? ? ? ? ? ? 0.3317-0.0 0.5086-0.0 ? ? ? 0.7861-0.0 ? ? 0.5412-0.0 0.0361-0.0 ? ? 4.0 0.0 3.0
+Hypermecaspis_mimitis                                 0.1862 0.6788-0.0 ? 1.0422-0.0 0.3056-0.0 0.4928-0.0 0.7157-0.0 ? ? ? 0.607-0.0 0.4933-0.0 ? 0.274-0.0 0.4294-0.0 ? ? 0.3955-0.0 0.639-0.0 1.3097-0.0 ? 0.2455-0.0 0.1656-0.0 3.0 ? 4.0 0.0 4.0
+Hypermecaspis_bulmani                                 0.0956 ? ? 1.4824-0.0 0.2374-0.0 ? ? ? ? ? 0.5214-0.0 0.7613-0.0 ? 0.2755-0.0 0.4116-0.0 ? ? 0.4353-0.0 0.9283-0.0 1.2408-0.0 ? 0.4628-0.0 0.1324-0.0 3.0 ? 6.0 0.0 6.0-7.0
+Hypermecaspis_branisai                                0.3282 0.6613-0.0 0.3406-0.0 1.2439-0.0 0.331-0.0 0.3053-0.0 0.6591-0.0 0.2385-0.0 0.8065-0.0 0.0001-0.0 0.6434-0.0 0.3474-0.0 0.3865-0.0 0.3331-0.0 0.3988-0.0 0.2284-0.0 0.4141-0.0 0.5087-0.0 0.5818-0.0 1.3837-0.0 0.272-0.0 0.2355-0.0 0.0001-0.0 ? 18.0 5.0 0.0 4.0
+Hypermecaspis_cf_bulmani                              0.1852 0.7128-0.0 ? 1.3305-0.0 0.2974-0.0 0.2007-0.0 0.549-0.0 ? ? ? 0.8013-0.0 0.8459-0.0 ? 0.3523-0.0 0.4202-0.0 ? ? 0.5299-0.0 0.6772-0.0 1.1064-0.0 ? 0.2697-0.0 ? 3.0 ? 5.0 0.0 5.0
+Hypermecaspis_asiatica                                ? ? 0.3249-0.0 ? ? ? 0.5574-0.0 0.2696-0.0 0.7147-0.0 0.4434-0.0 0.6591-0.0 ? 0.3454-0.0 0.292-0.0 0.44-0.0 0.2578-0.0 0.4038-0.0 ? 0.5413-0.0 1.1241-0.0 0.2967-0.0 0.3714-0.0 0.1157-0.0 ? 17.0 5.0 0.0 4.0
+
+
+&[num]
+Cedaria_minor                                        2210110011001100000000-0001200100001100010001012002000000000--000012--?3
+Aphelaspis_australis                                 ????111122001110000000-1020??????0000???????001000?101100??---100000--?2
+Andrarina_costata                                    12??21001200111000-----000000000010001??10000011003?01110000--000012--?1
+Pterocephalia_norfordi                               20102000102-01100000010202120100110102--2000021112120104101101000002--13
+Strigambitus_transversus                             ????20001110011000000001011[14]001001001???????122112??011[34]1?1100000001--12
+Prehousia_diverta                                    ????2000012-11100000---10111010011011???????121310??01141?1---00001102?2
+Olenus_gibbosus                                      00000010110000000000000000011000000000000000010100310101000100000001--00
+Parabolina_Neoparabolina_frequens_argentina          00001110110000000003300101000011101010111111012001320112000000100001--00
+Parabolinella_argentinensis                          00100000110?10000012102021121010010000001001112000120100000001100002--00
+Jujuyaspis_keideli                                   002111[12]20010110000-----201-0310-0002-011101011010132010100?---?00012--?0
+Plicatolina_scalpta                                  1000000001002[01]0000010000210210?1000011001001011000220102000000000000--10
+Bienvillia_parchaensis                               1010211021001100000110-010002001000012--00010111000201031100--100011--?0
+Hypermecaspis_armata                                 010020201010001001122000210401101012-10010000213100?01031000111000011010
+Hypermecaspis_inermis                                1120211110100000011220222104010-1002-10000001213101201031000011100121012
+Hypermecaspis_chamarrensis                           211021002110100001022002210?01?00?02-?00100011211?0?01031011010?0002--10
+Hypermecaspis_occidentalis                           ????0?022100110001122000211?0????002-???????021311??01041?11010200120113
+Hypermecaspis_edselbrussai                           1???0?02202-01000102200021130?0-?002-00000001023113201042000000101011213
+Hypermecaspis_latigena                               ????0?021110011011022000211301001002-???????121311??01042?00000211021013
+Hypermecaspis_brevifrons                             ????1?02212-111001022000211401001002-???????021111??01042?0010020102--12
+Hypermecaspis_venulosa                               ????1?02202-0100010220012114010-1?02-???????021311??01041?00201211120112
+Hypermecaspis_rugosa                                 ????2?12101010100112100?211??????0001???????????????010???0001000010??0?
+Hypermecaspis_venerabilis                            ????1?02102-00000102200?211??????002-00000001023112?01042000211?00120212
+Hypermecaspis_kolouros                               ????2?1011001100011220-2211??????002-???????111311??01031?00--00001202?2
+Hypermecaspis_alveus                                 ????010211100100011110201112010-?0001???????122312??01041?00011010001012
+Tropidopyge_broeggeri                                ????????????????????????????????????????????111312?????41???????????12??
+Hypermecaspis_mimitis                                ????2?021100110001122000211??????002-000?000121311??01041?00001100121102
+Hypermecaspis_bulmani                                ????0?021??011000101101221???????002-???????021310??01042?01110100121212
+Hypermecaspis_branisai                               12100?021?00110001122?2?2112010-1002-00010000213111?01041000011000021011
+Hypermecaspis_cf_bulmani                             ????2?021000110001011010110??????00?????????110??0??01042?1111020112??12
+Hypermecaspis_asiatica                               0110?0?12100???????????????20000000??000100001131112010410??????????10?2
+
+;
+
+
+cnames
+{ 0 WIG/WglE;
+{ 1 Lgl/LC;
+{ 2 Wglb/MWC;
+{ 3 WglB/Lgl;
+{ 4 LOR/Lgl;
+{ 5 LPF/LOR;
+{ 6 LPF/LPA;
+{ 7 WL/MWC;
+{ 8 WL/LL;
+{ 9 LEG/LL;
+{ 10 WPF/WOR;
+{ 11 LPB/LOR;
+{ 12 WTA/WS;
+{ 13 Wpx/WP;
+{ 14 LPaxF/LP;
+{ 15 LC/LT;
+{ 16 LC/MWC;
+{ 17 LPL/Lgl;
+{ 18 LP/WP;
+{ 19 WglB/WglA;
+{ 20 WdobL/WL;
+{ 21 LdobP/LP;
+{ 22 LpostR/LP;
+{ 23 Glabellar_furrows;
+{ 24 Thoracic_segments;
+{ 25 Pigaxial_rings;
+{ 26 Pygidial_spines;
+{ 27 Pygopleuras;
+{ 28 Contour_exosk Ovoid Elliptical Oval;
+{ 29 Max_width_ at_the_cephalon at_the_thorax uniform;
+{ 30 Contour_ceph semielliptical semicircular elliptical;
+{ 31 Max_width_ceph posterior at_the_middle_line;
+{ 32 Ant_corners_cranidio angular sub-angular rounded;
+{ 33 Sculpture_ceph present absent;
+{ 34 Anterior_branch_FS divergent subparallel convergent;
+{ 35 Posteior_branch_FS directed_obliquely,_forming_an_angle_of_about_45º directed_very_obliquely,_forming_an_angle_of_about_60º directed_transversally,_forming_an_angle_of_about_90º;
+{ 36 Position_PL_ center_located_anterior_to_the_glabella center_aligned_with_the_glabella_midpoint_(sag.) center_located_posterior_to_the_glabella_midpoint_(sag.);
+{ 37 Convex_of_ceph_border weakly_convex convex strongly_convex;
+{ 38 Def_anterior_border well_defined_by_a_deep_marginal_furrow defined_by_a_shallow_furrow without_marginal_furrow;
+{ 39 Ant_border_furrow smooth,_without_pits with_small_pits with_punctuations;
+{ 40 Convex_glabella barely_elevated convex very_convex;
+{ 41 Ant_shape_gl medially_concave rounded;
+{ 42 Cond_preglabellar_furrow as_deep_as_axial_furrows less_firmly_incised_than_axial_furrows;
+{ 43 Intens_posterolat_Furrow strong weak;
+{ 44 Condition__axiales_furrows deep weak;
+{ 45 Accesory_furrow absent present;
+{ 46 S1_bifuracate_ simple adaxially_bifurcate;
+{ 47 Shape_S1 straight convex sigmoid transglabellar;
+{ 48 Shape_S2 straight convex sinuous transglabellar;
+{ 49 Length_S2 equal_to_S1 shorter_than_S1;
+{ 50 Condition_S3 furrows faint_depressions divided;
+{ 51 Occipital_node conspicuous barely_visible absent;
+{ 52 Occipital_ring simple smoothly_trisegmented trisegmented;
+{ 53 Occipital_furrow transverse convex_forward concave_forward;
+{ 54 Preglabellar_field smooth striated;
+{ 55 Sculpture_librigenae smooth tuberculate_or_granulose striate conspicuous_terrace_lines striate_with_terrace_lines;
+{ 56 Shape_librigenae circular sub-rectangular crescentic quarter_circle;
+{ 57 Marginal_lateral_furrow well-impressed poorly_defined;
+{ 58 Convexity_librigenae barely_convex convex;
+{ 59 Angle_genal_spine_and_post_margin_ continuing_curvature_of_the_libregenae with_an_inflection;
+{ 60 Post_border_furrow_(ceph) deep,_extending_to_the_genal_angle effaced_distally_or_absent;
+{ 61 Post_margin_fixigena directed_transversally curved_backward_distally curved_forward_distally;
+{ 62 Convexity_genae weakly_convex convex;
+{ 63 Ocular_ridges present inconspicuous absent;
+{ 64 Direction_ocular_ridges _eye_ridges_run_transversely eye_ridges_run_backwards_and_outwards_obliquely;
+{ 65 shape_pleural_ends falcate,_oblique more_or_less_straight truncate;
+{ 66 Length_pleural_spines very_short_to_short medians_to_large;
+{ 67 Direction__pleural_furrows transverse oblique;
+{ 68 Shape_th_Pleural_furrows barely_curved straight straight_and_curved_distally;
+{ 69 Axial_macrospines absent present;
+{ 70 Plueral_macrospines absent present;
+{ 71 Axial_nodes absent present spine-shaped;
+{ 72 Intensity_Interpleural_furrows_pyg well-defined shallow;
+{ 73 Shape_pleural_furrows_pyg_ curved very_curved straight;
+{ 74 Post_margin_pyg convex,_sub-angular convex,_rounded,_ transverse_to_concave indent;
+{ 75 Post_margin_Pax rounded conical indent forming_a_ridge;
+{ 76 Definition_of_pygidial_border border_defined_by_a_furrow_more_or_less_impressed without_border_furrow,_border_defined_by_a_change_in_the_convexity;
+{ 77 Terrace_lines absent,_smooth_pygidium only_on_the_pygidial_border on_all_the_surface_of_the_pygidium;
+{ 78 Thoracic_fulcrum very_proximal proximal medial distal;
+{ 79 Condition_librigenae _separated_by_the_presence_of_a_large_rostral_plate separated_by_the_presence_of_a_small_rostral_plate fused_librigenae,_without_rostral_plate;
+{ 80 Sutural_ridge absent present;
+{ 81 Relation_ABFand_FS Facial_suture_cross_exasagittally_the_anterior_border_furrow, Facial_suture_cross_exasagittally_the_anterior_border_furrow_and_then_run_marginal_to_joint_in_the_middle_line_ Facial_suture_cross_anterior_border_furrow_and_then_run_marginal_to_form_an_ogive Facial_suture_cross_anterior_border_furrow_and_come_together, Facial_suture_does_not_cross_the_anterior_border_furrow;
+{ 82 Anterior_border_medially equally_wide widened_at_the_middle_line;
+{ 83 Contour_pyg semicircular subtriangular semielliptical rhomboidal fan-shaped;
+{ 84 Max_width_pyg anterior_to_the_pygidium_middle_line at_the_pygidium_middle_line posterior_to_the_pygidium_middle_line;
+{ 85 Two_pleural_furrows absent present;
+{ 86 S1_reaching_axial_furrow reaching_the_axial_furrow not_reaching_the_axial_furrow;
+{ 87 S2_reaching_axial_furrow reaching_the_axial_furrow not_reaching_the_axial_furrow;
+{ 88 Shape_S3 straight barely_curved sinuous;
+{ 89 S3_reaching_axial_furrow reaching_the_axial_furrow not_reaching_the_axial_furrow;
+{ 90 Condition_preoccipital_furrow reaching_the_axial_furrow _faint_laterally;
+{ 91 Tr._furrow_occipital_ring absent _one_medial_furrow two_lateral_furrows;
+{ 92 Pregl._field_dividide absent present;
+{ 93 Furrow_m.line_of_the_gl. absent present;
+{ 94 Anterolat._corners_de_la_gl with_pits without_pits;
+{ 95 Direction_of_palpebral_lobes oblique,_forming_an_angle_about_45º_in_respect_to_the_axial_furrow barely_curved,_forming_an_angle_less_than_45º_in_respect_to_the_axial_furrow parallel_in_respect_to_the_axial_furrow;
+{ 96 Width_of_the_ridge continuing_the_width_of_the_pygidial_axis narrower_than_the_pygidial_axis;
+{ 97 Post_definition_ridge _well-defined,_reaches_the_pygidial_margin well-defined,_does_not_reach_the_pygidial_margin fades_before_the_pygidial_margin;
+{ 98 S3_Length_ shorter_than_S2 equal_to_S2;
+{ 99 Relative_size_pyg/cra pygidium_much_smaller_than_the_cranidium pygidium_smaller_than_the_cranidium pygidium_almost_the_same_size_of_the_cranidium pygidium_larger_than_the_cranidium;
+;
+
+
+ccode  + 0.28 - 29.99;
+
+
+;

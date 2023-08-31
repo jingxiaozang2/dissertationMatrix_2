@@ -1,0 +1,116 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.03.24'
+71 27
+
+&[num]
+Profundulus_labialis                 00000000000000000000000000000000000000000000000000??0000010000000000000
+Alfaro_cultratus                     01000000000000000010000000000000001101022011000000??0000021??0000000010
+Aplocheilichthys_spilauchen          010011000100010000?1000110000000001000000000000000??00000110?0000000000
+Fluviphylax_obscurum                 00002?01020000000020000010010200001100040000000000??0000020??0000000000
+Oxyzygonectes_dovii                  01001000110100000010010100100000000010000000000000??0000011000000001000
+Anableps_dowi                        10111110111111012112111100101010113111111101000001001000121013001111010
+Anableps_anableps                    10111110111011112112111101101011111111111101000001001000121010011111010
+Anableps_microlepis                  10111110111011112112111101101011111111111101000001001000121010011111010
+Jenynsia_unitaenia                   0000110011?10000000101001000010000201002101111000000100100?001000001010
+Jenynsia_weitzmani                   0000010?110100000001010010000100002010031011110000001011001101000001010
+Jenynsia_onca                        00001000010100001010010110010000000010021011022110011101001000020001010
+Jenynsia_eirmostigma                 000001011101000000010100?001020000201003101111000000101100?102100001010
+Jenynsia_eigenmanni                  000001011111000000010100100101000020100310111?000000101100?102100001011
+Jenynsia_sanctaecatarinae            000011001101000010100101100000000010100210110?1110111101001000020001011
+Jenynsia_alternimaculata             0000010001010000101001011000000000?0100210110?111011110100?100000001011
+Jenynsia_obscura                     00000000120100000000010110000000002011021011021110111101000101100001110
+Jenynsia_lineata                     0000?10?11?1000010?0010110000000000010021011020110111101000000020001110
+Jenynsia_darwini                     00001100110100001010010110000000000010021010020110111101000000010001110
+Jenynsia_tucumana                    0000010011010000101001011000000000?010021011021110111101000000100001010
+Jenynsia_diphyes                     00001100110100000001010010000000002010021011110000101011001102100001010
+Jenynsia_maculata                    0000000011010000101001011000010000?010021011001110101101001?00020001010
+Jenynsia_luxata                      0000100011010000101001011000000000?010121011021110111101000000010001010
+Jenynsia_sulfurica                   000001000011000010110101100000000000100210110111101111010?0000000000011
+Tucmanableps_cionei                  ?000??001??10??0011?0??10?????0010?011??100000?11??1100??20????????1???
+Sachajenynsia_pacha                  ?000??001??10??00?1?0??1??????0000????0?0011000?0???1?0??10????????????
+Sanjuanableps_calingasta             ?0111?1???100????1?????1??????0000???101100100??1???1001??0????????????
+Jenynsia_herbsti                     0000??0????10?????1?01?11?????0000??10021?1100?10??1110??10????????????
+
+;
+
+
+cnames
+{ 0 Nasals large,_broad_and_rounded_posteriorly small,_narrow_and_forming_a_distinct_point_posteromedially;
+{ 1 Anterior_margin_of_frontals_in_adults even_or_forming_a_notch_medially small,_narrow_and_forming_a_distinct_point_posteromedially;
+{ 2 Frontals_dorsal_to_orbit flat,_not_expanded_dorsally_above_orbit_to_accomodate_eyes expanded_dorsally_above_orbit_to_accomodate_eyes;
+{ 3 Posteriorly_directed_process_on_sphenotic absent,_lateral_sphenotic_narrow present,_lateral_sphenotic_broad;
+{ 4 Epiotic_process_in_adults short,_not_extending_beyond_first_vertebra long,_extending_beyond_first_vertebra absent;
+{ 5 Dorsolateral_processes_of_vomer do_not_contact_lateral_ethmoid contact_lateral_ethmoid;
+{ 6 Parasphenoid_in_region_of_orbit narrow,_with_pronounced_ventral_keel broad,_with_expanded_lateral_shelves_and_with_a_less_pronounced_ventral_keel;
+{ 7 Ascending_processes_of_parasphenoid_in_adults contact_prootic do_not_contact_prootic;
+{ 8 Prootic_bridge_over_lateral_canal_and_trigeminofacialis_chamber_of_prootic narrow broad;
+{ 9 Intercalar_(opisthotic) small,_restricted_to_point_of_attachment_of_the_lower_limb_of_posttemporal large,_elongate,_extending_laterally_beyond_point_of_attachment_of_the_lower_limb_of_posttemporal absent;
+{ 10 Ossified_process_on_ventrolateral_margin_of_basioccipital_at_attachment_of_Baudelot"s_ligament_in_adults absent present;
+{ 11 Teeth_in_outer_and_inner_rows_on_dentary_and_premaxilla,_at_least_at_embryos_and_young_individuals unicuspid tricuspid;
+{ 12 Ascending_process_of_premaxilla_in_adults long_and_approximately_triangular absent_or_represented_by_short_pointed_or_rounded_process;
+{ 13 Dorsal_process_of_maxilla small,_more_narrow_anteriorly_than_at_its_base expanded_medially,_more_broad_anteriorly_than_at_its_base;
+{ 14 Dorsal_processes_of_maxilla separate meet_along_dorsal_midline;
+{ 15 Anterior,_articulary_head_of_palatine_in_dorsal_view narrow broad;
+{ 16 Posterodorsal_process_of_palatine_in_dorsal_view short long_and_somewhat_narrow,_expanded_medially_and_narrow_laterally long_and_broad,_not_narrow_laterally;
+{ 17 Posterodorsal_process_of_alveolar_arm_of_premaxilla pointed rounded;
+{ 18 Anterior_cleft_in_anguloarticular large,_extending_posteriorly_beyond_posterior_border_of_Meckel"s_cartilale small,_not_extending_posteriorly_beyond_posterior_border_of_Meckel"s_cartilage absent;
+{ 19 Posterodorsal_process_of_lachrymal_bordering_orbit short_process long,_narrow_process absent;
+{ 20 Anterior_margin_of_hyomandibula straight_or_slightly_concave strongly_convex,_expanded_anteriorly;
+{ 21 Posteroventral_process_of_hyomandibula absent_or_indistinct present_and_prominent,_usually_associated_with_rounding_or_abrupt_change_in_shape_of_anterior_shelf_of_preoperculum;
+{ 22 Shape_of_posteroventral_process_of_hyomandibula does_not_interdigitate_with_anterior_shelf_of_preopercle interdigitate_with_anterior_shelf_of_preopercle;
+{ 23 Dorsal_process_of_subopercle short,_approximately_as_tall_as_the_width_at_its_base long,_taller_than_the_width_at_its_base;
+{ 24 Number_of_branchiostegal_rays six five;
+{ 25 Basihyal_shape triangular,_broad_anteriorly_with_large_cartilaginous_cap short_and_rectangular,_narrow_anteriorly_with_little_cartilage;
+{ 26 Teeth_on_second_and_third_hypobranchials_in_adults absent present;
+{ 27 Third_hypobranchial_size large,_greater_than_one-half_the_length_of_the_second_hypobranchial small,_less_than_one_half_the_length_of_the_second_hypobranchial;
+{ 28 Teeth_on_third_ceratobranchial_in_adults absent present;
+{ 29 Teeth_on_forth_ceratobranchial extending_posteriorly_beyond_anterior_head_of_fourth_ceratobranchial restricted_to_anterior_head_of_fourth_ceratobranchial absent;
+{ 30 Number_of_vertebrae less_than_45 greater_than_or_equal_to_45;
+{ 31 Number_of_caudal_vertebrae less_than_26 greater_than_26;
+{ 32 Parapophyses_of_trunk_vertebrae moderate enlarged,_longer_than_length_of_the_centrum;
+{ 33 Number_of_pectoral_fin-rays less_than_or_equal_to_19 greater_than_19;
+{ 34 Posterior_extension_of_dorsal_enclosure_of_cleithrum present_with_distinct_ventral_notch present_and_straight_or_slightly_curved_ventrally present_with_distinct_anteroventrally_curving_hook absent;
+{ 35 Dorsal_postcleithrum present absent;
+{ 36 Ventral_postcleithrum_width slender,_similar_in_width_to_adjacent_first_pleural_rib broad,_with_laminar_flange_that_is_wider_than_adjacent_first_pleural_rib;
+{ 37 Posterior_process_of_pelvic_bone present absent;
+{ 38 Medial_process_of_left_and_right_pelvic_bones overlapping separate;
+{ 39 Number_of_anal-fin_rays 12_or_greater 11 10 9 8_or_fewer;
+{ 40 Male_anal_fin almost_identical_to_female_anal_fin modified_into_fleshy_tubular_intromittent_organ_supported_by_more_than_three_anal-fin_rays modified_into_rod-like_inttromittent_organ_supported_by_three_anal-fin_rays;
+{ 41 Position_of_base_of_anal-fin_ray_one_in_adults_males symmetrical_around_midline offset_to_right_or_left_of_midline;
+{ 42 Length_of_anal-fin_ray_two_in_adult_males relatively_long,_greater_than_one_quarter_of_lenght_of_ray_three relatively_short,_less_than_one_quarter_of_lenght_of_ray_three;
+{ 43 Anal-fin_ray_three_in_adult_females branched unbranched;
+{ 44 Length_of_ray_four_in_adult_males long,_approximately_as_long_as_ray_three short,_less_than_two-thirds_length_of_ray_three;
+{ 45 Length_of_anal-fin_ray_five_in_adult_males long,_approximately_as_long_as_ray_three intermediate,_between_one-quarter_and_three-quarters_length_of_ray_three short,_less_than_one-quarter_length_of_ray_three;
+{ 46 Left_and_right_halves_of_anal-fin_ray_six_in_adult_males laterally_paired_and_narrow not_laterally_paired,_with_both_sides_expanded_and_visible_laterally not_laterally_paired,_only_right_side_with_a_large_convex_expansion;
+{ 47 Segmentation_of_proximal_quarter_of_anal-fin_ray_six_in_adult_males absent present;
+{ 48 Segmentation_of_distal_quarter_of_anal-fin_ray_six_in_adult_males present,_usually_segmented_to_distal_tip absent;
+{ 49 Callosity_on_anal-fin_ray_eight_in_adult_males absent present;
+{ 50 Protuberance_on_tip_of_tubular_gonopodium_formed_by_anal-fin_ray_eight present absent;
+{ 51 Length_of_anal-fin_ray_nine_along_tubular_gonopodium relatively_long,_extending_to_near_or_beyond_region_of_urogenital_opening relatively_short,_extending_only_two-thirds_to_three-fourths_length_of_gonopodium;
+{ 52 Anteriormost_proximal_anal-fin_radial_in_adult_males separate fused_to_the_subsequent_proximal_radial_forming_a_structure_composed_of_five_or_six_fused_proximal_radials;
+{ 53 Proximal_and_middle_radials_associated_with_first_six_anal-fin_rays_in_adult_males anteriorly_inclined,_sixth_proximal,_middle,_and_distal_radials_anteriorly_inclined_in_oblique_line vertically_inclined,_sixth_proximal,_middle,_and_distal_radials_arranged_at_angle_with_proximal_and_middle_radials_inclined_vertically_and_distal_radials_inclined_anteriorly;
+{ 54 Proximal_anal_radials_associated_with_first_seven_anal-fin_rays_adult_males inclined_vertically_or_anteriorly_but_not_forming_gap_between_proximal_radials_seven_and_eight inclined_far_enough_anteriorly_to_form_noticeable_gap_between_proximal_radials_seven_and_eight;
+{ 55 Seventh_middle_anal-fin_radial_in_males_and_females similar_in_size_to_adjacent_middle_radials enlarged_with_respect_to_adjacent_middle_radials;
+{ 56 Eighth_distal_anal-fin_radial_in_adult_males similar_in_size_to_adjacent_distal_radials enlarged_with_respect_to_adjacent_distal_radials;
+{ 57 Dorsal-fin_origin at_vertical_that_passes_through_or_slightly_anterior_to_anal-fin_origin at_vertical_that_passes_aproximately_through_center_of_anal-fin_base at_verical_that_passes_posterior_to_anal-fin_origin;
+{ 58 Hypurals_in_adults fused,_forming_a_single_continuos_hypural_plate fused,_forming_two_symmetrical_dorsal_and_ventral_hypural_elements;
+{ 59 Posteriormost_mandibular_canal_pore_in_adults present,_most_posterior_neuromast_of_mandibular_canal_enclosed_and_bounded_by_pores_W_and_X_(or_Xa)_in_aduts absent,_most_posterior_neurmast_of_mandibular_canal_reduced_or_absent_and_not_enclosed_in_canal_or_recessed_in_trough;
+{ 60 Anteriormost_supraorbital_pore_in_adults_(pore_1) single composed_of_two_or_three_smaller_pores;
+{ 61 Midlateral_stripe absent present,_continuous,_and_composed_of_black_or_dark_brown_chromatophores present,_broken_into_discrete_blotches,_and_composed_of_black_or_dark_brown_chromatophores present,_mostly_continuous,_and_composed_of_a_light_are_lacking_black_or_dark_brown_chromatophores;
+{ 62 Series_of_dorsolateral_blotches absent present;
+{ 63 Series_of_three_or_more_narrow_lines_not_associated_with_distinct_midlateral_stripe_on_caudal_peduncle absent present_and_continuous_forming_narrow_lines present_and_composed_of_short,_dash-shaped_markings;
+{ 64 Pupils_in_each_eye_divided_into_upper_and_lower_portion_by_iris_extensions_and_dark_corneal_band absent present;
+{ 65 Anterior_nares nontubular tubular;
+{ 66 Sexual_laterality_in_females absent present;
+{ 67 Sexual_laterality_in_males absent present;
+{ 68 Swelling_between_urogenital_opening_and_anterior_anal-fin_base absent present;
+{ 69 Viviparity absent present;
+{ 70 Symmetry_of_anal-fin_ray_five_in_adult_male symmetric asymmetric,_with_one_side_short_and_the_other_side_intermediate;
+;
+
+
+ccode  - 0.17 19.28 30.38 40.44 46.56 58.70 + 18 29 39 45 57;
+
+
+;

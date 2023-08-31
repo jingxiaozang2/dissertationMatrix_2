@@ -1,0 +1,50 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.04.31'
+25 7
+
+&[num]
+Prototomus_phobos                      ?0000000000010000000--000
+Dipsalidictis_krausei                  00100000010100000000--000
+Machaeroides_simpsoni                  000000010??100?00???00??1
+Machaeroides_eothen                    1111111100000000000000001
+Apataelurus_kayi                       ???????00101111111111?111
+Apataelurus_pishigouensis              ???????????1110?1?1?1???1
+Diegoaelurus_vanvalkenburghae          ???????2111???101100010?1
+
+;
+
+
+cnames
+{ 0 P2_orientation oblique longitudinal;
+{ 1 P3_protocone absent present;
+{ 2 Transverse_projection_of_P4_protocone close_to_paracone widely_separated_from_paracone;
+{ 3 M1_paracone_and_metacone_fusion connate_but_with_separation_at_apices nearly_completely_fused_with_minimal_separation;
+{ 4 M1_metastylar_blade_orientation oblique_with_a_distinct_inflection_between_the_metastyle_and_metacone more_longitudinal_with_a_weak_inflection;
+{ 5 M1_protocone_size 1/3_of_crown_width very_reduced,_1/4_of_crown_width;
+{ 6 M2_protocone_size well-developed reduced_to_a_cingular_cusp;
+{ 7 p1 present,_single-rooted present,_double-rooted absent;
+{ 8 p2_roots double-rooted single-rooted;
+{ 9 p3_size large,_>75%_the_length_of_m1 reduced,_<75%_the_length_of_m1;
+{ 10 p3_paraconid absent present;
+{ 11 p4_protoconid_orientation vertical,_cusp_symmetrical somewhat_reclined_posteriorly,_distal_carina_more_vertical_than_mesial;
+{ 12 p4_paraconid_height lower_than_talonid subequal_to_talonid;
+{ 13 p4_talonid_width equivalent_to_trigonid broader_than_trigonid;
+{ 14 m1-2_trigonid_height protoconid_and_paraconid_tall_relative_to_length protoconid_and_paraconid_relatively_lower_and_more_elongate;
+{ 15 m2_size larger_than_m1,_m2_trigonid_length_no_larger_than_subequal_to_entire_length_of_m1 much_larger_than_m1,_m2_paraconid_length_subequal_to_entire_length_of_m1;
+{ 16 m1-2_metaconids present absent;
+{ 17 m1_entocristid present,_may_be_weak absent;
+{ 18 m1_talonid_length approximately_one_third_the_length_of_the_crown approximately_one_quarter_the_length_of_the_crown;
+{ 19 m2_talonid_development small_and_at_least_bicuspid rudimentary_and_unicuspid;
+{ 20 posterior_extent_of_mandibular_flange extends_to_below_p1-2 extends_to_below_p3;
+{ 21 shape_of_inferior_margin_of_mandibular_flange triangular rounded;
+{ 22 coronoid_process_height taller_than_m2 lower_than_m2;
+{ 23 mandibular_condyle_position even_with_tooth_row below_tooth_row;
+{ 24 DUMMY Outgroup Ingroup;
+;
+
+
+ccode  - 0.24;
+
+
+;

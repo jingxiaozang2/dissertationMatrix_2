@@ -1,0 +1,65 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.05.02'
+26 21
+
+&[num]
+Cedrus_deodara                        000010000000202000100103??
+Sciadopitys_verticillata              2000-011?100212003101003?0
+Cunninghamia_lanceolata               01012000011121201110101100
+Taiwania_cryptomerioides              00001000011201103010101210
+Athrotaxis_laxifolia                  00001000100101113?1010?210
+Athrotaxis_selaginoides               00001???1?1101113?10100110
+Athrotaxis_cupressoides               00001?0?1??101113?101002?0
+Sequoiadendron_giganteum              00001000101221123310100200
+Sequoia_sempervirens                  02002000101211123310100?00
+Metasequoia_glyptostroboides          12002000021211123310110100
+Cryptomeria_japonica                  00001000002201112201100010
+Glyptostrobus_pensilis                000010001022011320013?0?00
+Taxodium_distichum                    02001000022210122001110100
+Thuja_occidentalis                    1010110110210103300110?201
+Platycladus_orientalis                10101101102101033001100?01
+Austrocedrus_chilensis                10101101102101033001200200
+Elatides_zhoui                        000100000111?12012101??1??
+Elatides_williamsonii                 000?2000111121?012100??0??
+Protodammara_speciosa                 000??????????0?131?00??200
+Patagotaxodia_lefipanensis            000??????????0?132?0????00
+Elatides_bommeri                      00000?00????01?111100??000
+
+;
+
+
+cnames
+{ 0 Phyllotaxis_of_mature_leaves/microsporophylls/bract_scale_complexes Helical Decussate Whorled;
+{ 1 Twisting_of_leaf_bases_on_ultimate_shoots Absent Commonly_twisted_to_form_multiple_ranks_of_leaves Commonly_twisted_to_form_a_single_rank_of_leaves;
+{ 2 Leaves_on_ultimate_shoots_heteromorphic_with_facial_and_lateral_leaves Absent Present;
+{ 3 Leaf_margin Entire Toothed;
+{ 4 Stomatal_distribution_on_leaves_of_the_ultimate_shoots Epistomatic_(predominantly_adaxial) Amphistomatic Hypostomatic_(predominantly_abaxial);
+{ 5 Florin_rings Absent Present;
+{ 6 Subsidiary_cell_number 4-7 8-12;
+{ 7 Papillae_on_epidermal_cells_in_stomatal_band Absent Present;
+{ 8 Pollen_cones_position Lateral_to_subterminal Terminal;
+{ 9 Pollen_cones_aggregation Single In_cluster_pseudowhorl In_spikelike_system;
+{ 10 Pollen_sac_number_per_microsporophyll Strictly_two Two_to_three Four_to_nine;
+{ 11 Pollen_grain_distal_pore_circular_aperture Absent Present_but_lacking_a_distinct_papilla Present_and_papillate;
+{ 12 Average_mature_seed_cone_size_maximum_length Less_than_or_equal_to_2.0_cm 2_cm_to_3_cm More_than_3_cm;
+{ 13 Ovuliferous_complexes_at_maturity Dispersed/shed Persistent;
+{ 14 Ovuliferous_complex_number_per_seed_cone One_to_10 11_to_40 More_than_40;
+{ 15 Mature_OC_Morphology Foliate Pseudopeltate Peltate Valvate;
+{ 16 Ovuliferous_scale_in_mature_seed_cones Forming_most_of_the_bract_scale_complex A_small_membranous_structure A_robust_protuberance_between_ovule_and_bract not_obviously_visible_possibly_absent;
+{ 17 Number_of_ovules_associated_with_each_bract_scale_complex One_to_two Three Four_to_six Seven_to_ten;
+{ 18 Seed_orientation_at_maturity Erect_micropyle_facing_away_from_the_cone_axis Inverted_micropyle_facing_toward_the_cone_axis;
+{ 19 Seed_position_at_maturity On_the_bract_scale_complex Axillary_to_bract_scale_complex;
+{ 20 Seed_wing_position Wing_absent Lateral_flanges Distal Proximal;
+{ 21 Foliage_Abscission Evergreen Deciduous;
+{ 22 Mature_cone Lignified Coriaceous;
+{ 23 Form_of_adult_leaves Falcate_in_profile_and_tetragonal_in_creoss_section Linear_to_lanceolate_and_bifacially_flattened Scale-like Needle-like;
+{ 24 Distribution_of_transfussion_tracheids_in_leaves Separate_strands_lateral_to_vascular_bundle Continuous_band_across_the_adaxial_side_of_the_xylem_strand;
+{ 25 Branching_Pattern Axilary_branchlets_arising_on_all_sides_of_the_stem Branchlets_restricted_to_one_plane;
+;
+
+
+ccode  - 0.25;
+
+
+;
