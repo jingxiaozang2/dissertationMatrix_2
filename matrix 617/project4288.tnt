@@ -1,0 +1,69 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.32.51'
+37 14
+
+&[num]
+Proailurus_lemanensis                  ?000000000000000000000000000000000000
+Promegantereon_ogygia                  0010100000000010010200200010010200010
+Paramachaerodus_orientalis             10121011110101101111112000101?0000010
+Paramachaerodus_maxixmiliani           1012101110?01110111??1???0?01?02000?0
+Rhizosmilodon_fiteae                   ?0111000?1?????????2112020111?2201022
+Smilodon_gracilus                      1011211111111110111211202111122301022
+Smilodon_fatalis                       10122121111102111112112231111223110?2
+Smilodon_populator                     10122121111102111112112231111223110?2
+Megantereon_cultridens                 10132111110001100102212021112222?1022
+Megantereon_hesperus                   ??1?20?0???????????221??2?112?2??10??
+Machairodus_aphanistus                 2113112110111110010111111100011200100
+Homotherium_serum                      2113112110010211011111202100121100111
+Amphimachairodus_coloradensis          2113112110111110110111111100121100111
+Taiwan_specimen                        ?????????????????????????1??2???0?1?1
+
+;
+
+
+cnames
+{ 0 1._Nasal_bones_shape._Several_species_of_derived_Machairodontinae_show_wide,_rectangular_shaped_nasal_bones. State_0_sub-rectangular,_relatively_narrow State_1_somewhat_rectangular,_relatively_wide State_2_greatly_elongate_nasals_(nearly_parallel);
+{ 1 2._Exaggerated_serrations State_0_absent,_or_only_present_on_canines_ State_1_occur_on_virtually_all_teeth;
+{ 2 3._Upper_canine_crow._The_lateral_flattening_of_the_upper_canines_is_a_derived_character_of_Machairodontinae,_but_it_shows_different_degree_within_the_different_lineages. State_0_moderately_flattened State_1_markedly_flattened;
+{ 3 4._Upper_canine_crenulations/serrations._This_character_is_present_in_the_most_recent_Machairodontinae,_but_also_in_other,_more_primitive_species,_and_absent_in_relatively_derived_forms. State_0_lacking State_1_minor_crenulations_ State_2_clear_serration,_but_small State_3_large_and_very_coarse;
+{ 4 5._Upper_and_lower_canines_size._The_enlargement_of_the_upper_canines_in_the_Machairodontinae_is_linked_to_a_reduction_in_the_size_of_the_lower_canines_?_also_can_be_implied_from_the_presence_of_a_lower_flange_on_dentary. State_0_similarly_sized State_1_upper_canines_larger_that_the_lower_canines_(2-3_times_longer) State_2_upper_canines_exaggerated_=_significantly_larger_than_lower_canines_(more_than_5_times_the_length);
+{ 5 6._Lower_canine State_0_large State_1_reduced_in_size,_incisiform;
+{ 6 7._Upper_incisors_arcade._Other_character_present_in_the_more_derived_Machairodontinae_is_the_development_of_a_procumbent_incisor_arcade,_probably_related_to_the_specialized_hunting_technique_of_these_animals. State_0_non-procumbent_arcade State_1_procumbent_arcade State_2_exaggerated_procumbent_arcade;
+{ 7 8._Lower_incisor_size State_0_significantly_smaller_than_canine State_1_large_and_caniniform_(similar_in_size_to_the_canine);
+{ 8 9._P1_or_P2._Generally_reduced_in_Felidae,_with_P1_and_or_P2_being_present_in_the_more_primitive_forms. State_0_either_present State_1_both_absent;
+{ 9 10._Orientation_of_P3_and_P4. State_0_aligned State_1_not_aligned;
+{ 10 11._Anterior_cusp_of_P3. State_0_absent State_1_present;
+{ 11 12._P3,_disto-lingual_basal_expansion_of_crown._The_reduction_of_this_basal_expansion_produces_a_more_trenchant_P3,_a_derived_character_observed_in_different_lineages_of_Machairodontinae. State_0_present State_1_absent;
+{ 12 '13.	P3, mesio-distal elongation of crown. The primitive morphology of the P3 shows a relatively short and high crown; this morphology derives in different lineages of Machairodontinae, producing an elongated and relatively low P3.' State_0_absent State_1_present;
+{ 13 14._Relative_size_P4-P3._The_presence_of_a_relatively_large_P4_is_a_derived_trait_observed_in_the_most_recent_Machairodontinae._For_this_character_we_calculated_an_index_between_P4_and_P3_length. State_0_similar_in_size State_1_P3_reduced,_but_still_blade_like State_2_P3_significantly_smaller;
+{ 14 15._P4_protocone._The_protocone_of_P4_is_placed_near_the_mesial_border_of_parastyle_in_primitive_felids. State_0_protocone_of_P4_placed_at_the_level_of_the_mesial_border_of_the_parastyle State_1_protocone_of_P4_placed_distally_to_the_parastyle;
+{ 15 16._P4_protocone State_0_still_well_developed_and_prominent State_1_reduced_in_size_increasing_the_shearing_ability_of_the_blade;
+{ 16 17._P4_ectostyle._The_presence_of_an_ectostyle_in_P4_is_a_derived_character_present_in_some_very_derived_Machairodontinae. State_0_absent State_1_present;
+{ 17 18._P4_parastyle._The_parastyle_of_P4_is_small_in_primitive_species_of_Machairodontinae_and_most_of_the_Felinae. State_0_smaller/similarly_sized_than_the_protocone State_1_clearly_larger_than_the_protocone;
+{ 18 19._M1_crown._This_tooth_is_very_reduced_in_Felidae_when_comparing_to_other_pieces._This_reduction_is_even_more_extreme_in_some_derived_Machairodontinae. State_0_bucco-lingually_elongated State_1_rounded;
+{ 19 20._Mandibular_symphysis_outline._The_verticalisation_of_the_mandibular_symphysis_is_observed_in_the_more_derived_species_of_Machairodontinae,_but_some_primitive_species_retain_a_primitive,_curved_outline. State_0_gently_curved State_1_straight,_but_not_completely_verticalized State_2_nearly_completely_verticalized;
+{ 20 21._Mandibular_flange._The_development_of_a_mandibular_flange_is_observed_in_derived_Machairodontinae,_but_some_species_only_show_the_verticalisation_of_the_mandibular_symphysis. State_0_absent State_1_present,_but_small State_2_present,_but_exaggerated;
+{ 21 22._p2._This_tooth_is_generally_absent_in_Machairodontinae,_but_it_is_still_present_in_the_more_primitive_forms State_0_present State_1_absent;
+{ 22 23._p3_anterior_cuspid. State_0_present,_small State_1_enlarged_to_prominent_cusp State_2_absent;
+{ 23 24._p3_distal_cuspid. State_0_present,_small State_1_enlarged_to_prominent_cusp State_2_absent;
+{ 24 25._p3 State_0_remains_simple State_1_elongate,_blade_like_often_nearly_as_long_as_p4 State_2_generally_reduced_(1/2_length_or_less) State_3_very_small_and_peg-like_or_lost;
+{ 25 26._p4_anterior_and_distal_cuspid._The_presence_of_a_well-developed_mesial_cuspid_on_p4_is_a_derived_character_for_Felidae. State_0_small,_minor_accessory_cusps State_1_well-developed_and_more_prominent;
+{ 26 27._Relative_position_of_p3_and_p4._The_alignment_of_p3_and_p4_is_a_primitive_character_for_Felidae. State_0_aligned State_1_not_aligned;
+{ 27 28._Alignment_of_m1_and_p4. State_0_fairly_straight State_1_off_set,_taken_in_combination_with_p3-p4_making_strongly_curved_arcade_in_some_taxa;
+{ 28 29._m1_talonid._The_talonid_in_m1_is_present,_although_reduced,_in_most_of_the_primitive_forms_of_Machairodontinae,_and_it_is_lost_in_the_most_derived_species. State_0_always_present_with_well-developed_cusp_(metaconid) State_1_reduced_to_nearly_absent,_but_hint_of_talonid State_2_absent;
+{ 29 30._Height_of_coronoid_process._This_process_is_reduced_in_advanced_forms_of_Machairodonts. State_0_remains_tall_as_in_many_extant_felids State_1_reduced,_but_still_nearly_as_tall_as_ramus_is_deep State_2_significantly_reduced;
+{ 30 31._Robustness_of_m1 State_0_blade_like,_yet_not_elongate State_1_very_thin_and_elongate State_2_short_and_robust;
+{ 31 32._p4 State_0_short,_but_somewhat_blade_like State_1_very_elongate,_very_blade_like State_2_somewhat_blade_like,_but_with_distal_widening_of_the_tooth State_3_relatively_long,_but_wide_and_robust;
+{ 32 33._m1_parastylid_development State_0_lacking State_1_varies_from_minor_accessory_cusp,_to_fully_formed_cusp_with_valley_separating_it_from_paraconid;
+{ 33 34._m1_width State_0_paraconid_and_protoconid_roughly_same_width_on_either_side_of_notch State_1_widest_point_of_tooth_well_anterior_to_notch_in_paraconid_with_protoconid_significantly_tapering_back;
+{ 34 35._m1_paraconid_length. State_0_significantly_shorter_than_protoconid State_1_becoming_elongate,_nearly_equal_in_length;
+{ 35 36._p3_posterior_?lean? State_0_virtually_nonexistent State_1_slight State_2_extreme;
+{ 36 37._p4_posterior_?lean? State_0_virtually_nonexistent State_1_slight State_2_extreme;
+;
+
+
+ccode  - 0.36;
+
+
+;

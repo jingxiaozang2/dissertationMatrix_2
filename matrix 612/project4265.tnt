@@ -1,0 +1,113 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.22.45'
+82 13
+
+&[num]
+Leopardus_pardalis                0000?0001000010000000200110100010000101011100000000000000010000?000000000000?00000
+Puma_concolor                     0001?0000001012102101100010100000001111121100000101000100000000?011100000000?00000
+Neofelis_nebulosa                 0000??1111?1121101002201100010001111111101001101010010110011-000010010000000?01000
+Panthera_leo                      01101?1101?10021021001011111110011110100200001101000001100101101101111221111110111
+Panthera_onca                     0110101101110021011001010111111011110111201001101000001000101001001111201111111011
+Panthera_pardus                   0110101001?10121021000010111110011110110100001101000001100101001001111201111?10111
+Panthera_tigris                   1011101101?10021121101111111100011111101100001101000101100101000010111111111011000
+Panthera_uncia                    ?1-010101011002101113021111010111111111111001110001110010011-010001111001101?11000
+Panthera_blytheae                 01-01010?1110100001120211101???????0??1?11000??1101??10011101??????-------????????
+Panthera_atrox                    01101011010100210210010111111???1111011?100001?010000011001011????????????????????
+Panthera_palaeosinensis           01001010??010011021001111101????1111111110101??01000001100101?????????????????????
+Panthera_spelaea                  01101011010100210210011111111???11110110100001101000001100101?????????????????????
+Panthera_gombaszoegensis          00?1?0?0??110021?2?1???11?1?????1???1?0110000??01000001100?11??0011???????????????
+
+;
+
+
+cnames
+{ 0 CRAN:_Nasal-frontal_suture State_0:_at_or_anterior_to_maxillary-frontal_suture State_1:_posterior_to_maxillary-frontal_suture;
+{ 1 CRAN:_Frontoparietal_suture State_0:_posterior_to_postobrital_constriction State_1:_at_postorbital_constriction;
+{ 2 CRAN:_Lambdoidal-coronal_sutures State_0:_converge_along_occipital_crest State_1:_separate_along_occipital_crest;
+{ 3 CRAN:_Parietal_process_at_dorsal_frontoparietal_suture State_0:_absent State_1:_present;
+{ 4 CRAN:_Anterior_bulge_overhanging_infraorbital_canal State_0:_present State_1:_absent;
+{ 5 CRAN:_Infraorbital_foramen State_0:_single State_1:_double;
+{ 6 CRAN:_Dorsal_process,_maxilla State_0:_wide_and_rounded State_1:_truncated_and_tapered;
+{ 7 CRAN:_Dorsal_rostrum_profile State_0:_tapered_or_concave State_1:_convex;
+{ 8 CRAN:_Posterior_first_caudal_ethmoturbinal_scroll State_0:_posterior_to_postorbital_process State_1:_anterior_to_postorbital_process;
+{ 9 CRAN:_Frontal_sinus State_0:_in_anterior_postorbital_region State_1:_posterior_to_postorbital_region;
+{ 10 CRAN:_Jugal-squamosal_suture State_0:_adjacent_to_postorbital_process State_1:_not_adjacent_to_postorbital_process;
+{ 11 CRAN:_Zygomatic_arch State_0:_slender_relative_to_condylobasal_length State_1:_wide_relative_to_condylobasal_length;
+{ 12 CRAN:_Jugal_postorbital_process State_0:_large State_1:_reduced;
+{ 13 CRAN:_Paroccipital_process State_0:_large_and_ventrally_directed State_1:_reduced_and_ventrally_directed State_2:_reduced_and_posteriorly_directed;
+{ 14 CRAN:_Nasal_width_at_aperture State_0:_narrow_relative_to_condylobasal_length State_1:_intermediate_relative_to_condylobasal_length State_2:_wide_relative_to_condylobasal_length;
+{ 15 CRAN:_Nasal_width_at_fronto-maxillary_suture State_0:_narrow_relative_to_condylobasal_length State_1:_wide_relative_to_condylobasal_length;
+{ 16 CRAN:_Nasal_length State_0:_relatively_short State_1:_relatively_long;
+{ 17 CRAN:_Palate_length State_0:_relatively_short State_1:_intermediate State_2:_relatively_long;
+{ 18 CRAN:_Pterygoid_palate State_0:_narrow_relative_to_condylobasal_length State_1:_wide_relative_to_condylobasal_length;
+{ 19 CRAN:_Frontonasal_depression State_0:_absent State_1:_present;
+{ 20 CRAN:_Jugal_position_over_infraorbital_canal State_0:_not_ventrally_expanded State_1:_ventrally_expanded State_2:_expanded_to_maxilla_both_medially_and_ventrally_in_dorsal/lateral_view State_3:_excluded_by_maxilla;
+{ 21 CRAN:_Anterior_palatine_foramen_and_sulci,_ventral_view State_0:_equal_in_size State_1:_sulci_longer State_2:_sulci_shorter;
+{ 22 CRAN:_Ventral_border_of_premaxilla_and_maxilla State_0:_gradually_ends_at_canine_border State_1:_angles_anteriorly,_not_arching State_2:_arches_then_turns_sharply_anteriorly_near_canines;
+{ 23 CRAN:_Parassagittal_crest_at_postorbital_process State_0:_recurved_posteriorly_at_tip State_1:_perpendicular_to_sagittal_axis;
+{ 24 CRAN:_Connection_between_palatal_flange_and_edge_of_posterior_palate_at_M1/ State_0:_smooth State_1:_angular;
+{ 25 CRAN:_Relative_positions_of_posterior_palatine_canal_opening_and_sphenopalatine_foramen State_0:_Close_together,_distance_between_them_equal_or_smaller_than_the_diameter_of_palatine_canal_opening State_1:_Located_far_apart,_distance_between_them_larger_than_diameter_of_palatine_canal_opening;
+{ 26 CRAN:_Jugal-Maxillary_suture,_medial_side State_0:_suture_extends_poteriorly,_then_cuts_ventrally_at_the_base_of_the_zygomatic_arch State_1:_suture_gradually_extends_posteroventrally_to_the_base_of_the_zygomatic_arch,_no_sharp_turn;
+{ 27 CRAN:_Premaxillary_processes_medial_of_the_anterior_palatine_foramina State_0:_end_at_the_posterior_border_of_the_anterior_palatine_foramen_or_forms_a_stubby_extension State_1:_sharply_extend_posteriorly_past_the_position_of_the_anterior_palatine_foramen_and_the_premaxilla-maxilla_suture_leading_from_the_medial_border_of_the_canines;
+{ 28 BASICRAN:_Auditory_meatus_longitudinal_ridge State_0:_absent State_1:_present;
+{ 29 BASICRAN:_Malleus_processus_muscularis State_0:_short_with_tapered_apex State_1:_large_and_cylindrical;
+{ 30 BASICRAN:_Malleus_processus_brevis State_0:_small_or_not_deflected State_1:_enlarged_and_anteriorly_deflected;
+{ 31 BASICRAN:_Incus_articulation_with_malleus State_0:_small State_1:_enlarged;
+{ 32 BASICRAN:_Stylomastoid_foramen_groove State_0:_ectotympanic_and_squamosal_fused_with_mastoid_process_to_form_bony_ridge_or_continuous_surface State_1:_separated_from_mastoid;
+{ 33 BASICRAN:_Angle_between_long_axes_of_bulla_and_skull State_0:_shallow State_1:_obtuse_(>40Â°);
+{ 34 BASICRAN:_Entotympanic_process State_0:_narrow_and_raised State_1:_wide_and_flattened;
+{ 35 BASICRAN:_Foramen_rotundum_projection State_0:_anterior State_1:_lateral;
+{ 36 BASICRAN:_Fossa_for_posterior_lacerate_and_condylar_foramina State_0:_oval_and_rounded State_1:_wide_and_triangular;
+{ 37 BASICRAN:_Stylomastoid_foramen State_0:_small_and_slit-like State_1:_enlarged;
+{ 38 BASICRAN:_Distance_between_anterior_bulla_and_glenoid_ridge State_0:_wide,_anteropsoterior_extent_of_space_close_to_length_of_bulla State_1:_narrow;
+{ 39 BASICRAN:_Contact_between_both_occipital_condyles_on_the_ventral_part_of_the_skull State_0:_asbent State_1:_present;
+{ 40 MAND:_Mandibular_ramus_ventral_profile State_0:_concave State_1:_convex State_2:_straight;
+{ 41 MAND:_Mandibular_symphysis_angle_relative_to_horizontal_ramus State_0:_anteriorly_inclined_[>121°] State_1:_weakly_inclined_[110-120°];
+{ 42 MAND:_Mandibular_ramus_to_symphysis_transition State_0:_smooth State_1:_abrupt;
+{ 43 MAND:_Anterodorsal_curvature_of_anterior_mandibular_symphysis State_0:_absent State_1:_present;
+{ 44 MAND:_Mandible_depth_anterior_to_p3 State_0:_shallower_than_depth_at_p4/m1 State_1:_deeper_than_depth_at_p4/m1;
+{ 45 DENT:_dP4/_parastyle_and_metastyle_roots State_0:_separated State_1:_fused;
+{ 46 DENT:_dP3/_accessory_cusp State_0:_distinct_and_rounded State_1:_reduced_and_flattened;
+{ 47 DENT:_P2 State_0:_always_or_nearly_always_present_and_unreduced State_1:_frequently_absent_or_reduced;
+{ 48 DENT:_P3_parastyle State_0:_short_relative_to_P3_length State_1:_long_relative_to_P3_length;
+{ 49 DENT:_C1/_length State_0:_not_elongate_relative_to_condylobasal_length State_1:_elongate_relative_to_condylobasal_length;
+{ 50 DENT:_C1/_cross_section State_0:_oval State_1:_almost_round;
+{ 51 DENT:_m/1_length State_0:_not_elgonate_relative_to_mandible_length State_1:_elongate_relative_to_mandible_length;
+{ 52 DENT:_c/1_length State_0:_not_elongate_relative_to_mandible_length State_1:_elongate_relative_to_mandible_length;
+{ 53 DENT:_P4/_m/1_carnassial_notch State_0:_narrow,_diverging_towards_crown_tip State_1:_wide,_parallel;
+{ 54 DENT:_p4_cusp_alignment_relative_to_entire_tooth State_0:_straight,_symmetrical State_1:_offset_from_central_axis_with_expanded_postero-lingual_cingular_shelf;
+{ 55 DENT:_p/3_posterior_cingulum State_0:_raised_and_distinct_from_posterior_accessory_cusp State_1:_not_distinct,_and_fused_with_enlarged_posterior_accessory_cusp;
+{ 56 DENT:_P3/_small_cusp_on_labial_edge_of_posterior_cingulum State_0:_absent State_1:_present;
+{ 57 DENT:_P4/_labial_ridges State_0:_absent State_1:_present,_converging_at_tip_of_crown;
+{ 58 DENT:_C1/_labial_ridges State_0:_absent State_1:_present;
+{ 59 DENT:_P3,_lingual_expansion_of_crown State_0:_present State_1:_absent;
+{ 60 DENT:_P3,_location_of_lingual_crown_expansion State_0:_at_the_level_of_the_main_cusp State_1:_distal/posterior_to_the_level_of_the_main_cusp;
+{ 61 POSTCRAN:_clavicle State_0:_relatively_small_and_straight State_1:_relatively_large,_markedly_curved_with_expanded_sternal_end;
+{ 62 POSTCRAN:_cracoid_process_of_scapula State_0:_medially_projecting,_hook-like_process State_1:_reduced_to_a_smooth_surface_on_anteromedial_face_of_supraglenoid_tubercle;
+{ 63 POSTCRAN:_astragalus_sustentacular_facet State_0:_small,_restricted_to_distal_portion_of_body State_1:_extended_posteriorly;
+{ 64 POSTCRAN:_distal_plantar_border_of_astragalus State_0:_smooth,_undeveloped State_1:_lip_produced_to_a_knob_or_hook;
+{ 65 POSTCRAN:_Distinct_crest_on_posteromedial_rim_of_trochanteric_fossa_on_femur State_0:_absent State_1:_present;
+{ 66 POSTCRAN:_intertrochanteric_crest_on_femur State_0:_poorly_defined State_1:_well_defined_and_deep;
+{ 67 SOFT:_Contracted_pupil State_0:_narrow_and_slit-like State_1:_round;
+{ 68 SOFT:_Medial_face_of_claw_sheath_compared_to_lateral_face State_0:_less_developed State_1:_equally_developed;
+{ 69 SOFT:_Hyoid State_0:_fully_ossified State_1:_partly_fused_with_cartilagious_epihyal;
+{ 70 SOFT:_Presence_of_whorl_of_hair State_0:_between_and_behind_ears State_1:_behind_ears_and_down_the_neck State_2:_between_the_shoulders;
+{ 71 SOFT:_Mane State_0:_absent State_1:_occasionally_present State_2:_present;
+{ 72 SOFT:_Fur_on_dorsal_snout State_0:_not_extending_to_rhinarium State_1:_extending_to_rhinarium;
+{ 73 SOFT:_Lateral_face_and_upper_neck State_0:_with_longitudinal_stripes State_1:_unpatterned/spotted;
+{ 74 SOFT:_large_pad_of_fibro-elastic_tissue_at_rostral_end_of_vocal_folds State_0:_absent State_1:_present;
+{ 75 SOFT:_Thyroarytenoid_folds_of_larynx State_0:_divided State_1:_undivided;
+{ 76 SOFT:_Connection_between_hyoid_apparatus_and_larynx State_0:_synovial State_1:_ligamentous;
+{ 77 SOFT:_form_of_epihyal State_0:_bony_or_cartilaginous State_1:_ligamentous;
+{ 78 Vocalization:_prusten State_0:_absent State_1:_present;
+{ 79 Vocalization:_puff State_0:_absent State_1:_present;
+{ 80 Vocalization:_roar_sequence State_0:_absent State_1:_present;
+{ 81 Vocalization:_grunt State_0:_absent State_1:_present;
+;
+
+
+ccode  - 0.81;
+
+
+;

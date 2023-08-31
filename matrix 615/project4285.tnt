@@ -1,0 +1,254 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.31.57'
+155 81
+
+&[num]
+Ocypus_olens                           00000--00012001000-0010---000201011000-12--20-000000-20-000-00--000000000000000000000-000000101011001000000110000-0000000200----001--1100101000--2000100000
+Dasycerus_sulcatus                     00100--00012000000-0011000011201011000-12--10-0000010211000-00--000000000001110100000-000000001111001021315020000-00000002011000001--1100101010--2000000005
+Anthobium_atrocephalum                 00000--00012000000-0010---100001011000-12--0100100010211000-00--000000000000000100000-000000101011001011304110000-00000003011000001--10001010200-2000000000
+Lesteva_longoelytrata                  00000--00012002000-0011000100201011000-12--0100000010211000-00--000000000000000100000-000000101011002002304120000-00000003011000001--10001010200-2000000000
+Omalium_rivulare                       00000--00012001000-0011000100201011000-12--0100100010211000-00--000100000000000100000-000000101011002011304120000-00000003011000001--1000101010--2000000000
+Micropeplus_porcatus                   00047--0001200000100041000001211011000-12--0110000010211000-00--000010000101000100000-000000101011001021306120000-0000000307----001--1100101030--2100000001
+Megarthrus_depressus                   00000--00012001000-0011000001201011000-12--0100100010211000-00--000000000000000100000-000000101111001021306120000-0000000306----001--1100101010--2000000005
+Metopsia_similis                       00110--00012000000-0010---000201011000-12--0100100010211000-00--000000000000000100000-000000101110000021304120000-0000000306----001--1100101010--2000000000
+Proteinus_brachypterus                 00000--00012001000-0010---000201011000-12--0100100010211000-00--000000000000000100000-000000101011001011304120000-0000000306----001--1100101010--2000000000
+Silphotelus_sp.                        00000--00012002000-0011000001201011000-12--0100100010211000-00--000000000000000100000-000000001111001021306120000-0000000606----001--1100101010--2000000005
+Faronus_sp                             00000--00000000000-0000---000200000000-000000-0000011010010-00--000000000001000110000-000000000000000021211010000-00000000010000000000-000000200-0000000000
+Delenda_frivaldszkyi                   00000--00000000000-0011000000200001000-100000-0000011110000-00--000000000001000210100-000000000001001021212020000-00000000010000000000-000000200-0000000000
+Euplectus_karstenii                    01000--00000000001000110000001-0011100-100000-0000011110001100--000000000001100211--0-000110001020001021213020000-00000000011001000000-000000200-0010000000
+Leptoplectus_kijimunaa                 00000--00000000001000110000001-0011000-100000-0000011110000-00--000000000001100210000-000110000020001011213020000-00000000010000000000-000000201-0010000000
+Plectophloeus_nubigena                 01000--00000000001000110000001-0011000-100000-0000011110001100--000000000001100211--0-000110001020001011213020000-00000000011000000000-000000200-0010000000
+Bibloporus_bicolor                     100010-00000000010-00110000011-0011110-11--00-0000011110001000--000000000001100211--10000110001000001021213020000-00000000010000000000-000000200-0010000000
+Bibloplectus_ambiguus                  000011-00000000011000110010011-0011000-100010-0000011110001100--000000000001100211--10000000001020001011213020000-00000000011000000000-000000200-0010000000
+Philoscotus_rostralis                  210011-00000011001000110000011-0011010-000010-0000011111001000--000000000001100211--10000000001020001011213020000-00000000010000000000-000000200-0010000000
+Trichonyx_sulcicollis                  01000--00000001011000110000001-0011000-11--00-0000011111001000--0000000000011002100010000000001020001011213020001-00000000011000000000-000000200-0010001000
+Saulcyella_schmidtii                   110011-00000000000-00110000001-1011000-100010-0000011010001100--000000000001100210000-000100001020001021213010000-00000000010000000000-000000200-0010000000
+Trimium_brevicorne                     100010-00000000010-00110000001-0011000-100000-0000011111001100--000000010001100210000-000110001020002021213010000-00000000010000000000-000000200-0010000000
+Batrisodes_unisexualis                 11000--00100002001000110000010-0011010-11--10-1000011111001000--000000000001100211--10000000001020001011213020001-00020000011010000000-000000200-1010001000
+Batrisus_formicarius                   11000--00000002001000110000001-0011000-11--10-0000011110000-00--000000000001000211--0-000000000020001011213020002-00020000011010000000-000000200-1010001000
+Batrisoplisus_torticornis              11000--00000000001000110000011-0011010-11--10-0000011110001000--000000000001100211--0-000110000030001011212020001-00020000011010000000-000000200-1010001000
+Cratna_torticornis                     21000--00100002001000110000010-1011000-01--10-0000011111001000--000000000001100211--10000000001020001011213020003-0002000405----000000-000000200-1010001000
+Intestinarius_quinquesulcatus          21000--00100002001000110000000-0011010-000010-1000011110001000--000000000001000211--0-000000000021001011212010001-00020000011010000000-000000200-1010001000
+Mnia_elegans                           11000--00100001000-00110000010-0011010-100010-0000011110000-00--000000000001100211--10000000001030001011213020002-00000000011010000000-000000200-1010101000
+Oxarthrius_sp.                         10000--00000001001000110000011-0011010-11--10-0000011111000-00--000000000001100210010-000000000020001011213020002-00020000011010000000-000000200-1010001000
+Bergrothia_saulcyi                     11000--00100001001000110000000-0011000-11--10-0000011111001000--000000000001000211--10000000001020001011213020001-00020000011010000000-000000200-1010001000
+Brachygluta_fossulata                  11000--00000000000-00110010010-10110010110010-0000011111001000--0000000000011002100012000000001020001011213020001-10010000011010000000-000000200-0010001000
+Fagniezia_impressa                     21000--00000001000-00110010010-1011001011--10-0000011111001000--0000000000011002100011000000001020001011213020001-00010000011010000000-000000200-0010001000
+Reichenbachia_juncorum                 11000--00000001000-00110010010-1011001011--10-0000011111001000--0000000000010002100111000000001020001011213020001-10010000011010000000-000000200-0010001000
+Rybaxis_longicornis                    21000--00000001000-00110010010-1011000-11--10-0000011111001000--0000000000011002100011000001001020001011213020001-10010002011010000000-000000200-0010001000
+Triomicrus_protervus                   21000--00000001000-00110010010-1011001011--10-0000011111001000--0000000000011002100012000001001020001011213020002-10020002011010000000-000000200-0010001000
+Trissemus_antennatus                   11000--00000001000-00110010010-1011001011--10-0000011111001000--0000000000011002100111000000001020001011213020001-10010000011010000000-000000200-0010001000
+Anasopsis_sp.                          21000--00000001000-00110010010-1011100-11--10-0000011111001000--0000000000011002100012000001001020001011213020001-01020000011012000000-000000200-0010001000
+Baraxina_sp.                           21000--00000000000-00110010010-1011001011--10-0000011111001000--0000000000011002100012000001001020001011213020002-10010000011010000000-000000200-0010001000
+Eupines_sp.                            11000--00000000000-0010---0010-1011010-11--00-0000011110001000--0000000000010002100012000111001020001011213020001-00010000010010000000-000000200-0010000000
+Eupines_impar                          11000--00000000000-00110000010-1011010-11--00-0000011110001000--0000000000011002100011000000001020001011213020001-00010000010010000000-000000200-0010000000
+Eupines_sphaerica                      11000--00000000000-0010---0010-1011000-11--00-0000011110001000--0000000000011002100012000111001020001011213020001-00010000010010000000-000000200-0010000000
+Bryaxis_bulbifer                       11000--00000000001000110000010-0011000-000010-0000011110001000--000000000001100210000-000000001030001011213020002-00020010011001000000-000000200-0010001000
+Tychobythinus_aino                     11000--00000000000-00110000010-0011000-000110-0000011110001000--000000000001000210000-000000001030001011213020002-00020010011001000000-000000200-0010001000
+Plagiophorus_fujiyamai                 10000--00000000000-00110000000-1011000-100010-0000011110001000--000000000001100210000-001110001020001011213020000-00010000010010000000-000000200-0210000002
+Morana_elegans                         10000--00000000001000110000011-0011000-11--10-0000011110001000--000000000001100210000-000101000020001011213020001-00020000011010000000-000000200-0010001000
+Natypleurus_sp.                        11000--00000001001000110000000-1011010-11--10-0000011110001000--0000000000011002100011000000000020001011213020000-00010000010010000000-000000200-0010001000
+Nedarassus_sp.                         10002--00000001001000110000000-0011000-000010-0000011110001000--000000000001000210000-000000000031001011213010000-00010000010010000000-000000200-0010001000
+Sunorfa_sp.                            11000--00000001011000110000000-0011010-11--10-0000011110001100--000000000001100210000-000110000020001011213020001-00010000011010000000-000000200-0010001000
+Takaorites_torticornis                 11000--00000001001000110000010-0011010-11--10-0000011110001000--000000000001100210010-000011000020001011213020001-00010000011010000000-000000200-0010001000
+Tenguobythus_decoratus                 10000--00000000001000110000010-0011000-11--10-0000011110001000--000000000001100210000-000011000030002011213020001-00020000011010000000-000000200-0010001000
+Imtempus_sp.                           01000--00000000001100111000010-0011010-000010-1000011110001000--000001000001100210000-000000001020001011213020001-00020000011010000000-000000200-0010001000
+Pygoxyon_sp.                           11000--00000100000-0030---001201111000-001110-0000011010101000--001000000011000211--0-100101000000001011213020001-00010000011110000000-00000030--2010001000
+Tychus_niger                           11000--10000012000-00110000010-1011000-100110-0000011010001000--000000000001100210000-000000000000001011213020002-0002000203--0-000000-000000200-0010001000
+Raphitreus_speratus                    11010--10000001000-00110000000-10110010000110-0010011010000-00--000000000001100210000-000000000020002011213010002-00021101110003100000-00000030--2010001010
+Tmesiphoromimus_couloni                11010--00000001000-00110000011-10110011000010-0010011010000-00--100000000001100210000-000000000020002011213010002-00020101110003000000-00000030--2010001010
+Tmesiphorus_crassicornis               01010--10000001000-00110000001-10110010001110-0010011010000-00--100000000001100211--0-000000000020002011213010002-00020101110003000000-00000030--2010001010
+Ctenistes_sp.                          31013-101000012000-00110000011-10110010001110-0010111010000-110-000000000001100211--0-000000000020002011213000002-0001110512----101--0-00000030--2010001010
+Pilopius_sp.                           11013-101000012000-00110010011-10110010001110-0010111010000-00--10000000100110021?--0-000000001020002011213000002-0001110512----101--0-00000030--2010001010
+Sognorus_breviceps                     11013-111000002000-00110010010-10110010101110-0010111010000-10--00000000000110021?--11000100001041002011213000002-0001110512----100000-00000030--2010001010
+Ancystrocerus_sp.                      11000--10000002000-00110000001-10110011001110-0010011010000-00--000000000001100211--0-000000000020002011213020002-00020002011000000000-00000030--2010001000
+Labomimus_reitteri                     21006--00000002000000110010001-10110010001110-0000111010000-00--100000000001100211--0-000000000020012011213020001-00010102111000100000-00000030--2010101000
+Lasinus_spinosus                       21006--00000001000-10110010001-10110010001110-0001111010000-00--100000000001100211--0-000000000020012011213020001-00010002011000000000-00000030--2010101000
+Saltisedes_kojimai                     21000--10000002000-00110000001-10110011000110-0010011010000-00--000000000001100211--0-000000001020002011213010002-00010000011000000000-00000030--2010001000
+Tyrus_mucronatus                       11000--10000002000-00110010001-10110010101110-0001011010001000--100000000001100211--0-000000000020002011213010002-00020002011000000000-00000030--2010001000
+Pseudophanias_sp.                      11000--00000001000-00110000001-1011000-001010-0010011010000-00--000000000001100211--0-000000000020002011213020000-00020001011000000000-00000030--2010001000
+Pselaphaulax_dresdensis                21003-100000012000-00110010010-1011000-001110-0000011010000-010-000000000001100310000-000000011020001011213020003-00120000042004000000-00000130--2010001000
+Pselaphogenius_treskanus               31003-000000012010-0011001001201011000-001110-0000011010000-010-000000000001100310000-000000011020001011213020003-00120000042004000000-00000130--2010101000
+Pselaphus_heisei                       21003-100000011000-00110010011-1011000-001110-0000011010000-010-000000000001100310000-000000011020001011213020003-00120000042004010000-00000130--2010101000
+Colilodion                             30000--10000012100-0110---0011-1011000-101020-0000011010000-00--010000100001101310000-0000001010200001------211141----------------0?10-11001130--2410001004
+Claviger_testaceus                     31024--00001011000-00111100----1011000-11--20-0000011010000-010-000000100001100310010-0000000010200001------211140----------------0110-11111141-02311210023
+Claviger_longicornis                   31022--00001011000-0010---0----1011000-11--20-0000011010000-010-000000100001100310010-0000000010200001------211140----------------0110-11111141-02311210023
+Diartiger_kubotai                      31032--00001010000-00110100001-1011000-11--20-0000011010000-0111000100100001100310010-0000000010200001------211140----------------0110-11011141-12411210003
+Hadrophorus_martinkae                  31015--00001011000-00210100011-1011000-11--20-0000011010000-0111000000100001100310010-0000000010200001------211140----------------0110-11?0??41-12511210013
+Novoclaviger_gibbiventris              31032--00001010000-00210100011-1011000-11--20-0000011010000-0111000100100001100310010-0100000010200001------211140----------------0110-11?1??41-12411210003
+Pararticerus_latus                     31032--00001010000-00210100011-1011000-11--20-0000011010000-0111000100100001100310000-0000000010200001------211140----------------0110-11?1??41-12411210033
+Zuluclavodes_bryantaylori              31024--00001011000-00210100001-1011000-11--20-0000011010001-0110000000100001100310010-0000000010201001------211140----------------0110-11?1??41-02311210003
+Disarthricerus_integer                 31032--00001011000-0010---0011-1011000-11--20-0000011010000-0111000100100001100311--0-0100000010200001------211141----------------0110-11?1??40-12511210004
+Tiracaleda_minuta                      11000--00001011000-0010---0010-1011000-11--20-0000011010000-00--000000100001100210000-0000000010200001------211141----------------0110-11?0??40-02511210003
+Tiracerus_sp.                          31032--00001010000-0010---0010-1011000-11--20-0000011010000-0110000000100001100310000-0000000010201001------211141----------------0110-11?1??41-02511210033
+Tiraspirus_tabulatus                   31032--00001010000-0010---0010-1011000-11--20-0000011010000-0110000000100001100310000-0000000010200001------211141----------------0110-1111??41-02511210133
+Gen.n._neocalexc                       3100---00001010000-0010---?010-1011000-11--20-0000011010000-0110000000100001100310000-0000000010200001------211141----------------0110-11?1??40-02511210003
+Cerylambus_reticulatus                 31030--00001010000-0020---0011-1011000-110020-0000011010000-010-000100100001100210000-0000000010200001------211140----------------0110-1101??40-12511210033
+
+;
+
+
+cnames
+{ 0 Shape_of_anterior_(exposed)_portion_of_head_capsule_(if_males_have_monstrous_modifications,_this_refers_to_females) about_as_long_as_broad_or_transverse,_strongly_flattened about_as_long_as_broad,_weakly_flattened_or_as_high_as_wide distinctly_elongate,_weakly_flattened_or_as_high_as_wide distinctly_elongate,_higher_than_wide_(excl._eyes);
+{ 1 Highest_site_of_head_in_lateral_view__(if_males_have_monstrous_modifications,_this_refers_to_females) posterior,_at_vertex anterior_or_submedian,_at_antennal_insertions;
+{ 2 Setiferous_papillae_(tuberculate_or_digitiform)_on_entire_head absent present;
+{ 3 Modified_setae_on_dorsum_of_head absent present:_slender,_lanceolate,_with_longituinal_costae present:_long_and_bifurcate present:_long,_flattened_and_barbed/brachyplumose present:_extremely_short,_only_slightly_longer_than_broad_and_flattened;
+{ 4 Modified_setae_on_venter_of_head absent present:_long_and_pin-headed_or_with_short,_abruptly_brodened_elongate_clavate_distal_region present:_long_and_barbed/brachyplumose present:_hyaline present:_long_and_bifurcate present:_long,_lanceolate,_with_longitudinal_costae present:_long,_weakly_but_distinctly_gradually_thickened_distad_and_straight_or_weakly_and_evenly_curved present:_extremely_short,_only_slightly_longer_than_broad_and_flattened;
+{ 5 Ventral_abruptly_clavate_or_pin-headed_setae distributed_at_least_on_entire_anterior_half_of_head_behind_mouthparts distributed_only_on_narrow_transverse_submental_and_post-cardinal_region;
+{ 6 Hyaline_setae_on_ventral_post-submental_region_of_head slender_and_sparse strongly_flattened_and_very_dense,_tightly_covering_cuticle;
+{ 7 Dense_patch_of_long_curved_setae_on_each_temple_and/or_postgena_directed_posterad absent present;
+{ 8 Patch_of_hyaline_setae_on_each_temple_and/or_postgena,_so_dense_that_completely_obscuring_cuticle absent present;
+{ 9 Sparse,_conspicously_long_and_thin_unmodified_strongly_erect_setae_on_postgena_directed_ventrad_and_on_tempora_directed_laterad absent present;
+{ 10 Neck_region prominent,_subglobose_or_barrel-shaped,_broadest__behind_occipital_constriction poorly_defined,_flattened_and_broadest_just_behind_tempora_(or_eyes,_if_tempora_reduced);
+{ 11 Occipital_constriction deep shallow lacking,_neck_region_demarcated_from_tempora_in_step-wise_manner;
+{ 12 Deep_transverse_cavity_between_vertex_and_occiput absent present;
+{ 13 Width_of_vertex much_broader_than_neck_region subequal_to_neck_region;
+{ 14 Posterior_margin_of_vertex anteriorly_convex straight_or_nearly_so posteriorly_convex;
+{ 15 Paired_tuffts_of_dense_and_long_setae_on_posterior_margin_of_vertex absent present;
+{ 16 Posteromedian_subtriangular_impression_on_vertex_projecting_anterad absent present;
+{ 17 Median_longitudinal_carina_in_posterior_region_of_vertex_and/or_on_occiput_(in_some_cases_discernible_only_as_a_minute_wrinkle_just_behind_vertex) absent present;
+{ 18 Anterior_tooth_of_median_longitudinal_carina_on_occiput absent present;
+{ 19 Median_longitudinal_groove_on_vertex absent present;
+{ 20 Frons_and_vertex not_forming_continuous_elongate_bulge_much_narrower_than_head forming_continuous_elongate_bulge_clearly_demarcated_laterally,_much_narrower_than_head_and_narrowing_posterad;
+{ 21 Tempora angulate,_laterally_projecting_and_in_both_sexes_bearing_a_glandular_field/opening lacking_a_sex-independent_glandular_field/opening,_rounded_or_straight lacking_a_sex-independent_glandular_field/opening,_rapidly_bent_and_with_denticle_near_occipital_constriction weakly_narrowing_posterad,_with_small_lateral_angulate_expansion_near_occipital_constriction absent;
+{ 22 Dorsal_tentorial_pits absent present;
+{ 23 Dorsal_tentorial_pits_-_2 distinct,_with_sharply_marked_margins barely_discernible,_diffuse;
+{ 24 Placement_of_dorsal_tentorial_pits dorsal dorsolateral;
+{ 25 Modified_setae_filling_dorsal_tentorial_pits absent present;
+{ 26 Pair_of_ocelli_on_vertex absent present;
+{ 27 Compound_eyes_(if_present) inserted_directly_on_sides_of_head,_not_conspicously_projecting_laterad inserted_on_short_annulate_projections,_and_therefore_conspicously_projecting_laterad;
+{ 28 Median_point_of_eye closer_to_mandibular_base_than_to_posterior_margin_of_temple_(or_occipital_constriction,_if_present) closer_to_posterior_margin_of_temple_(or_occipital_constriction,_if_present)_than_to_mandibular_base;
+{ 29 Median_line_of_eye_in_lateral_view_(if_males_have_modified_heads,_this_refers_to_females) near_middle_of_head_height below_middle_of_head_height above_middle_of_head;
+{ 30 Dorsal_margin_of_dorsally_situated_eye below_level_of_frons_(dorsal_adocular_region_not_elevated_laterally) above_level_of_frons_(and_dorsal_adocular_region_of_head_at_each_side_raised_laterally)_[head_Lepicerus-like];
+{ 31 Median_inversely_U-_or_V-shaped_region_delimited_by_sulcus_or_in_a_step-wise_manner present absent;
+{ 32 Pair_of_lateral_longitudinal_(usually_curved)_fine_vertexal_carinae absent present;
+{ 33 Median_frontal_pit_between_eyes present absent;
+{ 34 Pair_of_submedian_pits_between_supraantennal_tubercles present absent;
+{ 35 Lateral_pit_just_behind_each_supraantennal_tubercle absent present;
+{ 36 Lateral_pit_or_notch_on_posterior_region_of_each_supraantennal_tubercle absent present;
+{ 37 Sharply_delimited,_circular_unpaired_median_pit_on_frons_["frontal_fovea"] absent present;
+{ 38 Modified_setae_filling_frontal_fovea present absent;
+{ 39 Median_longitidinal_frontal_furrow present absent;
+{ 40 Frontal_rostrum present indistinct absent;
+{ 41 Length_of_frontal_rostrum short,_strongly_transverse about_as_long_as_broad_or_elongate;
+{ 42 Posterior_constriction_of_frontal_rostrum absent present;
+{ 43 Supraantennal_tubercles poorly_defined,_flat_and_diffuse,_but_always_separated_by_lower_median_area well-defined,_distinctly_convex_(in_some_cases_fused_mesally_and_not_separated_by_impressed_median_area,_but_then_distinctly_convex) absent;
+{ 44 Dorsal_supraantennal_ridge_extending_from_anterodorsal_margin_of_eye_and_running_anteromesad absent present;
+{ 45 Supraocular_extension_of_supraantennal_ridge_running_along_mesal_margin_of_eye absent present;
+{ 46 Longitudinal_supraocular_ridge_distant_from_eye,_running_between_supraantennal_tubercle_and_posterior_margin_of_vertex absent present;
+{ 47 Deep_round_dorsolateral_emargination_separating_supraantennal_tubercles_from_eye absent present;
+{ 48 C-shaped_sulcus_filled_with_modified_setae_encircling_posteriorly_antennal_fossa absent present;
+{ 49 Crescent-shaped_or_semicricular_patch_of_dense_hyaline_setae_just_posteroventrad_antennal_insertion absent present;
+{ 50 Densely_setose_lateral_circular_pit_at_anterior_margin_of_eye absent present;
+{ 51 Antennal_insertions distant_from_sides_of_head_(anterodorsal) close_to_sides_of_head_(lateral_or_lateroventral);
+{ 52 Antennal_insertions_close_to_sides_of_head lateral_[if_clypeus_is_unusually_expanded_laterad_and_its_margin_overhanging_antennal_insertion,_it_is_regarded_lateral_based_on_orientation_of_proximal_portion_of_scape] lateroventral;
+{ 53 Antennal_fossae narrowly_separated_by_distance_subequal_to_width_of_scape_or_narrower_(if_scape_in_male_modified,_then_this_refers_to_scape_in_female) moderately_broadly_separated_by_distance_1,5-3_times_as_broad_as_scape_(if_scape_in_male_modified,_then_this_refers_to_scape_in_female) broadly_separated_by_distance_5_and_more_times_as_broad_as_width_of_scape;
+{ 54 Clypeus membranous_or_indiscernible sclerotized,_well-defined;
+{ 55 Sclerotized_clypeus steeply_declining_anterad weakly_declining_or_subhorizontal;
+{ 56 Supraocular_carina_separated_from_supraantennal_tubercle_and_running_along_dorsomesal_margin_of_eye,_posteriorly_extending_onto_vertex absent present;
+{ 57 Lateral_postocular_subhorizontal_carina_near_or_beneath_middle_of_eye absent present;
+{ 58 Ocular-mandibular_carina absent present;
+{ 59 Orientation_of_ocular-mandibular_carina subhorizontal_between_mandible_and_anterior_margin_of_eye oblique,_running_from_upper_margin_of_mandible_to_ventral_margin_of_eye;
+{ 60 Large,_strongly_convex_and_well-defined_round_or_oval_lateral_clypeal_projection_(bulge)_beaneath_antennal_fossa_and_in_front_of_eye absent present;
+{ 61 Elongate_buccal_(lateral_postmandibular_-_subantennal)_bulge_below_antennal_fossa absent_or_indistinct present;
+{ 62 Dorsal_margin_of_buccal_bulge_beneath_antennal_fossa convex concave;
+{ 63 Concave_dorsal_margin_of_buccal_bulge evenly_arcuate angulate,_with_rapid_subtriangular_or_rounded_emargination_beneath_antennal_fossa,_marking_a_site_of_infraantennal_(postmandibular)_pit;
+{ 64 Lateroventral_subtriangular_angulate_lobe_on_gena absent present;
+{ 65 Postgenal_region unmodified developed_as_elongate_bulge_projecting_laterad_and_anteriorly_nearly_dividing_eye_into_upper_and_lower_halves;
+{ 66 Deep_lateral_palpal_groove_or_impression_to_hide_distal_portion_of_maxillary_palps absent present;
+{ 67 Smooth_and_broad_antennal_sulcus_extending_obliquely_from_lateral_subantennal_region_to_dorsal_tentorial_pit_(or_a_place_where_tentorial_pit_would_be,_if_indistinct) absent present;
+{ 68 Narrow,_deep_and_horizontal_antennal_sulcus_below_eye,_extending_onto_prothorax absent present;
+{ 69 Smooth_antennal_sulcus_extending_obliquely_from_lateral_subantennal_region_to_posteroventral_margin_of_eye,_not_extending_onto_prothorax absent present;
+{ 70 Anterolateral_cavities_in_oral_fossa_to_hide_maxillary_palps absent present;
+{ 71 Ventrolateral_peristomal_projection_directed_anterad absent present;
+{ 72 Deep_ventral_transverse_groove_demarcating_neck_region,_containing_posterior_tentorial_pits,_sharply_delimited_and_filled_densely_with_modified_setae absent present;
+{ 73 Transverse,_arcuate_(posteriorly_convex)_row_of_three_pairs_of_large,_alveolate_pits_on_genae,_postgenae_and_gular_plate absent present;
+{ 74 Deep,_smooth,_subrectangular_median_gular_impression_with_rised_lateral_margins_between_posterior_tentorial_pits_and_posterior_gular_plate_(on_transverse_impression_demarcating_neck_region_ventrally) absent present;
+{ 75 Cervical_sclerites well-defined_and_darkly_sclerotized greatly_reduced,_poorly_sclerotized_or_indiscernible;
+{ 76 Gular_sutures sharply_marked indistinct;
+{ 77 Anterior_margin_of_posterior_(post-tentorial)_gular_plate unmodified developed_as_raised_transverse_ridge_with_a_pair_of_lateral_subtriangular_tooth-like_lobes_projecting_anterad;
+{ 78 Elongate_gular_projection_between_posterior_tentorial_pits_and__neck_region absent present;
+{ 79 Placement_of_posterior_tentorial_pits anterior,_very_close_to_hypothetical_line_connecting_posterior_margins_of_cardines in_transverse_impression_demarcating_neck_region slightly_in_front_of_transverse_impression_demarcating_neck_region far_in_front_of_neck_region,_but_also_far_from_mouthoparts;
+{ 80 Shape_of_posterior_tentorial_pits slot-like,_very_narrow_and_elongate subcircular;
+{ 81 Posterior_tentorial_pits distinctly_separated fused_or_deeply_sunken_in_minute_median_pit;
+{ 82 Transverse_sulcus_connecting_posterior_tentorial_pits absent present;
+{ 83 Cardiform,_well-defined_impression_surrounding_posterior_tentorial_pits absent present;
+{ 84 Median_ventral_elevation_between_anterior_submental_margin_and_posterior_tentorial_pits_["gular_carina"] absent present;
+{ 85 Shape_of_median_ventral_elevation_between_anterior_submental_margin_and_posterior_tentorial_pits_["gular_carina"] very_narrow,_almost_linear narrow_but_with_flat_or_convex_ventral_surface,_not_carinate_and_not_linear broad_and_flat,_platform-like,_often_narrowing_posterad;
+{ 86 Median_subtriangular,_well-defined_impression_directed_posterad_at_posterior_margin_of_submentum_(in_place_of_"gular_carina") absent present;
+{ 87 Smooth_longitudinal_median_impression_between_posterior_tentorial_pits_and_submentum,_demarcated_laterally_by_carinae absent present;
+{ 88 Pair_of_large_oval_impressions_between_submentum_and_posterior_tentorial_pits absent present;
+{ 89 Infraocular_carina_running_along_anteroventral_margin_of_eye absent present;
+{ 90 Oblique_or_nearly_longitudinal_ventral_carina_running_from_cardo_toward_anteroventral_margin_of_eye absent present;
+{ 91 Longitudinal_postgenal_carina absent present;
+{ 92 Submental_-_anterior_gular_region not_delimited_laterally_by_continuous_ridges_and_broadly_constricted_submedially delimited_laterally_by_continuous_ridges_and_broadly_constricted_submedially;
+{ 93 Conspicuously_large,_oval_and_strongly_raised_bulge_on_submental_region_sharply_delimited_laterally_and_posteriorly_and_covered_with_different_setae_(or_asetose)_than_post-tentorial_gula_in_front_of_neck_region absent present;
+{ 94 Short_submental_region_just_behind_base_of_mentum_and_peristomal_regions demarcated_posteriorly_by_continuous_ridge_extending_laterally_beyond_cardines not_demarcated_posteriorly;
+{ 95 Mentum_and_submentum clearly_demarcated_by_a_groove_or_distinct_suture poorly_separated_by_superficial_and_very_narrow_transverse_fissure;
+{ 96 Shape_of_mentum subrectangular trapezoidal,_broadest_at_base inversely_trapezoidal,_broadest_anteriorly_or_sub-anteriorly subhexagonal_or_with_distinctly_convex_sides,_broadest_near_middle cordiform;
+{ 97 Length_of_mentum_(if_modfiied_in_males,_as_in_Tricaleda,_then_this_refers_to_females) about_as_long_as_broad_or_slightly_elongate distinctly_transverse;
+{ 98 Pair_of_large_alveolate_anteroventral_impressions_on_mentum absent present;
+{ 99 Irregular,_transverse_rugae_on_mentum absent present;
+{ 100 Anterior_mental_margin strongly_projecting_anteriorly,_convex straight_or_weakly_convex at_least_slightly_concave;
+{ 101 Prementum present,_with_labial_palps reduced,_indiscernible_and_lacking_palps;
+{ 102 Labial_palps distinctly_longer_than_mentum about_as_long_as_mentum shorter_than_mentum;
+{ 103 Labial_palpomere_1 distinctly_elongate_and_distinctly_broadened_distad,_with_apical_margin_oblique minute,_at_most_slightly_elongate,_subcylindrical,_with_truncate_apex strongly_elongate,_at_least_twice_as_long_as_broad,_with_truncate_apex;
+{ 104 Labial_palpomere_2 weakly_elongate_and_distinctly_brodened_distad,_with_oblique_apex strongly_elongate,_clavate,_with_rounded_and_at_most_indistinctly_oblique_apex strongly_elongate,_subcylindrical,_with_truncate_apex minute,_weakly_elongate,_sybcylindrical,_with_truncated_apex;
+{ 105 Insertion_of_labial_palpomere_3 at_center_of_apical_region off_center,_submesal;
+{ 106 Shape_of_labial_palpomere_3 strongly_elongate,_oval_or_nearly_rectangular_and_flattened_laterally subconical_and_strongly_elongate,_much_narrower_than_palpomere_2 rod-like,_slender,_but_not_setiform setiform_or_nearly_setiform,_very_slender,_hardly_distinguishable_from_seta fusiform,_slender,_truncate_at_apex minute,_papillate,_about_as_long_as_broad subcylindrical,_weakly_elongate,_with_rounded_apex;
+{ 107 Long,_curved_subapical_lateral_(external)_seta_on_labial_palpomere_2 present absent;
+{ 108 Cardo extremely_short,_about_5_times_as_broad_as_long 2-3_times_as_broad_as_long conspicuously_long,_distinctly_less_than_twice_as_wide_as_long;
+{ 109 Maxillary_palpifer fully_exposed_in_ventral_view,_with_long_lateral_(external)_subapical_or_submedian_seta largely_concealed_in_ventral_view,_lacking_long_lateral_seta;
+{ 110 Basistipes subtriangular_and_flat,_not_subdivided subdivided_into_convex_transverse_semicircular_basal_portion_and_flat,_narrower_and_elongate_distal_region;
+{ 111 Maxillary_palp tetramerous strongly_reduced,_composed_of_one_palpomere;
+{ 112 Length_of_maxillary_palps much_shorter_than_head_but_much_longer_than_mentum subequal_to_length_of_head distinctly_longer_than_head,_but_not_extremely_elongate extremely_elongate,_twice_as_long_as_head extremely_shortened,_at_most_as_long_as_mentum;
+{ 113 Reduced,_one-segmented_maxillary_palp with_reticulate_microsculpture smooth;
+{ 114 Short,_spatulate_setae_on_maxillary_palpomeres_2-4 absent present;
+{ 115 Patches_of_dense,_recumbent_brachyplumose_setae_on_maxillary_palpomeres_3_and_4 absent present;
+{ 116 Maxillary_palpomere_1 minute,_up_to_3_times_as_long_as_broad,_subcylindrical_or_slightly_thickened_distad extremely_elongate,_8_and_more_times_as_long_as_broad,_subcylindrical large_but_short,_2-3_times_as_long_as_broad_and_strongly_thickened_distad,_nearly_pedunculate;
+{ 117 Proximal_pedunculate_portion_of_maxillary_palpomere_2 shorter_than_broadened_distal_region subequal_in_length_to_distal_broadened_portions distinctly_longer_than_distal_broadened_portion;
+{ 118 Shape_of_maxillary_palpomere_2 weakly_curved curved_or_bent_at_nearly_right_angle;
+{ 119 Rod-like_or_subconical_projection_with_dense_apical_group_of_tiny_projections_on_external_margin_of_maxillary_palpomere_2 absent present;
+{ 120 Distal_(brodened)_region_of_maxillary_palpomere_2 smooth with_several_round_tubercles;
+{ 121 Maxillary_palpomere_3 short,_asymmetrical,_subtriangular_in_ventral_view,_with_very_short_mesal_margin short,_asymmetrical,_subtriangular_in_ventral_view,_elongate_and_with_long_mesal_margin as_large_or_larger_than_distal_broadened_portion_of_palpomere_2_and_shorter_than_mxp2,_asymmetrical,_strongly_elongate_and_pedunculate smaller_than_distal_broadened_portion_of_palpomere_2_and_shorter_than_mxp2,_symmetrical,_subcylindrical as_large_or_larger_than_distal_broadened_portion_of_palpomere_2_and_shorter_than_mxp2,_asymmetrical,_strongly_elongate_and_with_angulate,_projecting_anterior_(mesal)_margin_bearing_at_the_broadest_site_a_pair_of_long_sensory_bristles as_large_or_larger_than_distal_broadened_portion_of_palpomere_2_and_shorter_than_mxp2,_asymmetrical,_subtriangular_in_ventral_view_and_strongly_transverse longer_and_broader_than_palpomere_2,_nearly_symmetrical,_subcylindrical;
+{ 122 Rod-like_or_subconical_projection_with_dense_apical_group_of_tiny_projections_on_external_margin_of_maxillary_palpomere_3 absent present;
+{ 123 Maxillary_palpomere_4 strongly_elongate,_oval_or_nearly_rectangular_and_flattened_laterally approximately_fusiform_with_very_short_or_indistinct_peduncle elongate_but_strongly_transverse,_directed_laterad_when_palps_are_outstreched_anterad asymmetrical,_nearly_axe-shaped,_with_long_peduncule fusiform_and_recurved,_with_extremely_long_peduncle clavate,_strongly_elongate_and_slender,_weakly_curved_and_with_pointed_apex strongly_elongate,_much_narrower_than_palpomere_3,_largely_subcylindrical_with_short_apical_region_tapering longer_than_palpomere_3,_strongly_elongate_and_slender,_evenly_tapering_from_base_to_truncate_apex;
+{ 124 Length_of_approximately_fusiform_maxillary_palpomere_4 stout,_up_to_twice_as_long_as_broad moderately_slender,_2.5-5_times_as_long_as_broad extremely_elongate,_6_and_more_times_as_long_as_broad;
+{ 125 Cross-section_of_fusiform_maxillary_palpomere_4 subcircular lentiform,_palpomere_strongly_flattened_and_with_mesal_(anterior)_margin_developed_as_longitudinal_ridge;
+{ 126 Base_of_approximately_fusiform_maxillary_palpomere_4 gradually_or_rapidly_narrowed,_but_not_step-wise,_and_lacking_basal_ridge abruptly,_step-wise_narrowed,_with_distinct_ridge_between_narrow_and_short_basal_stalk_and_broader_and_much_longer_main_portion_of_palpomere;
+{ 127 Sides_of_approximately_fusiform_maxillary_palpomere_4 symmetrical_or_nearly_so,_similarly_shaped clearly_asymmetrical,_mesal_margin_more_convex_than_lateral_margin,_at_least_in_sub-basal_region clearly_asymmetrical,_lateral_margin_bulging_sub-basally_and_distally_less_convex_than_mesal_margin clearly_asymmetrical,_external_margin_more_or_less_angulate_and_much_longer_than_mesal_margin,_mesal_margin_weakly_convex_or_straight clearly_asymmetrical,_in_proximal_half_mesal_margin_convex,_lateral_(external)_margin_concave;
+{ 128 Rod-like_or_subconical_projection_with_apical_group_of_digitiform_sensilla_on_external_margin_of_maxillary_palpomere_4 absent present;
+{ 129 Dense_cuticular_projections_with_pores_on_maxillary_palpomere_4 absent present;
+{ 130 Apical_sensory_appendage_of_maxillary_palp present absent;
+{ 131 Shape_of_apical_sensory_appendage_of_maxillary_palp straight strongly_curved;
+{ 132 Placement_of_sensory_apendage_of_maxillary_palp apical subapical;
+{ 133 Shape_of_galea broad_and_flat,_with_setal_fringe_on_mesal_and_distal_margins strongly_elongate,_slender;
+{ 134 Slender_galea with_setae_mainly_along_masal_margin with_setae_mainly_on_distal_margin;
+{ 135 Setal_fringes_of_lacinia_and_galea short,_inconspicuous longer_than_lacinia_and_galea_and_strongly_projecting_anterad_beyond_labrum;
+{ 136 Mandibles well-developed,_elongate_and_in_closed_position_largely_overlapping,_falciform_or_subtriangular_with_falcate_distal_region strongly_shortened,_only_slightly_longer_than_broad,_in_closed_position_at_most_their_apices_overlapping,_subtriangular_and_not_falciform;
+{ 137 Mesal_mandibular_margin with_several_pre-apical_teeth lacking_teeth_or_with_one_preapical_tooth;
+{ 138 Lateral_or_dorsolateral_impression,_pit_and/or_groove_in_mandible_(to_release_glandular_secretion) absent present;
+{ 139 Prostheca_with_slender_microtrichia absent present;
+{ 140 Mandibular_mola present absent;
+{ 141 Labrum bilobate,_with_conspicously_dense_setae_in_median_emargination simple,_with_sides_converging_anterad simple,_inversely_subtrapezoidal,_broadening_anterad,_with_sides_projecting_anterolaterad_or_laterad complex,_with_delimited_posterior_and_anterior_regions_differing_in_shape_and_demarcated_laterally_by_constriction_or_in_a_step-wise_manner conspicously_small,_approximately_lentiform_or_rhomboidal,_with_posterior_and_anterior_margins_convex_and_subvertical;
+{ 142 Dorsal_or_anterodorsal_surface_of_labrum lacking_lateral_pair_or_lateral_groups_of_glandular_pores with_lateral_pair_or_lateral_groups_of_glandular_pores;
+{ 143 Subtrapezoidal_labrum lacking_deep,_abrupt_anteromedian_emargination with_deep,_abrupt_anteromedian_emargination;
+{ 144 Lentiform_labrum lacking_shallow_anteromedian_emargination with_shallow_anteromedian_emargination;
+{ 145 Approximate_median_peg-like_sensilla_on_anterior_labral_margin present,_two present,_four absent_or_indiscernible/unrecognizable;
+{ 146 Number_of_antennomeres 11 9 7 6 4 3;
+{ 147 Basal_portion_of_scape simple countersank_in_base_of_distal_portion;
+{ 148 Distal_portion_of_scape fully_exposed basal_half_or_more_concealed_inside_antennal_cavity;
+{ 149 Shape_of_distal_portion_of_scape subcylindrical_or_ovoid,_inconcpicuously_long subcylindrical,_concpicuously_long subglobose,_conspicously_short;
+{ 150 Pedicel straight distinctly_bent_at_obtuse_angle_between_proximal_articulating_portion_and_exposed_distal_part;
+{ 151 Base_of_pedicel lacking_collar_or_with_barely_discernible,_indistinct_trace_of_collar with_distinct,_sharply_marked_annulate_collar_(in_some_cases_developed_only_partly,_usually_ventrally);
+{ 152 Cross-section_of_flagellomeres subcircular strongly_elongate_dorsoventrally_(flagellomeres_strongly_flattened_laterally);
+{ 153 Predominating_setae_on_flagellomeres unmodified long,_lanceolate,_with_longituinal_costae bifurcate barbed;
+{ 154 Terminal_antennomere with_approximately_subconical_apex_and_covered_mainly_with_simple_setae forming_small_and_spherical_club,_with_most_setae_on_its_distal_half forming_conspicously_large_and_flattened_oval_club,_covered_mainly_by_simple_setae with_truncate_apex_with_sunken_distal_surface_covered_with_digitiform_sensilla_and/or_setae,_surrounded_by_raised_rim broadly_rounded,_dome-shaped,_lacking_digitiform_sensilla broadly_rounded_and_strongly_flattened,_so_that_apical_margin_is_ridge-like;
+;
+
+
+ccode  - 0.154;
+
+
+;

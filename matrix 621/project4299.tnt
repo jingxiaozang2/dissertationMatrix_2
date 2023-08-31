@@ -1,0 +1,67 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.35.17'
+34 15
+
+&[num]
+Hypothetical_ancestor              000000000000000000000000000000000?
+Anoualerpeton_priscum              0?0?0?0?0000000001100011000?000?0?
+Anoualerpeton_unicum               010000000000?00??11000000000000???
+Celtedens_ibericus                 00000?0?000????0000?000001?0100000
+Albanerpeton_arthridion            00000000000000?0000011001111000???
+Albanerpeton_gracile               0000000011100000000111000111000???
+Albanerpeton_galaktion             000000001210010?000011010111000???
+Albanerpeton_cifellii              00020000111000???????????11?0?????
+Albanerpeton_nexuosum              1111010?11010010011011110111001???
+Albanerpeton_inexpectatum          1111131111000011100112120111010110
+Albanerpeton_pannonicum            1111000011000010000112121111011??0
+Paskapoo_species                   111113101100101000011?101111010???
+Wesserpeton_evansae                0?010000??00?000000?100011?101010?
+Una_species                        000?000?000?????????100001?00?0???
+Shirerpeton_isajii                 ??????????????00?1101?111??10?1011
+
+;
+
+
+cnames
+{ 0 Build_of_premaxilla gracile robust;
+{ 1 Ratio_of_height_of_premaxillary_pars_dorsalis_versus_width_across_suprapalatal_pit "high",_ratio_greater_than_about_1.55_ "low",_ratio_less_than_about_1.55;
+{ 2 Inter-premaxillary_contact sutured_medially_(i.e.,_paired) fused_medially_in_some_individuals;
+{ 3 Premaxillary-nasal_contact premaxillary_pars_dorsalis_minimally_overlaps_and_abuts_against_or_weakly_sutured_with_anterior_end_of_nasal premaxillary_pars_dorsalis_minimally_overlaps_and_strongly_sutured_with_anterior_end_of_nasal anterior_end_of_nasal_fits_into_lingual_facet_on_premaxillary_pars_dorsalis_and_braced_ventrolaterally_by_expanded_dorsal_end_of_lateral_internal_strut;
+{ 4 Boss_on_premaxilla present absent;
+{ 5 Relative_size_of_premaxillary_boss,_if_present covers_about_dorsal_one-quarter_to_one-third_of_pars_dorsalis covers_about_dor_sal_one-half_of_pars_dorsalis unused inapplicable;
+{ 6 Distribution_of_labial_ornament_on_large_premaxillae restricted_to_dorsal_part_of_pars_dorsalis covers_entire_face_of_pars_dorsalis;
+{ 7 Pattern_of_premaxillary_labial_ornament discontinuous,_anastomosing_ridges_and_irregular_pits continuous_ridges_defining_polygonal_pits pustulate;
+{ 8 Vertical_position_of_suprapalatal_pit_on_pars_dorsalis "high",_with_ventral_edge_of_pit_well_above_dorsal_face_of_pars_palatinum "low",_with_ventral_edge_of_pit_just_above_or,_more_typically,_continuous_with_dorsal_face_of_pars_palatinum;
+{ 9 Size_of_suprapalatal_pit_relative_to_lingual_surface_area_of_pars_dorsalis "small",_about_1% "moderate",_about_4-15% "large",_about_20-25%;
+{ 10 Outline_of_suprapalatal_pit oval triangular_or_slit-like;
+{ 11 Form_of_dorsal_process_on_lingual_edge_of_maxillary_process low,_isolated_ridge high_flange,_continuous_labially_with_base_of_lateral_internal_strut;
+{ 12 Form_of_vomerine_process_on_premaxilla prominent weak;
+{ 13 Diameter_of_palatal_foramen_in_premaxilla_relative_to_diameter_of_base_of_medial_teeth_on_bone "small",_foramen_diameter_<=_tooth_diameter "large",_foramen_diameter_>_about_one_and_one-third_tooth_diameter;
+{ 14 Length_of_premaxillary_lateral_process_on_maxilla_relative_to_height_of_process_at_base "long",_length_>_height "short",_length_<=_height;
+{ 15 Dorsally_projecting_process_on_dentary_immediately_behind_tooth_row absent present;
+{ 16 Labial_ornament_on_large_maxilla_and_dentary absent present;
+{ 17 Labial_or_lingual_profile_of_occlusal_margin_of_maxilla_and_den_tary essentially_straight strongly_convex_or_angular,_with_apex_adjacent_to_tallest_teeth;
+{ 18 Size_heterodonty_of_teeth_on_maxilla_and_dentary weakly_heterodont_anteriorly strongly_heterodont_anteriorly;
+{ 19 Position_of_anterior_end_of_maxillary_tooth_row_relative_to_point_of_maximum_indentation_along_leading_edge_of_nasal_process anterior_to approximately_in_line;
+{ 20 Dorsal_or_ventral_outline_of_fused_frontals approximately_rectangular-_or_bell-shaped approximately_triangular;
+{ 21 Ratio_of_midline_length_of_fused_frontals_versus_width_across_posterior_edge_of_bone_,_between_lateral_edges_of_ventrolateral_crests_,_in_large_specimens "long",_ratio_more_than_about_1.2 "moderate",_ratio_between_about_1.2_and_1.1 "short",_ratio_equal_to_or_less_than_about_1.0.;
+{ 22 Proportions_of_internasal_process_on_fused_frontals "short",_length_<=_width "long",_length_>_width;
+{ 23 Form_of_ventrolateral_crest_on_large_,_fused_frontals narrow_and_convex_ventrally_to_bevelled_ventrolaterally_in_transverse_view narrow_and_triangular_in_transverse_view,_with_ventral_face_flat_to_shallowly_concave wide_and_triangular_in_tranverse_view,_with_ventral_face_deeply_concave;
+{ 24 Estimated_maximum_snout?pelvic_length "large",_>_about_50_mm "small",_<_about_45_mm;
+{ 25 Direction_faced_by_suprapalatal_pit_in_pars_dorsalis_of_premaxilla laterolingually lingually;
+{ 26 Path_followed_by_canal_through_pars_palatinum_in_premaxilla_,_between_dorsal_and_ventral_openings_of_palatal_foramen dorso-laterally-ventromedially vertically;
+{ 27 Position_in_frontals_of_anterior_end_of_orbital_margin_relative_to_anteroposterior_midpoint_of_frontals in_front_of in_line_with_or_behind;
+{ 28 Dorsal_or_ventral_outline_of_internasal_process_on_frontals tapered_anteriorly bulbous;
+{ 29 Suprapalatal_pit_variably_divided undivided divided_in_about_one-third_or_more_of_specimens;
+{ 30 Flattened_ventromedian_keel_extending_along_posterior_two_thirds_of_fused_frontals absent present;
+{ 31 Postorbital_wing_of_parietal_length equal_or_longer_than_width_of_frontoparietal_suture shorter_than_width_of_frontoparietal_suture;
+{ 32 Sculpture_extent_on_postorbital_wing_of_parietal sculpture_extends_on_to_wing wing_unsculptured;
+{ 33 Posterior_process_of_parietal single double;
+;
+
+
+ccode  - 0.33;
+
+
+;

@@ -1,0 +1,75 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.36.23'
+33 24
+
+&[num]
+Hypothetical_ancestor              0000?0000000000000000040000000100
+Anoualerpeton_priscum              0000?00000??0000001002?010?10010?
+Anoualerpeton_unicum               0000?00000000000001002?00010001??
+Celtedens_ibericus                 1?00?010?0??00?0?000?020000000000
+Celtedens_megacephalus             1??????????????????0?02??000000??
+Albanerpeton_arthridion            0000?0101000000?000011?00110102??
+Albanerpeton_gracile               1000?1101000?100110011?00011011??
+Albanerpeton_galaktion             2100?1101000?100010011?01110012??
+Albanerpeton_cifellii              10?0?11010?0?10??????????????????
+Albanerpeton_nexuosum              2000?0111111?101011011?01111111??
+Albanerpeton_inexpectatum          2011?0111112?111110111?0121111101
+Albanerpeton_pannonicum            1110?0111110?111110011?11211111??
+Paskapoo_species                   1011?0111112?1?11?00?1?00?11011??
+Wesserpeton_evansae                1010?010?0100?0??10011?0000000101
+Una_species                        0?11?010?0?0000??????1?00001012??
+Shirerpeton_isajii                 1??????????????0001011?11?1101211
+Yaksha_perettii                    1011?10110?0?100001002211?1000111
+Albanerpeton_ektopistikon          1010?01010??000?010011?11110002??
+Albanerpeton_cf._nexuosum          2000?0111111?10???10?????????????
+Alcobaca_species                   1010?0001000?00000100220?0000010?
+Sanpetru_species                   1001?0101000?10000?0?1?11???002??
+Khodzhakul_species                 1?????????????????0011?11???002??
+Purbeck_species                    100??00??0??000000?0?02?0000001??
+Csehbanya_species                  1000?01?10???10??000?????????????
+
+;
+
+
+cnames
+{ 0 Body_size large_(2.75-2.95) small_(<_2.7) very_large_(>=_3.0);
+{ 1 Premaxilla,_diameter_of_palatal_foramen_relative_to_diameter_of_base_of_any_of_more_medial_teeth small large;
+{ 2 Premaxilla,_division_of_suprapalatal_pit undivided divided_(in_1_/_3_+_of_specimens);
+{ 3 Premaxilla,_distribution_of_ornament_on_labial_pars_dorsalis,_in_large_specimens restricted_to_boss_/_dorsal_part_of_pars_dorsalis covers_entire_face;
+{ 4 Premaxilla,_height:width_ratio_of_pars_dorsalis_across_suprapalatal_pit high_(_>_1.55) low_(_<_1.55);
+{ 5 Premaxilla,_lingual_outline_of_suprapalatal_pit oval triangular_to_slit-shaped;
+{ 6 Premaxilla,_orientation_of_suprapalatal_pit_in_pars_dorsalis laterolingual lingual;
+{ 7 Premaxilla:_overall_build gracile robust;
+{ 8 Premaxilla,_path_of_canal_through_pars_palatinum dorsolateral-ventromedial dorsal-ventral;
+{ 9 Premaxilla,_pattern_of_inter-premaxillary_contact visible_suture fused;
+{ 10 Premaxilla,_pattern_of_pars_dorsalis_contact_with_nasal minimally_overlaps_and_abuts_/_weakly_sutures_with_anterior_nasal minimally_overlaps_and_strongly_sutures_with_anterior_nasal has_lingual_facet_for_anterior_nasal,_braced_ventrolaterally_by_expanded_dorsal_end_of_lateral_internal_strut;
+{ 11 Premaxilla,_relative_size_of_boss_on_pars_dorsalis covers_dorsal_1_/_4_to_1_/_3 covers_dorsal_1_/_2 absent;
+{ 12 Premaxilla,_size_of_suprapalatal_pit_relative_to_lingual_surface_area_of_pars_dorsalis small_(1%) moderate_(4_-15%) large_(20_-25%);
+{ 13 Premaxilla,_vertical_position_of_suprapalatal_pit_on_pars_dorsalis high low;
+{ 14 Premaxilla,_mediolateral_position_of_lateral_edge_of_suprapalatal_pit lateral_half medial_half;
+{ 15 Maxilla,_length:basal_height_ratio_of_lateral_premaxillary_process long short;
+{ 16 Maxilla,_position_of_anterior_end_of_tooth_row_relative_to_maximum_indentation_on_leading_edge_of_nasal_process anterior same_level_or_posterior;
+{ 17 Maxilla,_nasal_process posterior_edge_weakly_curved,_little_or_no_overhang strongly_curved,_marked_overhang;
+{ 18 Maxilla_/_dentary,_labial_or_lingual_profile_of_occlusal_margins_and_associated_heterodonty essentially_straight,_with_weak_heterodonty strongly_convex_or_angular,_with_marked_heterodonty_about_1_/_3_from_anterior_end;
+{ 19 Maxilla_/_dentary:_labial_ornament_on_large_individuals absent present;
+{ 20 Dentary,_tooth_count >_=_35 <_35;
+{ 21 Frontals,_dorsal_or_ventral_outline_of_fused_bones hourglass-shaped triangular bell-shaped;
+{ 22 Frontals,_dorsal_or_ventral_outline_of_internasal_process angled_<_45_degrees_anteriorly angled_>_45_degrees_anteriorly bulbous unused inapplicable;
+{ 23 Frontals,_flattened_ventromedian_keel_extending_along_posterior_2_/_3_of_bones absent present;
+{ 24 Frontals,_form_of_ventrolateral_crest,_in_large_specimens convex triangular;
+{ 25 Frontals,_midline_length_relative_to_posterior_width_between_lateral_edges_of_ventrolateral_crests,_in_large_specimens long_(>_1.2) moderate_(1.2-1.1) short_(<_1.1);
+{ 26 Frontals,_position_of_anterior_end_of_orbital_margin_to_anteroposterior_midpoint_of_bone anterior same_level_or_posterior;
+{ 27 Frontal,_proportions_of_internasal_process broad narrow;
+{ 28 Frontals,_width_of_ventrolateral_crest narrow_(<_0.38) broad_(>=_0.38);
+{ 29 Frontals,_anterior_and_posterior_median_fossae_on_ventral_surface continuous separated_by_step_or_shelf;
+{ 30 Frontals,_anterior_approximation_of_ventrolateral_crests_medially closely_appressed_or_contacting separated_by_about_half_the_width_of_one_ventrolateral_crest separated_by_about_the_width_of_one_ventrolateral_crest;
+{ 31 Parietal,_sculpture_on_postorbital_wing present absent;
+{ 32 Parietal,_length_of_postorbital_wing equal_or_longer_than_width_of_frontoparietal_suture shorter_than_width_of_frontoparietal_suture;
+;
+
+
+ccode  - 0.32;
+
+
+;
