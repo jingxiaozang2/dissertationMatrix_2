@@ -1,0 +1,214 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 14.14.24'
+110 86
+
+&[num]
+Acoelorraphe                 00101010001010-00100??000123410211110000000--01000011--------1001100100010100-----13000000--0-0000101020000---
+Arenga                       01101010000000-01001??200-1000-0---0-002002010100----001100112000001100011001-10??12011000--0-0000001020210---
+Bismarckia                   00000000001110-00010??000000120210100110002110101----1-1010101001000100010100111001200300001120110002020001101
+Borassodendron               00000000000110-00000??00100020021----010002110101----1-1000001000000101-20000-11001200300001120100002022?11000
+Borassus                     00000000001110-00010??00-000520211000110002110101----1-1000001000000100010010211011200300000120100002020011000
+Brahea                       00101010001010-00100??00?113520210000000000--01000011--------1001100100010100-----13000000--0-0000101020?00---
+Calamus                      01100000100002-10?????00-003520201100103102110100----1111111111001002200100001111012000110--0-000000?001?00---
+Calospatha                   01100000100002-10100??00-000500211101103102110100----1111111110011002100100001111012000110--0-0000000003??0---
+Caryota                      01101010000000-01001??200000011111011002002010100----001100112000001100011001-10??12011000--0-0000011021?10---
+Ceratolobus                  01100000100002-11?????00-003521211100103102110100----1111111110001002200100001111012000110--0-0000010002500---
+Chamaerops                   00101010001010-00100??00-113521212100000011100100----1-101-101001000200110000-110010-01000--0-0000111020000---
+Chelyocarpus                 00101000000010-10?????001103310210100004010--01001000--------2000000100010100-----10-01001--0-0000001021000---
+Chuniophoenix                00000000000000-0000???000023000111001104000--01011111--------1000100100010100-----11000000--0-0000000020000---
+Coccothrinax                 00101010000010-00000??001103310211110004010--101-------------2001000100010100-----0--03000--0-0000102020000---
+Colpothrinax                 00101010000010-0000???00?100020210100004000--01001111--------1001100100010100-----13000000--0-0000001020?00---
+Copernicia                   00101010001010-00110??000123520210100100000--01001111--------1001110100010100-----13000000--0-0000110020000---
+Corypha                      00000010001110-00000??100113400210100000000--01001100--------1000100100010100-----11001000--0-0010002020000---
+Cryosophila                  00101000010010-10?????000101010210100004010--01001100--------1001000100010100-----10-01000--0-0000001000?00---
+Daemonorops                  01100000100002-10100??00-000500200000103102110100----111111111001100220010000-111012000110--0-0000010003400---
+Eleiodoxa                    01000000100002-10?????10-023520101000113002110100----111111111110100211-10000-101012000110--0-0000100001?00---
+Eremospatha                  01100010100002-11?????0?-0--511101100003100--01001111--------1001110?????????-----12000110--0-0000001001?10---
+Eugeissona                   11000010100002-10?????10-1235202100001030010-010011111111----20001011000100002----1200011001100000000013?01-00
+Guihaia                      00101100000012-0010???00-113520210100004001100100----101110111000110100010000-101010-0?000--0-0001101020000---
+Hemithrinax                  00101010000110-00?????001103500211100004010--101-------------1001010100010100-----0--0?000--0-00001020???00---
+Hyphaene                     10000000001110-00010??000003320211100110002110101----1-101-0010010001000100?0111011200300000120110002020011000
+Itaya                        00001000000110-10?????000100010210100004010--01001111--------2001000100010100-----0--01000--0-00000000?0000---
+Johannesteijsmannia          00101010001010-00100??001113001211100000000--01001111--------1001110100010100-----13000001--0-0000101020100---
+Kerriodoxa                   00000000000010-0000???000110120210100100012100101----1-1-1-1-1001100100010000-110011010000--0-0010010010?00---
+Korthalsia                   11100010100002-11?????10-003520200010114000--010011111111----1000101122-01001-----12000110--0-0000111001200---
+Laccosperma                  11100010100002-10?????10-023520101100103100--01001111--------1000000100010000-----12000110--0-0000101001?00---
+Latania                      00000000000110-00010??000000220211000114002110101----101000002001000100010100511001200300010120100002022411?00
+Lepidocaryum                 00000000100002-10100??001023020201000103102110100----1111111110001001000110012111012000110--0-0000001001300---
+Leucothrinax                 00101010000110-00?????001103220211110004010--101-------------1001000100010100-----0--02000--0-0000102020000---
+Licuala                      00101010001010100?????00-123521211001000000--01001111--------1001110100010000-----13000000--0-0000101020?00---
+Livistona                    00101010001010-00100??00-123520211100000000--01001011--------1001110100010000-----13000000--0-0000101020000---
+Lodoicea                     00000000000100-00000??00?0??4202--00-110002110101----101000002000000100010000111011200300000120100002022011?00
+Mauritia                     00000000100002-10100??0010????0201000103002110100----111111111000100101-01001-111012000110--0-0000000001300---
+Mauritiella                  00000010110002-10100??001023020201000104002110100----111111111000100100001001-111012000110--0-0000000001300---
+Maxburretia                  00101010000010-00?????001113410210000004000-00100----0010000010001001000100001101010-00000--0-0000101020?00---
+Medemia                      00000000001100-00?10??000003120211100110002110101----1-10000010000001000101001????1200300000120110012020?01?00
+Metroxylon                   010000?0100002-10?????1000231202010101130010-010011111111----10011002200100001----12000110--0-0000101001200---
+Myrialepis                   01100000100002-10100??10-023520200000104102110100----1111111111011002200100001111012000110--0-000000000??00---
+Nannorrhops                  10000010000100-00110??100123420210100100000--01011111--------1100100100010100-----11000000--0-0010000010000---
+Nypa                         11000000000002-10001??00110340021000000401201000-----0-000-0-0001000122-00010-0---10-0000000100000000001101000
+Oncocalamus                  01100010100002-10?????001023120101010101102000100----1111111110010101000100100110012000110--0-000010100??00---
+Phoenix                      01101010000001-00110??00-010501110000004002110100----1-001-0010001001000100001?00110-00000--0-0000101020000---
+Pholidocarpus                00101010001010-00100??00-113520211100000000--01001111--------1001010100010000-----13000001--0-0001101020?00---
+Pigafetta                    01000000100002-10?????001023020200010103002110100----1111111110011010---000101111112000110--0-0000001001400---
+Plectocomia                  01100000100002-10?????10-023520200010103102110100----111111111001101220010000-101012000110--0-0000000000?00---
+Plectocomiopsis              01100010100002-10100??10-023420200000104102110100----1111111111011102200110011111012000110--0-0000000001?00---
+Pogonotium                   01100010100002-10?????00-000521211100103102110100----111111111100100111-101001111012000110--0-0000000003?00---
+Pritchardia                  00101010000010-00?????001123001210010004000--01001111--------1001100100110100-----13000000--0-0000000020?00---
+Saribus                      00101000000010-00?????00?123500211000000000--01001111--------1001110100010100-----13000000--0-0000102020?00---
+Raphia                       01001010100002-1010???101023020201010104102010100----111111111001100100010000-111012000110--0-0000011003200---
+Retispatha                   01100010100002-10?????00-003520200100104102110100----1111111110011002200100101111012000110--0-0000000003?00---
+Rhapidophyllum               00101110000010000100??001013?01111000000011100100----0000000010000001000100000100010-01000--0-00011010?0000---
+Rhapis                       00101010000010000100??00-110520210100004001100101----1-111-1110001101001101001101010-01000--0-0001101020000---
+Sabal                        00001000000110-10110??000130220210000004000--01001110--------1001100100010100-----12000000--0-0010101010?00---
+Salacca                      01000010100002-10?????000103320201000113002110100----111111111000100122-00010-101012000110--0-0000100001410---
+Satranala                    00000000001110-00?0???00?0??320211100110002110101----????????1??????100010100?????120??000101-0110012022?01111
+Schippia                     00101000000010-0000???0011202202101000040010-01001100--------1000000100010100-----0--01000--0-0000002020000---
+Serenoa                      00101010001010-00100??000123220210100000000--01001111--------1001100100010100-----13000000--0-0000101020000---
+Thrinax                      00101010000110-00000??001100120211110004010--101-------------2001000100010100-----0--03000--0-0000101020000---
+Trachycarpus                 00101010001010-00100??001113220210000000011100100----0000000010000001000101000100010-01000--0-0001101020000---
+Trithrinax                   00101100000010-00?????001100420210000004010--01001000--------1000000100010100-----10-01000--0-00001010?0?00---
+Wallichia                    01101010000000-01001??200000021111100002002010100----1-1100112001100100011001-10??12001000--0-0000001020210---
+Washingtonia                 00101000001010-00100??001123420211110000000--01001011--------1000100100010100-----13000000--0-0000100010?00---
+Zombia                       00101110000010-00000??00-120520210010004010--101-------------2000000100010100-----0--03000--0-00001020?0000---
+Hyphaenocarpon               ???????????????????????????????????????????????????????????????????????????????????200??00?0120110002????01101
+Areca                        01110010000002-1010???00-110511200000002102010100----001000000000000100010100-1?0112100000000-0000010001200---
+Cocos                        01101000000002-10100??000003411110000002002010100----000100001100000100010100111011201000000100000000000200000
+Ceroxylon                    01001000000002-10100??010120001210000004012100100----1-101-1020011001000101001100012021000000-0010001000?00---
+Chamaedorea                  01110000000002-10?????000023201111101004002110100----110111011000000100010100?1???12012000000-001000?001?00---
+Iriartea                     01110011000002-11001??000000011211011002002010100----000100002000001100011001-10011200?000000-0000001000200---
+Manicaria                    01001000000002-10100??001113411211100002002010100----101100112000000100110100-100112000001000-1110000001?10---
+Orania                       01001000000002-1100???000113421210000002002010100----1-011-011000000?????????-100112021000000-1110001021?10---
+Pelagodoxa                   01100000000002-10100??000100411210100002002010100----0011001010110001000101001100112112001000-0010000001200---
+Phytelephas                  01101000000002-1010???000-1342-0-----004012111000----0---00002000000100010100-100022001001000-1100000123020---
+Podococcus                   01001011000002-11?????000-13?0-0-----012002010101----001100101010110100010100110011202?000000-0010001000?10---
+Pseudophoenix                01000000000002-10100??000113301210000004000--01001111--------1001000100010100-----12012000000-0010000020110---
+Reinhardtia                  01101010000003-11?????000020401110000002002010100----001100112001100100110100-11101200?000000-0000000000?00---
+Sclerosperma                 01001000000002-11101??000-1341-0-----002002010100----000110002000001311-30000-100112122000000-0001000021?00---
+Leopoldinia                  01101010000002-10100??001110411210000002002010100----00010001110001010001010021001120??000000-0011000001?00---
+Roystonea                    01110010000002-10000??000103421210100002002010100----0001001120000001000101000111112111000000-0011000000000---
+Euterpe                      01110010000002-10100??000010421110000002002010100----00010000110000010001010010---12111000000-0011010001000---
+Geonoma                      01101000000002-10?????000100411210001012002010100----001110111101100100010100111??12100000000-0010000001?00---
+
+;
+
+
+cnames
+{ 0 Dichotomous_branching absent present;
+{ 1 Leaf_shape palmate pinnate_incl_bipinnate;
+{ 2 Leaf_sheath gradually_splitting_toward_the_base remaining_tubular_for_at_least_75%_length_until_leaf_abscission_or_marcescence;
+{ 3 Leaf_sheath without_abscission_zone sheath_with_a_clearly_defined_vertical_abscission_zone;
+{ 4 Leaf_sheath not_disintegrating_into_fibers disintegrating_into_fibers;
+{ 5 Leaf_sheath fibres_not_spine_like spine_like;
+{ 6 Leaf_sheath_extension absent present ligule-like oppositipetiolar;
+{ 7 Stilt_roots absent present;
+{ 8 Emergent_spines absent present_on_foliar_organs_only on_foliar_organs_and_stems;
+{ 9 Root_spines absent present;
+{ 10 Petiolar_teeth absent present;
+{ 11 Petiole_split_at_base absent present;
+{ 12 Adaxial_hastula absent present;
+{ 13 Primary_leaf_splitting adaxial adaxial_with_haut abaxial absent;
+{ 14 Secondary_splits occurring_between_the_folds along_abaxial_folds;
+{ 15 Lamina_with_central_abaxial_fold_deeply_split absent present;
+{ 16 Leaflets entire leaflets_praemorse_with_respect_to_single_folds;
+{ 17 Phloem_strands_in_petiole one two;
+{ 18 Lamina_anatomy dorsiventral isolateral;
+{ 19 Silica_bodies spherical hat_shaped;
+{ 20 Resin_gum_canals absent present;
+{ 21 Guard_cells outer_walls_not_thickened thickened;
+{ 22 Flowering pleonanthic acropetal_hapaxanthic basipetal_hapaxanthic;
+{ 23 Prophyll complete incomplete;
+{ 24 Prophyll shorter_than_PD_bract more_or_less_the_same_length_or_longer;
+{ 25 Rachillae all_of_the_same_order of_different_orders;
+{ 26 Prophyll_tip beaked rounded U_shaped State_3;
+{ 27 Prophyll_split_with_respect_to_main_axis abaxially adaxially marginally apically;
+{ 28 Peduncular_bracts five_to_seven four three two one absent;
+{ 29 Peduncle much_longer_than_the_rachis about_the_same_length shorter_than_the_rachis;
+{ 30 Rachis_bracts similar_to_PD_bract_and_prophyll much_smaller_than_PD_bract_and_prophyll;
+{ 31 Inflorescence_branching spicate branched_to_one_order branched_to_two_or_more_orders;
+{ 32 Inflorescence_branches arranged_more_or_less_distichously radially;
+{ 33 First_order_branches basal_conspicuously_longer_than_the_rest same_length_throughout basal_ones_shorter;
+{ 34 Inflorescence_branches lacking_flowers_basally with_flowers_to_their_insertions;
+{ 35 Rachillae not_pendulous pendulous;
+{ 36 Rachillae shorter_than_the_rachis longer_than_the_rachis;
+{ 37 Rachilla_bracts not_tubular tubular;
+{ 38 Flowers superficial sunken_in_pits;
+{ 39 Cincinnus simple acervulus triad dyad absent_(flowers_solitary);
+{ 40 Flowers_or_flower_clusters spiral distichous decussate;
+{ 41 Flowers closed_in_bud open_precociously;
+{ 42 Flower_sex Bisexual_only Bisexual_and_Unisexual Unisexual_only;
+{ 43 Sexual_expression monoecy_or_polygamomonoecy dioecy_or_polygamodioecy;
+{ 44 Staminate_and_pistillate_flowers not_dimorphic dimorphic;
+{ 45 Perianth trimerous greater_than_trimerous;
+{ 46 Perianth tepals sepals_and_petals;
+{ 47 Perianth not_a_cupule cupule;
+{ 48 Pedicelliform_corolla absent present;
+{ 49 Hermaphrodite_flower_sepals distinct connate;
+{ 50 Hermaphrodite_flower_sepals imbricate valvate;
+{ 51 Hermaphrodite_flower_petals distinct connate;
+{ 52 Hermaphrodite_flower_petals_ imbricate valvate;
+{ 53 Staminate_flower_sepals distinct connate;
+{ 54 Staminate_flower_sepals_ imbricate valvate;
+{ 55 Staminate_flower_petals distinct connate;
+{ 56 Staminate_flower_petals imbricate valvate;
+{ 57 Pistillate_flower_sepals distinct connate;
+{ 58 Pistillate_flower_sepals imbricate valvate;
+{ 59 Pistillate_flower_petals distinct connate;
+{ 60 Pistillate_flower_petals imbricate valvate;
+{ 61 Stamens three six more_than_six;
+{ 62 Stamen_filaments straight inflexed;
+{ 63 Stamen_filaments of_equal_length of_two_lengths;
+{ 64 Stamen_filaments distinct connate_in_a_ring;
+{ 65 Stamens free adnate_to_corolla;
+{ 66 Anthers elongate rounded;
+{ 67 Connective not_projecting projecting;
+{ 68 Pollen_aperture_number none one two three;
+{ 69 Aperture_position polar equatorial_or_subequatorial meridional;
+{ 70 Aperture_type sulcate_incl_ext_sulc,_brevisulc_et_trichotomosulc porate zonosulcate_incl_incomplete_zonosulcate;
+{ 71 Sulcate_grains trichotomosulcate_grains_absent trichotomosulcate_grains_present_in_part trichotomosulcate_grains_exclusively_present;
+{ 72 Pollen_shape spheroidal ellipsoidal oblate_spheroidal oblate_rounded_triangular;
+{ 73 Tectum tectate_including_semi_tectate intectate;
+{ 74 Symmetry at_least_one_plane_of_symmetry without_symmetry;
+{ 75 Supratectate_processes absent present;
+{ 76 Intectate_processes absent present;
+{ 77 Pistillode gynoeciform trifid pyramidal capitate attenuate lageniform;
+{ 78 Staminodes absent present;
+{ 79 Staminodes distinct in_a_ring;
+{ 80 Staminodes not_adnate_to_corolla adnate_to_corolla;
+{ 81 Staminodes sterile_anthers_present sterile_anthers_absent;
+{ 82 Carpels one three more_than_three;
+{ 83 Carpels distinct connate_basally connate_throughout connate_by_styles_only;
+{ 84 Carpels not_pseudomonomerous pseudomonomerous;
+{ 85 Ovule_attachment basal lateral pendulous;
+{ 86 Ovules anatropous hemianatropous campylotropous orthotropous;
+{ 87 Ovules micropyles_not_towards_center with_micropyles_toward_center_of_gynoecium;
+{ 88 Pericarp lacking_scales with_scales;
+{ 89 Pericarp corky_warts_absent corky_warts_present;
+{ 90 Endocarp_externally smooth sculptured;
+{ 91 Endocarp_internally smooth sculptured;
+{ 92 Endocarp_with_germination_structure absent present_(e.g._suture/pore/operculum);
+{ 93 Germination_structure_position basal lateral apical;
+{ 94 Endocarp_forming_basal_button absent present;
+{ 95 Endocarp_forming_pyrenes absent present;
+{ 96 Stigmatic_remains apical_or_subapical lateral_and_basal;
+{ 97 Seed_attached basally laterally;
+{ 98 Seed_coat_penetration_(postament) absent present;
+{ 99 Endosperm homogeneous ruminate;
+{ 100 Embryo basal_to_subbasal lateral apical_to_subapical;
+{ 101 Stamen_development centripetal centrifugal;
+{ 102 Germination adjacent_ligular remote_ligular remote_tubular;
+{ 103 Eophyll entire bifid palmate pinnate;
+{ 104 Chromosome_number_n 18 17 16 15 14 13 12;
+{ 105 Seed_per_fruit 1 up_to_3 more_than_three;
+{ 106 Endocarp_origin inner_zone_of_pericarp_(e.g._locular_epidermis) middle_zone_of_pericarp;
+{ 107 Germination_structure_shape circular elongate/slit;
+{ 108 Germination_structure_type pore valve operculum;
+{ 109 Basal_intrusion_of_endocarp absent present;
+;
+
+
+ccode  - 0.109;
+
+
+;

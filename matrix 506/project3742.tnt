@@ -1,0 +1,43 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 14.14.50'
+16 9
+
+&[num]
+Azollopsis_subg_Azollopsis          ???????????310-2
+Azolla_schopfii                     20??11?01??21000
+Azolla_nilotica                     2011101011110100
+Azolla_pinnata                      3100101100010100
+Azolla_macrophylla                  1100001100000211
+Azolla_caroliniana                  0100001100000211
+Azolla_mexicana                     0100001100000211
+Azolla_rubra                        0100000100000211
+Azolla_filiculoides                 1110000100000211
+
+;
+
+
+cnames
+{ 0 Branching_pattern isotomous_dichotomous anisotomous_dichotomous elongate_alternate sub-pinnate;
+{ 1 Habit_at_maturity sub-erect planar;
+{ 2 Stem_vasculature protostele siphonostele;
+{ 3 Occurrence_of_lacunae_in_stem_cortex absent present;
+{ 4 Stem_indumentum glabrous pubescent;
+{ 5 Dorsal_leaf_lobe_venation lacking_midrib with_prominent_midrib;
+{ 6 Leaf_trichome_type unicellular_(basally_contiguous_with_epidermis) bicellular_(upper_cell_superficially_positioned_on_lower_cell_contiguous_with_epidermis);
+{ 7 Occurrence_of_central_chlorophyllous_zone_with_stomata_on_ventral_leaf_lobe present absent;
+{ 8 Root_arrangement solitary in_fascicles;
+{ 9 Root_hair_arrangement in_oblique_partial_whorls irregular_or_in_pairs;
+{ 10 Grouping_of_sporocarps in_pairs in_fours_(tetrads);
+{ 11 Number_of_floats_per_megaspore_apparatus three nine 24 more_than_32;
+{ 12 Separation_of_floats_into_three_sectors occurring not_occurring;
+{ 13 Occurrence_of_megaspore_collar more_or_less_absent small_collar_present large_collar_present;
+{ 14 Occurrence_ofmegaspore_infrafilosum absent present;
+{ 15 Massula_trichome_shape simple glochidiate_(single-barbed) multibarbed;
+;
+
+
+ccode  - 0.10 12 14.15 + 11 13;
+
+
+;

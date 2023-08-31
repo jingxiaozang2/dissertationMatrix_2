@@ -1,0 +1,146 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 14.12.54'
+107 21
+
+&[num]
+Colobus_guereza                     20000030000010000?21220002200100000210010000010221000000100?0001000210?00101221210100001110000010000110200?
+Papio                               00000030000000000?20020002012300002000013000020020000000100?00000100104001000122001000011100000130001102002
+Hylobates                           20000030000010000?31220002200100100000010000010222000000000000010000100110013110011000001010100030000102002
+Pongo_pygmaeus                      30000010000202000030000000002000000000000000010200002100001000000000002211000200111010101111030012001100002
+Gorilla_gorilla                     01000000000010000020000000002102002000010001010200003200000000000100004201102022011010200021101110000131100
+Pan_troglodytes                     00000000000010000021000002000100000000010000000000000000000000000000104211102020021211100021211011110130000
+Sahelanthropus_tchadensis           ?020??????0?3000??2?0????00???0000??000411?0?0?2?01?10??1?0??0???1??0?2????02022????01????????????000?32002
+Ardipithecus_ramidus                000000?0000?10000?2?2??000000?00300000??11100000?110000?200010?000?211?21?1020??1??11111???0111010021?0?002
+Australopithecus_anamensis          ?000010020211200??300??000000100100????4??000200?11?111?202?100?01???1??0?100022????112???2?20?0?2020?30??2
+Australopithecus_afarensis          1000004000011200022000000100020000002103110011010110111011202000100?11221110??2202?212210020120010121031212
+Kenyanthropus_platyops              ?0?011000?2232?0?0202????2?0???2?00???0???????????1??0????2?????0?????????????1?????????????????????0??????
+Australopithecus_garhi              ???00000??001?00??20?????2?0?????????????????????21?42??1?2?3?0??????12??????022????1?2???????????????????0
+Australopithecus_africanus          30111000201121000120320002000202120000041000111101112210322031011000011211101011011212210020110012120022110
+Australopithecus_sediba             20001000?0003000???????0??000??2???????????01212?12210??3221311??0???12?1110202202?2122????????01?12000??12
+Paranthropus_aethiopicus            12202111214012200030001120012100120022241??22222?11?433?423?310010120?2?1????022??1???2????011??1?0401?221?
+Paranthropus_robustus               11222111113022201130220?211113033[12]2201043112222212223231423231011001012211102020021012211020?31020220112112
+Paranthropus_boisei                 10102111214132101230121120112304232222243102222222225331423231011012012211101021021012210?20111110330102212
+Homo_habilis                        200110100001300110102100122003122211210421102221?1121120122?3111100211421110202002111221002???0010120021002
+Homo_rudolfensis                    20?011000?223?021001320002200?021?0??2?4???11211?11221?0[13]2203111?0???13?10??2010?2??1?2????011?022320002001
+Homo_ergaster                       20001010000240021?0132000220031132022214121022200122101?1221311110?2114?11?0202002?2122?0??001001031002000?
+Homo_sapiens                        20000020000240031101320003200314320222041110232002220010122131111012110221102000020212210020211013320020002
+
+;
+
+
+cnames
+{ 0 SG1._Projection_of_nasal_bones_above_frontomaxillary_suture Project,_tapered Project,_expanded Not_Projected Variable;
+{ 1 SG2._Inferior_orbital_margin_rounded No Variable Yes;
+{ 2 SG3._Infraorbital_foramen_location High Variable Low;
+{ 3 SG4._Anterior_Pillars Absent Variable Present;
+{ 4 SG5._Nasoalveolar_clivus_contour_in_coronal_plane Convex Straight Concave_(gutter);
+{ 5 SG6._Protrusion_of_incisor_alveoli_beyond_bicanine_line_(basal_view) Yes No;
+{ 6 SG7._Nasal_cavity_entrance Stepped,_overlap Smooth,_overlap Smooth,_no_overlap Stepped,_no_overlap Variable_(stepped_with_or_without_overlap);
+{ 7 SG8._Palate_thickness Thin Thick;
+{ 8 SG9._Height_of_the_masseter_origin Low Variable High;
+{ 9 SG10._M-L_thickness_of_zygomatic_arch_at_root_of_frontal_process Thin Thick;
+{ 10 SG11._Anterior_projection_of_zygomatic_bone_relative_to_piriform_aperture_(dishing) Posterior Variable_Posterior-Intermediate Intermediate Variable_Intermediate-Anterior Anterior_(dished);
+{ 11 SG12._Anterior_palatal_depth Shallow Variable Deep;
+{ 12 SG13._Index_of_palate_protrusion_anterior_to_sellion_(facial_prognathism) Hyper-prognathic Prognathic Variable_prog.-mesog. Mesognathic Orthognathic;
+{ 13 SG14._Masseteric_position_relative_to_sellion At_or_posterior Variable At_or_anterior;
+{ 14 SG15._Maxillary_trigon_(zygomatico-maxillary_step) Absent Variable Present;
+{ 15 SG16._Cranial_capacity Small Intermediate Large Very_Large;
+{ 16 SG17._Cerebellar_morphology Lateral_flare,_posterior_protrusion Tucked;
+{ 17 SG18._O-M_sinus_present_in_high_frequency No Intermediate Yes;
+{ 18 SG19._Anteromedial_incursion_of_the_superior_temporal_lines Weak Variable_from_Moderate_to_Weak Moderate Strong;
+{ 19 SG20._Sagittal_crest_present,_at_least_in_presumptive_males Yes No;
+{ 20 SG21._Compound_T/N_crest,_at_least_in_presumptive_males Extensive Variable Partial Absent;
+{ 21 SG22._Asterionic_notch Present Variable Absent;
+{ 22 SG23._Parietal_overlap_of_occipital_at_asterion,_at_least_in_males No Yes;
+{ 23 SG24._Squamosal_suture_overlap_extensive,_at_least_in_males Not_extensive Extensive;
+{ 24 SG25._Lateral_inflation_of_mastoid_process_relative_to_supramastoid_crest Not_inflated Variable Inflated;
+{ 25 SG26._Postorbital_constriction Marked_(<67.5%) Variable_marked_to_moderate Moderate_(67.5-77%) Slight_(>77%);
+{ 26 SG27._Pneumatization_of_temporal_squama Extensive Variable Reduced;
+{ 27 SG28._Facial_hafting Low High;
+{ 28 SG29._Supraglenoid_gutter_width Narrow Variable Wide;
+{ 29 SG30._External_cranial_base_flexion Retroflexed Flat Moderate Flexed;
+{ 30 SG31._Horizontal_distance_between_TMJ_and_upper_M2/M3 Long Short;
+{ 31 SG32._Relative_depth_of_mandibular_fossa Shallow Variable_between_shallow_and_intermediate Intermediate Variable_between_intermediate_and_deep Deep;
+{ 32 SG33._Postglenoid_process_size Large Mid-sized Variable_mid.-small Small;
+{ 33 SG34._Configuration_of_tympanic Tubular_(or_weak_crest) Variable_tubular_or_crest Crest_with_vertical_plate Crest_with_inclined_plate;
+{ 34 SG35._Medio-lateral_position_of_external_auditory_meatus Medial Variable Lateral;
+{ 35 SG36._Vaginal_process Small_or_absent Variable Moderate_to_large;
+{ 36 SG37._Eustachian_process_of_tympanic Present_and_prominent Variable Absent_or_slight;
+{ 37 SG38._Petrous_orientation Sagittal_(>55_degrees) Variable Coronal_(<_55_degrees);
+{ 38 SG39._Heart_shaped_foramen_magnum Absent Variable Present;
+{ 39 SG40._Inclination_nuchal_plane Extremely_steep Steeply_inclined Intermediate Variable Weakly_inclined;
+{ 40 SG41._Position_of_foramen_magnum_relative_to_bi-tympanic_line Well_posterior At_bi-tympanic_line Variable_at_or_anterior Well_anterior;
+{ 41 SG42._Inclination_of_foramen_magnum Strongly_inclined_(posterior) Roughly_horizontal Strongly_inclined_(anterior);
+{ 42 SG43._Origin_of_digastric_muscle Broad,_shallow_fossa Deep,_narrow_notch;
+{ 43 SG44._Mandibular_cross-sectional_area_at_M1 Small Variable Large;
+{ 44 SG45._Orientation_of_mandibular_symphysis Receding Intermediate/Variable Vertical;
+{ 45 SG46._Direction_of_mental_foramen_opening Anterior Variable Lateral Posterior;
+{ 46 SG47._Hollowing_above_and_behind_mental_foramen Present Variable Absent;
+{ 47 SG48._Width_of_mandibular_extramolar_sulcus Narrow Variable Wide;
+{ 48 SG49._Mandibular_deciduous_canine_shape Apex_central,_mesial_convexity_low Apex_variable,_mesial_convexity_variable Apex_mesial,_mesial_convexity_high;
+{ 49 SG50._Incisal_Reduction No Moderate Yes;
+{ 50 SG51._Canines_reduced No Somewhat Very;
+{ 51 SG52._Prominence_of_median_lingual_ridge_of_mandibular_canine Prominent Variable Weak;
+{ 52 SG53._Premolar_crown_area Smallest State_1 State_2 State_3 State_4 Largest;
+{ 53 SG54._Molar_crown_area Smallest State_1 State_2 Largest;
+{ 54 SG55._Lower_dM1_mesial_crown_profile Mesial_marginal_ridge_(MMR)_absent,_protoconid_anterior,_fovea_open MMR_slight,_protoconid_anterior,_fovea_open MMR_slight,_protoconid_anterior,_fovea_closed MMR_thick,_protoconid_even_with_metaconid,_fovea_closed;
+{ 55 SG56._Distal_marginal_ridge_of_upper_dM2 Low High;
+{ 56 'SG57. Positions of buccal and lingual cusps relative to crown margin (states as for mandibular teeth; reverse for maxillary teeth)' Buccal_and_lingual_cusps_approximate_crown_margin Lingual_cusps_approximate_margin,_buccal_cusps_slightly_lingual_to_margin Lingual_cusps_approximate_margin,_buccal_cusps_moderately_lingual_to_margin Lingual_cusps_slightly_buccal_to_margin,_buccal_cusps_moderately_lingual_to_margin Lingual_cusps_moderately_buccal_to_margin,_buccal_cusps_strongly_lingual_to_margin;
+{ 57 SG58._Frequency_of_well_developed_lower_P3_metaconid Absent Infrequent Frequent;
+{ 58 SG59._Relative_enamel_thickness Thin Variable Thick Hyperthick;
+{ 59 SG60._Dental_development_rate Delayed Intermediate Accelerated;
+{ 60 SG61._Mesiobuccal_protrusion_of_P3_crown_base Strong Moderate Variable Weak_to_absent;
+{ 61 SG62=CW86._Orientation_of_mandibular_premolar_row_(dental_arcade_shape) Parasagittal Oblique;
+{ 62 SG63._Parietal_Tuber Absent Present;
+{ 63 SG64._Parietomastoid_angle Strong Weak;
+{ 64 SG65._External_auditory_meatus_size Small Large;
+{ 65 SG66._Separation_of_mandibular_tooth_rows Widely_Separated Narrow_Separation;
+{ 66 SG67._Configuration_of_the_superior_orbital_fissure Foramen Comma_shaped;
+{ 67 SG68._Size_of_Longus_capitis_insertion Large Variable Small;
+{ 68 SG69._Height_of_articular_eminence_above_occlusal_plane High_above_plane Near_the_plane;
+{ 69 SG70=CW38._Extensive_mesial_groove_on_upper_canine Yes No;
+{ 70 MSG1._Supraorbital_Hollowing Absent Variable:_Absent_to_restricted_midline Restricted_midline_delimited_depression Restricted_lateral_depression Supratoral_sulcus_that_extends_from_midline_laterally_beyond_medial_third_of_orbit;
+{ 71 CW1._Depth_of_subarcuate_fossa Deep Moderately_deep_to_shallow Very_shallow_to_absent;
+{ 72 CW2._Orientation_and_length_of_the_post-incisive_planum Long,_weakly_inclined Intermediate Short,_steeply_inclined;
+{ 73 CW3._Distinctiveness_of_angular_process_of_mandible Distinct,_with_posterior_projection Not_Distinct;
+{ 74 CW17._Presence/absence_of_frontal_sinus Absent Present;
+{ 75 CW19._Position_of_infraorbital_foramen_relative_to_orbit Foramen_beneath_middle_third_of_orbital_breadth Foramen_beneath_medial_third_of_orbital_breadth;
+{ 76 CW20._Orientation_of_zygomatic_bone Frontal Variable Fronto-lateral Lateral;
+{ 77 CW22._Glabellar_prominence_relative_to_sella Strong,_projects_anterior_to_sella Intermediate,_at_the_level_of_sella Weak,_recessed_behind_sella;
+{ 78 CW25._Supraorbital_Expression Weak Intermediate Torus-like;
+{ 79 CW26._Supraorbital_contour Arched Variable Less_arched;
+{ 80 CW32._Position_of_zygomatic_foramina At_or_below_plane_of_orbital_rim Above_plane_of_orbital_rim;
+{ 81 CW35._Patency_of_premaxillary_suture_in_adults_from_frontal_view Patent Variable Obliterated;
+{ 82 CW36._Petrous_apex_ossified_beyond_spheno-_occipital_synchondrosis Not_ossified Ossified,_with_projection;
+{ 83 CW40._Upper_I2_similar_in_shape_to_upper_I1 Dissimilar Variable Similar;
+{ 84 CW41._Robustucity_of_canines Slender More_robust;
+{ 85 CW42._Basal_keel_of_lower_canine Present Reduced Absent;
+{ 86 CW43._Basal_area_of_paracone_of_P3 Paracone_much_larger_than_protocone Paracone_larger_than_protocone Paracone_equals_protocone;
+{ 87 CW48._Talonid_basin_of_lower_dp3 Open_distally Closed_distally;
+{ 88 CW50._Distal_trigonid_crest_on_lower_dp4 Does_not_reach_protoconid_apex Reaches_protoconid_apex;
+{ 89 CW52._Protocone_of_upper_dp3_in_occlusal_view Larger_than_paracone Smaller_than_paracone;
+{ 90 CW54._Crista_obliqua_of_upper_dp4 Weak Moderate Strong;
+{ 91 CW59._Insertion_of_genioglossus Above_inferior_transverse_torus On_inferior_transverse_torus;
+{ 92 CW60._Insertion_of_geniohyoideus Basally_on_inferior_transverse_torus Higher_on_inferior_transverse_torus Above_inferior_transverse_torus;
+{ 93 CW61._Insertion_of_digastric Posterior_to_inferior_transverse_torus Inferior_transverse_torus Variable Not_on_sympysis;
+{ 94 CW64._Condylar_canal Absent_or_infrequent Frequently_present;
+{ 95 CW76._Fovea_posterior Absent_or_weak Well_developed;
+{ 96 CW78._Mandibular_corpus_depth_along_tooth_row Shallow_mesially Constant Variable Deepens_mesially;
+{ 97 K6._Relative_height_of_vertex Low Variable Intermediate High;
+{ 98 K11._Midfacial_prognathism High Intermediate Variable_low-intermediate Low;
+{ 99 K13._Position_zygomatic_angle Below_orbit At_or_below At_orbit At_or_above Above;
+{ 100 K25._Interorbital_width broad narrow;
+{ 101 K34._Anterior_pole_shape rounded beaked;
+{ 102 K36._Supraorbital_corner Rounded Variable Squared_with_weak_or_absent_tubercle Squared_with_prominent_tubercle;
+{ 103 K58._Nuchal_plane_form transversely_convex variable flat;
+{ 104 K66._Zygomatic_frontal_process_lateral_margin Vertical Slightly_divergent Strongly_divergent;
+{ 105 B35._Zygomatic_prominence_development Absent_or_slight Present;
+{ 106 B61._Buccal_grooves_of_maxillary_premolars Marked Variable Moderate_to_weak;
+;
+
+
+ccode  - 0.1 7 34 46 60 71 94 101.104 + 2.6 8.33 35.45 47.59 61.70 72.93 95.100 105.106;
+
+
+;

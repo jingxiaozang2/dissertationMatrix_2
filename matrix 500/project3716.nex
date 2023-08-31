@@ -1,0 +1,171 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-30 00.36.52 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=12;
+    TAXLABELS
+    		'Chiridota rotifera'
+		'Paracaudina chilensis'
+		'Thyonidium seguroensis'
+		'Parathyone braziliensis'
+		'Cucumaria solangeae'
+		'Euthyonidiella kyushuensis'
+		'Temparena chuni'
+		'Coronatum baiensis'
+		'Anthrochirus loui'
+		'Pentadactyla longidentis'
+		'Stolus cognatus'
+		'Thyone crassidisca'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=22;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'Calcareous ring shape'
+		 [2] 'Articulation between plates'
+		 [3] 'Interradial plate overlap radial plate'
+		 [4] 'Interradial plate shape'
+		 [5] 'Interradial plate subdivided'
+		 [6] 'Interradial plate W-shaped'
+		 [7] 'Radial plate subdivided'
+		 [8] 'Radial plate width at tip in relation to width at center'
+		 [9] 'Groove in the radial plate for water vascular system canals'
+		 [10] 'Retractor muscle'
+		 [11] 'Anterior margin of radial plates widened and with deep depressions'
+		 [12] 'Number of anterior projections in radial plate'
+		 [13] 'Anterior notch in radial plate'
+		 [14] 'Size of radial plate anterior projection?'
+		 [15] 'Mid-ventral fused'
+		 [16] 'Mid-dorsal reduced'
+		 [17] 'Lateral margin depressions'
+		 [18] 'Posterior projection on radial plates'
+		 [19] 'Posterior projection on interradial plates'
+		 [20] 'Posterior processes on radial plates'
+		 [21] 'Length of posterior process'
+		 [22] 'Posterior process expand below the interradial plates'
+	;
+	STATELABELS
+		1
+		'short, wedding band'
+		'crown-shaped'
+		'tube-like ring'
+		,
+		2
+		'plates articulated laterally for most of their length'
+		'plates articulated only at the base'
+		'interradials articulate mostly or only with the posterior processes'
+		,
+		3
+		'no'
+		'yes'
+		,
+		4
+		'rectangular'
+		'triangular'
+		'diamond-shaped'
+		'arrow-shaped'
+		,
+		5
+		'no'
+		'yes'
+		,
+		6
+		'yes'
+		'no'
+		,
+		7
+		'no'
+		'yes'
+		,
+		8
+		'width ?equal'
+		'tip narrower'
+		'base narrower'
+		,
+		9
+		'conspicuous'
+		'inconspicuous'
+		,
+		10
+		'absent'
+		'on muscular process'
+		'just posterior to anterior notch'
+		'posteriorly, not by anterior notch'
+		,
+		11
+		'no'
+		'yes'
+		,
+		12
+		'zero'
+		'two'
+		'three'
+		'four'
+		,
+		13
+		'absent'
+		'deep'
+		'shallow'
+		,
+		14
+		'equal'
+		'unequal'
+		,
+		15
+		'no'
+		'yes'
+		,
+		16
+		'no'
+		'yes'
+		,
+		17
+		'absent'
+		'present'
+		,
+		18
+		'short'
+		'absent'
+		,
+		19
+		'present'
+		'absent'
+		,
+		20
+		'absent'
+		'present'
+		,
+		21
+		'same length or shorter'
+		'process 1 to 3x as large'
+		'process 3 to 5x as large'
+		'process 5 to 7x as large'
+		,
+		22
+		'no'
+		'yes'
+		
+	;
+	MATRIX
+	'Chiridota rotifera'		                  0000000000000-010000--
+	'Paracaudina chilensis'		               00000002010110000000--
+	'Thyonidium seguroensis'		              10130102020110000010--
+	'Parathyone braziliensis'		             10030101020110011000--
+	'Cucumaria solangeae'		                 10030101020110011000--
+	'Euthyonidiella kyushuensis'		          1101010012121001101110
+	'Temparena chuni'		                     11010101120110?0101120
+	'Coronatum baiensis'		                  1103010102011010101100
+	'Anthrochirus loui'		                   1202110002111100011110
+	'Pentadactyla longidentis'		            1203110002131000101131
+	'Stolus cognatus'		                     1203111102012000111111
+	'Thyone crassidisca'		                  2003111103012011111100
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 22;
+      ENDBLOCK;
+      

@@ -1,0 +1,52 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.42.45'
+22 12
+
+&[num]
+Chiridota_rotifera                  0000000000000-010000--
+Paracaudina_chilensis               00000002010110000000--
+Thyonidium_seguroensis              10130102020110000010--
+Parathyone_braziliensis             10030101020110011000--
+Cucumaria_solangeae                 10030101020110011000--
+Euthyonidiella_kyushuensis          1101010012121001101110
+Temparena_chuni                     11010101120110?0101120
+Coronatum_baiensis                  1103010102011010101100
+Anthrochirus_loui                   1202110002111100011110
+Pentadactyla_longidentis            1203110002131000101131
+Stolus_cognatus                     1203111102012000111111
+Thyone_crassidisca                  2003111103012011111100
+
+;
+
+
+cnames
+{ 0 Calcareous_ring_shape short,_wedding_band crown-shaped tube-like_ring;
+{ 1 Articulation_between_plates plates_articulated_laterally_for_most_of_their_length plates_articulated_only_at_the_base interradials_articulate_mostly_or_only_with_the_posterior_processes;
+{ 2 Interradial_plate_overlap_radial_plate no yes;
+{ 3 Interradial_plate_shape rectangular triangular diamond-shaped arrow-shaped;
+{ 4 Interradial_plate_subdivided no yes;
+{ 5 Interradial_plate_W-shaped yes no;
+{ 6 Radial_plate_subdivided no yes;
+{ 7 Radial_plate_width_at_tip_in_relation_to_width_at_center width_(sub)equal tip_narrower base_narrower;
+{ 8 Groove_in_the_radial_plate_for_water_vascular_system_canals conspicuous inconspicuous;
+{ 9 Retractor_muscle absent on_muscular_process just_posterior_to_anterior_notch posteriorly,_not_by_anterior_notch;
+{ 10 Anterior_margin_of_radial_plates_widened_and_with_deep_depressions no yes;
+{ 11 Number_of_anterior_projections_in_radial_plate zero two three four;
+{ 12 Anterior_notch_in_radial_plate absent deep shallow;
+{ 13 Size_of_radial_plate_anterior_projection(s) equal unequal;
+{ 14 Mid-ventral_fused no yes;
+{ 15 Mid-dorsal_reduced no yes;
+{ 16 Lateral_margin_depressions absent present;
+{ 17 Posterior_projection_on_radial_plates short absent;
+{ 18 Posterior_projection_on_interradial_plates present absent;
+{ 19 Posterior_processes_on_radial_plates absent present;
+{ 20 Length_of_posterior_process same_length_or_shorter process_1_to_3x_as_large process_3_to_5x_as_large process_5_to_7x_as_large;
+{ 21 Posterior_process_expand_below_the_interradial_plates no yes;
+;
+
+
+ccode  - 0.21;
+
+
+;

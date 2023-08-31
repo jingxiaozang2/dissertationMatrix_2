@@ -1,0 +1,198 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.41.35'
+65 115
+
+&[num]
+Curicta_scorpio                        11111000111100000000000000100000000000010000000010000000000000010
+Nepa_cinerea                           11111000111110000000000000100000000000010000000010000000000000010
+Laccotrephes_sp_1717                   11111000111110000000000000100000000000010000000010000000000000010
+Austronepa_angusta                     11111000111111100000000000100000000000010000000010000000000000010
+Goondnomdanepa_weiri                   11111000111111100000000000100000000000010000000010000000000000010
+Ranatra_linearis                       11111000111111111000000000100000000000010000000010000000000000010
+Ranatra_diminuta                       11111000111111111000000000100000000000010000000010000000000000010
+Ranatra_australis                      11111000111111111000000000100000000000010000000010000000000000010
+Ranatrasp_1006                         11111000111111111000000000100000000000010000000010000000000000010
+Ranatra_sp_2140                        11111000111111111000000000100000000000010000000010000000000000010
+Ranatra_sp_1722                        11111000111111111000000000100000000000010000000010000000000000010
+Cercotmetus_sp_1501                    11111000111111111000000000100000000000010000000010000000000000010
+Abedus_herberti                        11111110000000000000000000100000000000010000000010000000000000010
+Abedus_sp_2485                         11111110000000000000000000100000000000010000000010000000000000010
+Belostoma_lutarium                     11111110000000000000000000100000000000010000000010000000000000010
+Belostoma_sp_2490                      11111110000000000000000000100000000000010000000010000000000000010
+Diplonychus_sp_1076                    11111110000000000000000000100000000000010000000010000000000000010
+Diplonychus_sp_2493                    11111110000000000000000000100000000000010000000010000000000000010
+Diplonychus_sp_2195                    11111110000000000000000000100000000000010000000010000000000000010
+Lethocerus_patruelis                   11111111000000000000000000100000000000010000000010000000000000010
+Lethocerus_distinctifemur              11111111000000000000000000100000000000010000000010000000000000010
+Lethocerus_insulanus                   11111111000000000000000000100000000000010000000010000000000000010
+Lethocerus_sp_615                      11111111000000000000000000100000000000010000000010000000000000010
+Micronecta_minutissima                 11000000000000100110000000000000000011111000000000000000010000001
+Micronecta_griseola                    11000000000000100110000000000000000011111000000000000000010000001
+Micronecta_poweri                      11000000000000100110000000000000000011111000000000000000010000001
+Micronecta_scholtzi                    11000000000000100110000000000000000011111000000000000000010000001
+Micronecta_sp_2102                     11000000000000100110000000000000000011111000000000000000010000001
+Micronecta_sp_976                      11000000000000100110000000000000000011111000000000000000010000001
+Tenagobia_schadei                      11000000000000100110000000000000000011111000000000000000010000001
+Tenagobia_incerta                      11000000000000100110000000000000000011111000000000000000010000001
+Diaprepocoris_zealandiae               11000000000000100110000000000000000011000000000000000000010000001
+Diaprepocoris_barycephalus             11000000000000100110000000000000000011000000000000000000010000001
+Cymatia_bonsdorffi                     11000000000000100110000000000000000011111111110000000000010000001
+Cymatia_coleoptrata                    11000000000000100110000000000000000011111111110000000000010000001
+Cymatia_rogenhoferi                    11000000000000100110000000000000000011111111110000000000010000001
+Glaenocorisa_propinqua                 11000000000000100110000000000000000011111111001100000000010000001
+Sigara_striata                         11000000000000100110000000000000000011111111001100000000010000001
+Arctocorixa_germari                    11000000000000100110000000000000000011111111001100000000010000001
+Callicorixa_praeusta                   11000000000000100110000000000000000011111111001100000000010000001
+Corixa_dentipes                        11000000000000100110000000000000000011111111001100000000010000001
+Corisella_tarsalis                     11000000000000100110000000000000000011111111001100000000010000001
+Graptocorixa_abdominalis               11000000000000100110000000000000000011111111001100000000010000001
+Agraptocorixa_eurynome                 11000000000000100110000000000000000011111111001100000000010000001
+Agraptocorixa_halei                    11000000000000100110000000000000000011111111001100000000010000001
+Heterocorixa_nigra                     11000000000000100110000000000000000011111111001100000000010000001
+Aphelocheirus_venus                    11000000000000000111110000000000001100010000000010001000000000000
+Aphelocheirus_aestivalis               11000000000000000111110000000000001100010000000010001000000000000
+Aphelocheirus_sp_2032                  11000000000000000111110000000000001100010000000010001000000000000
+Potamocoris_sp_305                     11000000000000000111110000000000001100010000000000000000000000000
+Naucoridae_sp_1853                     11000000000000000111110000100000001100010000000011110000000000001
+Naucoridae_sp_2248                     11000000000000000111110000100000001100010000000011110000000000001
+Naucoridae_sp_1852                     11000000000000000111110000100000001100010000000011100000000000000
+Idiocarus_minor                        11000000000000000111110000100000001100010000000011100000000000001
+Idiocarus_papuus                       11000000000000000111110000100000001100010000000011100000000000001
+Idiocarus_intermedius                  11000000000000000111110000100000001100010000000011100000000000001
+Nesocricos_mion                        11000000000000000111110000100000001100010000000011100000000000001
+Nesocricos_sp_1565                     11000000000000000111110000100000001100010000000011100000000000001
+Tanycricos_acumentum                   11000000000000000111110000100000001100010000000011100000000000001
+Tanycricos_binarius                    11000000000000000111110000100000001100010000000011100000000000001
+Tanycricos_sp_1776                     11000000000000000111110000100000001100010000000011100000000000001
+Asthenocoris_luzonensis                11000000000000000111110000100000001100010000000011100000000000001
+Sagocoris_lariversae                   11000000000000000111110000100000001100010000000011100000000000001
+Sagocoris_sp_1779                      11000000000000000111110000100000001100010000000011100000000000001
+Sagocoris_sp_1784                      11000000000000000111110000100000001100010000000011100000000000001
+Sagocoris_gressitti                    11000000000000000111110000100000001100010000000011100000000000001
+Naucoris_subopacus                     11000000000000000111110000100000001100010000000011110000000000001
+Thurselinus_scutellaris                11000000000000000111110000100000001100010000000011110000000000001
+Naucoris_maculatus                     11000000000000000111110000100000001100010000000011110000000000001
+Pelocoris_sp_606                       11000000000000000111110000100000001100010000000011110000000000001
+Macrocoris_sp_602                      11000000000000000111110000100000001100010000000011110000000000001
+Ilyocoris_cimicoides                   11000000000000000111110000100000001100010000000011110000000000001
+Cataractocoris_marginiventris          11000000000000000111110000100000001100010000000011100000000000000
+Ambrysus_californicus                  11000000000000000111110000100000001100010000000011100000000000001
+Cryphocricos_hungerfordi               11000000000000000111110000100000001100010000000011100000000000000
+Heleocoris_sp_600                      11000000000000000111110000100000001100010000000011100000000000000
+Limnocoris_lutzi                       11000000000000000111110000100000001100010000000011100000000000000
+Limnocoris_moapensis                   11000000000000000111110000100000001100010000000011100000000000000
+Notonecta_lutea                        11000000000000100111110000000000001100010000000000000111001000000
+Notonecta_reuteri                      11000000000000100111110000000000001100010000000000000111001000000
+Notonecta_viridis                      11000000000000100111110000000000001100010000000000000111001000000
+Notonecta_glauca_poissoni              11000000000000100111110000000000001100010000000000000111001000000
+Notonecta_obliqua                      11000000000000100111110000000000001100010000000000000111001000000
+Notonecta_maculata                     11000000000000100111110000000000001100010000000000000111001000000
+Notonecta_lunata                       11000000000000100111110000000000001100010000000000000111001000000
+Enithares_woodwardi                    11000000000000100111110000000000001100010000000000000111001000000
+Enithares_sp_2188                      11000000000000100111110000000000001100010000000000000111001000000
+Enithares_sp_1890                      11000000000000100111110000000000001100010000000000000111001000000
+Enithares_sp_2449                      11000000000000100111110000000000001100010000000000000111001000000
+Enithares_sp_2301                      11000000000000100111110000000000001100010000000000000111001000000
+Enithares_sp_1520                      11000000000000100111110000000000001100010000000000000111001000000
+Anisops_sardeus                        11000000000000100111110000000000001100010000000000000111110000000
+Anisops_debilis                        11000000000000100111110000000000001100010000000000000111110000000
+Buenoa_confusa                         11000000000000100111110000000000001100010000000000000111100000000
+Megochterus_occidentalis               11000000000000000111111111000000110000000000000000000000000000011
+Ochterus_australicus                   11000000000000000111111111000000110000000000000000000000000000011
+Ochterus_marginatus                    11000000000000000111111111000000110000000000000000000000000000011
+Ochterus_sp_1725                       11000000000000000111111111000000110000000000000000000000000000011
+Ochterus_sp_2297                       11000000000000000111111111000000110000000000000000000000000000011
+Ochterus_sp_2508                       11000000000000000111111111000000110000000000000000000000000000011
+Ochterus_sp_619                        11000000000000000111111111000000110000000000000000000000000000011
+Nerthra_fuscipes                       11000000000000000111111111111100000000000000000000000010000000011
+Nerthra_sp_2026                        11000000000000000111111111111100000000000000000000000010000000011
+Nerthra_sp_2028                        11000000000000000111111111111100000000000000000000000010000000011
+Nerthra_sp_1664                        11000000000000000111111111111100000000000000000000000010000000011
+Gelastocoris_rotundatus                11000000000000000111111111111111000000000000000000000000000000011
+Gelastocoris_oculatus                  11000000000000000111111111111111000000000000000000000000000000011
+Helotrephidae_sp_2193                  11000000000000000111110000000000001100010000000000000110000100101
+Helotrephidae_sp_2194                  11000000000000000111110000000000001100010000000000000110000100101
+Hydrotrephes_sp_466                    11000000000000000111110000000000001100010000000000000110000100101
+Helotrephes_sp                         11000000000000000111110000000000001100010000000000000110000100101
+Idiotrephes_asiatus                    11000000000000000111110000000000001100010000000000000110000100101
+Neoplea_striola                        11000000000000000111110000000000001100010000000000000110000111000
+Paraplea_sp_622                        11000000000000000111110000000000001100010000000000000110000111000
+Plea_minutissima                       11000000000000000111110000000000001100010000000000000110000110000
+
+;
+
+
+cnames
+{ 0 Sternum_7_of_female_prolonged sternum_7_of_female_not_prolonged,_not_forming_a_subgenital_plate_which_covers_ovipositor forming_a_subgenital_plate_which_covers_ovipositor;
+{ 1 Antennae antennae_long,_not_concealed,_musculature_normal short,_concealed,_with_weak_musculature;
+{ 2 Apex_of_abdomen apex_of_abdomen_without_paired_respiratory_processes with_paired_respiratory_processes_(siphon);
+{ 3 Fore_wings fore_wings_without_thorny_fields with_thorny_fields_(Dornfelder);
+{ 4 Base_of_labial_segment_2 base_of_labial_segment_2_normal reduced_without_median_longitudinal_groove_for_the_reception_of_stylets;
+{ 5 Metacoxae metacoxae_short,_free conical,_firmly_united_with_metapleuron;
+{ 6 Hind_tibiae hind_tibiae_simple flattened,_with_swimming_hairs;
+{ 7 Fore_tarsus fore_tarsus_with_two_equally_sized_claws-if_not_then_claws_otherwise_modified with_one_large_and_one_small_claw;
+{ 8 Abdomen abdomen_without_or_with_only_one_pair_of_static_sense_organs with_three_pairs_of_static_sense_organs;
+{ 9 Respiratory_siphon respiratory_siphon_at_most_present_as_short,_retractile_air_straps nonretractile,_long_and_filiform;
+{ 10 Tarsi at_least_some_tarsi_two‐_or_three‐segmented all_one‐segmented;
+{ 11 Eggs eggs_without_respiratory_horns with_two_to_twenty‐six_respiratory_horns;
+{ 12 Fore_tibia fore_tibia_and_femur_subequal_in_length only_four‐fifths_length_of_fore_femur;
+{ 13 Abdominal_parasternites abdominal_parasternites_not_concealed concealed_by_laterotergites;
+{ 14 Eggs2 egg_with_more_than_two_respiratory_horns_(if_present) with_two_respiratory_horns;
+{ 15 Body body_short,_flattened_or_otherwise_shaped prolonged,_subcylindrical;
+{ 16 Fore_femur fore_femur_short_and_robust long_and_slender;
+{ 17 Seminal_receptacle seminal_receptacle_divided_into_two_parts divided_into_three_parts;
+{ 18 Food_pump food_pump_without_epipharyngeal_plate with_epipharyngeal_plate;
+{ 19 Food_pump2 food_pump_not_so_modified divided_into_three_parts_(tripartite);
+{ 20 Cibarial_dilatator cibarial_dilatator_not_so_modified divided_into_four_parts;
+{ 21 Ileum ileum_otherwise_shaped C‐shaped;
+{ 22 Clypeus clypeus_not_so_modified divided_by_a_cross_fold;
+{ 23 M-noto‐trochanteralis M-noto‐trochanteralis_undivided split_into_two_muscles;
+{ 24 Male_genital_capsule male_genital_capsule_not_rotated rotated_90 degrees;
+{ 25 Tarsal_formula tarsal_formula_different 1 2 3;
+{ 26 Fore_legs shortened,_raptorial fore_legs_not_shortened,_cursorial;
+{ 27 Antennal_segment antennal_segment_4_normal 4_broadest;
+{ 28 Tarsal_formula2 tarsal_formula_different 1 2 3;
+{ 29 Surface_of_thorax_and_fore_wings surface_of_thorax_and_fore_wings_smooth with_wartlike_sculpturation;
+{ 30 Anterior_pronotum anterior_pronotum_without_thorny_parts with_thorny_parts;
+{ 31 Rostrum rostrum_inserted_distally_on_head inserted_posteriorly_on_head;
+{ 32 Epipharyngeal_plates epipharyngeal_plates_not_modified modified;
+{ 33 Clypeus2 without_such_pattern with_pattern_of_ridges;
+{ 34 Middle_part_of_food_pump middle_part_of_food_pump_simple modified;
+{ 35 Labial_segment_2 labial_segment_2_not_so_modified with_dorsal_triangular_area;
+{ 36 Fore_tarsus2 fore_tarsus_segmented_and/or_otherwise_shaped unsegmented,_forming_a_spoon‐shaped_pala;
+{ 37 Labium labium_cylindrical_to_conical,_segmented broadly_triangular,_unsegmented;
+{ 38 Lateral_mesepimeral_lobus lateral_mesepimeral_lobus_simple modified;
+{ 39 Ocelli ocelli_present absent;
+{ 40 Tarsal_formula3 tarsal_formula_different 1 12;
+{ 41 Hemielytra hemielytra_without_pale_embolium_suture with_pale_embolium_suture;
+{ 42 First_hind_tarsal_segment first_hind_tarsal_segment_shorter_than_hind_femur longer_than_hind_femur;
+{ 43 Mesoscutellum mesoscutellum_exposed_behind_pronotum concealed_beneath_pronotum;
+{ 44 Fore_femur_of_nymphs fore_femur_of_nymphs_with_only_short_bristles with_two_long_bristles;
+{ 45 Labium2 labium_with_transverse_grooves_or_distinct_segments without_transverse_grooves;
+{ 46 Male_abdominal_tergum_6 male_abdomen_without_strigil with_strigil;
+{ 47 Male_fore_tarsus_(pala) male_fore_tarsus_without_a_row_of_pegs with_a_row_of_pegs;
+{ 48 Propleuron propleuron_simple modified;
+{ 49 Head_muscles KM14_and_KM15_not_fused KM14_and_KM15_fused;
+{ 50 Tarsal_formula4 tarsal_formula_different 2 3;
+{ 51 Fore_tarsus_of_female fore_tarsus_of_female_with_two_claws with_or_without_one_claw;
+{ 52 Abdominal_spiracles abdominal_spiracles_not_modified with_rosettes;
+{ 53 Dorsum dorsum_flat_to_moderately_convex strongly_convex;
+{ 54 Receptaculum_seminis receptaculum_seminis_simple modified;
+{ 55 Ventral_abdomen ventral_abdomen_not_modified_as_before with_two_respiratory_grooves;
+{ 56 Claval_commissure claval_commisure_without_sensory_pit with_sensory_pit;
+{ 57 Male_fore_tarsus male_fore_tarsus_two‐_or_three‐segmented one‐segmented;
+{ 58 Middle_femur_of_male middle_femur_without_such_a_process with_a_large,_pointed_process_on_ventral_margin_before_apex;
+{ 59 Head head_separated_from_prothorax firmly_and_immovably_associated_with_prothorax;
+{ 60 Frontoclypeus frontoclypeus_without_sense_organ with_median_sense_organ;
+{ 61 Tarsal_formula5 tarsal_formula_different 2-2-3_or_3-2-3;
+{ 62 Head2 head_not_fused_with_prothorax completely_fused_with_prothorax;
+{ 63 Abdominal_scent_glands abdominal_scent_glands_present_in_nymphs absent_in_nymphs;
+{ 64 Male_genitalia male_genitalia_symmetrical asymmetrical;
+;
+
+
+ccode  - 0.64;
+
+
+;
