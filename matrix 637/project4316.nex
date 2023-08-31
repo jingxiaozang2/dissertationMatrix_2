@@ -1,0 +1,635 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-30 09.23.31 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=42;
+    TAXLABELS
+    		'Didelphis marsupialis'
+		'Perameles bougainville'
+		'Galadi speciosus'
+		'Cercartetus lepidus'
+		'Ngapakaldia spp.'
+		'Kolopsis torus'
+		'Neohelos stirtoni'
+		'Nimbadon lavarackorum'
+		'Silvabestius spp.'
+		'Litokoala kutjamarpensis'
+		'Litokoala dicksmithi'
+		'Madakoala spp.'
+		'Nimiokoala greystanesi'
+		'Perikoala robustus'
+		'Phascolarctos cinereus'
+		'Priscileo pitikantensis'
+		'Priscileo roskellyae'
+		'Wakaleo oldfieldi'
+		'Wakaleo vanderleuri'
+		'Sedophascolomys medius'
+		'Phascolonus gigas'
+		'Ramsayia magna'
+		'Lasiorhinus krefftii'
+		'Lasiorhinus latifrons'
+		'Mukupirna nambensis'
+		'Vombatus ursinus'
+		'Vombatus hacketti'
+		'Warendja wakefieldi'
+		'Muramura spp.'
+		'Priscakoala lucyturnbullae'
+		'Zygomaturus trilobus'
+		'Diprotodon notatum'
+		'Euryzygoma dunense'
+		'Propalorchestes novaculacephalus'
+		'Palorchestes painei'
+		'Palorchestes azael'
+		'Namilamadeta spp.'
+		'Ilaria spp.'
+		'Kuterintja ngama'
+		'Thylacoleo carnifex'
+		'Nimbavombatus boodjamullensis'
+		'Djarthia murgonensis'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=100;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'Number of upper incisors ?'
+		 [2] 'Upper first incisor ?'
+		 [3] 'Upper canine ?'
+		 [4] 'Upper first premolar ?'
+		 [5] 'Upper second premolar ?'
+		 [6] 'Upper third premolar ?'
+		 [7] 'Bladelike P3 - ratio of maximum length to maximum width'
+		 [8] 'Blade-like P3'
+		 [9] 'Posterobuccal cusp on P3'
+		 [10] 'Prominent lingual cusp on P3'
+		 [11] 'Enamel extending down the buccal surface of P3 and onto the root'
+		 [12] 'Enamel tracts extending down lingual surface of upper molars and buccal surface of lower molars'
+		 [13] 'Hypselodont cheek teeth'
+		 [14] 'Molar shape'
+		 [15] 'Enamel crenulations'
+		 [16] 'Selenodonty/distinct centrocrista ?'
+		 [17] 'Lophodonty ?'
+		 [18] 'Fully lophodont molars'
+		 [19] 'Anteriorly concave lower/anteriorly convex upper molar lophs'
+		 [20] 'Metaconule'
+		 [21] 'M1 paraconule'
+		 [22] 'Neometaconule on M1'
+		 [23] 'Protostyle'
+		 [24] 'Neomorphic cuspule at base of metaconule of M1'
+		 [25] 'Posterolingual paracristae'
+		 [26] 'Postprotocrista'
+		 [27] 'M4 metaconule'
+		 [28] 'Posteriorly increasing molar gradient ?'
+		 [29] 'Number of lower incisors ?'
+		 [30] 'Anterior lower incisor'
+		 [31] 'Dorsal surface of procumbent incisor'
+		 [32] 'M1 metaconid'
+		 [33] 'Apex of metaconid is anterior to apex of protoconid on m2-3'
+		 [34] 'Protostylid on m1'
+		 [35] 'Entostylid ridge on m1'
+		 [36] 'Metastylid on lower molars ?'
+		 [37] 'Cristid obliqua'
+		 [38] 'Distinct and separate paraconid on m2-3'
+		 [39] 'Termination of m2-3 paracristid'
+		 [40] 'Presence of a crest connecting entoconid and hypoconid'
+		 [41] 'Incisive foramen in deep fossa formed by intradiastemal ridges/crests that "V" posteriorly to a point at or posterior to incisivomaxillary suture'
+		 [42] 'Incisive foramen in ovate fossa'
+		 [43] 'Incisive foramen located posteriorly'
+		 [44] 'Posterior palatal vacuities ? 1'
+		 [45] 'Posterior palatal vacuities 2'
+		 [46] 'Nasal aperture retracted beyond incisor arcade ?'
+		 [47] 'Nasals'
+		 [48] 'Nasomaxillary suture length relative to naso-premaxillary suture length in dorsal view'
+		 [49] 'Direction of frontonasal suture from midline to lacrimal bone in dorsal view'
+		 [50] 'Nasals contact lacrimals'
+		 [51] 'Combined breadth of nasal bones in dorsal view'
+		 [52] 'Postorbital/supraorbital process of frontal bone in dorsal view ?'
+		 [53] 'Postorbital process'
+		 [54] 'Sagittal crest'
+		 [55] 'Infraorbital foramen'
+		 [56] 'Masseteric process, ventral extent ?'
+		 [57] 'Masseteric process, lateral extent'
+		 [58] 'Masseteric process composition'
+		 [59] 'Presence of a single and extensive area for attachment of masseter muscles extending from anterior to orbit to beneath orbit and traverses both maxillary and jugal bones'
+		 [60] 'Lacrimal tubercle/tuberosity'
+		 [61] 'Palatine-lacrimal contact in orbit'
+		 [62] 'Frontal-squamosal contact'
+		 [63] 'Glenoid fossa'
+		 [64] 'Postglenoid process ?'
+		 [65] 'Position of postglenoid foramen'
+		 [66] 'Tympanic cavity roof elements ?'
+		 [67] 'Tympanic floor elements ?'
+		 [68] 'Tympanic wing, whether squamosal or alisphenoid ?'
+		 [69] 'Epitympanic fenestra developed in postglenoid cavity'
+		 [70] 'Non-auditory sinuses'
+		 [71] 'Posterior epitympanic sinus'
+		 [72] 'Interparietal'
+		 [73] 'Ventrolaterally flared mastoid process on occiput'
+		 [74] 'Size of paroccipital processes'
+		 [75] 'Posterior extent of mandibular symphysis on mandible ?'
+		 [76] 'Flared masseteric eminences on mandible'
+		 [77] 'Masseteric foramen'
+		 [78] 'Fused mandibular symphysis'
+		 [79] 'Subarcuate fossa'
+		 [80] 'Humerus, deltopectoral crest'
+		 [81] 'Cuneiform, position relative to scapholunar'
+		 [82] 'Cuneiform, ridge between ulnar and pisiform facets'
+		 [83] 'Scaphoid, distal surface'
+		 [84] 'Scaphoid, distolateral process'
+		 [85] 'Unciform, hamate process'
+		 [86] 'MC II, proximal end'
+		 [87] 'MC III, facet for MC IV, position'
+		 [88] 'MC III, facet for MC IV, orientation'
+		 [89] 'MC III, magnum facet'
+		 [90] 'MC III, MC II facet'
+		 [91] 'Proximal phalanges, manus or pes, distal ends'
+		 [92] 'Pelvis, ilium'
+		 [93] 'Fibula, lateral notch on distal end'
+		 [94] 'Fibula, femoral facet'
+		 [95] 'Astragalus, lateral tibial facet'
+		 [96] 'Astragalus, head'
+		 [97] 'Cuboid'
+		 [98] 'Entocuneiform, MT I facet'
+		 [99] 'Metatarsal I, entocuneiform facet'
+		 [100] 'Palate'
+	;
+	STATELABELS
+		1
+		'Five'
+		'Four'
+		'Three'
+		'One'
+		,
+		2
+		'Not greatly broadened mediolaterally'
+		'Greatly broadened and "straplike"'
+		,
+		3
+		'Present'
+		'Absent'
+		,
+		4
+		'Present'
+		'Absent'
+		,
+		5
+		'Present'
+		'Absent'
+		,
+		6
+		'not bladelike'
+		'bladelike ?'
+		,
+		7
+		'<1.5'
+		'>1.5'
+		,
+		8
+		'Ridged'
+		'Smooth-sided'
+		,
+		9
+		'Absent'
+		'Present'
+		,
+		10
+		'Absent'
+		'Present'
+		,
+		11
+		'Absent'
+		'Present'
+		,
+		12
+		'Absent'
+		'Present'
+		,
+		13
+		'Absent'
+		'Present'
+		,
+		14
+		'Not strongly bilobed'
+		'Strongly bilobed'
+		,
+		15
+		'Absent/weak'
+		'Strong, crest-like'
+		,
+		16
+		'Absent'
+		'Weakly developed'
+		'Strongly developed'
+		,
+		17
+		'Absent'
+		'Present but weakly developed'
+		'Present and strongly developed - individual cusps no longer identifiable'
+		,
+		18
+		'Without midlink'
+		'With midlink'
+		,
+		19
+		'Absent'
+		'Present'
+		,
+		20
+		'Weakly developed - tooth triangular'
+		'Enlarged, forming posterolingual cusp - molars square'
+		,
+		21
+		'Absent/weak'
+		'Moderate/strong'
+		,
+		22
+		'Absent'
+		'Present'
+		,
+		23
+		'Absent'
+		'Present'
+		,
+		24
+		'Absent'
+		'Present'
+		,
+		25
+		'Absent/weak'
+		'Strongly developed'
+		,
+		26
+		'Present'
+		'Absent'
+		,
+		27
+		'Absent/significantly reduced and retracted towards posterior cingulum'
+		'Distinct, cuspate'
+		,
+		28
+		'M4 absent'
+		'M4 markedly smaller than M1'
+		'Absent, M4 and M1 similar in size, or M4 slightly smaller'
+		'Present, M4 clearly larger than M1'
+		,
+		29
+		'Four'
+		'Three'
+		'Two'
+		'One'
+		,
+		30
+		'Not greatly enlarged'
+		'Greatly enlarged and procumbent'
+		,
+		31
+		'Not strongly concave'
+		'Strongly concave, shovel-shaped'
+		,
+		32
+		'Present'
+		'Absent'
+		,
+		33
+		'No'
+		'Yes'
+		,
+		34
+		'Absent'
+		'Present, cusplike'
+		'Present, vertically directed crest'
+		,
+		35
+		'Absent'
+		'Present'
+		,
+		36
+		'Absent'
+		'Present, cuspate'
+		'Present, metastylid fold'
+		,
+		37
+		'Present, well-developed'
+		'Absent or indistinct'
+		,
+		38
+		'No'
+		'Yes'
+		,
+		39
+		'Terminates in lingual position, anterior to metaconid'
+		'Terminates in more labial position, anterolabial to metaconid'
+		,
+		40
+		'Absent'
+		'Present'
+		,
+		41
+		'No'
+		'Yes'
+		,
+		42
+		'No'
+		'Yes'
+		,
+		43
+		'No'
+		'Yes, the incisive foramina lie posteriorly, just anterior to P3, in a deep pocket at the rear of the diastema; the posterior position of the foramina correspondingly displaces the incisivomaxillary suture to a position just anterior to the cheek tooth row'
+		,
+		44
+		'Present'
+		'Absent'
+		,
+		45
+		'Between maxilla and palatine'
+		'Within palatine'
+		,
+		46
+		'Absent or just posterior to incisor arcade'
+		'Retracted to above diastema ?'
+		'Retracted to above cheek tooth row'
+		,
+		47
+		'Not markedly broadened anteriorly'
+		'Markedly broadened anteriorly'
+		,
+		48
+		'Nearly same or greater'
+		'Far less than naso-premaxillary suture length'
+		,
+		49
+		'Lateral'
+		'Rostrolateral'
+		,
+		50
+		'No'
+		'Yes'
+		,
+		51
+		'Much less than length'
+		'Equal to or greater than length'
+		,
+		52
+		'Small or absent'
+		'Well-developed'
+		'Laterally extensive, contacting frontal process of jugal to form complete postorbital bar'
+		,
+		53
+		'Formed by frontal only'
+		'Formed by frontal and lacrimal'
+		,
+		54
+		'Absent'
+		'Present'
+		,
+		55
+		'Round or oval'
+		'Slitlike'
+		,
+		56
+		'Absent or indistinct'
+		'Short'
+		'Elongate'
+		,
+		57
+		'Not markedly expanded laterally'
+		'Greatly expanded laterally'
+		,
+		58
+		'Maxilla and jugal'
+		'Jugal only'
+		,
+		59
+		'Absent or indistinct'
+		'Forming prominent depression'
+		,
+		60
+		'Absent'
+		'Present'
+		,
+		61
+		'Present'
+		'Absent - frontal-maxilla contact'
+		,
+		62
+		'Absent - alisphenoid-parietal contact'
+		'Present'
+		,
+		63
+		'Articular eminence planar or concave, mandibular fossa absent or indistinct'
+		'Articular eminence planar, mandibular fossa well-developed'
+		'Articular eminence strongly convex and broad'
+		,
+		64
+		'Absent or weakly developed'
+		'Present, vertical'
+		'Present, ventral edge curving posteriorly to partially floor external auditory meatus'
+		,
+		65
+		'Posterior to postglenoid process and bounded medially by petrosal'
+		'Anteromedial to or in line with postglenoid process'
+		'Posteromedial to postglenoid process within squamosal'
+		'Within epitympanic fenestra, surrounded by bony septum'
+		,
+		66
+		'Alisphenoid ?'
+		'Alisphenoid and squamosal'
+		'Squamosal ?'
+		,
+		67
+		'Alisphenoid'
+		'Alisphenoid and squamosal'
+		'Squamosal'
+		,
+		68
+		'Absent'
+		'Does not contact exoccipital'
+		'Contacts exoccipital'
+		,
+		69
+		'Absent'
+		'Present'
+		,
+		70
+		'Absent'
+		'Present'
+		,
+		71
+		'Absent/weak'
+		'Moderate to deep'
+		,
+		72
+		'Present, large'
+		'Absent, very small or polymorphic'
+		,
+		73
+		'Absent'
+		'Present'
+		,
+		74
+		'Small'
+		'Large'
+		,
+		75
+		'Anterior to p3'
+		'Below p3'
+		'Below m1'
+		'Below m2-3'
+		,
+		76
+		'Absent/weak'
+		'Moderately to strongly flared'
+		,
+		77
+		'Absent'
+		'Present'
+		,
+		78
+		'Absent'
+		'Present'
+		,
+		79
+		'Deep and well-excavated'
+		'Shallow depression'
+		,
+		80
+		'projects anteriorly'
+		'overhangs humeral shaft laterally, forming tunnel-like fossa for origin of brachialis'
+		'deltoid and pectoral crest separate; deltoid crest projects laterally but does not overhang brachialis muscle'
+		,
+		81
+		'Directly lateral to scapholunar'
+		'More proximal than the scapholunar'
+		,
+		82
+		'Middle section sinks below the rim of the cuneiform'
+		'High rising throughout, straight'
+		,
+		83
+		'Single facet, smooth'
+		'Separated into two distinct facets'
+		,
+		84
+		'Absent'
+		'Present'
+		,
+		85
+		'Large, hooked and curves medially'
+		'Reduced, not as hooked and does not curve as far medially'
+		,
+		86
+		'Mediolaterally compressed'
+		'Expanded and concave'
+		,
+		87
+		'Proximal only to ligament pit ?'
+		'Dorsal to ligament pit ?'
+		'Dorsal and proximal to ligament pit'
+		,
+		88
+		'Facing laterally or only slightly distally slanted'
+		'Strongly distally slanted or completely facing distally'
+		,
+		89
+		'Grooved or concave'
+		'Convex or flat to slightly convex'
+		,
+		90
+		'Separate, distinct, and lateral to the magnum facet'
+		'Continuous with the magnum facet'
+		,
+		91
+		'Not tapered'
+		'Dorsoventrally tapered, so that the articulation for the medial phalanx faces ventrally'
+		,
+		92
+		'Only slightly dorsoventrally flattened, or mediolaterally flattened'
+		'Greatly dorsoventrally flattened'
+		,
+		93
+		'Clearly present'
+		'Extremely slight or absent'
+		,
+		94
+		'Absent'
+		'Present'
+		,
+		95
+		'Mostly convex'
+		'Mostly concave'
+		,
+		96
+		'Wider than long'
+		'Narrow, mediolaterally compressed, or length and width are equal'
+		,
+		97
+		'No contact with astragalus'
+		'Contacts astragalus'
+		,
+		98
+		'Saddle-shaped ?'
+		'Convex'
+		,
+		99
+		'Mostly convex'
+		'Strong concave component'
+		,
+		100
+		'Not strongly arched'
+		'Strongly arched'
+		
+	;
+	MATRIX
+	'Didelphis marsupialis'		                     000000--01000-020--0000-000200-0000001000000000010010100--0000012001000001000000???????????0?11?0??0
+	'Perameles bougainville'		                    000000--010000020--10000000110-0000001000000000010000000--000101000100110000000000011020000000010000
+	'Galadi speciosus'		                          000000--010000020--10000000110-000000100000000001000-100--000001000100010000000????????????????????0
+	'Cercartetus lepidus'		                       200000--000000001--10000-001?100100000100000000010000000--0000011102001000200000??000????????1000??0
+	'Ngapakaldia spp.'		                          200110--010000002011---0-1133100000010110001-101100001010101?1113211111?012010101110002000??11101010
+	'Kolopsis torus'		                            201110--010000002011---0-1133100000010110001-1001000010200010111???111??012?01?0????1???????11?????0
+	'Neohelos stirtoni'		                         201110--010000002011---0-1133100000010110001-000100001020001?1113211111?0120101????????????????????0
+	'Nimbadon lavarackorum'		                     201110--010000002011---0-1133100000010110001-000100?010200010111321111100120??1011101020001?01?????0
+	'Silvabestius spp.'		                         200110--010000002011---0-1123100000010110001-00110010102000100113211111001??1??????????????????????0
+	'Litokoala kutjamarpensis'		                  ???11110010000120--111111002???01112001000000????????1?100????111111001001????0????????????????????0
+	'Litokoala dicksmithi'		                      2001110-010000120--111101002????????????0000?00000010?0100010??????????????????????????????????????0
+	'Madakoala spp.'		                            200111?0110000?20--111000002310001010010??????????????????????????????????2??0?????????????????????0
+	'Nimiokoala greystanesi'		                    2001110-110000120--111101002310011110010000??00?1?0??101000110???1??0010??20100????????????????????0
+	'Perikoala robustus'		                        ???111??110000120--11100000231?00101001????????????????0--????????????????2????????????????????????0
+	'Phascolarctos cinereus'		                    20011100010000120--1111?10123100011200100000100100110100--011?11110110100121110011100000??0001?????0
+	'Priscileo pitikantensis'		                   2000011100000010???1000?00?1???????????????????????????0--?????????????????????0???????????????????0
+	'Priscileo roskellyae'		                      20000111000000101-01000000?1?101-20000?00000000010010100--000011211100100010100????????????????????0
+	'Wakaleo oldfieldi'		                         200??111000000101-01000000-03101-20000?0??????????????????????????????????1??0?????????????????????0
+	'Wakaleo vanderleuri'		                       20001111000000?0???1000000-03101-20000?00000000010010100--00?0112?110?1?011?10?????????????????????0
+	'Sedophascolomys medius'		                    31111?????0111?????1???????231??????????10101?0???????????????????????????3111?????????????????????1
+	'Phascolonus gigas'		                         31111?????0111?????1???????2310?????????1010120????0?010--1???2022-0??1?1?3111?1111?11?1?1111110???1
+	'Ramsayia magna'		                            30111?????0111?????1???????2310??????????01012001?1000??001??????????1????2111?????????????????????1
+	'Lasiorhinus krefftii'		                      30111?????1111?????1???????2310?????????010011000?110000--110?2022210011103111?????????????????????0
+	'Lasiorhinus latifrons'		                     30111???001111011-0100000002310?00000111010011000?110000--1101202221001110311111111011?11111111011?0
+	'Mukupirna nambensis'		                       20011???001000011-0100000012????????????0?001?????????????0???00????????1??????0??10?011?01?0??????0
+	'Vombatus ursinus'		                          30111?--001111011-01000000?231000000011?00001101100?0010--110120222100111031111111101111111111101110
+	'Vombatus hacketti'		                         30111?????1111?????1????????310?????????000011011?000010--11??202??10?111?3111?1???????????????????0
+	'Warendja wakefieldi'		                       ?0?11?????1111?????1???????2310????????1??000???1????100--0?1000222100?1??2110?1???????????????????0
+	'Muramura spp.'		                             20011100010000011-01000000123100000000110000000???000102000???112211000?11101010????????????011????0
+	'Priscakoala lucyturnbullae'		                ???????????000020--1000000???????1010??0???????????????????????????????????????????????????????????0
+	'Zygomaturus trilobus'		                      201110--010000002011---0-1133100000010111?01-011??0??1020001??12??0101??01300112?11?10?0?01????????0
+	'Diprotodon notatum'		                        211110--000000002011---0-1133100000010111001-100100000020001?112?????11?00200112111?10?0001?1??????0
+	'Euryzygoma dunense'		                        201110--000000002011---0-1133100000010?11001-11??????102100???1??????1??0??????????????????????????0
+	'Propalorchestes novaculacephalus'		          201110--010000002111---0-11231?0000000?100?1-2011010010200011011?21?111?1121?1?????????????????????0
+	'Palorchestes painei'		                       201110--010000002111---0-11331?0000000110001-20?101???0?0?0????1??2?1???1120?1?????????????????????0
+	'Palorchestes azael'		                        201110--010000002111---0-1133110000000110001-20?1011100?0001112032??111?1130011????????????????????0
+	'Namilamadeta spp.'		                         20011110010000011-010000001231000000001100000?00100?0102000011112211000?1120101????????????????????0
+	'Ilaria spp.'		                               200110--110000020--10000001331000?00000100?0??????????02000???11?2?10???1?21011??????111111????????0
+	'Kuterintja ngama'		                          ???110--010000020--100000012310000000000???????????????20?????????????????2??0??????????????????????
+	'Thylacoleo carnifex'		                       20000111000000100--1000???-0?101-20?0??00000000110020?00--01011232211110000010??11100001100?1??????0
+	'Nimbavombatus boodjamullensis'		             ??0110--001100011-01???0?012?????????????0000?????????00--0?0??????????????????????????????????????0
+	'Djarthia murgonensis'		                      ??0000--000000020--110000002???000000100??????????????????????????????????????0???????????????0?????
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = ord: 1 16 - 17 28 - 29 36 46 52 56 64 66 - 68 75, unord: 2 - 15 18 - 27 30 - 35 37 - 45 47 - 51 53 - 55 57 - 63 65 69 - 74 76 - 100;
+      ENDBLOCK;
+      BEGIN MESQUITECHARMODELS;
+ ProbModelSet * UNTITLED = 'Mk1 ?': 1- 100; 
+ENDBLOCK;

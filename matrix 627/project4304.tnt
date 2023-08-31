@@ -1,0 +1,138 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.40.04'
+91 29
+
+&[num]
+Monachus_monachus                          002400020200312111310220020120103000000000100100011100000000000010100010002110021100110200?
+Enaliarctos_emlongi                        1000000000000000000001000000000000000000000000000001000000000000000000100000100100????????0
+Pteronarctos_goedertae                     100000100000000000000?0000000000020010000000000000010000000000001000001000111001000???????0
+Callorhinus_ursinus                        1003000001000122000100001001000002000000001000011?01000000000000110102111122201110001100000
+Desmatophoca_oregonensis                   00241001?2101130112001210000000001001000001001001000010000000010100001000021?0010000???????
+Allodesmus_gracilis                        02241001?21011301120012101010?100100100001101101000001000000001111010221122220110100110111?
+Erignathus_barbatus                        10240012020031211130022002012020300010000?000110000100000000000010000010002110021?001102000
+Prototaria_primigenia                      1100001000002010000101100010100002????????????????01??0???????0???????0??0110??1???????????
+Proneotherium_repenningi                   110000100000211000110??00000?00002000000001000001001000000000000100000000011000101?????111?
+Neotherium_mirum                           11100010001021111011011000001000030010000010000010010000001000001000110000110000010120111??
+Kamtschatarctos_sinelnikovae               ?????0??0?102???101??????0????????00100?0010000?10??????????0000100011?00???000001?????????
+Pseudotaria_muramotoi                      ??100010101021101??101100001100003?????????????????1??0??????????????????0?11??0??????????0
+Archaeodobenus_akamatsui                   1???001?10102????01??1?0000111?003011000001100011001010000000011101?010000111000010???????1
+Pelagiarctos_spp.                          ???????????????????????????????????12100001000??????01?000100010?01011?00????00?01?????????
+Nanodobenus_arandai                        ??????????????????????????????????002000011010????????????1?0010?0000??00????00?01??????1??
+Titanotaria_orangensis                     1111?0101010211110110??00001?10013002000001010001000??0000100010101?110000?1100001012011112
+Imagotaria_downsi                          111?0?001010211110?1011001011100130020000010100110?1010000100010101?0200??1??00??10120111??
+Pontolis_barroni_sp._nov.                  11110000101?211110?10??00101?10013002?000010??0010????0000100110?00011000?1110000101?01111?
+Pontolis_kohnoi_sp._nov.                   111100001010011010110??00101?1001300210000100100100?01?0?0100110100???0001?1200002012011??2
+Cf._pontolis_magnus                        111100001010?11110?1011001011100130021000?1011100101?10010?0011?11001200?11?10000201?01111?
+Osodobenus_eodon_gen._et_sp._nov.          1111010020102111101101?00101?10013002?0000101100100001?0001000100?101??11212201?11?????????
+Gomphotaria_pugnax                         11110000101??11120110???0101?1?00?0111000110000010102?10110101111?0???211222201113012011110
+Dusignathus_seftoni                        111111101010?11121110?1001011?00131121000?11110010?11?10110101111?????21122220111?012??11??
+Dusignathus_santacruzensis                 ??????????????????1???1?010?1??01?0120000111110010?101?0100101111101022112???01?120110?????
+Aivukus_cedrosensis                        1122011010???111211??11011011???130???00?01000????12??00??000110??????21122220121301221????
+Protodobenus_japonicus                     1122?1??202121?12????????101?1????01000000110010100101211000011011010221122221?211?????????
+Ontocetus_emmonsi                          112111102021211121121110110111012301211011110010101201211000021011010221122221?2111122111??
+Valenictus_chulavistensis                  112201102021211121121?101101?101231111111?11001000332?22????2?????????3??3?331?21?212211111
+Odobenus_rosmarus                          11222110202121112112111011011101231111011011001111222?211000121011010221122331?213212211111
+
+;
+
+
+cnames
+{ 0 Rostral_process_of_premaxilla absent present;
+{ 1 anterior_narial_opening large,_thin_margin_and_rounded large,_thick_margin_and_dorsoventrally_elliptical large,_thick_margin_with_prenarial_shelf;
+{ 2 Ascending_process_of_premaxilla_along_nasal overlap_with_nasal_long,_no_contact_of_nasal_and_maxilla short,_no_contact_of_ascending_process_and_frontal very_short;
+{ 3 Nasal_posterior_end converging parallel_with_broad_V-shaped_frontal/maxillary_suture parallel_with_tranversely_straight_frontal/maxillary_suture diverging penetrating_to_frontal;
+{ 4 Incisive_foramen distinct_pair foramina_coalesced,_trilobed_pits single_pit_or_reduced;
+{ 5 Infraorbital_foramen small large;
+{ 6 Ventral_tuberosity_of_zygomatic_root absent present;
+{ 7 Anteroventral_process_of_jugal moderate long,_reaching_M1_alveolus absent;
+{ 8 Palate flat arched_tranversely arched_tranversely_and_longitudinally;
+{ 9 Palatal_margin_of_maxilla slightly_divergent nearly_parallel posteriorly_very_wide;
+{ 10 Palatine small long_and_posterlaterally_expanded "telescoped,_underlying_alisphenoid";
+{ 11 Hamular_process_of_pterygoid small_and_narrow large_and_broad;
+{ 12 Pterygoid_strut slender dorsoventrally_thin_and_laterally_projected dorsoventrally_thick_and_laterally_broad laterally_thin_and_broad;
+{ 13 Fossa_muscularis_on_orbital_wall present absent;
+{ 14 Antorbital_process small_ridge_on_frontal prominent_on_frontal_and_maxilla prominent_only_on_maxilla absent;
+{ 15 Supraorbital_process small_bump absent large_and_shelf-like;
+{ 16 Interorbital_bar moderate_in_width,_broader_than_intertemporal_region narrow,_parallel-sided very_broad_and_short transversely_narrow_anteriorly,_widening_posteriorly;
+{ 17 Postorbital_process_of_Jugal small dorsally_projected;
+{ 18 Zygomatic_process_of_squamosal long_and_slender short_and_slender dorsoventrally_broad exaggerated;
+{ 19 Orbital_vacuity absent present,_anteriorly_positioned present,_posteriorly_positioned;
+{ 20 Optic_foramen_and_orbitosphenoid plate-like funnel-shaped;
+{ 21 Internal_auditory_meatus rounded bilobed canals_for_nerves_VII_and_VIII_separated;
+{ 22 Epitympanic_recess small large very_large;
+{ 23 Anterior_opening_of_carotid_canal proportionate retracted;
+{ 24 Squamosal_fossa_on_external_auditory_meatus present reduced;
+{ 25 Glenoid_fossa deep shallow laterally_shortened;
+{ 26 Tranverse_ridge_on_squamosal absent present;
+{ 27 Pseudosylvian_sulcus present,_deep reduced_or_absent;
+{ 28 Bony_tentorium far_from_petrosal appressed_to_petrosal reduced;
+{ 29 Basioccipital narrow_and_parallel-sided broad_and_pentagonal;
+{ 30 Posterior_lacerate_foramen rounded tranversely_expanded fissure;
+{ 31 Lambdoidal_crest crestlike,_posterodorsally_projected flattened,_anterodorsally_projected;
+{ 32 Mastoid_process small large very_large_as_widest_part_of_skull pachyostotic;
+{ 33 Paroccipital_process small_and_separated_from_mastoid_process enlarged_posteriorly_but_still_separated_from_mastoid_process moderately_sized_and_joined_with_mastoid_process_by_continous_ridge flattened_and_plate-like;
+{ 34 Mandible:_fusion_of_mandibular_symphysis Absent Present;
+{ 35 Mandible:_length_of_mandibular_symphysis Less_than_50%_of_length_of_horizontal_ramus Greater_than_50%_of_length_of_horizontal_ramus;
+{ 36 Mandible:_genial_tuberosity Absent_or_indistinct Present,_developed_as_small_tubercle_or_process_on_anterior_portion_of_ramus_in_lateral_view Present_and_well_developed,_extends_well_below_ventral_margin_of_ramus_in_lateral_view;
+{ 37 Mandible:_anterior_portion_of_symphyseal_region Smooth,_compact_bone Rugose,_vascular_bone;
+{ 38 Mandible:_horizontal_ramus horizontal upturned;
+{ 39 Mandible:_mandibular_furrow absent anterodorsal_end_of_mandibles_have_a_longitudinal_furrow_anteriorly;
+{ 40 Mandible:_edentulous_mandibular_terminus absent present;
+{ 41 Mandible:_posteroventral_terminus_of_mandibular_symphysis Same_level_or_anterior_to_p1_or_p2 Posterior_to_the_level_of_p2;
+{ 42 Mandible:_depth_of_horizontal_ramus deepest_part_of_horizontal_ramus_posterior_to_mandibular_symphysis deepest_part_of_horizontal_ramus_at_posteroventral_terminus_of_symphysis;
+{ 43 Mandible:_mandibular_arch Nearly_parallel Sharply_divergent;
+{ 44 Mandible:_ventral_border Straight Sinuous;
+{ 45 Mandible:_enlarged_digastric_insertion Absent Present;
+{ 46 Mandible:_mandibular_condyle At_or_slightly_above_level_of_tooth_row Elevated_above_tooth_row;
+{ 47 Mandible:_mandibular_foramen Directed_anteroventrally Directed_anterodorsally;
+{ 48 Mandible:_medial_shelf_of_angular_process Does_not_form_medial_shelf Forms_small_medial_shelf;
+{ 49 Mandible:_base_of_coronoid_process Narrow_(Less_than_42%_of_mandible_length) broad_(greater_than_or_equal_to_42%_of_mandible_length);
+{ 50 Upper_Incisors,_number three two one upper_incisors_absent;
+{ 51 Upper_I3_proportions long_and_slender moderate premolariform absent;
+{ 52 Lower_incisors:_number two one incisors_absent;
+{ 53 Lower_Incisors:_relative_size Lower_incisors_of_equal_size,_form_transverse_arcade Lateral_incisors_greater_in_size_than_medial_incisors,_medial_incisor_placed_posteromedial_to_lateral_incisor;
+{ 54 Upper_Canine Proportionate tusk-like tusk-like_with_globular_osteodentin;
+{ 55 Lower_canines:_size_compared_to_upper_canines Nearly_equal_(100-80%)_and_caniniform Reduced_(75-20%)_and_premolariform Lower_canine_absent;
+{ 56 Lower_canine:_posterior_crista present absent;
+{ 57 Lower_canines:_longitudinal_fluting Absent Present;
+{ 58 Lower_canines:_root Oval_or_circular_in_cross_section Bilobate_in_cross_section_or_prominent_longitudinal_labial_sulcus;
+{ 59 Lower_canines:_orientation Not_procumbent_and_vertically_oriented Procumbent;
+{ 60 Lower_premolars P1-4_Present P1-3_present,_P4_Absent Premolars_absent;
+{ 61 Postcanines:_tooth_enamel Well_developed Thin_or_patchy Cementum_only;
+{ 62 Postcanines:_crowns Laterally_compressed Bulbous;
+{ 63 Postcanines:_root_lobes Root_lobes_of_postcanine_teeth_of_equal_or_narrower_width_than_crowns Root_lobes_of_postcanine_teeth_inflated_and_wider_than_crowns;
+{ 64 Lower_postcanines:_tooth_row_length Long_(length_of_tooth_row_greater_than_40%_of_the_mandible_length) Short_(length_of_tooth_row_less_than_or_equal_to_40%_of_the_mandible_length);
+{ 65 Lower_postcanines:_paraconid_cusps Present_and_well_developed Absent_or_reduced;
+{ 66 Lower_postcanines:_lingual_cingula Present_and_smooth Present_and_rough_or_crenulated;
+{ 67 Lower_premolars:_hypoconid_cusps Present Absent;
+{ 68 Lower_postcanines:_talonid_basin Absent Slight_concavity_or_small_shelf;
+{ 69 Lower_postcanines:_metaconid Present Reduced Absent;
+{ 70 Upper_P1-2,_cingulum well_developed_with_cuspules distinct_but_small weak_and_bulbous P1-P2_absent;
+{ 71 Lower_P2:_rooting Double_or_bilobate Single;
+{ 72 Lower_P3-4:_rooting Double Single;
+{ 73 Upper_P3,_roots double_rooted single_and_bilobed single_and_cylindrical P3_absent;
+{ 74 Upper_P4,_protocone_shelf anteromedially_placed posteromedially_placed_with_small_cuspules reduced_or_absent;
+{ 75 Upper_P4,_roots triple_rooted double_rooted single_rooted P4_absent;
+{ 76 Upper_M1,_roots triple_rooted double_rooted single_rooted M1_absent;
+{ 77 Lower_M1 Present Absent;
+{ 78 Lower_M1:_rooting Double_rooted Single_rooted;
+{ 79 Upper_M2,_roots double_rooted single_rooted M2_absent;
+{ 80 Lower_M2 Present Absent;
+{ 81 Postcanine_tooth_wear Absent Minor_wear_on_anterior_and_posterior_cusps_or_apical_wear Large_wear_facets_on_anterior_and_posterior_edges Heavily_worn_and_polished;
+{ 82 Humerus,_deltoid_tubercle on_pectoral_crest on_lateral_edge_of_crest off_crest;
+{ 83 Humerus,_diameter_of_distal_trochlea medial_lip_same_or_smaller_diameter_as_distal_capitulum medial_lip_diameter_greater_than_distal_capitulum;
+{ 84 Radius,_distal_end unexpanded expanded_with_small_radial_process expanded_with_large_radial_process;
+{ 85 Metacarpal_I,_insertion_of_pollicle_extensor pit smooth rugosity;
+{ 86 Scapholunar no_pit_for_magnum well-formed_pit;
+{ 87 Astragalus,_calcaneal_process absent present elongated;
+{ 88 Calcaneum,_calcaneal_tuber straight medially_prominent;
+{ 89 Entocuneiform/mesocuneiform_articulation abutting overlapping;
+{ 90 Spinous_process,_axis axe-like blade-like sinuous;
+;
+
+
+ccode  - 0.90;
+
+
+;

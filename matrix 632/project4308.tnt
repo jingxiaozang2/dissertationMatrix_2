@@ -1,0 +1,113 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.42.50'
+68 27
+
+&[num]
+Ithone_fulva                      10100000001010010000000001100000100100200000003102030101000010010000
+Nemoptera_coa                     00102100120110010110220000100011020022011?01020?0??30?00?00003100200
+Chasmoptera_hutti                 00002010020100000110220000001100020022000010020002030000000003100200
+Psychopsis_barnardi               00100100100021011000110110010010110000010100003001010002110011010000
+Osmylops_ectoarticulatus          01011000011110111010110200010010110001022200101201101120010012111111
+Osmylops_armatus                  01011000011110211000120200011000110011031200102202130110100012111111
+Osmylops_sejunctus                01011000011110111010120200010010110001022200101203121120010012111111
+Osmylops_placidus                 ?1011000011110211010120200001000110011031100002200330200100012111111
+Myiodactylus_osmyloides           01011001101120211010220200011010110011121200101201140112100012111111
+Myiodactylus_pubescens            01???00?101120211010220200010010100000??????????????????????12111111
+Norfolius_howensis                01011511011121111010120200010010110001131200002201330202121112111111
+Nesydrion_fuscum                  01111400021110311110000000001100101011241111133110410001202012111111
+Nesydrion_diaphanum               01111400021110211110000000001100101011241110003210040000202012111111
+Nesydrion_nigrinerve              01111400021110211110000000001100111011??????????????????????12111111
+Austronymphes_insularis           01111011021100111110221000001101101110041111123010100012000012111111
+Nymphes_aperta                    11111211021100111100211000101100111110021111013111210001001012111111
+Nymphes_myrmeleonoides            01111211021110311100101010101100111110021111113111450001001012111111
+Nymphes_modesta                   01111211021110311100211010101100111100041111023011330000130012111111
+Nymphydrion_delicatum             ?10?1[45]11?0?120111?001202100???10110000???????????????????????2111111
+Umbranymphes_spinosus             ??0?1???11???1?110002???1????0??1????????1010????0???1???????2111111
+Liminympha_makarkini              11??????02?010?1110102010001000?1100?1???????????????????????2111111
+Nymphites_bimaculatus             ?????3???2??20?110000101100010001?01?????????????????????????2111111
+Sialium_sinicus                   ?11??2???2?010?110?00100100???001101?0???????????????????????2111111
+Sialium_minor                     ?????[23]???2???0?111000????0??????100??????????????????????????2111111
+Baissoleon_similis                ?11??01102??00?011100201110010001?0??1???????????????????????2111111
+Baissoleon_cretaceous             ??????11?2??00????100?01110???00110011???????????????????????2111111
+Spilonymphes_major                ?1???[23]???1???0?1?000020210?????0110??????????????????????????2111111
+
+;
+
+
+cnames
+{ 0 Antennae_length Shorter_than_half_of_forewing_length Longer_than_half_of_forewing_length;
+{ 1 Prothorax Wider_than_long Longer_than_wide;
+{ 2 Tibial_spurs Absent Present;
+{ 3 First_tarsal_segment Elongated Short;
+{ 4 Arolium Single Split Absent;
+{ 5 Pattern_of_wing_markings No_markings Complex_pattern Whole_apical_area Stripe_along_outer_gradate_crossveins Apical_spot Red_mark_on_posterior_area;
+{ 6 Forewing_pterostigma_colour Inconspicuous Conspicuous;
+{ 7 Hind_wing_pterostigma_colour Inconspicuous Conspicuous;
+{ 8 Forewing_shape,_ratio_of_forewing_length_to_width Elongated,_>2.1 Broad,_<2.4;
+{ 9 Forewing_costal_space Broad,_>_2.8 Medium,_1.5–2.5 Narrow,_<_1.5;
+{ 10 Forewing_ScA_bulge Absent Present;
+{ 11 Forewing_humeral_veinlet Recurrent Simple;
+{ 12 Branching_of_forewing_costal_crossveins_before_pterostigma_area Simple Few_forked,_1–10 Many_forked,_>_12;
+{ 13 Forewing_costal_gradate_series Absent Present;
+{ 14 Forewing_subcostal_thyridiate_crossveins Absent Short,_thyridiate_crossvein_shorter_than_one-third_of_subcostal_width Medium,_thyridiate_crossvein_length_between_one-third_and_two-thirds_of_subcostal_width Long,_thyridiate_crossvein_longer_than_two-thirds_of_subcostal_width,_almost_reaching_R1,_but_not_touched;
+{ 15 Forewing_costal_area_after_the_fusion_of_Sc_and_R1 Narrow,_<_1.2 Broad,_>_1.2;
+{ 16 Forewing_Rs_origin Distant_from_wing_base,_>_0.2 Proximal_to_wing_base,_<_0.2;
+{ 17 Forewing_MA_separation Proximal_to_origin_of_Rs Distant_from_origin_of_Rs;
+{ 18 Forewing_Rs_branch_number >10 <=10;
+{ 19 Forewing,_crossveins_between_distal_Rs_branches Present Absent;
+{ 20 Forewing_MP_branching Dichotomously_forked_proximal_to_the_separation_of_MA Dichotomously_forked_in_the_basal_half_of_forewing,_distal_to_the_separation_of_MA Pectinately_forked_in_the_distal_half_of_forewing;
+{ 21 Forewing,_crossveins_between_MP2_branches Many_rows_of_crossveins One_complete_row_of_crossveins No_crossvein,_or_an_incomplete_row_of_crossveins;
+{ 22 Forewing_CuA_branches_number Eight_or_fewer More_than_eight;
+{ 23 Forewing,_crossveins_between_CuA_branches Many_rows_of_crossveins One_(incomplete)_row_of_crossveins Crossveins_absent;
+{ 24 Forewing_CuP_space Narrow Broad;
+{ 25 Forewing_CuP_branching Pectinately_forked_with_multiple_branches Dichotomously_forked_with_few_branches;
+{ 26 Forewing,_crossveins_between_branches_of_CuP Absent Present;
+{ 27 Forewing_CuA_fork_position Proximal_to_wing_base Distant_from_wing_base;
+{ 28 Forewing,_ratio_of_CuP_length_to_total_wing_length Extending_into_apical_half_of_wing Ending_in_basal_half_of_wing;
+{ 29 Forewing,_ratio_of_1A_length_to_wing_length Elongated Short;
+{ 30 Forewing,_1A_fork Dichotomous Pectinate;
+{ 31 Forewing_2A_and_3A Separate_along_length Forming_a_closed_loop;
+{ 32 Hind_wing_shape Elongated_and_highly_narrowed Rounded,_similar_shape_to_forewing;
+{ 33 Hind_wing_Rs_origin Distant_from_wing_base Proximal_to_wing_base Rs_absent;
+{ 34 Hind_wing,_crossveins_between_MP2_branches One_(incomplete)_row_of_crossveins More_than_one_row_of_crossveins;
+{ 35 Hind_wing,_crossveins_between_CuA_branches Crossveins_absent At_least_one_row_of_crossveins;
+{ 36 Hind_wing_CuA Extending_into_apical_half_of_wing Ending_in_basal_half_of_wing Hind_wing_CuA_absent;
+{ 37 Hind_wing_CuP_branching Pectinate Dichotomous Hind_wing_CuP_absent;
+{ 38 9th_tergite Ventral_margin_protruding_posteriorly Both_posterior_and_anterior_margins_protruding Anterior_margin_protruding;
+{ 39 9th_sternite Posteriorly_elongated Strongly_sclerotized_and_modified Subtriangular,_rounded Emarginate Squared;
+{ 40 Ectoproct_shape Posteriorly_protruding Small_and_rounded Multi-lobed_process;
+{ 41 Subanal_position Absent Posterior_to_ectoproct Ventral_face_of_ectoproct;
+{ 42 Mediuncus_lateral_lobes Absent Large;
+{ 43 Mediuncus Ventral_to_ectoproct Posteriorly_protruding_from_ectoproct;
+{ 44 'Mediuncus orientation; angle of mediuncus relative to gonarcus' Greater_than_45° 0°-45°;
+{ 45 Mediuncus_dorsal_process Simple_edge Single_protrusion Paired_protrusion Triplet_protrusion;
+{ 46 Mediuncus_medioventral_process Absent Ball-like Trilobate Elongated_with_protruding_hooks;
+{ 47 Mediuncus_ornamentation Setae None Teeth-like_processes;
+{ 48 Gonarcus_shape Arms_fused_(singular_arched_structure),_or_arms_proximate_medially_and_connected_by_membrane Arms_widely_separated_medially;
+{ 49 Gonarcus_position_(dorsally) Posteriorly_protruding_from_ectoproct Located_in_the_posterior_half_of_ectoproct Located_in_the_anterior_half_of_ectoproct Located_in_the_9th_tergite;
+{ 50 Gonarcus_position_(ventrally) Located_in_the_9th_tergite,_or_the_lateral_membrane_area_between_9th_tergite_and_sternite Located_in_posterior_or_ventral_to_9th_sternite Located_in_between_8th_tergite_and_sternite Located_in_the_9th_sternite Located_in_the_8th_sternite;
+{ 51 Gonarcus_width_(lateral_view) Broad,_but_tapered_to_ventral_point Broad,_but_tapered_to_dorsal_point Broad,_but_tapered_ventrally_and_dorsally Equally_narrow Narrow,_but_broad_to_ventral_point Equally_broad;
+{ 52 Entoprocesses Absent Present;
+{ 53 Position_of_ventral_end_of_gonarcus_and_paramere_base Touching Separated Overlapping;
+{ 54 Membranous_area/process_around_paramere_base Absent Small,_covering_paramere_base Elongated,_separated_from_paramere;
+{ 55 Paramere_dorsal_process Absent Midway_along_paramere Located_in_the_distal_one-third_of_paramere;
+{ 56 Paramere_apical_modification Absent Setose Teeth-like_processes;
+{ 57 Shape_of_paramere_apical_process Single_point Two_points Three_elongated_processes Three_points;
+{ 58 Gonapsis Absent Single Paired;
+{ 59 Membranous_processes_beneath_mediuncus Absent Present;
+{ 60 Gonosetae Present Absent;
+{ 61 Stemmata_number None Five Six Seven;
+{ 62 Antenna_length Longer_than_half_of_mandible Shorter_than_half_of_mandible;
+{ 63 Antennal_pedicel Elongated,_almost_as_long_as_flagellum Short,_shorter_than_two-thirds_of_flagellum;
+{ 64 Antennal_flagellum_width As_broad_as_pedicel Much_narrower_than_pedicel;
+{ 65 Labial_palp_segments Four Three Two;
+{ 66 Mandible_tooth Absent Single_large_tooth_midway_along_mandible;
+{ 67 Scoli_on_meso-_and_metathorax_and_abdomen Absent Present;
+;
+
+
+ccode  - 0.67;
+
+
+;

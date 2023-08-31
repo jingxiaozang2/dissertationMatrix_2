@@ -1,0 +1,119 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.40.40'
+65 36
+
+&[num]
+Dolophilodes                           0000000000000000000010001000000-001100000101000000000000000001000
+Hydropsyche                            0000010000000000000010000000000-010100010101011000000000000001000
+Seresilepidopteron                     0???????00000???????????21010?1?11??0001111000001???????00?0?1???
+Mesokristensenia                       0???????00000???????????120?0?1?1111000101101?00????????0??0?1???
+Ascololepidopterix                     0???????00000?????????????1?0???1??000010111?11?????????0??0?1???
+Micropterix_schaefferi                 10110000000000000110010023110011101100001010100010100000000000000
+Sabatinca_calliarcha                   10100000000000000010010023010011111000011010101010000000000000000
+Paramartyria_jinggangana               101?0000000000000110010023010011111001011010101010000000000000000
+Agathiphaga_queenslandensis            00010110000000000211111010010111111100000110101010001000000001000
+Heterobathmia_pseuderiocrania          01010010000000000010111023010011110100001111011010001000000000101
+Dyseriocrania_griseocapitella          01010011110011000010111022000010111011011111101010001000010111101
+Eriocrania_semipurpurella              01010011110011000010111022000010110112001011101010001000010111101
+Acanthopteroctetes_bimaculata          010101121100110001101010220001101000110013-11000?0100010000101101
+Aenigmatinea_glatzella                 0?010002120?111?23-010?12101001?110120--20111010000?1010000101101
+Lophocorona_pediasia                   0001110211001111101011102100001011110001121110101000100010?10?1?1
+Lophocorona_melanora                   0001110211001111101011102100001011110001111110101000100010?10?1?1
+Acanthocorona_skalskii                 0????10?110?1???????????21010?1?1?1100011?1101101???????10?1?????
+Synempora_andesae                      00010112111111110000111121010010101112001001101001101000001?011?1
+Neopseustis_archiphenax                00010112111111110000111121010010111112001001101001101000001?011?1
+Mnesarchaea_paracosma                  00011112110111102011111021010010100111011311101011111101001000111
+Ogygioses_eurata                       01021102120011102011111023200110110101111311101001111101001000111
+Prototheora_petrosema                  01021102120011102011111021010010111100111011111001111101001000111
+Paratheora_speideli                    0102110212001110201111102?010110111100111011111001111101001000111
+Anomoses_hylecoetes                    01021102120011102011111021000110111100111311111001111101001000111
+Hepialus_xiaojinensis                  01021102120011102011111023210010110100111311111001111101001000111
+Abantiades_hyaliantus                  01021102120011102011111023210010110100111011111001111101001000111
+Scardia_anatomella                     01010102110111110111111121011110100100001011100111111000001001111
+Caloptilia_stigmatella                 01010102110111112111111101001110100100001001110111111000001001111
+Dichomeris_oceanis                     01010002110111111011111121011110100101001011100111111000001001111
+Psilacantha_pryeri                     01010012110111111011111121011110100100011011100111111000001001111
+Pseudodavara_haemaphoralis             01010012110111112011111121011110100113001311100111111000001001111
+Geometra_papilionaria                  01010112110111112011111121011110100103111011100111111000001001111
+Diachrysia_chrysitis                   010100021101111120111111210111101001000110-1100111111000001001111
+Acanthocorona_hedida                   0????102110?11??00?01???21010?1?10110001121111101?????0?10?1?1???
+Acanthocorona_venulosa                 0????102110?11??????1???21010?1?11110001121101101?????0?10?1?????
+cnu-lep-ma-2016035                     0????102110?11???0?01???21010?1?1?110001121101101??????????1?1???
+
+;
+
+
+cnames
+{ 0 Antennal_scape_and_pedicel normal enlarged;
+{ 1 Antennal_sensilla_auricillica absent present;
+{ 2 Antennal_ascoids absent present;
+{ 3 Intercalary_sclerite_on_antenna absent small,_restricted_to_the_membrane_between_scape_and_pedicellus elongate,_basal_end_sunken_into_a_pocket_below_terminal_edge_of_scape;
+{ 4 Dorsal_cranial_condyles_at_antennal_base absent present;
+{ 5 Ocellus present absent;
+{ 6 Chaetosemata absent present;
+{ 7 Epistomal_suture_(frontoclypeal_suture) well_developed,_with_pronounced_cuticular_thickening a_zone_of_close-set_grooves,_cuticle_of_individual_grooves_without_pronounced_thickening absent,_clypeus_not_in_any_way_demarcated_from_frons;
+{ 8 Galeae_linking_mechanism absent galeae_are_linked_to_each_other_by_dorsal_and_ventral_legulae_to_form_the_food_canal;
+{ 9 Proboscis absent developed fully_reduced,_non-coilable;
+{ 10 Proboscis_-_2 without_double-tube_structure proboscis_with_a_unique_double-tube_structure,_the_inner_wall_of_each_galea_being_strongly_concave_and_forming_by_itself_a_functionally_closed_tube;
+{ 11 Intrinsic_proboscis_musculature absent present;
+{ 12 Mandible functional non-functional;
+{ 13 Lacinia lobe-like vestigial_or_absent;
+{ 14 Labrum generalized without_frontal_retractors;
+{ 15 Postlabial_area with_arched,_setoselscaly_sclerotisation membranous_and_naked;
+{ 16 Maxillary_palpus pentamerous tetramerous at_most_trimerous;
+{ 17 Labial_palpus trimerous dimerous tetramerous absent;
+{ 18 vom_Rath_s_organ absent terminal_labial_palpomere_with_vom_Rath?s_organ_located_in_a_depression;
+{ 19 Maxillary_palpus_and_Labial_palpus maxillary_palpus_longer_than_labial_palpus maxillary_palpus_shorter_than_labial_palpus;
+{ 20 paraglossae present absent;
+{ 21 Posteromedial_arms_on_the_cervical_sclerites absent present;
+{ 22 Metathoracic_furcal_stem without_anteromedial_process with_anteromedial_process;
+{ 23 Precoxal_bridge absent between_the_prothoracic_pleuron_and_sternum;
+{ 24 Foretibia with_two_spurs with_one_spur without_spur;
+{ 25 Mesotibia with_four_spurs with_two_spurs with_one_spur without_spur;
+{ 26 Metatibia with_four_spurs with_two_spurs without_spur;
+{ 27 Epiphysis absent present;
+{ 28 Wing_venation_on_fore-_and_hind_wings homoneurous heteroneurous;
+{ 29 Microtrichia_on_forewing present absent;
+{ 30 Scales_on_wings absent present;
+{ 31 Herring-bone_on_scale absent present;
+{ 32 Nygmata_on_wings located_at_the_base_of_the_Rs3_+_Rs4_vein absent;
+{ 33 Humeral_vein absent present;
+{ 34 Sc_on_forewing unforked forked;
+{ 35 R_on_forewing forked unforked;
+{ 36 Rs_on_forewing 4-branched less_than_4-branched 2--branched;
+{ 37 Rs_on_forewing_-_2 Rs_dichotomously_branched Rs_pectinately_branched Rs1_and_Rs2_totally_coalescent Rs2_and_Rs3_partly_or_totally_coalescent;
+{ 38 Rs3_on_forewing terminating_preapical/apical terminating_postapical;
+{ 39 Rs4_on_forewing terminating_preapical/apical terminating_postapical;
+{ 40 M_vein__on_forewing 4-branched 3-branched 1-branched;
+{ 41 Anal_veins two_anal_veins_form_a_single_Y-shaped three_anal_veins_form_a_double_Y-shaped,_3A_coalesces_with_2A_and_the_combined_vein_then_coalesces_with_1A hree_anal_veins_form_a_trident-shaped,_1A_and_2A_coalesce_first_and_the_combined_vein_then_joined_by_3A only_one_anal_vein_present;
+{ 42 M_vein M1_and_M2_are_stalked_beyond_crossvein_r-m free_section_of_M1_meeting_crossvein_r-m_and_markedly_angulate_at_this_junction;
+{ 43 Crossvein_sc-r_on_forewing:_present present absent;
+{ 44 Crossvein_r-rs_on_forewing present absent;
+{ 45 Crossvein_m_on_forewing absent present;
+{ 46 Crossvein_m-cu_on_forewing absent present;
+{ 47 Jugate_on_forewing present absent;
+{ 48 Costal_margin_of_hind_wing without_frenular_bristles with_frenular_bristles;
+{ 49 First_abdominal_tergum normal first_abdominal_tergum_with_sharply_upturned_anterior_part;
+{ 50 Abdominal_glands_on_5th_sternite present absent;
+{ 51 Spermathecal_duct simple,_without_distinct_spiral_coiling at_least_on_part_of_its_course_distinctly_spiralled;
+{ 52 Spermatheca_duct simple the_division_of_the_spermatheca_duct_into_two_sections;
+{ 53 Transverse_muscles_in_male_postgenital_segment not_developed very_strong_development;
+{ 54 Transtilla_in_male_genitalia absent present;
+{ 55 Sclerotized_tubular_intromittent_organ_on_male_genitalia present male_genitalia_without_sclerotized_tubular_intromittent_organ;
+{ 56 Valva without_long_spikes long_spikes_originating_from_the_inner_side_of_the_base_of_the_valva;
+{ 57 Valva_-_2 large_and_protruding greatly_shortened;
+{ 58 female_genital_apparatus single_genital_orifice separate_copulatory_orifice_and_ovipore;
+{ 59 Oviscapt without_piercing_apex with_piercing_apex;
+{ 60 Female_with_complex_?vaginal_sclerite?_in_posterior_part_of_genital_chamber_encircling_egg_passage absent present;
+{ 61 Apodemes_(=apophyses) absent present;
+{ 62 Larval_head_capsule without_adfrontal_and_hypostomal_ridges with_prominent_adfrontal_and_hypostomal_ridges;
+{ 63 Larval_prolegs absent present_on_III-VI_and_X,_with_crotchets_and_extrinsic_muscles;
+{ 64 The_pupal_mandibles without_apical_teeth bear_apical_teeth;
+;
+
+
+ccode  - 0.64;
+
+
+;

@@ -1,0 +1,102 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.43.20'
+68 16
+
+&[num]
+Larus_dominicanus                000000?00??0?000000000000001?000000?00000000000?000?00?000000000??0?
+Aptenodytes_forsteri             021010101?0200130000101000110301104111001011122111101111211230101210
+Aptenodytes_patagonicus          021010111?0100130201101000110311003111001011020111001111111120101210
+Pygoscelis_antarctica            13101?00000001?1?11111110?0121?1112000??000011??141?11112112010001?1
+Pygoscelis_adeliae               031010000100011101111211000?210111010010110011?00201121120122?1001?1
+Pygoscelis_papua                 03111000010000?20??1????001?240111100012000001?0020?11112?321?100110
+Spheniscus_demersus              121110000?20102112?11211100?221111?0001100211??1?40?1111204340?00?11
+Spheniscus_magellanicus          121010?0??2110?0?????0???01?141111?100??02202??1041???11202200100111
+Eudyptula_minor                  121210100101001111112100010?121111000000002021?00401111120321001?211
+Megadyptes_antipodes             12111100?0000021111132000?103110110100110000211114111101201210110011
+Eudyptes_pachyrhynchus           11101000??11002101113111100131111100000112002111031?1211203210012120
+Eudyptes_robustus                131010?0?11100211?11311110113111112?0001120121?10311121120200?002120
+Eudyptes_sclateri                131010?0?1?1002111113111??0?3111112?0001120100110310111120200?00?11?
+Eudyptes_chrysocome              13101000?10?002?11113?111111341111200011120021?1031?111120200?002110
+Eudyptes_chrysolophus            13101001010?0?2?1?1131?110013511??2?001?1000111?0310111120200?102110
+Eudyptes_schlegeli               131?1001?10?0?211111311?10013111112?0011100111?1031?11?1202000002111
+
+;
+
+
+cnames
+{ 0 Chicks_fed_each_day_during_first_weeks_of_nestling_stage yes no;
+{ 1 Predominant_food_(percentage_numbers_and_mass)_in_diet crustaceans cephalopods fish molluscs_or_scavengers;
+{ 2 Main_method_of_food_capture browsing pursuit_diving;
+{ 3 Time_of_return_from_foraging any dusk after_dark;
+{ 4 Land_directly_at_nest-site yes no;
+{ 5 No_vocalizations_at_sea_while_foraging no_vocalizations vocalizations;
+{ 6 Average_weight_of_chick''s_meal/average_weight_of_adult <_0.1 >_0.1_[†S.d.,_Eu.m.];
+{ 7 Adults_forage_inshore_during_breeding_season yes no;
+{ 8 Time_at_sea_foraging 24_h_or_less >_24_h_[†all];
+{ 9 Method_of_regurgitation complete incomplete;
+{ 10 Foraging in_flocks solo cooperative_foraging_[*all];
+{ 11 Territory_defended nest/burrow area_around_nest/burrow no_territory;
+{ 12 Pre-dawn_chorus no yes;
+{ 13 Gaping_and_open_yell not_present neck_stretched_more_or_less_horizontal,_gape,_carpal_joints_raised;
+{ 14 Shoulder_hunching not_present body_horizontal_and_neck_stretched_to_varying_extent,_bill_horizontal_or_slightly_up,_opened_or_closed,_carpal_joints_raised,_call neck_lowered,_head_and_bill_directed_forward,_shoulders_raised,_body_leaning_forward,_wings_held_slightly_forward;
+{ 15 Trumpeting bill_open,_directed_down_and_forward,_moves_towards_intruder,_repetitive_call_not_present call,_bird_leans_forward,_raises_wings,_steps_towards_intruder neck_stretched_in_direction_of_intruder,_bill_opening_and_closing,_call not_present;
+{ 16 Bills_interlocked not_present birds_lock_bills_together_and_wrestle;
+{ 17 Stare not_present bird_in_upright_posture,_turns_body_and_bill_towards_opponent,_feathers_sometimes_erect bird_faces_opponent,_wings_raised,_bill_straight_out;
+{ 18 Charge not_present defending_bird_moves_towards_opponent_with_short_run,_upright_head_forward,_crown_erect,_wings_raised;
+{ 19 Bite_nape_fight not_present bill_strikes_or_nips_feathers_and_skin_of_opponents_head_and_neck,_swatting_of_opponent_with_wing;
+{ 20 Hunched_submissive not_present body_stretched_up,_neck_elongated,_wings_held_out_from_body,_feathers_sleeked body_and_head_held_low,_wings_held_close_to_sides,_steps body_and_head_held_low,_wings_extended,_feathers_sleeked,_steps;
+{ 21 Face_away not_present bird_looks_obliquely_at_owners_of_other_territories,_wings_forward,_bill_upwards_and_to_one_side body_and_neck_held_upright,_wings_forward,_bill_hung_down_parallel_to_neck,_head_may_turn_to_one_side;
+{ 22 Shivering not_present wings_and_sometimes_head_vibrate_rapidly_in_agonistic_situations;
+{ 23 Squeal not_present bird_utters_high-pitched_squeal_in_response_to_sudden_danger;
+{ 24 Bill-hiding not_present female_crouches_over_nest_and_lowers_bill_until_hidden_under_body;
+{ 25 Nest/burrow_site_chosen_by male either;
+{ 26 Average_length_of_incubating_shifts,_male:female equal male_longer_shift;
+{ 27 Males_present_during_laying no yes_[‡A.p.];
+{ 28 Method_by_which_nest/burrow_constructed plant_and_earth_material_patted_onto_nest_wall burrow_dug_using_bill_and_feet adult_(generally_male)_lying_in_nest_scrape_kicks_out_of_bowl,_shifting_material_to_the_rim adult_(generally_female)_squats_with_wings_extended_and_resting_on_ground,_pressing_back_with_feet_and_rotates;
+{ 29 Ecstatic not_present bird_stands_on_toes,_wings_held_stiffly_forward,_head_and_open_bill_held_vertical,_loud_trilling_call bird_stands_on_toes,_wings_held_stiffly_forward,_head_and_open_bill_held_vertical,_loud_trilling_call,_head_swung_in_arcs bird_stands_on_toes,_head_and_bill_held_vertical,_followed_by_head_waving bird_stands_on_toes,_flippers_held_down,_head_and_open_bill_held_vertical,_loud_trilling_call bird_stands_on_toes,_flippers_held_down,_head_and_open_bill_held_vertical,_loud_trilling_call,_head_swung_in_arcs;
+{ 30 Allopreening not_present neck,_throat_and_head_of_mate_preened;
+{ 31 Mutual_bowing not_present members_of_pair_direct_open_bills_downwards,_usually_into_nest-bowls,_and_call;
+{ 32 Beating_wings not_present male_wings_vibrated_gently_on_females_sides_prior_to_copulation;
+{ 33 Treading not_present male_treads_on_back_of_female_prior_to_copulation;
+{ 34 Head_shake_and_whine not_present head_rapidly_waved_from_side_to_side_with_bill_closed_and_pointing_at_other_bird,_stands_on_toes_with_erect_fanned_tail,_whining_call,_wings_stretched rub_heads_together,_calling birds_face_each_other_and_head_waved_side_to_side,_punctuated_by_short_calls slowing_raising_head_while_contracting_neck_muscles;
+{ 35 Copulation_outside_nest/burrow no yes;
+{ 36 Head_circling not_present head_thrown_back_and_then_moved_forward_in_lateral,_half-circular_motions_while_uttering_groans;
+{ 37 Ear_rubbing not_present birds_rub_ear_against_shoulder;
+{ 38 Stone_carrying not_present stones,_grass,_or_earth_collected_and_placed_around_nest_(generally_male);
+{ 39 Quivering not_present nesting_bird_vibrates_bill_in_very_small_arcs_as_it_bows_over_nest-bowl_to_deposit_nest_material bird_opens_bill_and_hisses_as_nest_material_is_deposited;
+{ 40 Most_adults_remain_near_breeding_site_during_year yes no;
+{ 41 Type_of_migration_used_by_species_during_life_cycle coastal_or_no_migration pack-ice_region north_of_Antarctic_convergence;
+{ 42 Nester_or_burrower_(nesting_in_burrows) nest neither either;
+{ 43 Predominant_burrow/nest-site_terrain cliff flat;
+{ 44 Vegetation_present_at_nest/burrow_site no_vegetation tussock_or_grassland forest;
+{ 45 Pair-bond_duration several_breeding_seasons lifelong one_breeding_season;
+{ 46 Sex_ratio_in_adult_life equal more_males more_females;
+{ 47 Chicks_sometimes_abandoned_to_die_by_parents yes no;
+{ 48 Nest-site_fidelity yes no_[§P.p.,_§E.c.];
+{ 49 Clutch_size more_than_two,_survival_approximately_equal_for_each_egg/chick one two,_survival_of_first_egg/chick_better two,_survival_of_second_egg/chick_better two,_survival_approximately_equal_for_each_egg/chick;
+{ 50 Replacement_laying_of_eggs_in_same_season_as_failure_of_first_nest yes no;
+{ 51 Sexual_differences_in_voice yes no;
+{ 52 Nestling_state_of_development altrical semi-altrical;
+{ 53 Nestling_behavior semi-nidicolous nidicolous nudifuguous;
+{ 54 Average_fledging_weight/average_adult_weight >_1 <_1_[†S.d,_†E.c.];
+{ 55 Moult_halts_foraging no yes;
+{ 56 General_foraging_habitat marine pelagic intertidal;
+{ 57 Adults_leave_young_before_fledging no yes;
+{ 58 Season_when_breeding_commences spring summer autumn winter no_set_time;
+{ 59 Month_of_main_moult September November,_December February no_set_time;
+{ 60 Season_of_nest_construction winter spring summer autumn no_set_time;
+{ 61 Ratio_of_age_first_breeding/first_return_to_breeding_colonies ca._1 2+;
+{ 62 Ratio_of_nest_preparation_period/incubation_length >_0.66 <_0.66_[§L.d.];
+{ 63 Ratio_of_nestling_period/incubation_length approx_equal incubation_period_shorter_than_nestling;
+{ 64 Laying_interval_between_eggs <_4_days no_laying_interval ≥_4_days_[§all];
+{ 65 Age_of_creching no_creching <_28_days ≥_28_days_[*all];
+{ 66 Length_of_premoult_forage no_premoult_forage 3–5_weeks >_5_weeks;
+{ 67 Chicks_fledged_per_pair 0–0.9_[*all] 1.0–1.9;
+;
+
+
+ccode  - 0.67;
+
+
+;

@@ -1,0 +1,57 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.44.12'
+35 4
+
+&[num]
+Artifcial_embryo                 00000000000000000000000000000000000
+Alioramus_altai                  00000000000000000000000000000000000
+Alioramus_remotus                ????1??2??????000?1?0111??0??1?????
+Qianzhousaurus_sinensis          11112111111111111111011101111111111
+
+;
+
+
+cnames
+{ 0 max,_promax_fen not_close close;
+{ 1 max,_acc_pn_fen shallow recess;
+{ 2 max,_subcut_surf smooth coarse;
+{ 3 max,_interfen_strut flat fossa;
+{ 4 max,_tooth_count 18 16 15;
+{ 5 max,_alveolus_shape eight cartouche;
+{ 6 na,_ltrl_frntl_pr short long;
+{ 7 na,_mdln_rgsties small large tall_cusps;
+{ 8 na,_cdl_intrnsl_str long short;
+{ 9 la,_horn_size small large;
+{ 10 la,_horn,_infltn not_inflated inflated;
+{ 11 ju,_ltrl_crnl_pr small massive;
+{ 12 ju,_po_js shallow_notch interlocking;
+{ 13 po_bar short long;
+{ 14 po,_form gracile stout;
+{ 15 po,_crnl_pr,_form subtle large;
+{ 16 po,_posterior_pr curved straight;
+{ 17 po,_posterior_pr,_lngth long short;
+{ 18 po,_ventral_rms,_pr absent present;
+{ 19 po,_vntrl_rms,_ornttn ventral anteroventral;
+{ 20 po,_sbclr_pr,_prsnc absent;
+{ 21 sq,_vntrl_pr_pt concealed exposed;
+{ 22 sq,_drsl_pr_pr prominent gracile;
+{ 23 sq,_angle wide narrow;
+{ 24 sq,_ltf_dpth subtle deep;
+{ 25 sq,_pstrr_pr,_form small large;
+{ 26 dn,_vntrl_mrgn straight sinuous;
+{ 27 dn,_subcut_surf smooth coarse;
+{ 28 dn,_symph,_txtr smooth coarse;
+{ 29 dn,_tooth_count 20 18;
+{ 30 dn,_alveoli,_shape eight cartouche;
+{ 31 pra,_shape long_shallow short_curved;
+{ 32 spl,_pstrr_ntch small_acute large_obtuse;
+{ 33 spl,_amf,_form shallow deep;
+{ 34 spl,_amf,_pstn close dorsal;
+;
+
+
+ccode  - 0.34;
+
+
+;

@@ -1,0 +1,160 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.45.31'
+100 42
+
+&[num]
+Didelphis_marsupialis                     000000--01000-020--0000-000200-0000001000000000010010100--0000012001000001000000???????????0?11?0??0
+Perameles_bougainville                    000000--010000020--10000000110-0000001000000000010000000--000101000100110000000000011020000000010000
+Galadi_speciosus                          000000--010000020--10000000110-000000100000000001000-100--000001000100010000000????????????????????0
+Cercartetus_lepidus                       200000--000000001--10000-001?100100000100000000010000000--0000011102001000200000??000????????1000??0
+Ngapakaldia_spp.                          200110--010000002011---0-1133100000010110001-101100001010101?1113211111?012010101110002000??11101010
+Kolopsis_torus                            201110--010000002011---0-1133100000010110001-1001000010200010111???111??012?01?0????1???????11?????0
+Neohelos_stirtoni                         201110--010000002011---0-1133100000010110001-000100001020001?1113211111?0120101????????????????????0
+Nimbadon_lavarackorum                     201110--010000002011---0-1133100000010110001-000100?010200010111321111100120??1011101020001?01?????0
+Silvabestius_spp.                         200110--010000002011---0-1123100000010110001-00110010102000100113211111001??1??????????????????????0
+Litokoala_kutjamarpensis                  ???11110010000120--111111002???01112001000000????????1?100????111111001001????0????????????????????0
+Litokoala_dicksmithi                      2001110-010000120--111101002????????????0000?00000010?0100010??????????????????????????????????????0
+Madakoala_spp.                            200111?0110000?20--111000002310001010010??????????????????????????????????2??0?????????????????????0
+Nimiokoala_greystanesi                    2001110-110000120--111101002310011110010000??00?1?0??101000110???1??0010??20100????????????????????0
+Perikoala_robustus                        ???111??110000120--11100000231?00101001????????????????0--????????????????2????????????????????????0
+Phascolarctos_cinereus                    20011100010000120--1111?10123100011200100000100100110100--011?11110110100121110011100000??0001?????0
+Priscileo_pitikantensis                   2000011100000010???1000?00?1???????????????????????????0--?????????????????????0???????????????????0
+Priscileo_roskellyae                      20000111000000101-01000000?1?101-20000?00000000010010100--000011211100100010100????????????????????0
+Wakaleo_oldfieldi                         200??111000000101-01000000-03101-20000?0??????????????????????????????????1??0?????????????????????0
+Wakaleo_vanderleuri                       20001111000000?0???1000000-03101-20000?00000000010010100--00?0112?110?1?011?10?????????????????????0
+Sedophascolomys_medius                    31111?????0111?????1???????231??????????10101?0???????????????????????????3111?????????????????????1
+Phascolonus_gigas                         31111?????0111?????1???????2310?????????1010120????0?010--1???2022-0??1?1?3111?1111?11?1?1111110???1
+Ramsayia_magna                            30111?????0111?????1???????2310??????????01012001?1000??001??????????1????2111?????????????????????1
+Lasiorhinus_krefftii                      30111?????1111?????1???????2310?????????010011000?110000--110?2022210011103111?????????????????????0
+Lasiorhinus_latifrons                     30111???001111011-0100000002310?00000111010011000?110000--1101202221001110311111111011?11111111011?0
+Mukupirna_nambensis                       20011???001000011-0100000012????????????0?001?????????????0???00????????1??????0??10?011?01?0??????0
+Vombatus_ursinus                          30111?--001111011-01000000?231000000011?00001101100?0010--110120222100111031111111101111111111101110
+Vombatus_hacketti                         30111?????1111?????1????????310?????????000011011?000010--11??202??10?111?3111?1???????????????????0
+Warendja_wakefieldi                       ?0?11?????1111?????1???????2310????????1??000???1????100--0?1000222100?1??2110?1???????????????????0
+Muramura_spp.                             20011100010000011-01000000123100000000110000000???000102000???112211000?11101010????????????011????0
+Priscakoala_lucyturnbullae                ???????????000020--1000000???????1010??0???????????????????????????????????????????????????????????0
+Zygomaturus_trilobus                      201110--010000002011---0-1133100000010111?01-011??0??1020001??12??0101??01300112?11?10?0?01????????0
+Diprotodon_notatum                        211110--000000002011---0-1133100000010111001-100100000020001?112?????11?00200112111?10?0001?1??????0
+Euryzygoma_dunense                        201110--000000002011---0-1133100000010?11001-11??????102100???1??????1??0??????????????????????????0
+Propalorchestes_novaculacephalus          201110--010000002111---0-11231?0000000?100?1-2011010010200011011?21?111?1121?1?????????????????????0
+Palorchestes_painei                       201110--010000002111---0-11331?0000000110001-20?101???0?0?0????1??2?1???1120?1?????????????????????0
+Palorchestes_azael                        201110--010000002111---0-1133110000000110001-20?1011100?0001112032??111?1130011????????????????????0
+Namilamadeta_spp.                         20011110010000011-010000001231000000001100000?00100?0102000011112211000?1120101????????????????????0
+Ilaria_spp.                               200110--110000020--10000001331000?00000100?0??????????02000???11?2?10???1?21011??????111111????????0
+Kuterintja_ngama                          ???110--010000020--100000012310000000000???????????????20?????????????????2??0??????????????????????
+Thylacoleo_carnifex                       20000111000000100--1000???-0?101-20?0??00000000110020?00--01011232211110000010??11100001100?1??????0
+Nimbavombatus_boodjamullensis             ??0110--001100011-01???0?012?????????????0000?????????00--0?0??????????????????????????????????????0
+Djarthia_murgonensis                      ??0000--000000020--110000002???000000100??????????????????????????????????????0???????????????0?????
+
+;
+
+
+cnames
+{ 0 Number_of_upper_incisors_(ordered) Five Four Three One;
+{ 1 Upper_first_incisor_(I1) Not_greatly_broadened_mediolaterally Greatly_broadened_and_"straplike";
+{ 2 Upper_canine_(C1) Present Absent;
+{ 3 Upper_first_premolar_(P1) Present Absent;
+{ 4 Upper_second_premolar_(P2) Present Absent;
+{ 5 Upper_third_premolar_(P3) not_bladelike bladelike_(sectorial_or_semi-sectorial);
+{ 6 Bladelike_P3_-_ratio_of_maximum_length_to_maximum_width <1.5 >1.5;
+{ 7 Blade-like_P3 Ridged Smooth-sided;
+{ 8 Posterobuccal_cusp_on_P3 Absent Present;
+{ 9 Prominent_lingual_cusp_on_P3 Absent Present;
+{ 10 Enamel_extending_down_the_buccal_surface_of_P3_and_onto_the_root Absent Present;
+{ 11 Enamel_tracts_extending_down_lingual_surface_of_upper_molars_and_buccal_surface_of_lower_molars Absent Present;
+{ 12 Hypselodont_cheek_teeth Absent Present;
+{ 13 Molar_shape Not_strongly_bilobed Strongly_bilobed;
+{ 14 Enamel_crenulations Absent/weak Strong,_crest-like;
+{ 15 Selenodonty/distinct_centrocrista_(ordered) Absent Weakly_developed Strongly_developed;
+{ 16 Lophodonty_(ordered) Absent Present_but_weakly_developed Present_and_strongly_developed_-_individual_cusps_no_longer_identifiable;
+{ 17 Fully_lophodont_molars Without_midlink With_midlink;
+{ 18 Anteriorly_concave_lower/anteriorly_convex_upper_molar_lophs Absent Present;
+{ 19 Metaconule Weakly_developed_-_tooth_triangular Enlarged,_forming_posterolingual_cusp_-_molars_square;
+{ 20 M1_paraconule Absent/weak Moderate/strong;
+{ 21 Neometaconule_on_M1 Absent Present;
+{ 22 Protostyle Absent Present;
+{ 23 Neomorphic_cuspule_at_base_of_metaconule_of_M1 Absent Present;
+{ 24 Posterolingual_paracristae Absent/weak Strongly_developed;
+{ 25 Postprotocrista Present Absent;
+{ 26 M4_metaconule Absent/significantly_reduced_and_retracted_towards_posterior_cingulum Distinct,_cuspate;
+{ 27 Posteriorly_increasing_molar_gradient_(ordered) M4_absent M4_markedly_smaller_than_M1 Absent,_M4_and_M1_similar_in_size,_or_M4_slightly_smaller Present,_M4_clearly_larger_than_M1;
+{ 28 Number_of_lower_incisors_(ordered) Four Three Two One;
+{ 29 Anterior_lower_incisor Not_greatly_enlarged Greatly_enlarged_and_procumbent;
+{ 30 Dorsal_surface_of_procumbent_incisor Not_strongly_concave Strongly_concave,_shovel-shaped;
+{ 31 M1_metaconid Present Absent;
+{ 32 Apex_of_metaconid_is_anterior_to_apex_of_protoconid_on_m2-3 No Yes;
+{ 33 Protostylid_on_m1 Absent Present,_cusplike Present,_vertically_directed_crest;
+{ 34 Entostylid_ridge_on_m1 Absent Present;
+{ 35 Metastylid_on_lower_molars_(ordered) Absent Present,_cuspate Present,_metastylid_fold;
+{ 36 Cristid_obliqua Present,_well-developed Absent_or_indistinct;
+{ 37 Distinct_and_separate_paraconid_on_m2-3 No Yes;
+{ 38 Termination_of_m2-3_paracristid Terminates_in_lingual_position,_anterior_to_metaconid Terminates_in_more_labial_position,_anterolabial_to_metaconid;
+{ 39 Presence_of_a_crest_connecting_entoconid_and_hypoconid Absent Present;
+{ 40 Incisive_foramen_in_deep_fossa_formed_by_intradiastemal_ridges/crests_that_"V"_posteriorly_to_a_point_at_or_posterior_to_incisivomaxillary_suture No Yes;
+{ 41 Incisive_foramen_in_ovate_fossa No Yes;
+{ 42 Incisive_foramen_located_posteriorly No Yes,_the_incisive_foramina_lie_posteriorly,_just_anterior_to_P3,_in_a_deep_pocket_at_the_rear_of_the_diastema,_the_posterior_position_of_the_foramina_correspondingly_displaces_the_incisivomaxillary_suture_to_a_position_just_anterior_to_the_cheek_tooth_row;
+{ 43 Posterior_palatal_vacuities_(maxillopalatine_vacuities)_1 Present Absent;
+{ 44 Posterior_palatal_vacuities_2 Between_maxilla_and_palatine Within_palatine;
+{ 45 Nasal_aperture_retracted_beyond_incisor_arcade_(ordered) Absent_or_just_posterior_to_incisor_arcade Retracted_to_above_diastema_(or_level_of_incisivomaxillary_suture) Retracted_to_above_cheek_tooth_row;
+{ 46 Nasals Not_markedly_broadened_anteriorly Markedly_broadened_anteriorly;
+{ 47 Nasomaxillary_suture_length_relative_to_naso-premaxillary_suture_length_in_dorsal_view Nearly_same_or_greater Far_less_than_naso-premaxillary_suture_length;
+{ 48 Direction_of_frontonasal_suture_from_midline_to_lacrimal_bone_in_dorsal_view Lateral Rostrolateral;
+{ 49 Nasals_contact_lacrimals No Yes;
+{ 50 Combined_breadth_of_nasal_bones_in_dorsal_view Much_less_than_length Equal_to_or_greater_than_length;
+{ 51 Postorbital/supraorbital_process_of_frontal_bone_in_dorsal_view_(ordered) Small_or_absent Well-developed Laterally_extensive,_contacting_frontal_process_of_jugal_to_form_complete_postorbital_bar;
+{ 52 Postorbital_process Formed_by_frontal_only Formed_by_frontal_and_lacrimal;
+{ 53 Sagittal_crest Absent Present;
+{ 54 Infraorbital_foramen Round_or_oval Slitlike;
+{ 55 Masseteric_process,_ventral_extent_(ordered) Absent_or_indistinct Short Elongate;
+{ 56 Masseteric_process,_lateral_extent Not_markedly_expanded_laterally Greatly_expanded_laterally;
+{ 57 Masseteric_process_composition Maxilla_and_jugal Jugal_only;
+{ 58 Presence_of_a_single_and_extensive_area_for_attachment_of_masseter_muscles_extending_from_anterior_to_orbit_to_beneath_orbit_and_traverses_both_maxillary_and_jugal_bones Absent_or_indistinct Forming_prominent_depression;
+{ 59 Lacrimal_tubercle/tuberosity Absent Present;
+{ 60 Palatine-lacrimal_contact_in_orbit Present Absent_-_frontal-maxilla_contact;
+{ 61 Frontal-squamosal_contact Absent_-_alisphenoid-parietal_contact Present;
+{ 62 Glenoid_fossa Articular_eminence_planar_or_concave,_mandibular_fossa_absent_or_indistinct Articular_eminence_planar,_mandibular_fossa_well-developed Articular_eminence_strongly_convex_and_broad;
+{ 63 Postglenoid_process_(ordered) Absent_or_weakly_developed Present,_vertical Present,_ventral_edge_curving_posteriorly_to_partially_floor_external_auditory_meatus;
+{ 64 Position_of_postglenoid_foramen Posterior_to_postglenoid_process_and_bounded_medially_by_petrosal Anteromedial_to_or_in_line_with_postglenoid_process Posteromedial_to_postglenoid_process_within_squamosal Within_epitympanic_fenestra,_surrounded_by_bony_septum;
+{ 65 Tympanic_cavity_roof_elements_(ordered) Alisphenoid_(no_squamosal_contribution) Alisphenoid_and_squamosal Squamosal_(no_alisphenoid_contribution);
+{ 66 Tympanic_floor_elements_(ordered) Alisphenoid Alisphenoid_and_squamosal Squamosal;
+{ 67 Tympanic_wing,_whether_squamosal_or_alisphenoid_(ordered) Absent Does_not_contact_exoccipital Contacts_exoccipital;
+{ 68 Epitympanic_fenestra_developed_in_postglenoid_cavity Absent Present;
+{ 69 Non-auditory_sinuses Absent Present;
+{ 70 Posterior_epitympanic_sinus Absent/weak Moderate_to_deep;
+{ 71 Interparietal Present,_large Absent,_very_small_or_polymorphic;
+{ 72 Ventrolaterally_flared_mastoid_process_on_occiput Absent Present;
+{ 73 Size_of_paroccipital_processes Small Large;
+{ 74 Posterior_extent_of_mandibular_symphysis_on_mandible_(ordered) Anterior_to_p3 Below_p3 Below_m1 Below_m2-3;
+{ 75 Flared_masseteric_eminences_on_mandible Absent/weak Moderately_to_strongly_flared;
+{ 76 Masseteric_foramen Absent Present;
+{ 77 Fused_mandibular_symphysis Absent Present;
+{ 78 Subarcuate_fossa Deep_and_well-excavated Shallow_depression;
+{ 79 Humerus,_deltopectoral_crest projects_anteriorly overhangs_humeral_shaft_laterally,_forming_tunnel-like_fossa_for_origin_of_brachialis deltoid_and_pectoral_crest_separate,_deltoid_crest_projects_laterally_but_does_not_overhang_brachialis_muscle;
+{ 80 Cuneiform,_position_relative_to_scapholunar Directly_lateral_to_scapholunar More_proximal_than_the_scapholunar;
+{ 81 Cuneiform,_ridge_between_ulnar_and_pisiform_facets Middle_section_sinks_below_the_rim_of_the_cuneiform High_rising_throughout,_straight;
+{ 82 Scaphoid,_distal_surface Single_facet,_smooth Separated_into_two_distinct_facets;
+{ 83 Scaphoid,_distolateral_process Absent Present;
+{ 84 Unciform,_hamate_process Large,_hooked_and_curves_medially Reduced,_not_as_hooked_and_does_not_curve_as_far_medially;
+{ 85 MC_II,_proximal_end Mediolaterally_compressed Expanded_and_concave;
+{ 86 MC_III,_facet_for_MC_IV,_position Proximal_only_to_ligament_pit_(no_dorsal_component) Dorsal_to_ligament_pit_(no_proximal_component) Dorsal_and_proximal_to_ligament_pit;
+{ 87 MC_III,_facet_for_MC_IV,_orientation Facing_laterally_or_only_slightly_distally_slanted Strongly_distally_slanted_or_completely_facing_distally;
+{ 88 MC_III,_magnum_facet Grooved_or_concave Convex_or_flat_to_slightly_convex;
+{ 89 MC_III,_MC_II_facet Separate,_distinct,_and_lateral_to_the_magnum_facet Continuous_with_the_magnum_facet;
+{ 90 Proximal_phalanges,_manus_or_pes,_distal_ends Not_tapered Dorsoventrally_tapered,_so_that_the_articulation_for_the_medial_phalanx_faces_ventrally;
+{ 91 Pelvis,_ilium Only_slightly_dorsoventrally_flattened,_or_mediolaterally_flattened Greatly_dorsoventrally_flattened;
+{ 92 Fibula,_lateral_notch_on_distal_end Clearly_present Extremely_slight_or_absent;
+{ 93 Fibula,_femoral_facet Absent Present;
+{ 94 Astragalus,_lateral_tibial_facet Mostly_convex Mostly_concave;
+{ 95 Astragalus,_head Wider_than_long Narrow,_mediolaterally_compressed,_or_length_and_width_are_equal;
+{ 96 Cuboid No_contact_with_astragalus Contacts_astragalus;
+{ 97 Entocuneiform,_MT_I_facet Saddle-shaped_(concavo-convex) Convex;
+{ 98 Metatarsal_I,_entocuneiform_facet Mostly_convex Strong_concave_component;
+{ 99 Palate Not_strongly_arched Strongly_arched;
+;
+
+
+ccode  + 0 15.16 27.28 35 45 51 55 63 65.67 74 - 1.14 17.26 29.34 36.44 46.50 52.54 56.62 64 68.73 75.99;
+
+
+;

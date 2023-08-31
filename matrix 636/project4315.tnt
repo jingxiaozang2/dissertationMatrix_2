@@ -1,0 +1,147 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.45.04'
+74 55
+
+&[num]
+Periplaneta_americana                      000--00000000--10010000020000-00-0000----10-0007000011000--000----0?1000-0
+Anacanthotermes_vagans                     2110011011211000111201112110011122100000110000170011101210000010100?011002
+Anacanthotermes_viarum                     2110011010111000122201112100011122100000110100150011101210000010100?011002
+Anisotermes_xiai                           210-11???12?1?001100000010100011010000011102011?1?1???1??00000???100000101
+Archotermopsis_tornquisti                  311??1???0210??012210011110-0-11121000-0-102011-?0?????????002??????0????2
+Archotermopsis_wroughtoni                  211101010021000012210011110-0-11121000-0-10-001-0011101210000210101?000002
+Baissatermes_lapideus                      ?????????0??1???01?????111010?11?2-?00?0?1020015??????????????????0?0?????
+Carinatermes_nascimbenei                   ?11??1????201??10100000121010011?2-?00011102001400?????????011?????00??1?2
+Cratokalotermes_santanensis                ?1???1???12?1??0121?????2??-0?1-?2-?0????102?013?2????????????????000??1??
+Cratomastotermes_wolfschwennigeri          ?????1??????1??1010000-?2??0001-??-?0????100?01?????????????????????0????1
+Cryptocercus_matilei                       110--00000100--100100000----1-------------------000000111--000----0-0001--
+Cryptotermes_brevis                        3111011000311010010200112121001112101011100221131221101210001111010?011102
+Cryptotermes_cavifrons                     3111011000311010010200112121001112101011100221131221101210001111010?011102
+Cryptotermes_glaesarius                    311?11???1311??00102001121210011121010111002-116?2?????????011????0?0??1?4
+Cryptotermes_yamini                        311?11???1311??00102001121210011121010111002-116?2?????????011????0?0??1?4
+Dharmatermes_avernalis                     ?1???10?0?2?10?0011?0??101010011?2-?011001020115?????????????0?????00?11?3
+Electrotermes_affinis                      311??1???0311??001020011012100111210101101021114?2?????????011??????0????3
+Garmitermes_succineus                      210??0???0301??011000001?0??00110????0011?????1????????????000????0?0001??
+Glyptotermes_paleoliberatus                311?11???1311??00102001101210011121010111002-111?2?????????011????0?0111?4
+Glyptotermes_tuberculatus                  3111011000311010010200110121001112101010100221111221101210001111010?011104
+Hodotermes_eritnreensis                    2110011011201000111211011101011112100100111000140111101210001110100?011002
+Hodotermes_mossambicus                     2110011010111000112211112100011112100000110100150011101210000010100?000002
+Hodotermopsis_sjostedti                    211--1010021100----10-11110-0-11-21000-0-10-001-0011101210000010101?000002
+Idanotermes_desioculus                     ?11??1????201??011100001???00?1???1?0??????101???0?????????001????00000??1
+Incisitermes_schwarzi                      3111011000311000010200112121001112101011100221131221101210001111010?011103
+Kachinitermopsis_burmensis                 311??1????3?1????1?200???1110????2111?????1201?6??????1???????????000??1?3
+Kalotermes_flavicollis                     3111011000311000010200111121001112101011100201151221101210001111010?011104
+Krishnatermes_yodhha                       21110101002100000100000020000011021?000011020116001????2?01001???100000102
+Lebanotermes_veltzae                       111??1??????1??0?11001000??10?11?21?0????10200?7?0?????????000????0?0000?1
+Mariconitermes_talicei                     ?1???1???02?1??0111000-12000001-?2-?000111000015?1????????????????0?0??1?1
+Mastotermes_darwiniensis                   111-1110003010000100000110000011010000001100001610100012100000000100000101
+Mastotermes_electrodominicanus             211??1???0301??001000001100000110100000011000017?0????????0000???1000001?1
+Mastotermes_electromexicus                 211??1???1301??00100000110000011010000001100001??0?????????000???1??0??1??
+Mastotermes_minutus                        310??1???03?1??00100000110000?11010000???100001??0?????????000????0?0001??
+Meiatermes_araripena                       211??1???02?1??1010000-12100001-?2-?00010-000015?1????????????????0?0??1?2
+Meiatermes_bertrani                        ?11?-101?02?10?1010000-121000?1-?2-000???1000016??1?????????????????0?????
+Melqartitermes_myrrheus                    311??1?0?1??1??10100001121100011?2-?0001?102011500?????????000????0?0??1?3
+Microhodotermes_viator                     2110011000111000112211112100011112100000010100150011101210000010100?000112
+Morazatermes_krishnai                      ?1???1???12?1??0111001??2?20001??21?0????10001?????????????011?????00001?1
+Mylacrotermes_cordatus                     ?11??1???1201??0110001?1?1??00100?????010?????1????????????121????0?0001??
+Neotermes_castaneus                        3111011000311000010200112121001112101011100220141221101210001111010?011101
+Porotermes_adamsoni                        3110010100211000121001111101011112110200110201151011101210100110100?011102
+Porotermes_planiceps                       3110010100211000121001111101011112110200110201171011101210101110100?010102
+Proelectrotermes_berendtii                 311??1???03?1??00102001121110011121010111102?11??2?????????011??????0?????
+Proelectrotermes_holmgreni                 ???????????????????200?121110?11?21?10???1020115?????????????1??????0?0??3
+Proelectrotermes_swinhoei                  311??1????3????????????1?1110?11?21?10???1020115???????????????????00????3
+Pterotermes_occidentis                     31100110003110000102011121210-11121010111002001512211012100011110?0?0111?3
+Santonitermes_chloeae                      ?1???1?????01????1?00110?11?0011?0??0????10100?6?0?????????000????0?0011?3
+Stolotermes_brunneicornis                  3110010100211000121201111101001112110200110201151011101210101210100?011124
+Stolotermes_victoriensis                   3110010101211000121201111101011112111200111201171021101210101210100?011124
+Syagriotermes_salomeae                     ?1???1???????????1?0001111210011??1?000?010211?6???????????000????00?11??3
+Tanytermes_anawrahtai                      311??1?0?12?10?1021200?111110011?2-?000001020117???????????112?????00111?3
+Termopsis_bremii                           211??1???1211??10110001101000011121?00010100001700?????????001??????0?01??
+Termopsis_ukapirmasi                       211??1???1211??10110001101000011121?0?111100001700?????????001??????0001?2
+Zootermopsis_angusticollis                 2111010100211000121100111101001112100000110-00170011101210000010101?000012
+
+;
+
+
+cnames
+{ 0 Number_of_alate/imago_antennomeres 50_or_more_antennomeres 30-40_antennomeres 23-28_antennomeres 11-22_antennomeres;
+{ 1 Structure_of_imago_flagellum flagellomeres_filiform flagellomeres_moniliform;
+{ 2 Apex_of_imago_flagellum distal_7-8_articles_tapered distal_7-8_articles_not_tapered;
+{ 3 Pigmentation_of_soldier_compound_eyes present absent;
+{ 4 Soldier_compound_eyes rudimentary absent;
+{ 5 Position_of_alate_head hypo-/orthognathous prognathous;
+{ 6 Marginal_teeth_of_left_mandible_of_alate greater_than_or_equal_to_three two_teeth;
+{ 7 Subsidiary_tooth_of_right_mandible_of_alate absent present;
+{ 8 Lacinial_teeth_of_maxilla both_teeth_apical one_tooth_subapical;
+{ 9 Y-shaped_coronal_ecdysial_cleavage_line_in_imago present absent_or_highly_vestigial;
+{ 10 Pair_of_ocelluslike_structures_(5_ocelloids)_near_inner_margin_of_compound_eye present_as_circular_tympanalike_areas vestigial_as_areas_of_weakened_or_pale_cuticle absent present_and_nearly_lens_like_(superficially_resembling_ocelli_and_historically_termed_ocelli_by_isopterists);
+{ 11 Occipital_sulcus present absent_or_highly_vestigial;
+{ 12 Compound_eye lenticular circular;
+{ 13 Notch_between_first_and_third_marginal_teeth present absent;
+{ 14 Soldier_head_capsule rectangular_in_dorsal_aspect phragmotic,_plug_shaped;
+{ 15 Pronotal_posterolateral_corners_of_imago broadly_arched acutely_rounded,_nearly_orthogonal;
+{ 16 Pronotal_lateral_margins_of_imago subparallel converging;
+{ 17 Pronotal_size_of_imago covering_head_dorsally not_covering_head_but_with_width_greater_than_or_equal_to_head width_significantly_less_than_head_width;
+{ 18 Pronotal_anterior_margin_of_imago concave relatively_straight convex,_with_anterolateral_corners_developed;
+{ 19 Tarsomeres pentamerous,_fully_developed pentamerous,_second_tarsal_article_reduced tetramerous_(second_tarsal_article_lost) trimerous;
+{ 20 Metabasitarsomere_length less_than_twice_the_width more_than_3_times_the_width more_than_twice_but_less_than_3_times;
+{ 21 Pretarsal_arolium present absent;
+{ 22 Procoxal_ventral_keel_of_alate present absent;
+{ 23 Protibial_spines_along_length present_and_extensive absent,_reduced_to_apical_spines/spurs;
+{ 24 forewingLength_of_R1 short,_extending_in_quarter_of_wing_length median,_extending_in_third_of_wing_length long,_extending_to_or_past_wing_midlength;
+{ 25 Forewing_Rs branched_basally_in_scale_with_2-3_branches simple_in_scale;
+{ 26 Forewing_CuA shorter,_to_around_wing_midlength long,_to_point_within_apical_third_of_wing elongate_and_extensively_developed,_extending_to_apex_or_subapex,_posteriorly_along_one-half_wing,_with_6_or_more_branches;
+{ 27 Multiple_branches_of_R1 present absent;
+{ 28 Wings present absent;
+{ 29 Forewing_scale_relative_to_hind_wing_scale apical_margin_of_forewing_scale_meeting_or_overlapping_hind_scale scales_well_separated;
+{ 30 Fore-_and_hind_wings not_dehiscent dehiscent;
+{ 31 Forewing_basal_cleavage_suture absent present;
+{ 32 Hind_wing_basal_cleavage_suture absent present_but_rudimentary completely_developed;
+{ 33 Sclerotization_of_veins all_uniformly_sclerotized Sc,_R,_and_M_thick_and_sclerotized_relative_to_CuA Sc_and_R_sclerotized_relative_to_M_and_CuA;
+{ 34 Anal_lobe_of_hind_wing present absent_(wing_homonomous);
+{ 35 Hind_wing_vein_A1 present absent;
+{ 36 Wing_membrane_surface smooth nodulose_or_pimplate;
+{ 37 Distal_margin_of_forewing_scale evenly_convex straight_to_slightly_convex straight_and_diagonal;
+{ 38 CuP_in_forewing_scale convex straight_or_concave;
+{ 39 Humeral_margin_of_forewing_scale flat swollen_beyond_level_of_costal_margin;
+{ 40 Forewing_CuP terminates_prior_to_posterior_tip_of_basal_suture terminates_in_basal_suture;
+{ 41 Position_of_forewing_vein_M close_to_Rs midway_between_Rs_and_CuA_or_closer_to_latter;
+{ 42 Costalization_of_forewing not_costalized C+Sc+R_and_Rs_extremely_close_and_simple_and_parallel;
+{ 43 Branches_of_Rs with_dorsal_and_ventral_branches,_inferiors_irregular_(acute_go_tip) with_dorsal_and_ventral_branches,_inferiors_angled_&_parallel with_short_dorsal_branches_only_or_simple;
+{ 44 Branches_of_vein_M with_two_or_more_branches with_one_apical_branch simple_(unbranched);
+{ 45 Radial_field encompassing_apex_or_terminating_at_apex terminating_anterior_to_apex;
+{ 46 Development_of_CuP extensive,_developed_as_claval_furrow reduced,_confined_to_short,_simple_vein_near_wing_base;
+{ 47 Number_of_superior_branches_of_Rs none one two three four five six seven_or_more;
+{ 48 Female_styli present absent;
+{ 49 Imago_cercus_segmentation four_or_higher three one_or_two;
+{ 50 Castes absent present,_with_workers present,_without_workers;
+{ 51 Ootheca present absent;
+{ 52 Presence_of_Blattabacterium_in_fat_body present absent;
+{ 53 Presence_of_flagellates_and_ciliates present absent;
+{ 54 Wood_feeding absent present;
+{ 55 Social_organization absent extended_parental_care eusocial;
+{ 56 Living_in_structures/nests absent present;
+{ 57 Soldiers present lost;
+{ 58 Soldier_heads normal flattened;
+{ 59 Protibial_apical_spur_number three_or_more two;
+{ 60 Mesotibial_apical_spurs four_or_five three two;
+{ 61 Metatibial_apical_spurs four three two;
+{ 62 Sternal_gland_on_third_sternum present absent;
+{ 63 Sternal_gland_on_fourth_sternum present absent;
+{ 64 Sternal_gland_on_fifth_sternum present absent;
+{ 65 Soldier_mandibles_bending_tropism bending_ventrally bending_dorsally;
+{ 66 Abdomen_exterior plump_with_cerci_developed_ventrolaterally flat_with_long_cerci_developed_ventrally;
+{ 67 medial_field_location encompassing_wing_apex on_lower_margin malformed_or_M_coalescent_with_Rs;
+{ 68 Dorsal_view_of_head_capsule rounded triangular;
+{ 69 mesotibia_spine present absent;
+{ 70 metatibia_spine present absent;
+{ 71 compound_eyes_anterior_emargination present absent;
+{ 72 Soldier_femora_swollen absent meso-_and_meta-femur_swollen metafemur_swollen;
+{ 73 Veins_among_longitudinal_veins abundant_cross_veins_present majority_reticulate_veins_with_several_cross_vein totally_reticulate_veins reduced_to_tuberculate_vein_most_parallel_to_longitudinal_veins reduced_to_dispersive_nodules_or_absent;
+;
+
+
+ccode  - 0.73;
+
+
+;
