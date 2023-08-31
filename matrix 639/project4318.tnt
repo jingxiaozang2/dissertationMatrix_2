@@ -1,0 +1,60 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.46.28'
+27 15
+
+&[num]
+Bothriocidaris_pahleni                   1111020010001??1110?1010101
+Bothriocidaris_parvus                    11122??010001??1110???11100
+Bothriocidaris_eichwaldi                 1112020010001??1110?1010100
+Bothriocidaris_globulus                  1112220010001??1110?1012101
+Bothriocidaris_solemi                    1?11021010001??1110?1111100
+Bothriocidaris_maquoketensis             11110?0010001??1100???22311
+Bothriocidaris_vulcani                   1111021010001??1100?11?1311
+Bothriocidaris_kolatai                   111023?010001??1110?2?12100
+Unibothriocidaris_bromidensis            1?121200111000?01111???????
+Unibothriocidaris_kieri                  1?111200?11000201111???????
+Neobothriocidaris_peculiaris             1?121101110101111111???????
+Neobothriocidaris_minor                  1?121101111101111110??10210
+Neobothriocidaris_templetoni             1?1?1??1111101?11110??10210
+Bromidechinus_rimaporus                  000000?000000000000?0?00000
+Neobothriocidaris_pentlandensis          1?12110111?101111111???????
+
+;
+
+
+cnames
+{ 0 Test_plating imbricate tessellate;
+{ 1 Enlarged_ocular_plates absent present;
+{ 2 Primary_ambulacral_tubercles_are_a_small,_raised,_hollow_platform no yes;
+{ 3 Ambulacral_plates_with_peripodial_ring absent present,_though_slightly_raised present_as_raised,_well-developed_rim;
+{ 4 Number_of_primary_tubercles_on_perforate_ambulacral_plates_at_ambitus two one more_than_two;
+{ 5 Number_of_secondary_tubercles_on_perforate_ambulacral_plates6 none,_only_granules sparse_tuberculation numerous_dense_tubercles no_plate_sculpturing;
+{ 6 Perforate_secondary_tubercles_on_perforate_ambulacral_plates absent present;
+{ 7 Lateral_branches_of_the_radial_water_vessel_enclosed_within_ambulacral_plates no yes;
+{ 8 Orientation_of_ambulacral_pores pores_horizontal pores_diagonal;
+{ 9 Number_of_columns_of_perforated_ambulacral_plates_at_ambitus two greater_than_two;
+{ 10 Number_of_ambulacral_columns_in_contact_with_perradial_suture_in_each_half_ambulacra11 one more_than_one_(as_in_Unibothriocidaris_bromidensis);
+{ 11 Pores_confined_to a_single_plate two_plates_(as_in_Neobothriocidaris);
+{ 12 Perforated_columns_of_ambulacral_plates_separated_from_each_other_by_imperforate,_perradial_column yes no;
+{ 13 Primary_tubercles_present_on_imperforate_ambulacral_plates no yes;
+{ 14 Number_of_secondary_tubercles_present_on_imperforate_ambulacral_plates zero sparse_tuberculation dense_tuberculation;
+{ 15 Pore_pair_structure single_opening_per_tube_foot double_perforation_per_tube_foot;
+{ 16 Shape_of_ambulacral_plates subrectangular hexagonal/subhexagonal;
+{ 17 Dimensions_of_ambulacral_plates more_than_twice_as_wide_as_high less_than_twice_as_wide;
+{ 18 Interambulacra_reduced no yes;
+{ 19 Nature_of_interambulacral_reduction a_few_plates_in_single_irregular_column no_interambulacra;
+{ 20 Secondary_tubercles_present_on_interambulacral_plates no,_just_small_granules secondary_tubercles no_sculpturing_present;
+{ 21 Secondary_tubercles_on_interambulacral_plates imperforate perforate;
+{ 22 Number_of_columns_of_interambulacral_plates_at_ambitus two one alternating_one_and_two;
+{ 23 Number_of_primary_tubercles_on_interambulacral_plates zero one multiple;
+{ 24 Shape_of_interambulacral_plates pentagonal hexagonal diamond-shaped irregular;
+{ 25 Interambulacral_plates_arranged_into_regular_columns yes no;
+{ 26 Interambulacra_with_alternating_large_and_small_plates no yes;
+;
+
+
+ccode  - 0.26;
+
+
+;

@@ -1,0 +1,135 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.46.53'
+52 65
+
+&[num]
+Nematogenys_inermis                       00???0?0??0?????0??0?00?00000???0?0?000000000?000000
+Copiodon_pecten                           00???0?0??0?????00?0?00?00000???0000000000000?000000
+Trichogenes_longipinnis                   00???0?0??0?????00?0?00?00000???0000000000000?00000?
+Microcambeva_ribeirae                     000000?00?????0?0?0100000000000000?0100000000?000000
+Listrura_tetraradiata                     001??0?00?????0?0?0100000000000000?0100000000???????
+Eremophilus_mutisii                       00000000000000000000000000001?000000000000000???????
+Trichomycterus_punctulatus                00000000000000000000000000000000?0000000000000000000
+Bullockia_maldonadoi                      0000100000000000001100?00000000000000000000000000000
+Trichomycterus_areolatus                  0000100000000000001000000000000000000000000000000000
+Ituglanis_boitata                         0000000000000000000000000000000000?00000001000000000
+Scleronema_minutum                        0000000000000000100100?00000000000011000010000000000
+Scleronema_guapa                          0000000000000000100100?00000000000011000010000000000
+Scleronema_ibirapuita                     0000000000000000100100?00000000000011000010000000000
+Scleronema_macanuda                       0000000000000000100100?00000000000011000010000000000
+Cambeva_variegata                         0000000000000000100000?00000000000011000010000000000
+Cambeva_brachychenos                      0000000000000000100000?00000000000011000010000000000
+Cambeva_diatropoporos                     001?000000000000100000000000000000011000010000000000
+Cambeva_cubataonis                        0000000000000000100000?000000000?0011000010000000000
+Cambeva_davisi                            0000000000000000100000?000000000?0011000010000000000
+Cambeva_castroi                           0000000000000000100000?000000000?0011000010000000000
+Cambeva_zonata                            0000000000000000100000?000000000?0011000010000000000
+Trichomycterus_giganteus                  0101000100003010000000000000010000001000000110000010
+Trichomycterus_itatiayae                  001?000000101000100000?00020000000001100000000000001
+Trichomycterus_septemradiatus             000000100000000010000010000000000000110000000010?000
+Trichomycterus_pauciradiatus              000000100000000010000010000000000000110000000010?000
+Trichomycterus_piratymbara                000000100000000010000010000000000000110000000010?000
+Trichomycterus_reinhardti                 000000100000000010000010000000000000110000000010?000
+Trichomycterus_anaisae                    000000100000000010000010000000000000110000000010?000
+Trichomycterus_funebris                   000000100000000010000010000000000000110000000010?000
+Trichomycterus_humboldti                  000000100000000010000010000000000000110000000010?000
+Trichomycterus_luetkeni                   000000100000000010000010000000000000110000000010?000
+Trichomycterus_ingaiensis                 000000100000000010000010000000000000110000000010?000
+Trichomycterus_sainthilairei              000000100000000010000010000000000000110000000010?000
+Trichomycterus_nigricans                  0000000001000000000101000010000100001010001000000000
+Trichomycterus_caipora                    0000000001000000000101000010000100001010001000000000
+Trichomycterus_santaeritae                0000000001000000000101000010000100001000001000000000
+Trichomycterus_immaculatus                0000000001000000000001000010000100001010001000000000
+Trichomycterus_nigroauratus               0000000001000000000000000110000100001010001000010000
+Trichomycterus_maculosus                  0000000001000000000000000110000100001010001000010000
+Trichomycterus_quintus                    0000000001000000000000000110000100001010000000010000
+Trichomycterus_mimonha                    1000000000000100000000001001100010001001000001001100
+Trichomycterus_fuliginosus                1000000000000100000000001001100010001001000001001100
+Trichomycterus_brunoi                     1000000000000100000000001001100010001001000001001100
+Trichomycterus_mirissumba                 1000000000000100000000001001100010001001000001001100
+Trichomycterus_pirabitira                 1000000000000100000000001001100010001001000001001100
+Trichomycterus_macrotrichopterus          1000000000000100000000001001100010001001000001001100
+Trichomycterus_brasiliensis               1000000000000100000000001001100010001001000001001100
+Trichomycterus_candidus                   100000000000010000000000100110001000100100000100????
+Trichomycterus_potschi                    1000000000000100000000001001100010001001000001001100
+Trichomycterus_claudiae                   1000000000000100000000001001100010001001000001001100
+Trichomycterus_novalimensis               1000000000000100000000001001100010001001000001001100
+Trichomycterus_rubiginosus                1000000000000100000000001001100010001001000001001100
+Trichomycterus_albinotatus                1000010000002100000000001001100001001001000000001000
+Trichomycterus_vitalbrazili               1000010000002100000000001001100001001001000000001000
+Trichomycterus_mimosensis                 0000000000000000000100000000001000101000000000000000
+Trichomycterus_travassosi                 0000000000000000000100000000001000101000000000000000
+Trichomycterus_caudofasciatus             0000000000000000000100000000001000101000000000000000
+Trichomycterus_jacupiranga                0000000000000000000100010000001000101000000000000000
+Trichomycterus_pantherinus                0000000000000000000100010000001000101000000000000000
+Trichomycterus_longibarbatus              0002000000000000010120000000001000001000000000000000
+Trichomycterus_auroguttatus               0000120010000000010110000000001000101000100000000000
+Trichomycterus_alternatus                 0000100000000000010110000000001000101000100000000000
+Trichomycterus_melanopygus                0000000000010000001100000000000000001000000000000000
+Trichomycterus_pradensis                  0000000000010001001100000000000000001000000000000000
+Trichomycterus_tete                       0000000000010000001100000000000000001000000000000000
+
+;
+
+
+cnames
+{ 0 Autopalatine,_dorsal_surface,_lateral_portion,_long_longitudinal_ridge absent present;
+{ 1 Autopalatine,_dorsal_surface,_latero-middle_portion,_short_longitudinal_ridge absent present;
+{ 2 Autopalatine,_postero-lateral_process,_development well-developed rudimentary;
+{ 3 Autopalatine,_postero-lateral_process,_direction postero-lateral posterior lateral;
+{ 4 Autopalatine,_postero-lateral_process,_length_relative_to_autopalatine_longitudinal_length_excluding_postero-lateral_process distinctively_shorter nearly_equal_or_slightly_longer;
+{ 5 Autopalatine_in_specimens_above_45_mm_SL,_medial_margin,_shape concave,_sometimes_nearly_straight convex with_deep_concavity,_posteriorly_followed_by_broad_convexity;
+{ 6 Autopalatine,_articular_facet_for_lateral_ethmoid,_ventral_flap,_shape small_or_rudimentary long;
+{ 7 Autopalatine,_dorsal_surface,_articular_facet_for_the_lateral_ethmoid,_prominent_ridge_terminating_in_process_connected_to_sesamoid_supraorbital absent present;
+{ 8 Autopalatine,_dorsal_surface,_articular_facet_for_the_lateral_ethmoid,_robust_comma-shaped_support absent present;
+{ 9 Metapterygoid,_posterior_portion,_expansion absent present;
+{ 10 Metapterygoid,_postero-ventral_margin,_deep_concavity_accommodating_dorsal_expansion_of_the_antero-dorsal_process_of_the_quadrate absent present;
+{ 11 Hyomandibula,_anterior-outgrowth,_shape deep shallow;
+{ 12 Hyomandibula,_anterior-outgrowth,_dorsal_margin,_shape slightly_curved,_sometimes_with_weak_dorsal_concavity nearly_straight_and_horizontal,_with_deep_U-shaped_concavity step_anterior_and_posterior_portions_converging_to_pronounced_V-shaped_concavity_reaching_central_outgrowth deep_concavity_reaching_ventral_outgrowth;
+{ 13 Opercle,_anterior_odontodes,_arrangement transversal diagonal;
+{ 14 Opercle_and_interopercle,_largest_and_internal-most_odontodes,_distal_portion,_shape straight_to_slightly_curved strongly_curved,_its_tip_forming_an_angle_of_about_90°_with_odontode_main_axis;
+{ 15 Interopercle,_anterior_portion,_distinctive_anterior_expansion absent present;
+{ 16 Interopercle,_dorsal_process,_position_relative_to_anterior_margin_of_odontode_patch distant close;
+{ 17 Interopercle,_dorsal_process,_anterior_margin,_shape slightly_concave prominent_V-shaped_notch;
+{ 18 Preopercle,_ventral_flap,_extent_relative_to_ventral_bone_limit slightly_extending_beyond_it expanding_ventrally_beyond_it;
+{ 19 Maxilla,_largest_length_relative_premaxilla_largest_length shorter longer;
+{ 20 Maxilla,_shape slightly_curved somewhat_folded nearly_straight;
+{ 21 Maxilla,_postero-middle_process,_shape moderate,_slightly_projecting_beyond_bone_profile large,_forming_pronounced_expansion;
+{ 22 Antorbital,_association_with_anterior_segment_of_the_latero-sensory_infraorbital_canal associated separated;
+{ 23 Sesamoid_supraorbital,_distinctive_robust_lateral_process absent present;
+{ 24 Mesethmoid,_lateral_margin,_ventral_fold absent present;
+{ 25 Lateral_ethmoid,_articular_facet_for_the_autopalatine,_folded_laminar_expansion absent present;
+{ 26 Lateral_ethmoid,_antero-dorsal_extremity,_direction anterior lateral medial;
+{ 27 Lateral_ethmoid,_medial_margin,_proximity_relative_to_its_paired_homologous in_contact separate;
+{ 28 Lateral_ethmoid,_lateral_margin,_area_close_to_sesamoid_supraorbital,_lateral_projection absent present;
+{ 29 Lateral_ethmoid,_lateral_margin,_prominent_trapezoidal_process absent present;
+{ 30 Lateral_ethmoid,_lateral_margin,_widening_to_form_distinct_wall_limiting_fossa_aperture absent present;
+{ 31 Sphenotic-prootic-pterosphenoid_complex,_lateral_process,_extent_relative_to_main_neurocranium_body_limit short,_slightly_extending_beyond_it long,_strongly_projecting_beyond_it;
+{ 32 Pterotic,_lateral_process,_extremity,_shape_and_extent_relative_to_limit_of_lateral_neighbouring_bones truncate,_not_projecting_beyond rounded,_projecting_beyond;
+{ 33 Epioccipital,_posterior_margin,_sharp_process_posteriorly_directed absent present;
+{ 34 Frontal,_anterior_cranial_fontanel,_shape well-developed_orifice minute_aperture;
+{ 35 First_free_vertebra,_parapophysis,_branching unbranched branched;
+{ 36 Second_free_vertebra,_parapophysis,_direction lateral posterolateral;
+{ 37 Second_free_vertebra,_parapophysis,_general_shape robust slender;
+{ 38 Second_free_vertebra,_parapophysis,_antero-distal_portion,_expansion absent present;
+{ 39 Second_free_vertebra,_parapophysis,_posterior_margin,_small_notch absent present;
+{ 40 Second_free_vertebra,_parapophysis,_postero-distal_portion,_expansion absent present;
+{ 41 Third_free_vertebra,_parapophysis,_direction postero-lateral posterior;
+{ 42 Third_free_vertebra,_parapophysis,_shape nearly_straight posteriorly_curved;
+{ 43 Weberian_capsule,_shape pear-like,_abruptly_narrowing_laterally slender,_subtly_narrowing_laterally;
+{ 44 Scapulo-coracoid,_supra-lateral_process,_shape needle-shaped tree-shaped;
+{ 45 Posttemporo-supracleithrum,_size_and_space_around_it large,_occupying_most_space_among_neighboring_bones small,_surrounded_by_large_space_separating_from_neighboring_bones;
+{ 46 Pelvic_bone,_development well-developed poorly-developed;
+{ 47 Pelvic_bone,_general_shape compact elongated;
+{ 48 Pelvic_bone,_posterior_process,_development well-developed rudimentary;
+{ 49 Pelvic_bone,_anterior_processes,_basal_region broad narrow;
+{ 50 Pelvic_bone,_anterior_processes,_number two three;
+{ 51 Pelvic_bone,_postero-medial_portion,_small_processes_close_to_cartilage_supporting_fin_rays absent present;
+;
+
+
+ccode  - 0.51;
+
+
+;

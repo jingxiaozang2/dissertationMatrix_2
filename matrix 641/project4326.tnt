@@ -1,0 +1,100 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.48.49'
+57 25
+
+&[num]
+Trichogenes_longipinnis           0000000000000000000000010000000010000000001000000000?0000
+Ituglanis_boitata                 000000000000000000001001010000000000000000010000000000000
+Trichomycterus_nigricans          000000000000000000000001000000000000000000010000000000000
+Scleronema_minutum                000000010000000000001000001000?00000000000010010010001000
+Homodiaetus_anisitsi              0?00000000000000?1000000000010?01111000000010000000001000
+Stauroglanis_gouldingi            000001010000010001000000001010000111000000010000000000100
+Pygidianops_amphioxus             ??00000100000000?100000?01001??001111010????0???0?11?0??0
+Microcambeva_filamentosa          00010101000000100110110010001011011100100011000100000????
+Microcambeva_ribeirae             000101020100000001001100101010110111000001110010110001111
+Microcambeva_bendego              000101020100000001001100101010110111000001110010110001111
+Microcambeva_barbata              000101120000011001001000100010010111000001110000110000111
+Microcambeva_watu                 000101120010011001001000?000100101110?0001110000110000111
+Microcambeva_jucuensis            000101120010011001001000100010010111000001110000110000111
+Microcambeva_mucuriensis          000101120010011001001000100010010111000001110000110000111
+Microcambeva_draco                000101120010011001001000100010010111000001110000110000111
+Listrura_tetraradiata             100111001001101111000011110111?011101101202110000?1000020
+Listrura_nematoptetyx             102111001001001111010010110211?011101101202212000?1010020
+Listrura_macacuensis              102111001001001111010010110211?011101101202212[01]?0?1010020
+Listrura_sp._2                    ???????????????????????????2?????????????????2????11?????
+Listrura_macaensis                102111001001001111010010110211?0111011012022120?0?1010020
+Listrura_costai                   102111001001001111010010110211?0111011012022120?0?1010020
+Listrura_picinguabae              112111001001001111010010110211?0111011012022120?0?1010020
+Listrura_camposi                  101111001001001111000010110111?0111011011022110?0?1000020
+Listrura_sp._1                    101111001001001111000010110111?0111011011022110?0?1000020
+Listrura_depinnai                 101111001001001111000010110111?0111011011022110?0?11?0020
+
+;
+
+
+cnames
+{ 0 Mesethmoid,_main_axis,_area_posterior_to_cornu_basis,_abrupt_lateral_widening absent present;
+{ 1 Mesethmoid,_cornu,_shape narrow_and_cylindrical broad_and_flat;
+{ 2 Lateral_ethmoid,_lateral_margin,_surface smooth,_without_projections with_flattened,_subtriangular_projection with_pronounced_subcylindrical_process;
+{ 3 Vomer,_lateral_constriction absent present;
+{ 4 Vomer,_posterior_process present absent;
+{ 5 Premaxilla,_postero-medial_region,_dorsal_surface,_small_projection absent present;
+{ 6 Premaxilla,_lateral_extremity,_distinctive_process absent present;
+{ 7 Maxilla,_length_relative_to_distance_between_mesethmoid_cornua equal_or_slightly_longer about_one_time_and_half about_twice_or_slightly_more;
+{ 8 Autopalatine,_general_shape slender,_with_well-developed_postero-lateral_process broad,_postero-lateral_process_absent;
+{ 9 Autopalatine,_posterior_region,_length_relative_to_autopalatine_length short,_about_half_length_or_slightly_less long,_about_two_thirds;
+{ 10 Autopalatine,_postero-lateral_process,_posterior_portion,_expansion absent present;
+{ 11 Autopalatine,_postero-lateral_tip,_narrow_and_flat_ossification_postero-medially_directed absent present;
+{ 12 Autopalatine,_postero-medial_margin,_latero-dorsally_directed_process absent present;
+{ 13 Autopalatine,_anterior_cartilage_head,_anterior_margin,_ossification absent present;
+{ 14 Autopalatine,_osseous_portion,_anterior_margin,_shape slightly_curved_to_about_straight strongly_sinuous;
+{ 15 Antorbital,_shape rod-shaped comma-shaped;
+{ 16 Supraorbital,_development well-developed rudimentary;
+{ 17 Metapterygoid,_development well-developed rudimentary;
+{ 18 Hyomandibula,_dorsal_margin,_area_just_anterior_to_cartilage_articulating_hyomandibula_and_neurocranium,_prominent_expansion absent present;
+{ 19 Quadrate,_dorsal_process,_posterior_margin,_laminar_extension absent present;
+{ 20 Opercle,_odontode_patch,_width_relative_to_length_of_cartilage_articulating_hyomandibula_and_neurocranium smaller larger;
+{ 21 Opercle,_dorsal_surface,_area_just_anterior_to_odontode_patch straight_to_slightly_concave with_prominent_concavity;
+{ 22 Interopercle,_area_between_dorsal_process_and_odontode_patch,_shape not_constricted strongly_constricted;
+{ 23 Interopercle,_odontode_patch,_length_relative_to_width_of_opercular_odontode_patch equal_or_smaller about_twice_larger;
+{ 24 Interopercle,_lateral_surface,_projection absent present;
+{ 25 'Neurocranium, roof, dorsal surface; aperture' with_open_fontanel roof_solid,_without_apertures;
+{ 26 Neurocranium,_antero-frontal,_lateral_constriction gradual_and_weak abrupt_and_strong;
+{ 27 Neurocranium,_frontal,_anterior_extent_relative_to_autopalatine_structures posterior_to_articular_facet_for_lateral_ethmoid near_postero-medial_tip_overlapping_vomer about_mid-length_between_postero-medial_tip_and_limit_between_osseus_portion_and_anterior_cartilage;
+{ 28 Neurocranium,_anterior_supraorbital_canal_(between_pores_s1–s3) present absent;
+{ 29 Neurocranium,_posterior_supraorbital_canal_(between_pores_s3–po1) present absent;
+{ 30 Neurocranium,_supraorbital_pore_s6 paired single,_median;
+{ 31 Ceratobranchial_4,_sub-proximal_region,_process present absent;
+{ 32 Hypobranchial_3,_ossification with_well-developed_anterior_ossification ossification_rudimentary,_usually_absent;
+{ 33 Parurohyal,_lateral_process,_shape short_and_broad long_and_narrow;
+{ 34 Ribs,_number six_or_more four_or_fewer_(taken_from_Costa_and_Bockmann_[6]);
+{ 35 Trunk,_pigmentation well_pigmented,_making_body_wall_opaque hyaline,_with_a_few_scattered_chromatophores;
+{ 36 Trunk,_shape fusiform eel-like;
+{ 37 Trunk,_precaudal_vertebrae,_neural_spines,_anterior_process present absent;
+{ 38 Trunk,_dorsal_surface,_pre-dorsal_region,_adipose_fold absent present;
+{ 39 Caudal_peduncle,_procurrent_caudal-fin_rays,_anterior_extent limited_to_area_close_to_caudal_fin anteriorly_extending_to_near_dorsal_and_anal_fins;
+{ 40 Caudal_skeleton,_dorsal_and_ventral_hypural_plates,_fusion unfused,_separated_by_broad_gap partially_fused,_at_least_with_posterior_gap_separating_plates fused,_often_resting_small_antero-middle_notch;
+{ 41 Caudal_skeleton,_lower_hypurals,_shape subtrapezoidal subrectangular_as_a_result_of_an_anteroventral_expansion;
+{ 42 Caudal_fin,_general_morphology subtruncate rounded,_almost_indistinct_between_caudal_peduncle_procurrent_rays bilobed;
+{ 43 Caudal_fin,_principal_caudal-fin_rays,_number 17 13 11_or_12;
+{ 44 Pectoral_girdle,_main_components_(cleithrum_and_proximal_radials),_development robust_and_thick narrow_and_thin;
+{ 45 Pectoral_fin,_rays,_development first_and_remaining_rays_well_developed first_rays_developed,_followed_by_one_to_three_rudimentary_rays single_barbel-like_rayed;
+{ 46 Pectoral_fin,_first_ray,_length_relative_to_subsequent_rays slightly_longer shorter;
+{ 47 Pectoral_fin,_first_ray,_tip,_filament,_length_relative_to_pectoral_fin_length short,_20%_or_less long,_about_70-80%;
+{ 48 Pectoral_fin,_minor_proximal_radial,_ossification cartilaginous ossified;
+{ 49 Pelvic_fin,_medial_interspace in_close_proximity broader_than_pelvic-fin_base;
+{ 50 Pelvic_fin present absent;
+{ 51 Dorsal_fin present absent;
+{ 52 Anal_fin,_origin,_position_relative_to_principal_dorsal-fin_rays posteriorly_placed,_in_vertical_through_or_posterior_to_them anteriorly_placed,_in_vertical_anterior_to_them;
+{ 53 Nasal_barbel,_development well-developed,_reaching_between_opercular_odontode_patch_and_pectoral_fin_base rudimentary,_barely_reaching_posterior_nostril;
+{ 54 Eye,_position_in_head anterior posterior;
+{ 55 Eye,_size_expressed_as_percentage_of_head_length medium_sized_(about_12-16%) hypertrophied_(about_18-22%) minute_(about_7-10%);
+{ 56 Head,_ventral_surface,_branchiostegal_region,_paired_barbel-like_short_projection absent present;
+;
+
+
+ccode  - 0.56;
+
+
+;

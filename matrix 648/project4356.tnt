@@ -1,0 +1,79 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.56.13'
+43 18
+
+&[num]
+Lophostemon                        00021000??00201000?000?0000--10?00110?00??0
+Stockwellia                        1000100???00110111?11001000--00?011???????1
+Eucalyptopsis                      11001000??0011??11?12001000--00??11???1????
+Allosyncarpia                      ????210?0?00100111010000000--0000??-2??????
+Arillastrum                        01010000?00021?011102000000--000020??112??0
+Angophora_costata                  111?0111010121?00000000000100?000100?111100
+Angophora_floribunda               111?0111010121?00000000000100?0001001111100
+Angophora_hispida                  11100?11010121?00000000000100?00010?1111100
+Corymbia_sub_Corymbia              11111?010101111000001110?1100?000100?111000
+Corymbia_sect_Naviculares          111111010101111000?0112021100?110100?111100
+Corymbia_sect_Abbreviatae          11111?0101?111?000?01120211001110100?111000
+Eucalyptus_deglupta                001?100?100111?00010212021111?00111?0110011
+Eucalyptus_camaldulensis           0010110?100111?00010212021111?0111120110011
+Eucalyptus_pleurocarpa             00111101101111000010200021110?011100?011001
+Eucalyptus_erythrocorys            00111101101111000010200021110?00110??011001
+Eucalyptus_cloeziana               001011011011111000?0202021111?01101??001011
+Eucalyptus_sub_Eucalyptus          00101101101111?0?0102--021111?0?10??000101?
+Patagonian_fossils                 ????11?1???1???00??0??201111??????1????????
+
+;
+
+
+cnames
+{ 0 Vessel_aggregation mostly_solitary mostly_grouped;
+{ 1 Paratracheal_vertical_parenchyma neither_confluent_or_banded_(scanty) either_confluent_or_banded;
+{ 2 Crystalliferous_strands_in_the_vertical_parenchyma absent present;
+{ 3 Stem_oil_ducts absent present_large_oil_ducts_in_pith present_small_oil_ducts_in_pith_and_cortex;
+{ 4 Adult_leaves_phyllotaxy consitently_opposite_(opposite_decussate) at_least_partially_alternate_or_spiral_(opposte_disjunct) whorled;
+{ 5 Adult_leaves_intramarginal_vein absent present;
+{ 6 Angophoroid_trichomes absent present;
+{ 7 Emergent_oil_glands absent present_incipient_condition_or_conspicuously_elongated;
+{ 8 Oil_glands_number_of_cap_cells predominantly_four_per_gland predominantly_two_per_gland;
+{ 9 Oil_gland_cap_cells without_micropapillae with_micropapillae;
+{ 10 Oil_glands_radiating_trichomes absent present;
+{ 11 Inflorescence_phyllotaxy indefinite_(disperse_or_flexible) opposite;
+{ 12 Inflorescence_branching panicles_only panicles_plus_thrysoides_metabotryoides_etc thrysoides_botryoides_etc_sometimes_monads monads_predominating;
+{ 13 Inflorescence_bracts_(recaulescence_in_inflorescence) partially_or_completely_fused_to_the_infloresence_axis free_from_the_inflorescence_axes;
+{ 14 Number_of_flowers_per_umbellaster 3 5-7 >7;
+{ 15 Flowers_in_umbellaster free fused;
+{ 16 Anthopodium_(e.g._pedicel) present_(anthopodium_elongated) absent_flowers_sessile_(anthopodium_not_elongated);
+{ 17 Arillastrum_type_trichomes_on_inflorescence_or_floral_parts absent present;
+{ 18 Floral_sclereids_at_anthesis absent_(may_develop_in_fruit) present;
+{ 19 Hypanthium_abscission absent_hypanthium_persistent circumscissile;
+{ 20 Perianth_mery 5(-6) not_fixed_4-5 fixed_4;
+{ 21 Calyx sepals_free sepals_connate_forming_an_operculum;
+{ 22 Calyx_(free_or_opercular) persistant_often_to_fruiting_stage shed_at_anthesis_with_corolla caducous;
+{ 23 Corolla_morphology well_developed_petals_free_or_corolla_opercular petals_highly_reduced_corolla_rudimentary;
+{ 24 Corolla petals_free_but_may_adhere_to_calyx petals_coherent_(margins_discernable) petals_connate_(margins_usually_not_discernable);
+{ 25 Corolla_(free_or_opercular) persistent lost_at_anthesis;
+{ 26 Petals_with_keel-limb_structure_(staminophore_or_homologue) absent present;
+{ 27 Petal_limb_morphology_at_anthesis petal_limbs_(stamens_not_epipetalous) staminophore_(stamens_epipetalous);
+{ 28 Petal_limb_or_staminophore_development beginning_as_separate_buttresses continous_circumfloral_ring_throughout_development;
+{ 29 Carpel_number 1-2 3 4 5 6;
+{ 30 Style_tip_engaged_in_pit_in_corolla_before_anthesis absent present;
+{ 31 Stigma_papillae long_(greater_than_60_microns) short_(less_than_60_microns);
+{ 32 Ovule_arrangement not_in_distinct_rows in_two_to_ten_vertical_rows;
+{ 33 Ovules anatropous hemitropous campylotropous;
+{ 34 Fruit_valves enclosed level_to_exserted;
+{ 35 Disc_in_fruit descending level ascending;
+{ 36 Number_of_seeds_in_fruit greater_than_1_per_locule 1_per_locule less_than_1_per_locule;
+{ 37 Seeds_at_maturity bitegmic_with_the_inner_clearly_developed_and_suberized unitegmic_or_bitegmic_with_the_inner_unsuberized;
+{ 38 Well-organized_crystalliferous_layer_in_the_testa absent present;
+{ 39 Outer_integument_of_the_ovule_or_seed 2_cells_thick 4_cells_thick 6_to_8_cells_thick;
+{ 40 Mature_seed_cracking_of_the_seed_coat absent present;
+{ 41 Mature_seed_raphe absent present;
+{ 42 Cotyledons entire emarginate;
+;
+
+
+ccode  - 0.42;
+
+
+;

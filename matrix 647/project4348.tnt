@@ -1,0 +1,247 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.55.40'
+142 87
+
+&[num]
+Doliodus                         ?0??1?0?000?12012000000???00?1???00?0??10??0?00????????0?00?0??????????10????000??????????0?????????????1?0?????1?10?????????????1??10?0000101
+Cobelodus                        ?00?-?0-000?12012000000---00?1???00?0??00??0?00????????0?00?0??????????1000??000??????????0?0????00?????1-0??-0?1?1000??00?101???0?010?0000101
+Chimaera                         000--????00?10--0000000---1---00-00100000-00000200---0-0???00-000-00-00000000000000-0000000-0----000????0-0---00100000000000110000?00000000000
+Harriotta                        000--????00?10--0000000---1---00-00000000000000200---0-0??-00-000-00-00000000000000-0000000-0----000????0-0---00100000010000100000?00000000000
+Ozarcus                          ?00?-?0-000?12012000000???1---???0??01-000?1-00????????0?0?????????????10?0??000?????????????????????????????-?????????????????????????00001?1
+Chlamydoselachus                 0010100-000001010000000---011000-00001001000000000---0-011010-000-00-00000000000000-0000010-0----10012--100-1-00000000000001100000-01000000111
+Hexanchus                        0010100-000001011000000---011000-00001001000000000---0-011010-000-00-00000000000000-00000?0-0----0000---100-1-00000000000001100000-01000000111
+Heterodontus                     0010100-000001100100000---001000-30001010000000000---0-00?010-000-00-00000000000000-0000010-2----10020--000-1-00000000010001100001101000000111
+Squatina                         0010100-000001010010000---011000-20001101000000011---0-011010?000-00-00000000000???????0010-2----00021-0000-1-000000001-00011????0-01000000111
+Pristiophorus                    0010100-001001010010000---001000-0-011001000000010---0-0?1010?000-00-00000000000???????0010-0----0002300000-1-000000000000011????0-01001000111
+Squalus                          0010100-000001010000000---011000-00001001000000000---0-011010-000-00-00000000000000-??00010-0----?0012--000-1-00000000000001100001101000000111
+Pseudorhina                      ?010100-000001010010000---0110??-20001101000000011---0-0?1?10-?????????00?0??000???????0010-0----000????000-1-000000001-000110???0-010?0000111
+Protospinax                      ?010100-0000010100000?0---0110??-000?1?01000000000---0-0?1?10-??????????0????000???????0010-0----00012-?000-1-00000000000001?????1101??0000111
+Ginglymostoma                    0010100-000101100100000---001000-30001010000000000---0-011010-000-?0-000000?0000??0???00010-2----00021-0000-0-00-000?00000?110???0-01000000111
+Hemiscyllium                     0010100-000101100100000---001000-3?011010000000000---0-011010-00???????0000??000???????0010-2----00020--000?0?00-0000100000110???0-01000000111
+Hamiltonichthys                  ?11010???10?0110001?000???0111???0??010100??????00???0?0?0?10??????????10?0??000???????0?10?0????000????110?1?0000000000000?01???1001010000111
+Tribodus                         ?11010???00?01000010000---0111???000???0???000??00---0-0?0??0-?????????10?0??000???????0?10?0----0000---100?1?0?0000?????????????1001000000111
+Hybodus                          ?11010???10?01100010000---0111???0?0???10??000??00---0?0?0?10-?????????00?0??000???????0?10-0----0000---100-1?0?00000000000001???1001000000111
+Scyliorhinus                     0010100-000?01100000000---001000-00001010000000000---0-0?1?10-?0???????0000??000???????0010-0----0000---000-1-00000000000001100000-01000000111
+Mustelus                         0010100-000?01100000000---001000-00001010000000000---0-0?1?10-?0???????0000??000???????0010?0----0000---000-1-000000000100011????0-010000?0111
+Raja                             1010100-10000100000001100000001110001110011011110010102010010-000-00-001000010000010000000101010-0002301001010000110100001-1100110-01110000111
+Bathyraja                        1010100-10000100000001100000001110001110011011110010102010010-000-00-00100001000000-000000101010-0002301001010000110100001-1100110-01110000111
+Cyclobatis                       ?010100-00??010000000?10100010???00?1110?11??1?10010?020???10-?????????10?0??000???????0?0101010-0002301001210000110100001-1100?10-01?10000111
+Titanonarke                      ?0101012000??10000011011-01---???10?1110?011-1110011?02????10-?????????10?0??000??????10010-11-3-010230??01011000010111-002110???0-0???0000111
+Torpedo                          10100010001?010000011010001---11010111100011-1110011202000010-001000-1-110002000000-0010010-11-3-0102300101011000010111-00111000?0-00000000111
+Hypnos                           10--001000?0010000011010001???11010111100011-1110011202000010-001000-1-110002000000-0010010-11-3-0102301101011000010111-001110???0-00000000111
+Narcine                          1010101200?0010000011011-01---01010111100011-1110011002000010-011010-1-000002000000-0010010-11-3-0102300101011000010111-0021101000-00000000111
+Narke                            1010101?00?0010000011011-01???11010111100011-0110011001000010-01101101-000002000000-0010010-11-3-0102300001011000010100000211010?0-00000000111
+Temera                           1010101000??110000011011-01---11010111100011-0110011001000010-01101101-000002000000-0010010-11-3-0102300101011000010100000211010?0-00000000111
+Platyrhina                       10101012000001000000011001000001-0101110001011110011012100010-000-00?0210000100000110000010-10010000230100101001001001000011110000-01010000111
+Eoplatyrhina                     ?0101012000??10000000?11-00000???01??1?-??1????100????2?????0-??????????000???00???????0010-1??1?00?230??010100000100?0000??10???0-010000?0111
+Platyrhinoidis                   101010120000010000000111-0000001-0101110001011110011010100010-000-00?0210000100000110000010-10010000230100101000001001000011100000-01010000111
+Tingitanius                      ?01010??00?0010000000111-00000???01??1?00?1????100110?2100??0-?????????10?0??000???????00??-1001?000230100???0??0??001??????11???0-010000?01?1
+Tethybatis                       ?01010??000?0100000?0?????00?????00????0??1????10011???????10-??????????0?????0????????0010?1?01?00??31??-1?1?0000100?????1111???0-0100?0?01?1
+Kimmerobatis                     ?010100-?00001000000011???0010???00????0??1???110010?0?0???10-?????????10?0???00???????0010-0----0002301?11010000010?100?011110000-010000?0111
+Asterodermus                     ?010100-100?010000000110000010???00????00?1???11001000000??10-?????????10?0??000???????0010-0----000230101101000001001000011??????-01000000111
+Spathobatis                      ?010100-1001010000000010000010???00?1110?0100111001000000??10-?????????10?0??000???????0010-0----00023010110100000100100000111?0?0-01000000111
+Belemnobatis                     ?010100-000?010000000110000010???00?1110?0100111001000000??10-??????????0?0??000???????0010-0----000230101101000001001000001110??1101010000111
+Rhinobatus_maronita              ?010100-100?010000000?10000000???01?1110?010111100100010???10-?????????00?0??000???????0010-1001100023010010120001100?00001111?000-01000000111
+Rhinobatos_tenuirostris          ?010100-100??10000000?10000010???010???0???????100??10??????0-????????????????0??????????10-?-???00023???01010000010?????????????0-010?00?01?1
+Stahlraja                        ?010100-1001010000000110000010???01????00?1????1001001?1???10-?????????10?0??000???????0?10-1001100023110010100001100?000011?????0-?1??0000111
+Tlalocbatus                      ?010100-1001010000000110000010???010???0??1????10010?1?0???10-??????????0?0???00???????0010-100??0002311?010100001100100?011?????0-010?0000111
+Pristis                          1010100-100101000000011001000001-0001110001011110010102100010-000-00-0110000100000100000010-1001200023010010120001100001101111???0-01001000111
+Rhynchobatus                     1010100-100101000000011001000000-0101110001011110010001100010-000-00-0000000100000100000010-1001100023010010120001100001001111???0-01000000111
+Rhacolepis_latus                 ?010100-1001010000000?10010010??-01?11?0001???110010001????10-?????????00?0??000???????0010-10?1200?230100101200011000011011?????0-010?00?0111
+Rhina                            1010100-100101000000011001000001-0101110001011110010102100010-000-00-0000000100000?-0000010-1001200023010010120001100001101111???0-01010000111
+Glaucostegus                     1010100-100101000000011001000000-0001110001011110010101100010-000-00-0?100001000??1???00010-1001100023010010120001100100101111???0-01010000111
+Rhinobatos                       1010100-100101000000011000000000-0001110001011110010001100010-000-00-0000000100000100000010-10011000230100101200011001001011110000-01010000111
+Pseudobatos                      1010100-100101000000011000000000-0001110001011110010001100010-000-?0-0000000100000100000010-1001102023010010120001100100001111???0-01010000111
+Eorhinobatos                     ?01?10???001010000000?10000000???000?1?0??1??111001000?1????0-??????????0?0???00???????0010-10011?0023?1?0101200??10?????????????0-010?0000111
+Pseudorhinobatos                 ?010100-1001010000000?100000?0???000?1?00?1??11100100011???10-??????????0?0???00???????0010-1001?0??23?1?0101200??10000??0?1?????0-010?0000111
+Trygonorrhina                    1010100-10010100000001100000101100001110001011110010011100010-000-00-00?0000100000110000010-1001300023210010100001100?000011110000-01010000111
+Zapteryx                         1010100-100101000000011000001001-0001110001011110010011100010-000-00-0010000100000110000010-10013000232100101000011001000011110000-01010000111
+Aptychotrema                     1010100-100101000000011000001000-0001110001011110010012100010-000-00-0?10000100000110000010-1001100023110010100001100100001111????-01010000111
+Britobatos                       ?010100-100?010000000?100001?????010?1?00?1??11100100021???10-?????????10?0??000???????0010-10??-000230?001010110010000000?1?????0-?1?10000111
+Zanobatus                        1010100-000001000000011011000001-0001110001011110010002000010-000-00-0200110100000110000010-1022-00023210-10-001111000010021101200-01010000111
+Plesiozanobatus                  ?010100-00???10000000?101?1---???00????0??1????100??????????0-?????????????????????????0010-10??-00?2321?-10-00?11100001002???????-010000?0111
+Asterotrygon                     ?011100-000?010000000010100100???10?1-100?1021110010???????10-?????????10?1??000???????1001110??-00023?10012100100100000?021?????0-110000?0111
+Heliobatis                       ?010000-000?0100000000101001?0???10??-?00?1????1001????????10-??????????0?1??000???????1001?1022-000????0012100100100000?02110???0-100000?0111
+Hexatrygon                       10??000-0000010000?1001010011000000011?00010011100??00?000010-00??0????100011000??0-??01001?1022-000230100111001001000011011?????0-10000000111
+Urolophus                        1011100-?0000100000000101001101111001110011021110010002000010-001101102101101000100-010100111022-000230100111001001000011021101200-10000010111
+Urobatis                         1010000?00000100000000101001001111001-100010211100100020?0010-101101102101001000100-110100111022-001230100111001001000011011101200-10000010111
+Urotrygon                        1011100-?0000100000000101001101111001-100011-1110010002000010-101101102101101000100-110100?11022-001230100111011001000011011101200-11010000111
+Plesiobatis                      1010000??00001000000001010011011100011100110211100100020?0010-001101102101101000100-0101000-1022-0002301001110010010000110?1101200-11010000111
+Hypanus                          1010000-00000100000000101001001111001-100110211100100020?0110-001101102101101000110?010110111022-001230100121001001000011011100210-10000000111
+Potamotrygon                     1011100-?0000100000000101001001111001-10011021110010002000010-001101102101101000100-010110?11022-000230100111001001000011011101200-11010000111
+Neotrygon                        1010000-00000100000000101001001111001-10011021110010002010010-001101102101001000100-010110111022-001232100111001001000011021100210-10000001111
+Gymnura                          1011100-?0000100000000101001001101001-10011021110010002000010-00??01102100001000110-0101100-1022-000232100121011011000011011101200-10000000111
+Myliobatis                       1010000-00010100000000101001011111001-100111-11100100020101110000-01103101111?11120-0101100-1022-001232100121011011000011011101200-10000000111
+Aetobatus                        1010000-00010100000000101001111111001-100111-111000-002010111000??01103101111111120-0101100-1022-00123210012-011111000011011101200-10000000111
+Rhinoptera                       1012000-00011100000000101001111111001-100111-111000-0020101111001201103101111111120-0101100-1022-00123210012-011111000011011101200-10000000111
+Mobula                           1012000-00011100000000101001111111001-100111-111000-0020?0?11100??01103100111101120-0101100-1022-00123210012101101100-01101110??00-10000000111
+Ptychotrygon                     ?010100-001?010000000?10000010???00?111001?01111001010200?0?0-?????????10?0??000???-???00?0-0----0002301001010000011000000????????-?1000010111
+Sclerorhynchus                   ?010100-001?010000000?10000010???00?1110?110111100???0200??10-?????????10?0??000???????0010-0----0002301001010000011?0000011?????0-?1001100111
+Libanopristis                    ?010100-001?010000000?10000010???00????0??10??110010?0200??10-?????????10?0??000???????0010-1010-000230100101000001100000011?????0-01001110111
+Asflapristis                     ?010100-?0??010000000110000010???0?????00??01111001010200?0?0-?????????10?0??000???????0????0?---0002301001?10?000?1??0??????????0-?1000010111
+Rhakelensis                      ?010100-100??100000001100000?0???0001110001??1110010101????10-?????????10?0??000???????0010-1????0002301001012000110000000?10????0-010000?0111
+Iansan                           ?010100-1001010000000110000010???000???00?1???1100100011???10-?????????10?0??000???????0010-100110002301001012000010000000?111???0-010?0000111
+Rhombopterygia                   ?010100-100?110000000?1000???0???000???00?1??11100??0?01???10-???????????????000???????0?10-?????0??230?001012000010000000?1?????0-01??0000111
+Rhinobatus_whitfieldi            ?010100-?00?010000000?10010010???0001110001???11001?001????10-?????????10?0??000???????0010-10?1?000230?00101200001000010011?????0-010000?0111
+Onchopristis                     ?010110-001?010000000110000010???00????00??????100101020????0-??????????0?0??000?????????????0???????????????0???????????0????????-?1011000111
+Ischyrhiza                       ?010110-0?1???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????-?1?11000???
+Promyliobatis                    ?01?000??0???10000000?????010????10?1110?-1???1100????20???110??????????0?1????????????1100?10???0??23???012101?001000011011?????0-1???0000111
+Ostarriraja                      ?????????0???100000?0?100010?????00????00?1??1?100??1020???10-?0???????1000??000???????00010101?????230?00101000011010000121?????0-0??10000111
+Arechia                          ???????-?0??010000000010100110???1??1110??10?111001??0??0???0-?????????10????000???????10011102??0??????001110010010?????????????0-10?00010111
+Lessiniabatis                    ?0100?0-00???100000?0?1010???????10????0??1???1100???0?00-010-?????????101???0?0???????1001?10??????23??0011100?00100001?0?1?????0-00000000111
+Tethytrygon                      ?0100?0-00??010000000?10100100???10?1-?0??10?111001000?0???10-?????????1010??000???????1101?1022-00?23??001110010010000110?110?210-10000001111
+
+;
+
+
+cnames
+{ 0 Upper_eyelid present absent;
+{ 1 Cephalic_spines absent present;
+{ 2 Sup:_Rostral_cartilages arise_from_the_medial_area_of_the_trabecula_only medial_area_of_the_trabecula+lamina_orbitonasalis;
+{ 3 Sub:_Rostral_cartilages well-developed_rostral_plate_with_variation_degrees_of_contribution_from_the_lamina_orbitonasalis) reach_the_tip_of_the_snout_(pectoral_fin_carry) reach_the_tip_of_the_snout_(growth_of_lamina_orbitonasalis_to_support_pectoral_fins) reach_the_tip_of_the_snout_(simple_rod-like_rostral_cartilage);
+{ 4 Medial_growth_of_rostral_cartilage inconspicuous conspicuous_(noticeable);
+{ 5 Different_types_of_cartilage_on_rostrum: absent present;
+{ 6 Sup:_Rostral_processes absent present;
+{ 7 Sub._Rostral_processes_(proximal_articulation) articulated_with_nasal_capsules continuous_with_chondrocranium articulated_with_ventral_aspect_of_rostral_cartilage;
+{ 8 Rostral_appendices absent present;
+{ 9 Caudal_internasal_keel absent present;
+{ 10 Rostral_passage_of_superficial_ophthalmic_nerve covered open;
+{ 11 Anterior_preorbital_foramen dorsally_located anterior_located;
+{ 12 Preorbital_process present absent;
+{ 13 Jaw_support Holostyly Hyostyly Amphystiliy;
+{ 14 Ethmoidal_articulation absent present;
+{ 15 Orbital_process absent present;
+{ 16 Postorbital_articulation absent located_laterally_to_the_chondrified_lateral_commissure posteroventrolaterally_of_the_chondrified_lateral_commissure;
+{ 17 Dowturn_ethmoidal_region absent present;
+{ 18 Quadrate_flange absent present;
+{ 19 Supraorbital_crest present absent;
+{ 20 Branchial_electric_organs absent present;
+{ 21 Jugal_arch absent present;
+{ 22 Sup:_Antorbital_cartilage absent present;
+{ 23 Sub:_Antorbital_cartilage_(shape) triangular_shaped_with_regular_outline variously_shaped_and_with_an_irregular_outline;
+{ 24 Sub:_Antorbital_cartilages_(with_regular_outline) well-developed reduced;
+{ 25 Sub:Anterior_procedss_of_antorbital_cartilage absent present;
+{ 26 Sup:_Postorbital_process well-developed reduced;
+{ 27 Sub:Postorbital_process narrow broad_and_shelf-like;
+{ 28 Sub:Postorbital_process_-_2 separated_from_triangular_process fused_with_triangular_process;
+{ 29 Sub:_Postorbital_process projects_laterally projects_ventrolaterally;
+{ 30 Anterior_nasal_lobe: fails_to_reach_mouth reaches_mouth;
+{ 31 Anterior_nasal_lobe:_-_2 fail_to_cover_most_of_the_medial_half_of_the_naris well-developed;
+{ 32 Nasal_curtain_fringes absent present;
+{ 33 Nasal_capsules laterally_expanded ventrolaterally_expanded alteriorly_extanded trumpet-like_(Shirai_1996);
+{ 34 Nasal_capsule_margin Straight horn_like_process;
+{ 35 Nostrils separated close_together;
+{ 36 Basibranchial segmented usegmented;
+{ 37 Hyobranchials_direction not_directed_midline midline_directed;
+{ 38 4_Hypobranchial well-developed reduced;
+{ 39 Suborbital_shelf abset present;
+{ 40 Basitrabecular_process absent present;
+{ 41 Hypobranchials-basibranchial articulated_with_the_basibranchial fused;
+{ 42 Last_ceratobranchial free_of_scapulocoracoid articulates_with_scapulocoracoid;
+{ 43 Basihyal present absent;
+{ 44 First_hypobranchial-basihyal separated fused segmented;
+{ 45 Ceratohyal fully_developed reduced;
+{ 46 Pseudohyal absent present;
+{ 47 Cervical_vertebral unmodified synarcual,_product_of_expansion_of_vertebra_centra fusion_of_neural/basidorsal_and_haemal/basiventral_elements;
+{ 48 Expanded_basiventral_process absent present;
+{ 49 Occipital_hemicentrum absent present;
+{ 50 Lateral_stays fused_with_medial_crest free_of_medial_crest;
+{ 51 Orientation_of_lateral_stays dorsally_directed laterally_directed_(Torpediniformes,_and_Platyrhinidae);
+{ 52 Ventral_occipital_articulation synarcual_lip_firmly_fitted_into_notch_in synarcual_lip_rests_in_foramen_magnum synarcual_lip_reduced,_with_a_paired_connection_into_notch_in_basicranium;
+{ 53 Arcualia_dorsalis absent present;
+{ 54 Position_of_vertebral_centra_in_the_synarcual_relative_to_position_of_suprascapulain_the_synarcual present_the_entire_length reaching_rostral_to_suprascapula reaching_caudal_to_suprascapulas;
+{ 55 Differentiated_lateral_uvulae_on_teeth absent present;
+{ 56 Osteodentine absent present;
+{ 57 Three-layered_enameloid_structure absent present;
+{ 58 Pulp_cavity_in_tooth_roots present absent;
+{ 59 Pelvic_basipterygium fused_to_first_pelvic_radial separated;
+{ 60 Sup:_Cephalic_lobes absent present;
+{ 61 Sub:_Cephalic_lobes_(number) form_a_(single) form_b_(two_lobes);
+{ 62 Spiracular_tentacle absent present;
+{ 63 Ligamentous_sling_on_Meckel"s_cartilage absent present;
+{ 64 Sup:_Spiracularis undivided divided;
+{ 65 Sub:_Spiracularis_(if_divided) divided,_one_bundle_enters_the_dorsal_oral_membrane_underlying_the_neurocranium splits_into_lateral_and_medial_bundles,_with_the_medial_bundles_inserting_onto_the_posterior_surface_of_the_Meckel?s_cartilage_and_the_lateral_bundle_onto_the_dorsal_edge_of_the_hyomandibula subdivided_proximally_and_inserts_separately_into_the_palatoquadrate_and_the_hyomandibula;
+{ 66 Coracobranchialis consists_of_three_to_five_components single_component;
+{ 67 Sup:_Coracohyomandibularis Single_origin separate_origins;
+{ 68 Sub:_Coracohyomandibularis_(if_separate_origins) origins_in_the_facia_supporting_the_insertion_of__the_coracoarcualis_and_on_the_pericardial_membrane origin_on_the_anterior_portion_of_the_ventral_gill_arch_region_and_on_the_pericardial_membrane;
+{ 69 Sup:_Coracohyoideus present absent;
+{ 70 Sub:Coracohyoides_(if_present) parallel_to_body_axis short diagonal fused;
+{ 71 Labial_cartilages present absent;
+{ 72 Medial_section_of_hyomandibula narrow expanded;
+{ 73 Hyomandibula-Meckelian_ligament absent present;
+{ 74 Small_cartilages_associated_with_hyomandibular-Meckelian_ligament absent present;
+{ 75 Depressor_mandibularis present absent;
+{ 76 Intermandibularis present absent modified;
+{ 77 Antimeres_of_upper_and_lower_jaws separated fused;
+{ 78 Meckel"s_cartilage not_expanded_laterally expanded_medially;
+{ 79 Winglike_process_on_Meckel"s_cartilage absent present;
+{ 80 Infraorbital_loop_of_suborbital_and_infraorbital_canals absent present;
+{ 81 Subpleural_loop_of_the_hyomandibular_canal broad_rounded loop_forms_a_lateral_hook lateral_aspect_of_subpleural_loop_are_nearly_parallel;
+{ 82 Sup:_Abdominal_canal_on_coracoid_bar absent present;
+{ 83 Sub:_Abdominal_canal_on_coracoid_bar groove-cephalic_lateral_line_forms_abdominal_canal_on_coracoid_bar pores;
+{ 84 Lateral_tubes_of_subpleural_loop unbranched branched;
+{ 85 Scapular_loops_of_scapular_canals absent present;
+{ 86 Cephalic_lateral_line_canals_on_ventral_surface present absent;
+{ 87 Second_synarcual absent present;
+{ 88 Caudal_vertebrae diplospondylus fused;
+{ 89 Ribs absent present;
+{ 90 Sup:_Radial_calcification crustal catenated;
+{ 91 Sub:_Radial_calcification_(if_catenated) two_chains four_chains;
+{ 92 Sup:_Suprascapulae absent fused_medially unfused_medially;
+{ 93 Sub:_Suprascapula_interaction_with_axial_skeleton_(if_fused_medially): interacts_with_axials_skeleton_(articulated_or_fused) free_from_axial_skeleton;
+{ 94 Sub:_Suprascapula_(if_interacts_with_axial_skeleton) articulates_with_vertebral_column fused_medially_to_synarcual fused_medially_and_laterally_to_synarcual;
+{ 95 Sup:_Suprascapula-scapula_articulatiob curved crenate ball_socket straight;
+{ 96 Sub:_Crenated_suprascapula_(variations): with_lateral_projections thin_upper_and_lower_lobes upper_lobe_wider_than_lower of_similar_size_and_wide;
+{ 97 Scapular_process-scapula: fused articulated;
+{ 98 Scapular_process short_and_dorsally_directed long,_?u?_curved,_posteriorly_directed short_postero-dorsally_directed;
+{ 99 Scapular_process_-_2 without_fossa with_fossa;
+{ 100 Sup:Pectoral_articulation facets facets/condyles condyles;
+{ 101 Sub:Condyles single(all_fused) single_(prop+meso) single_(meso+meta) separated;
+{ 102 Sub:Mesocondyle single_and_small segmented_and_small forming_an_elongated_ridge;
+{ 103 Scapulocoracoid_condyles not_horizontal horizontal;
+{ 104 Ventral_antimeres_of_scapulocoracoid fused separate;
+{ 105 Mesopterygium_anteriorly_projected differently_shaped similarly_shaped;
+{ 106 Sup:_Anterior_extension_of_propterygium: absent present;
+{ 107 Sub:_First_segmentation_of_propterygium_(if_anterior_process_present): not_reaching_nasal_capsules reaching_nasal_capsules beyond_nasal_capsules;
+{ 108 Interaction_between_mesopterygium_and_propterygium: fused separated;
+{ 109 Nasal_capsules-Antorbital_cartilage lateral_articulation antero-lateral postero-lateral_articulation;
+{ 110 Cross-brances_of_prectoral_radials absent present;
+{ 111 Proximal_section_of_propterygium does_not_surpass_the_procondyle extend_behind_procondyle;
+{ 112 Mesopterygium present absent;
+{ 113 Pectoral_fin_radials articulate_to_pterygia some_articulate_directly_with_scapulocoracoid;
+{ 114 Paired_fin_rays aplesodic plesodic;
+{ 115 Proximal_pectoral_elements_expanded_distally_and_paddle-like absent present;
+{ 116 Lateral_prepelvic_process absent present;
+{ 117 Postpelvic_processes absent present;
+{ 118 Sup:_Posterior_face_of_puboischiadic_bar straight_or_anteriorly_directed posteriorly_directed;
+{ 119 Sub:_Puboischiadic_bar_(if_posterior_face_straight_or_anteriorly_directed) straight anteriorly_arched;
+{ 120 Medial_process_of_puboischiadic_bar absent present;
+{ 121 Sup:_Overdevelopement_of_first_pelvic_radial: absent present;
+{ 122 Sub:_First_pelvic_radial_(if_not_overdeveloped): band_like slightly_expanded_distally,_articulating_with_several_segments_in_a_parallel_fashion rod-like_and_articulates_with_a_single_radial_segment_in_a_series;
+{ 123 Pelvic_gridle separated fused;
+{ 124 Reduced_number_of_cartilages_between_pelvic_basipterygium_and_clasper absent present;
+{ 125 Clasper_length short long;
+{ 126 Dorsal_margin_claspers_cartilages lacks_medial_flange possesses_medial_flange;
+{ 127 Ventral_terminal_cartilages simple ventral_terminal_cartilages_are_free_distally_and_forms_components_sentinel_or_is_fused_with_ventral_marginal_cartilages ventral_terminal_cartilages_folded_ventrally_along_its_long_axis_to_form_a_convex_flange;
+{ 128 Ventral_terminal_cartilages_-_2 attached_over_length_to_axial_cartilages free_of_axial;
+{ 129 Sup:_Two_dorsal_fin_spines absent present;
+{ 130 Sub:_Enameloid_layer_finspines absent present;
+{ 131 Serrated_tail_sting absent present;
+{ 132 Placoid_scales absent present;
+{ 133 Malar_and_alar_thornes absent present;
+{ 134 Enlarged_dermal_scales_(thorns) absent present;
+{ 135 Lateral_rostral_dermal_denticles absent present;
+{ 136 Ventral_rostral_series absent present;
+{ 137 Second_transverse_keel_on_teeth absent present;
+{ 138 File_of_enlarged_caniniform_teeth_in_the_upper_jaw: absent present;
+{ 139 Gill_skeleton_position at_least_partly_beneath_otico-occipital_region posterior_to_occipital_region;
+{ 140 Tribasal_pectoral_fin absent present;
+{ 141 Precerebral_fontanelle absent present;
+;
+
+
+ccode  - 0.141;
+
+
+;
