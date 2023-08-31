@@ -1,0 +1,297 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.16.37'
+207 72
+
+&[num]
+Coragyps_atratus                       10-000---11000100101001000000010101-0010-10001110101010000000000010-000000100000110110010001101?001-00110010-10-01101-1000001000000100010000000010001100221000101100111200001010010001100000100010011000000-000
+Sarcoramphus_papa                      10-000---000000-0101000-11001010201-0010-1001010000001001000011011110000000000001101110100021010101-10110010-10-00101-1000001000000100011010110000001110221000101010111210000000011011100000100010011000000-000
+Vultur_gryphus                         10-000---011000-1100000-11001010201-0010-100101002001110100000001110000000100000110111011012101?001-10110000-10-00101-1000001100000100011010000000001110211000101010101210000010011010000100100010011000000-000
+Gymnogyps_californianus                10-000---011000-1100000-11001010201-0010-1001110020011101000011011110000001000001101100110121010201-01110000-10-00101-10000010001001000110101000000011112210001011100-1210000010011011100000100010011000000-000
+Cathartes_aura                         10-100---1110011010100110001001010010010-11000100201010000000000010-0100101010001101110100011111001-01000010-10-00101-1000001000100110010010010010001101201000101110101200001000000001100000100010011000000-010
+Cathartes_burrovianus                  10-100---0110011010100110001001010010010-11000100001010000000000010-0100101010001101110100011111001-01000010-10-00101-1000001000100110010010010010001101201000101110101200001000000001100000100010011000000-010
+Cathartes_melambrotus                  10-100---0110011010100110001001010010010-10000100001010000000000010-0100100010001101110100011111001-01000010-10-00101-1000001000100110010010010010001101201000101110101200001000000001100000100010011000000-010
+Anastomus_lamelligerus                 010110---202000-0000-00-1000001110001-10-110010-0001011001000--0000-0000010011010111110001001100-10100000000-01010101-110000011000111010-0102010000111001001100100000-0-00100002-111001010000-1110111100000-110
+Anastomus_oscitans                     010110---202000-0000-00-1000001110001-10-110010-0001011001000--0000-0000010011010111110001001100-10100000000-01010101-110000011000111010-0102010000111001001100100000-0-00100002-111001010000-1110111100000-110
+Mycteria_leucocephalus                 10-000---212000-0000-00-1000001110001-10-110010-0101111001010--0000-0000010001000111110001001000-10100000000-01010101-110000011000110010-0102010000111001001100100000-0-00100002-111001010000-1110111100000-110
+Mycteria_americana                     10-010---210000-0000-00-1000001110001-10-110010-0101111001010--0000-0000010001000111110001001000-10100000000-01010101-110000011000110010-0102010000111001001100100000-0-00100002-111001010000-1110111100000-110
+Leptoptilos_javanicus                  10-000---212000-0000-00-1000001110001-10-111000-0001011001010--0000-0000011001000111110101001000-10000000000-01110101-110000011000100110-010201000010100100110110001110-00100002-111001010000-1110111100000-111
+Leptoptilos_crumeniferus               10-000---212000-0000-00-1000001110001-10-111000-0001011001010--0000-0000011001000111110101001000-10000000000-01110101-110000011000100110-010201000010100100110110001110-00100002-111001010000-1110111100000-111
+Ephippiorhinchus_senegalensis          010110---212000-1000-00-1000001110001-10-111000-0001011001000--0000-0000011001000111110001001100-11?00000000-01010101-110000011010111010-0102010000111001001100100000-0-00100002-111001010000-1110111100000-111
+Ephippiorhinchus_asiaticus             010110---212000-1000-00-1000001110001-10-111000-0001011001000--0000-0000011001000111110001001100-11?00000000-01010101-110000011010111010-0102010000111001001100100000-0-00100002-111001010000-1110111100000-111
+Jabiru_mycteria                        10-010---202000-0000-00-1000001110001-10-111000-0001011001010--0000-000001?001000111110001001100-10100000000-01010101-110000011010110010-010201000011100100110010001110-00100002-111001010000-?110111100000-111
+Ciconia_ciconia                        010000---200000-1000-00-1000001110001-10-100000-0001011001000--0000-0000011001000111110001001100-11-00000000-01010101-110000011010111010-0102010000111001001100100000-0-00100002-111001010000-?110111100000-110
+Ciconia_maguari                        010000---200000-1000-00-1000001110001-10-100000-0001011001000--0000-0000011001000111110001001100-11-00000000-01010101-110000011010111010-0102010000111001001100100000-0-00100002-111001010000-?110111100000-110
+Balaeniceps_rex                        00-000---202011100-0-00-1000201010001-00-000100-02011111-0010--0100-00000110-1100100110111001000211-2-000000-10-100000---0010100000220111110201002001100110111-101000-1200101002-1102011-0000-0110110-010010120
+Scopus_umbretta                        011010---20000100010-00-10002011?0001-10-000000-0201011000000--0000-0000010001000101110101000-00-11-00000001110-10000010?000011000122000-110210001110000000111-000000-1100100002-1111111-0000-0010100-010010110
+Sagittarius_serpentarius               00-011101203000-1110-00-11002110101-0000-200000-0201011010000--0000-001000001000010111011001102--11-00000000-0101000011000000100000100011020210001010110101111-101000-1210100002-11020100100100110110-00000-011
+Phalcoboenus_megalopterus              00-01100020000100100-12-11002110101-1-00-11000100201110000000--0100-0010010000000011110000010-00-11-00000001000-1001001020000110001?101111202--002110110000111-000000-1110110000111110000100110110110-00100-121
+Caracara_cherwayi                      00-01100020000110100-12-11002110101-1-10-11010100201110000000--0100-0010010000000011110000010-00-11-00000001000-1001001020000110001?101111202--002110110000111-000000-1110110000111110000100110110110-00100-121
+Herpetotheres_cachinnans               00-01100020000101100-12-11002210101-0110-100000-0201010000000--0000-0010010000000011100000000-2--11-00000001000-1001001020000110001?101111202--002110110000111-000000-1110110000111110000100110110110-00100-121
+Mirastur_gilvicollis                   00-01100020000100100-12-11002210101-0110-100000-0201010000000--0000-0010010000000011100000000-00-11-00000001000-1001001020000110001?101111202--002110110000111-000000-1110110000111110000100110110110-00100-121
+Milvago_chimango                       00-01100020000100100-12-11002110101-1-10-11000100201010000000--0000-0010010000000011110000010-00-11-00000001000-1001001020000110001?101111202--0021101100001100000000-1110110000111110000100110110110-00100-121
+Milvago_chimachima                     00-01100020000100100-12-11002110101-1-10-11000100201010000000--0000-0010010000000011110000010-00-11-00000001000-1001001020000110001?101111202--0021101100001100000000-1110110000111110000100110110110-00100-121
+Falco_tinnunculus                      00-01111020000100100-12-11002210101-1-10-100000-0201010000000--0000-0010010000000011110000000-01-11-01000001000-1001000--0000110001?1010-1202--002110110000111-000000-1110110000101110000100110110110-00100-121
+Falco_peregrinus                       00-01111020000100100-12-11002210101-1-10-100000-0201010000000--0000-0010010000000011110000000-01-11-01000001000-1001000--0000110001?1010-1202--002110110000111-000000-1110110000101110000100110110110-00100-121
+Pandion_haliaetus                      01100100020000100101110-1100221010001-10-10000100201010010000--0000-0000010010000111110110000-00-11-00000000-10-1000001000000101000100011120210002110010000101-000000-120010000000112101-1100-0101000-111110110
+Pernis_apivorus                        010011000203000-1001112-10000210101-1-10-02000101001010000000--0000-0000010000000111110110010-2--11-00001000-10-10000010000001010011200?1120200002110100000111-000000-1210110002-011110001000-01010010001110111
+Pernis_ptilorhinchus                   010011000203000-1001112-10000210101-1-10-02000101001010000000--0000-0000010000000111110110010-2--11-00001000-10-10000010000001010011200?1120200002110100000111-000000-1210110002-011110001000-01010010001110111
+Aviceda_subcristata                    010011010203000-1001112-10000010101-1-10-02000101001010000000--1000-0000010010000111110110010-00-11-00001100-10-1000000--00001000011200?1120200002010100000111-000000-1210111102-001110001000-01000010001110111
+Leptodon_cayannensis                   010011000203000-1001110-10000010101-1-10-02000101001010000000--0000-0000100010000111110110010-2--11-00001000-10-1000001010000101101120011120200002110100200111-000000-1210111102-011110001000-0100001001110-111
+Elanus_caeruleus                       010111000203100-1011110-10002010001-0100-2-000101001010010000--0000-1000010000000111110110010-01-11-00000100-10-1000000--0000101001120011120201002110100000111-000000-1210100002-011010001000-0100001001110-111
+Gampsonyx_swainsoni                    010111000203100-1101110-10000010001-1-00-00000101001010000000--0000-1000010010000111110110010-01-11-01000000-10-1000000--0000101001120011120201000100100000111-000000-1210100002-011010001000-0100001001110-111
+Haliastur_indus                        011011000203000-1001112-10000010001-0110-00000101001010000000--0000-0000010010000111100110010-01-11-01000100-10-1001001020000101001120010120211002110100000111-000000-1210100002-011010001000-0100001001110-111
+Milvus_migrans                         011011000203000-1001112-10000010001-0110-00000101001010000000--0000-0000010010000111100110010-01-11-00000100-10-1001001020000121001120010120211002110100000111-000000-1210100002-011010001000-0100001001110-111
+Rostrhamus_sociabilis                  011011000203000-1001112-10000010101-0110-00000101001010000000--0000-0000010010000111110110010-01-11-00000100-10-1000001020000121001120010120211002111100000111-000000-1210100002-011010001100-0100001001110-111
+Necrosyrtes_monachus                   010011110203000-0011110-10002010101-1-10-00000101001010001000--0000-0000010011000111110110010-01-11-01000100-10-1000001000000121001120011120200002010100000111-00000121211101102-110000001000-0100001001110-111
+Gyps_africanus                         010011110203000-1011110-11001010101-1-10-00010101000111001000--0100-0000000010001111110110010-01-11-00000100-10-1000001020000121001100011120200002001100200111-01000121211000002-110000001000-0100001001110-111
+Torgos_tracheliotus                    010011110203000-0011110-10002010101-1-00-00000100000111001000--0100-0000000010000111110110010-01-11-20000100-10-0000001020000121001100011120200012010100010111-01000121211001102-110000001000-0100001001110-111
+Gypaetus_barbatus                      010011001203000-1101100-1100201010001-10-00000100001011000100--0000-0010010010000111110110000-11011-00000100-10-1000001000000101000100011120201002101100000111-000000-1210100002-010010001100-0010001001110-111
+Neophron_percnopterus                  010011001203000-1101100-1100201010001-10-02000100001011000100--0000-0010010010000111110110010-11011-00001100-10-1000001000000121001120011120201002000100000111-000000-12101011000011010001000-0000001001110-011
+Gypohierax_angolensis                  010011001203000-1111100-1100201010001-10-02000100001011000100--0000-0010010010000111110110010-01-11-10001100-10-1000001000000121001120011120201002000100000111-000000-1210101102-111010001000-0000001001110-111
+Polyboroides_typus                     010011000203000-1001100-11002210101-0110-02000100001010000000--0000-0010010010000111110110010-2--11-01001000-10-1000001000000111000120011120210002110100000111-000000-1210101102-011010000000-00011010011010111
+Geranospiza_caerulescens               010011000203000-1001110-11002210001-0110-02000101001010000000--0000-0010010010000111110110010-2--11-10001000-10-1000001000000111000120011120210002110100000111-000000-1210101102-011010000100-00011010011010111
+Stephanoetus_coronatus                 010011100203100-1001100-11002010101-?100-00000101001011000000--0000-0000010010000111110110010-11011-00000100-10-10000010000001210011200?0120201002110100000111-000000-1210101102-010100000110-0100011001110-111
+Aquila_audax                           010011100203100-1001100-11002010101-?100-00000101001011000000--0000-0000010010000111110110010-11011-00000100-10-10000010000001210011200?0120201002110100000111-000000-1210101102-010100001110-0100011001110-111
+Circaetus                              010011100203100-1101110-11002010111-1-00-02000101001011000000--0000-0010010010000111110110010-2--11-10001100-10-1000001010000121001120011120201002110100000111-000000-1210101102-010010001100-0100001001110-111
+Accipiter_gentilis                     010011100203100-101111?-11002010001-0110-02000101001010000000--0000-0000010110000111110110010-11011-01000100-110200000101000011110000002-120201002110110000111-000000-11001100000110110001110-0000001001110-111
+Circus_cyaneus                         010011100203100-1001110-11002010011-0100-02000101201010000000--0000-1000010110000111110110010-11011-01000100-10-100100101000011110100000-120200002110100200111-000000-1110100102-010010001100-0000101001110-111
+Haliaetus_leucocephalus                010011000203000-1101110-1000201010001-10-02000100001011010000--0000-0010110010000111110110010-2--11-00001100-10-1000001000000111000000011120200002110100000111-000000-1210100102-010010001100-0100011001110-111
+Ichtyophaga                            010011000203000-1011110-1100201010001-10-02000100001011010000--0000-0010110010000111110110010-11011-00001100-0101000001000000101001020011120201002110100000111-100000-1210100102-010010001100-0100011001110-111
+Pithecophaga_jefferyi                  010011100203000-1001100-1100001010000110-12000100101011001000--0100-0000010110000111110110010-11011-01000100-10-1000001000000111010100011120201002100100000111-000000-1210100002-010100000100-0100011001110-111
+Buteo_swainsonii                       010011000203000-1001112-11000010101-0110-02000101101011000000--0000-0010010010000111110110010-11011-00001100-10-1001001010000121001100010120210002110100000111-000000-1210100002-010000000100-0100001001110-111
+Parabuteo_unicinctus                   010011000203000-1001110-11000010101-0110-02000101101011000000--0000-0010010010000111110110010-11011-00001100-10-1001001010000121001100010120211002110100000111-000000-1210100002-010010000100-0100001001110-111
+Cochlearius_cochlearius                011110---203001000-0-00-1100200010011-011100200-0000101001000--0000-0001010001000101010111000-00-11-000000000-1010011-0--100010000111012-010201000011100100111-100000-0-10100002-0?100?1-1000-00101010010011100
+Botaurus_lentiginosus                  010110---20300101000-10-1100200010011-010100200-0000101000000--0000-0000011001000101010101000-00-101101000000-1010011-0--110011000110012-010201000011100100111-100000-0-10100002-0?111?1-1000-00001010010011100
+Ixobrychus_exilis                      010110---20300101000-10-1100200010011-010100200-0000101000000--0000-0000011001000101010001000-00-11-001000000-0-10011-0--1100110001?0012-010201000011100100111-100000-0-10100002-0?11101-1000-00001010010011100
+Ardea_alba                             010110---20300101000-10-1100200010011-010100200-0000101000100--0000-0000011001000101010101000-00-11-000000000-??10001-0--100011000110012-010201000110100100111-100000-0-10100002-0101111-1000-00101010010011100
+Nycticorax_nycticorax                  010110---203000-1000-10-1100000010011-011100200-0000101000100--0000-0000011001000101010101000-00-11-000000000-101000010--100011000110012-010201000111100100111-100000-0-10100002-0111111-1000-00001010010011100
+Platalea_ajaja                         100110---203000-0111110-00002010201-1-10-100200-0011001000100--0000-0000011001000101010111031010011-01000001210-1000001000001110000100111100210000110100100111-100000-121010000011112111-0100-1110111101000-110
+Threskiornis_aethiopicus               010110---203000-0111112-00002010201-1-10-100000-0011001000101--0000-0000011001000101010011031010011-01000001210-1000000-00000110000100110000210000110100100111-100000-121010000010112111-0100-1110111101000-110
+Threskiornis_melanocephalus            010110---203000-0111112-00002010201-1-10-100000-0011001000101--0000-0000011001000101010011031010011-01000001210-1000000-00000110000100110000210000110100100111-100000-121010000010112111-0100-1110111101000-110
+Plegadis_chihi                         010110---203000-0111112-00002010201-1-10-110000-0011001000101--0000-0000011001000101010011030-10011-01000001210-1000001000000110000100111000210000110100100111-100000-121010000010010111-0100-1110111101000-110
+Meleagris_gallopavo                    010010---203000-0020-1?-10002??0101-0010-10120100001111000000--0011100000010000001101--100130-10111-100000011-1130001-121000011101020002-011-10000110100010111-100000-100000000100110111-0100-00100010000010101
+Acrylium_vulturinum                    010010---203000-0020-12-10002010101-0010-10020100001111000000--0011100000010000101111--100130-10111-100000011-1130001-121000011100020002-011-10000110100010111-100000-0-0000000100110111-0100-00100010000010101
+Anseranas_semipalmata                  011010---210000-1020-10-10000011201-0010-10020100000111010000--0101100000110100001100--100130-00211-01000101210-30201-11100001100002011?1010201000111110101101-101000-0-1010000101110111-0100-00100010000011120
+Dendrocygna_viduata                    011010---210000-1020-12-10000011201-0010-10020100010111010000--0101100000110100001100--100130-00211-01000101201030201-111000011000020010-010201000111110101101-101000-0-1010000101010111-0100-0010001000001112?
+Pampagyps_imperator                    ????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10????????????????????????????????011000000?000
+Dryornis_pampeanus                     ?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????000100100010011100000001110211000101000???????????????????????????????????????????
+
+;
+
+
+cnames
+{ 0 Porção_rostromedial_do_frontal_inflada ausente presente;
+{ 1 Depressio_frontalis ausente presente;
+{ 2 Profundidade_da_depressio_frontalis rasa profunda;
+{ 3 Processo_lacrimal_do_osso_frontal não_evidenciado evidenciado;
+{ 4 Articulação_do_processo_supra-orbital_do_osso_lacrimal_aos_ossos_frontais fusionada não_fusionada;
+{ 5 Apófise_no_processo_supra-orbital_do_lacrimal ausente presente;
+{ 6 Comprimento_da_apófise_do_processo_supra-orbital_do_lacrimal curta longa;
+{ 7 Largura_da_apófise_do_processo_supra-orbital_do_lacrimal robusta delgada;
+{ 8 Face_medial_da_apófise_lacrimal_ligada_ao_frontal ausente presente;
+{ 9 Depressão_do_processo_supra-orbital_do_lacrimal rasa profunda ausente;
+{ 10 Entalhe_na_articulação_rostral_do_lacrimal_com_o_nasal ausente presente;
+{ 11 Depressão_na_face_lateral_do_processo_orbital_do_lacrimal estreita larga fechada_formando_um_canal ausente;
+{ 12 Prolongamento_lateral_do_processo_orbital_do_lacrimal ausente presente;
+{ 13 Processo_orbital_do_lacrimal livre rostralmente_fusionado_aos_nasais;
+{ 14 Entalhe_na_extremidade_ventral_do_processo_orbital_do_lacrimal ausente presente;
+{ 15 Posição_do_entalhe_da_extremidade_ventral_do_processo_orbital_do_lacrimal lateral medial;
+{ 16 Orientação_do_processo_orbital_do_lacrimal_em_relação_ao_eixo_frontal_do_crânio paralela oblícua;
+{ 17 Complexo_lacrimal-ectetmóide ausente presente;
+{ 18 Forma_do_ectetmóide retangular triangular ausente;
+{ 19 Divisão_do_fontículo_orbitonasal ausente presente;
+{ 20 Tamanho_do_fontículo_orbitonasal_medial_em_relação_ao_fontículo_orbitonasal_lateral equivalente menor;
+{ 21 Fontículo_orbitocranial ausente presente;
+{ 22 Forma_da_abertura_do_forâmen_do_nervo_olfativo pequeno_poro abertura_maior fusionada_ao_fontículo_orbitocranial;
+{ 23 Tamanho_da_abertura_do_forâmen_do_nervo_olfativo pequeno grande;
+{ 24 Sulco_olfativo profundo raso;
+{ 25 Fontículo_interorbital ausente presente;
+{ 26 Fontículo_interorbital_fusionado_ao_forâmen_óptico ausente presente;
+{ 27 Expansão_rostroventral_laminar_no_ectetmóide ausente presente;
+{ 28 Tamanho_do_processo_medial_da_lâmina_parasfenoidal curto longo vestigial;
+{ 29 Forma_da_lâmina_parasfenoidal triangular retangular trapezoidal;
+{ 30 Lâmina_parasfenoidal livre totalmente_fusionada_ao_cranio;
+{ 31 Trabécula_óssea_ligando_a_ala_parasphenoidale_ao_processus_paraoccipitalis presente ausente;
+{ 32 Porção_ventral_do_processus_paraoccipitalis curta longa extremamente_longa;
+{ 33 Projeção_dorsolateral_do_processus_paraoccipitalis ausente presente;
+{ 34 Tuba_auditiva aberta fechada;
+{ 35 Largura_da_abertura_da_tuba_auditiva estreita larga;
+{ 36 Processo_basipterigóide presente ausente;
+{ 37 Forma_do_processo_basipterigóide retangular_e_articulado_ao_pterigóide espinhos_ósseos_não_articulados_ao_pterigóide;
+{ 38 Processo_orbitosfenoidal ausente presente;
+{ 39 Processo_X ausente presente;
+{ 40 Tamanho_do_processo_X curto longo;
+{ 41 Processo_esquamosal curto longo ausente;
+{ 42 Forma_do_processo_esquamosal triangular retangular bifurcado;
+{ 43 Ponte_óssea_ligando_o_processo_esquamosal_ao_processo_pós-orbital ausente presente;
+{ 44 Face_ventromedial_do_processo_esquamosal lisa escavada com_crista;
+{ 45 Borda_rostral_do_processo_pós-orbital lisa com_entalhe;
+{ 46 Escavação_na_face_lateral_do_processo_pós-orbital ausente presente;
+{ 47 Forma_da_escavação_da_face_lateral_do_processo_pós-orbital meia-lua depressão_profunda_e_arredondada;
+{ 48 Face_lateral_do_processo_pós-orbital voltada_lateralmente voltada_caudalmente;
+{ 49 Tubérculos_basilares_do_basioccipital presentes_e_livres presentes_e_ligados_ao_processo_medial_parasfenoidal ausentes;
+{ 50 Fonticulus_occipitalis ausente presente;
+{ 51 Posição_da_crista_nuchalis_transversa_relativa_à_proeminentia_cereberalis não_dividindo_a_proeminência dividindo_a_proeminência;
+{ 52 Forma_da_crista_nuchalis_transversa forma_de_letra_"M" forma_de_letra_"U"_invertida;
+{ 53 Extensão_da_fossa_temporalis atingindo_a_articulação_interparietal não_atingindo_a_articulação_interparietal;
+{ 54 Posição_do_forâmen_magno ventral dorsal;
+{ 55 Fenestra_anterorbital presente ausente;
+{ 56 Borda_rostral_da_fenestra_anterorbital lisa com_projeção_espinosa_mediana;
+{ 57 Articulação_do_processus_maxilopalatinus_aos_nasais estreita larga;
+{ 58 Posição_da_articulação_do_processus_maxilopalatinus_aos_nasais mediana rostroventral;
+{ 59 Fusão_do_processo_frontal_do_pré-maxilar_aos_nasais ausente presente;
+{ 60 Porção_caudal_das_narinas não_ultrapassando_a_zona_flexoria_craniofascialis ultrapassando_a_zona_flexoria_craniofascialis;
+{ 61 Septo_nasal curto expandido;
+{ 62 Projeção_rostral_do_septo_nasal reta curvada_dorsalmente;
+{ 63 Borda_ventral_das_maxilas lisa denteada;
+{ 64 Posição_do_processo_maxilar_do_palatino_em_relação_ao_plano_frontal_do_crânio paralela oblícua;
+{ 65 Fossa_choanalis fechada_rostralmente aberta_rostralmente;
+{ 66 Espinhos_direcionados_caudalmente_na_região_do_angulus_caudomedialis_do_palatino ausentes presentes;
+{ 67 Forma_dos_espinhos_da_região_do_angulus_caudomedialis_do_palatino finos_e_compridos curtos_e_robustos;
+{ 68 Angulus_medialis evidente pouco_evidente;
+{ 69 Anquilose_da_lamina_dorsal_dos_palatinos completa_rostralmente incompleta_rostralmente;
+{ 70 Anquilose_caudal_da_lamina_dorsal_dos_palatinos completa incompleta;
+{ 71 Fusão_da_lamina_dorsal_dos_palatinos ausente presente;
+{ 72 Processo_rostral_do_palatino presente ausente;
+{ 73 Vômer ausente presente;
+{ 74 Processo_quadrático_do_pterigóide ausente_(ou_muito_reduzido) presente;
+{ 75 Fenestrações_pterigoideanas ausentes presentes;
+{ 76 Parede_inferior_da_fenestra_anterorbital formada_apenas_pelo_osso_jugal com_participação_do_osso_maxilar;
+{ 77 Inclinação_da_barra_jugal_em_relação_ao_eixo_rostrocaudal_da_caixa_craniana paralela oblíqua;
+{ 78 Barra_jugal fina_e_comprida curta_e_robusta;
+{ 79 Número_de_côndilos três dois;
+{ 80 Associação_da_crista_timpânica_do_corpo_quadrático côndilo_lateral côndilo_caudal;
+{ 81 Côndilo_lateral_do_quadrado com_expansão_curvada_dorsalmente sem_expansão_curvada_dorsalmente;
+{ 82 Angulus_mandibulae acentuado não_acentuado;
+{ 83 Posição_do_angulus_mandibulae coincidente_com_o_processo_coronóide não_coincidente_com_o_processo_coronóide;
+{ 84 Articulação_dos_os_dentale_com_os_os_supraangulare_e_os_spleniale com_sutura_aparente sem_sutura_aparente;
+{ 85 Posição_relativa_do_processo_coronóide_em_relação_ao_tubérculo_pseudotemporal coincidentes mais_rostral;
+{ 86 Tubérculo_pseudotemporalis não_expandido expandido_formando_uma_ponte_óssea;
+{ 87 Fenestra_mandibular aberta fechada;
+{ 88 Fossa_aditus_canalis_neurovascularis larga estreita;
+{ 89 Fossa_caudalis pequena grande;
+{ 90 Face_articular_na_porção_laterocaudal_do_processo_medial_da_mandíbula ausente presente;
+{ 91 Processo_retroarticular ausente curto longo bastante_longo_e_curvado;
+{ 92 Ossículos_supra-orbitais_posicionados_lateralmente_às_órbitas ausentes presentes;
+{ 93 Presença_dos_ossículos_supraorbitais maior menor;
+{ 94 Número_de_incisuras_no_esterno uma duas nenhuma;
+{ 95 Incisura_lateralis aberta fechada,_formando_uma_fenestra ausente;
+{ 96 Tamanho_do_proc._caudolateral_em_relação_ao_processo_torácico equivalentes mais_curto mais_longo;
+{ 97 Incisurae_intercostalis_presentes_no_proc._craniolateralis ausentes presentes;
+{ 98 Porção_ventral_do_sulcus_carinae fenestrada não_fenestrada;
+{ 99 Fenestra_do_sulcus_carinae aberta fechada;
+{ 100 Sulcus_carinae raso profundo ausente;
+{ 101 Tuberculum_cristae_medianae ausente presente;
+{ 102 Posição_do_ponto_de_altura_máxima_da_carina_sternae terço_cranial terço_mediano;
+{ 103 Espessamento_da_borda_ventral_da_carina_sternae ausente presente;
+{ 104 Espessamento_da_borda_cranial_da_carina_sternae ausente presente;
+{ 105 Extensão_total_da_carina_sternae até_a_borda_caudal_do_esterno antes_da_borda_caudal_do_esterno;
+{ 106 Tubérculo_na_porção_caudal_da_linea_intermuscularis_ventralis ausente presente;
+{ 107 Spina_interna_rostri ausente presente;
+{ 108 Forma_da_spina_interna_rostri simples bifurcada_laminar bifurada_tubercular;
+{ 109 Pila_coracoidea separadas fusionadas;
+{ 110 Forâmen_pneumático ausente presente;
+{ 111 Posição_da_borda_cranial_do_forâmen_pneumático cranial_(concidente_com_o_proc._craniolateralis_do_esterno) caudal_(coincidente_com_a_altura_da_terceira_costela_esternal);
+{ 112 Forma_do_spatium_intercoracoidale diamante triangular retangular ausente;
+{ 113 Depressão_na_face_ventral_do_processo_craniolaeral ausente presente;
+{ 114 Proc._acromialis_da_extremidade_omalis curto_e_reto alongado_e_curvo alongado_e_retilíneo;
+{ 115 Forma_do_proc._acromialis triangular retangular;
+{ 116 Proc._acrocoracoideus_da_extremidade_omalis presente ausente;
+{ 117 Tamanho_do_proc._acrocoracoideus grande pequeno;
+{ 118 Hipocleido_(apophysis_furculae) ausente presente;
+{ 119 Forma_da_extremidade_do_hipocleido_(apophysis_furculae) pontiaguda expandida_e_côncava alongado_e_achatado_lateralmente;
+{ 120 Posição_da_extremidade_do_hipocleido_(apophysis_furculae) ventral dorsal não_diferenciada;
+{ 121 Processo_interclavicular_dorsal_(proc._interclavicularis_dorsalis) ausente presente;
+{ 122 Posição_da_sínfise_clavicular coincidente_com_a_extremitas_sternalis deslocada_cranialmente;
+{ 123 Fúrcula_fusionada_ao_esterno ausente presente;
+{ 124 Forâmen_pneumático_-_2 ausente presente;
+{ 125 Base_da_face_medial_da_Crista_lig._acrocoracoacromiali sulcada lisa;
+{ 126 Acromion_(vista_lateral) com_superfície_lisa com_superfície_sulcada com_superfície_fenestrada;
+{ 127 Expansão_laminar_no_acromion ausente presente;
+{ 128 Forâmen_pneumático_na_borda_medial_da_facies_articularis_humeralis ausente presente;
+{ 129 Forâmen_pneumático_-_3 ausente presente;
+{ 130 Tuberculum_m._scapulotricipitis ausente presente;
+{ 131 Tuberculum_scapulae ausente presente_e_reduzido presente_e_grande;
+{ 132 Expansão_da_extemidade_ventro-caudal_da_fascies_articularis_clavicularis livre ligada_ao_corpus_coracoidei ausente;
+{ 133 Forâmen_na_extremitas_omalis_coracoidei ausente presente;
+{ 134 Forma_do_processo_procoracóideo retilíneo curvado_cranialmente;
+{ 135 Insisura_do_n._supracoracoidaei aberta fechada,_formando_uma_fenestra ausente;
+{ 136 Forma_da_fenestra_n._supracoracoidaei fenda orifício;
+{ 137 Sulcus_m._supracoracoidei sem_forâmen_pneumático com_forâmen_pneumático;
+{ 138 Angulus_lateralis pouco_evidenciado bastante_evidenciado praticamente_ausente;
+{ 139 Forâmen_pneumático_-_4 ausente presente;
+{ 140 Região_do_forâmen_pneumático com_discretos_pori_pneumacici com_muitas_trabéculas_e_pori_pneumacici_maiores_e_mais_evidentes lisa;
+{ 141 Processus_lateralis mais_alto_do_que_largo altura_e_largura_equivalentes;
+{ 142 Superfície_lateral_do_processus_lateralis reta laminar;
+{ 143 Expansão_laminar_mediocranial_do_processus_lateralis ausente presente;
+{ 144 Depressão_na_parte_distal_da_Insisura_capiti ausente presente;
+{ 145 Forma_do_tuberculum_dorsale triangular quadrado ausente;
+{ 146 Porção_mediodistal_da_crista_bicipitalis com_sulco sem_sulco;
+{ 147 Crista_deltopectoralis paralela_ao_eixo_látero-medial_do_corpo perpendicular_ao_eixo_látero-medial_do_corpo;
+{ 148 Angulus_cristae acentuado não_acentuado;
+{ 149 Extensão_da_expansão_da_crista_deltopeitoral curta longa;
+{ 150 Fossa_olecrani rasa profunda;
+{ 151 Forâmen_na_borda_medial_da_fossa_olecrani ausente presente;
+{ 152 Extremidade_distal_da_impressio_m._pectoralis lisa com_área_muscular_áspera com_tubérculo;
+{ 153 Base_do_caput_humeri com_depressão_rasa com_pori_pneumacici com_forâmen;
+{ 154 Fossa_m._brachialis nica dividida_em_duas;
+{ 155 Incisura_do_Tuberculum_carpalis bem_acentuada pouco_acentuada;
+{ 156 Direção_da_extremidade_do_tuberculum_carpalis direcionada_distalmente direcionada_proximalmente;
+{ 157 Fenestra_na_insisura_do_tuberculum_carpalis presente ausente;
+{ 158 Tamanho_da_fenestra_na_incisura_do_tuberculum_carpalis pequena grande;
+{ 159 Processo_proximal_à_insisura_tendinosa presente ausente;
+{ 160 Fenestrações_entre_o_olecrano_e_a_impressio_m.scapulotricipitis ausente presente;
+{ 161 Tuberculum_bicipitalis grande pequeno;
+{ 162 Fenestra_na_fovea_ligamenti_transversi_radioulnare ausente presente;
+{ 163 Fenestrações_no_tuberculum_bicipitale ausente presente;
+{ 164 Pneumatizações_na_depressio_ligamentosa ausentes presentes;
+{ 165 Tipo_de_pneumatizações_na_depressio_ligamentosa pequenos_poros fenestra_central fenestra_lateral;
+{ 166 Processus_intermetacarpalis ausente presente;
+{ 167 Tamanho_do_processus_intermetacarpalis longo curto vestigial;
+{ 168 Tubérculo_na_face_dorsal_do_os_metacarpale_minus ausente presente;
+{ 169 Fenestra_na_borda_caudal_do_os_metacarpale_minus ausente presente;
+{ 170 Base_do_processus_extensorius presença_da_fenestra_X ausência_da_fenestra_X;
+{ 171 Posição_do_processus_extensorius paralela oblícua;
+{ 172 Processus_flexorius curto longo;
+{ 173 Forma_do_processus_flexorius reto curvado_proximalmente;
+{ 174 Arcos_hemais_das_vertebras_toráxicas ausente presente;
+{ 175 Tuberculum_preacetabularis pequeno grande ausente;
+{ 176 Extremidade_do_tuberculum_acetabularis arredondada pontiaguda;
+{ 177 Crista_iliaca_dorsalis não_se_tocando_mediocranialmente tocando-se_mediocranialmente;
+{ 178 Foramina_intertransversalia abertos parcial_ou_totalmente_fechados;
+{ 179 Crista_spinosa_synsacri ausente presente;
+{ 180 Recessus_caudalis_fossae raso profundo fenestrado;
+{ 181 Sutura_iliosynsacralis ausente presente;
+{ 182 Foramen_obturatum indvidualizado não_individualizado;
+{ 183 Crista_trochanteris fenestrada não_fenestrada;
+{ 184 Posição_da_fenestra_da_crista_trochanteris lateral_à_linea_intermuscularis_cranialis encontra-se_com_a_línea_intermuscularis_cranialis;
+{ 185 Fossa_poplitea rasa profunda;
+{ 186 Crista_patellaris praticamente_reta oblícua;
+{ 187 Sulcus_cartilaginis_tibialis raso profundo;
+{ 188 Fenestra_lateral_à_pons_supratendinea ausente presente;
+{ 189 Tamanho_da_fenestra_lateral_à_pons_supratendinea pequena grande;
+{ 190 Processo_na_pons_supratendinea ausente presente;
+{ 191 Côndilo_lateral alto baixo;
+{ 192 Sulcus_m._fibularei bastante_evidente pouco_evidente;
+{ 193 Tamanho_da_fíbula curta longa;
+{ 194 Tamanho_do_corpo_do_tarsometatarso curto tamanho_equivalente_ao_tibiotarso;
+{ 195 Sulcus_extensorius raso profundo;
+{ 196 Tuberositas_m._tib._cranialis ausente presente;
+{ 197 Número_de_tuberositas_m._tib._cranialis uma duas;
+{ 198 Anel_ósseo_na_porção_proximal_do_sulcus_extensorius ausente presente;
+{ 199 Sulcus_ligamentosus presente ausente;
+{ 200 Sulcus_flexorius raso profundo;
+{ 201 Modificações_na_forma_das_trochleas_II_e_IV ausente presente;
+{ 202 Canalis_hypotarsi ausentes presentes;
+{ 203 Número_de_canalis_hypotarsi. um dois;
+{ 204 Tamanho_das_cristae_intermedia_hypotarsi curtas alongadas;
+{ 205 Posicão_da_Crista_medioplantaris na_linha_mediana_vertical_do_osso deslocada_lateralmente deslocada_medialmente;
+{ 206 Secção_transversal_do_corpus_tarsometatarsi retangular triangular;
+;
+
+
+ccode  - 0.206;
+
+
+;

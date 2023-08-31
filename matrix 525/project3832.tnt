@@ -1,0 +1,55 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.03.06'
+27 10
+
+&[num]
+Olbiogaster_nuxco                   000000000000000000000000000
+Cretoseguya_burmitica               1000100-0001100000000000010
+Anapausis_clivicola                 100110010001100100000000010
+Exiliscelis_californiensis          100010011001100100000100110
+Hyperoscelis_insignis               101110011001101110111011111
+Canthyloscelis_sp.                  101110011101101110111011111
+Synneuron_decipiens                 102111111101101111111200110
+Synneuron_annulipes                 102111111101101111111200110
+Synneuron_eomontana                 102111111101101110111000??0
+Synneuron_jelli                     111111111111112110011000??0
+
+;
+
+
+cnames
+{ 0 Sc complete incomplete,_not_reaching_wing_margin;
+{ 1 R1_length_(beyond_fusion_with_R4+5) longer_than_width_of_cell_r1 very_short,_shorter_than_length_of_cell_r1;
+{ 2 Cell_r1 wide,_first_section_of_Rs_long,_oblique slender,_first_section_short,_almost transverse,_second_section_running_close,_parallel_to_R1 wide,_first_section_short,_almost_transverse,_second_section_oblique;
+{ 3 Basal_section_of_Rs,_prior_to_fusion_of_bM longer_than_fused_section_between_R4+5_and_M1+2 very_short,_much_shorter_than_basal_section_of_bM;
+{ 4 R2+3 present absent;
+{ 5 R1_and_R4+5 independent,_R1_reaching_C,_R4_present fused_distally,_R4_absent;
+{ 6 R5 reachinc_C_beyond_level_of_tip_of_M2 reaching_C_more_basally,_at_level_of_M2;
+{ 7 Vein_bM present absent;
+{ 8 M1+2 arched_anteriorly_at_base M1_continuing_directly_from_medial_fork;
+{ 9 M1 arched_anteriorly_at_base continuing_straight_from_medial_fork;
+{ 10 Base_of_M2 complete not_produced;
+{ 11 m-m present absent;
+{ 12 M3 present absent;
+{ 13 Apex_of_M1,_M2_and_M4 gradually_approaching_wing_margin,_gently_curved_distally with_a_more_conspicuous_curve_near_apex;
+{ 14 Origin_of_M4 at_basal_third_of_wing at_basal_fourth_of_wing at_basal_fifth_of_wing;
+{ 15 Posterior_veins weaker_than_anterior_veins,_but_sclerotization_clear weakly_sclerotized,_with_a_translucid_area_present_between_laterals;
+{ 16 Alignment_of_veins_bM/m-cu longitudinal_or_oblique transverse;
+{ 17 CuP present absent;
+{ 18 Anal_lobe present,_although_small nearly_absent,_no_notch_basally_along_posterior_wing_margin;
+{ 19 M3+4 oblique nearly_transverse;
+{ 20 Cubital_pseudovein present virtually_indiscernible;
+{ 21 CuP_-_2 complete,_reaching_wing_margin very_short absent;
+{ 22 Membrane transluscent with_dark_markings;
+{ 23 Sternite_9 situated_anteriorly_on_the_terminalia displaced_to_a_posterior_position_on_the_terminalia;
+{ 24 Surstyli present,_small present,_well-developed;
+{ 25 Tibial_spurs present absent;
+{ 26 Median_ocellus present,_as_developed_as_lateral_ocelli reduced_or_absent;
+;
+
+
+ccode  - 0.21 + 22.26;
+
+
+;

@@ -1,0 +1,197 @@
+nstates num 10;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.00.15'
+83 96
+
+&[num]
+Acorus                             000000000000000000000000000000100000101000000000-0000-03010-0000-25062000100000000-
+AGLAONEMATEAE                      11?01111500210100010000101001020001000021000010000102010131000--10212211-0111000011
+Alloschemone                       01?11110200101????000001011011200030000210000000-0000-10?32-01---101610?????0000010
+Alocasia                           11?0111150212010002001012120202001?000012000041000121010032000--024?432000001000011
+Ambrosina                          11?01111500130100010000001003010022000002101140010020013033000--0041431?????1000010
+THOMSONIEAE                        11?01111500?30100010000111233020022000001000031000012000131001--00414221-0111000010
+Amydrium                           01?0111?201101?000000001011031200030000210000000-0000-10036-01---101?00?????0000010
+Anadendrum                         00?01110502001?000000001011030200030000210000000-0000-10136-0110-000?001-0100000010
+Anaphyllopsis                      00101111000100?000000001112331100220000010000001-0001-10031-0101-050????????0000010
+Anaphyllum                         00101111000101?000000001111330200000?00000000000-0001-10121-0101-351030?????0000010
+Anchoman_plus_Pshyd                11?01111500211100010000111203111012000001000010000101010131001--00012311-0111000011
+Anthurium                          001011114020010000000002010000200030000000000000-0000-00006-0101-10000000???0000010
+Anubias                            11?01111502011010010000101101020000010001000010000120000000000--0200?01011001000011
+Ariopsis                           11?01111502020000010000201202010020100001000120000122013022000--0142402?????1000011
+Arisaema                           11?0111150202010001000022122302002200000200003200001?013032100--014?42100?001000010
+Arisarum                           11?01111500130100010000101203010012000002001132000010013032000--014?421000001000010
+AROPHYTEAE                         11?0111150212010001000020120201000?0000?200001000001?113134001--00424221-0111000011
+Arum                               11?01111502120000010000121203020022000002000042000001013022100--014142100?001000010
+Asterostigma                       11?01111500100100010000101113010022000002000010000122100038001--105?022?????1000010
+Biarum                             11?011115021201000100001012030?002200000200?04200000?013031101--0041421?????1000010
+Bognera                            11?01111500201??0?100001011010?0000000001000120000120010?38001--0???????????100001?
+Caladium_plus_Syngon               11?011115021101000211001212020?0022100012000020000121000022000--0241422011001000011
+Calla                              01?011103020000000100002010010?00000110000000000-0000-10039-00---25?620000000000010
+Callopsis                          11?01111502120100010000101003020002000000000110000002010039001--005?000000001000010
+Chlorospatha_plus_Xan              11?01111512100000021100121202010011000012000020000121000001010--0242422?????1000010
+Colocasia_plus_RS                  11?0111150012010002001112120201001?100012000042000121012022000--024?422011??1000011
+Croatiella                         11?01111500110?????????1212030?00220000010001100001?0123?38001--0???????????100001?
+RHEOPHYTE_clade                    11?01111500110100000000101101020000010102111040001002013039000--0042421000??1000010
+CULCASIEAE                         11?01110502101111100000101103020003000021000010000101000131001--01000201-0001000011
+Cyrtosperma                        00?011110001010000000001111430110120100010000001-0000-11021-0001-300030000000000010
+Dieffenbachia                      11?011115002001000100001010010200010?0002000120000121100138001--02111311-011?000011
+Dracontioides                      001011110000010000000002110431200020100020000001-0001-00001-0101-050631000000000010
+Dracontium                         00?011110001010000000001112331100220000010000001-0001-00001-0101-00?031?????0000010
+Dracunculus                        11?01111500100100010000221223010022000002000042000002013042100--0141421000001000010
+Eminium                            11?011115021201?0?1000022122301002200000200?042000001013032101--0141421?????1000010
+Epipremnum                         01?111102011011000000001011011100030000210000000-0000-10026-00---050?00?????0000010
+Filarum                            11?01111502020??0?2000030120301002200000100013200000201?1?2001--0041401?????1000010
+Gearum                             11?01111500200??0?00000121213010012000002000020000122103138001--00010211-0111000011
+Gonatopus                          10?01111100201100000000101153010012000002000010000012000138001011051?011-0110000010
+Gorgonidium                        11?01111500100?000100001011130100220000110000100001??103038001--1001????????1000010
+Gymnostachys                       001000200001000000000000000000100120000000000000-0000-13010-0100-050600000000000010
+Hapaline                           11?01111502120100021100121203010022000012000122000121010131001--02414211-0111000011
+Helicodiceros                      11?01111502120?00010000221223010022000002000041000001013042100--0141421000001000010
+Heteropsis                         01?011302001011000000001012030200030000210000000-0001-00132-01---0506001-0000000010
+Holochlamys                        001211109001310000000001011010200000000000000000-0000-10036-0110-101001?????0000010
+Incarum                            11?01111500100?????????1011130?0022000001000110000110123038001--0???????????100001?
+Jasarum                            11?011115001001?0?211001012020?0002030012000120000122012033000--00524221-0111000010
+Lasia                              00?01111000101?000000001212230110010100210000001-0000-10011-0101-300030?????0000010
+Lasimorpha                         00101111000001????000001111430?10120100010000001-0011-11031-0001-300030?????0000010
+Lysichiton                         001010010001001000000001010000100120100010000000-0000-03102-0100-2303201-0000000010
+Mangonia                           11?01111500100??0?000001010030?002200000200003000011?100008001--000?021000001000010
+Monstera                           01?111102011011000000001011011?00030000210000000-0000-00136-00---051?111-0000000010
+Montrichardia                      11?0111150221001001000011110301?002010022000010000101010130001--020?6221-0111000010
+Nephthytis                         11?0111150010110001000021124301?012000000000010000102010131001--01012011-0111000011
+Orontium                           0000000?0002000000100000010000?00120100000000000-0000-10131-0100-2506201-0000000010
+Pedicellarum                       00?01130000001????000002010000200030000000000000-0000-00130-0110-050600?????0000010
+Peltandra                          11?01111500100100010000121201010002010012000041000122112122000--024?4221-0001000011
+PHILODENDRON_cl                    11?011115001111111100001011010200010?010200002000010?000009000--0201001011001000011
+Pinellia                           11?01111502120100010000221223010022000002100142000002010031001--0142432001001000010
+Pistia                             11?01111500130100000000001003000001020002101140010020013032000--024?431001111000011
+Podolasia                          00?01111000001?000000002110430110010100000000001-0000-10031-0101-350630?????0000010
+Pothoidium                         00001130000101?000000000010000200030000000000000-0000-10130-0100-050600?????0000010
+Pothos                             00?01130000001?00000000?010000200030000000000000-0000-00130-0100-1506001-0000000010
+Protarum                           11?01111500000??0?20000221222010022000012000042000122112032000--0141????????1000011
+Pycnospatha                        01?01111000100??0?000001111331100220000010000001-0000-10031-01---300631?????0000010
+Rhaphidophora                      01?11110100101?000000001011011100030000210000000-0000-00006-00---05??00?????0000010
+Rhodospatha                        01?111102001011000000001011010200030000210000000-0000-00002-00---000610?????0000010
+Sauromatum                         11?01111502120100010000221223010022000002001042000001013031100--004?40201100100001?
+Scaphispatha                       11?01111502100??0?2????101202010022100011000010000121010032000--0042122?????1000011
+Scindapsus                         01?11110201101?000000001011010200030000210000000-0000-10036-01---00??00000000000010
+Spathantheum                       11?0111150021010000000012110301002200000100011000012?122038001--1001022000001000010
+Spathicarpa                        11?01111500110100010000101003010012000000000210000122113038001--1001102001001000010
+Spathiphyllum                      00?211109001310000000001011010200000000000000000-0000-00006-0000-000011001000000010
+Stenospermation                    01?111102011011000000001011010200030000210000000-0000-00032-00---05?011000000000010
+Stylochaeton                       10?011115002001000000001010030?0002000002001010000000000002000111201011?????0000011
+Symplocarpus                       001011010001000000000001010000100120100010000000-0000-13116-0100-200?201-0000000010
+Synandrospadix                     11?01111502120100010000101103010022000001000120000120103038001--1001022000001000010
+Taccarum                           11?0111150020010001000011113301002200001200001000012?100008001--1002022?????1000010
+Theriophonum                       11?011115021001?0?1000010120301002200000200004200000?013042100--0041421?????1000010
+Turolospadix_bogneri               ?01??0???????????????????????????????????????00???????????????00???????????????????
+Typhonium                          11?0111150210010001000022122301002200000200004200000?013031101--0042401?????1000010
+Typhonodorum                       11?01111500100100010000121201010002010012000041000121113132001--02424221-0??1000011
+Ulearum                            11?01111502120??0?20000301003010000000001000142000002010132001--004??01?????1000010
+Urospatha                          00?011110001010000000001111430100120100010000001-0001-00001-0001-000030000000000010
+Zamioculcas                        10101111100201100000000101113010012000002000010000000000138001011000001?????0000010
+Zantedeschia                       11?011115001101000100001011010100?20?0002000010000102?00007000--0212122001001000011
+Zomicarpa                          11?011115021201000200003212?3010022000002000132000002010035000--014?422001000000011
+Zomicarpella                       11?01111502?20??0?20000301003020000000012000132000002010031000--0041401?????0000011
+Tofieldia                          000000-0302?00?0000000000000?0000020100000000000-0000-0?006-0000-???????????000000-
+Lemna                              01?00---70202-?0?00----00100400-03-0200----------0000-10035-0?---25?6--001110010010
+Spirodela                          01?00---70202-?0?00----00100400-03-0200----------0000-10035-01---25?6--001110010010
+Landoltia                          01?00---70202-?0?00----0010040?-03-0200----------0000-10035-01---?5?6--0011100100??
+Wolffia                            01?02---70202-?-?-0------2----0-03--2-0----------0000-13035-01---25?6--?????01-1110
+Wolffiella                         01?02---70202-?-?-0------2----0-03--2-0----------0000-13035-01---25?6--?????01-1110
+Orontiophyllum_austriacum          ???????????????????????1010000?0???01??????????????????????????????????????????0???
+Bognerospadix_speirsiae            000????1?????0?????????1010000?0???01????0???000-????000?0?-0100-??????????????0???
+
+;
+
+
+cnames
+{ 0 sexuality bisexual unisexual;
+{ 1 perigon present absent;
+{ 2 tepal_number six four;
+{ 3 trichosclereids absent not_in_bundles in_bundles;
+{ 4 spathe inconspicuous specialized absent;
+{ 5 major_infl_internode stipe_above_spathe between_spathe_and_leaf;
+{ 6 shoot_architecture contin_in_last_leaf_axil in_penultim_leaf_axil monopodial_scandent State_3;
+{ 7 phyllotaxis distichous spiral;
+{ 8 pollen_aperture monosulcate extended zonate diaperturate forate inaperturate monosulcoidate ulcerate multiaperturate State_9;
+{ 9 pollen_unit monad tetrad dyad;
+{ 10 pollen_shape ellipsoid hamburger globose;
+{ 11 pollen_size small medium large very_large;
+{ 12 pollen_surface reticulate smooth spinose striate;
+{ 13 pulvinus_(geniculum) absent present;
+{ 14 pollen_starch absent present;
+{ 15 root_hypodermis not_sclerotic sclerotic;
+{ 16 endothecium no_thickenings thickenings;
+{ 17 root_resin_canals absent present;
+{ 18 laticifers absent_or_scattered simple,_articulated anastomosing;
+{ 19 latex_s_bodies absent present;
+{ 20 latex_rubber_particles absent present;
+{ 21 latex_y_bodies absent present;
+{ 22 latex_r_bodies absent present;
+{ 23 23._midrib_of_primaries simple_midvein,_arcuate_laterals thick_costa,_pinnate_laterals unthick_costa,_pinnate_laterals unthick_costa,_palmate;
+{ 24 24._basal_ribs_of_primaries absent well_developed distinct_but_short;
+{ 25 25._blade not_differentiated,_linear differentiated thallus-like_frond;
+{ 26 26._marginal_ven_ant_div no_sympodial_(infra)marginal sympodial_marginal sympodial_inframarginal;
+{ 27 27._marginal_form not_lobed anterior_lobed_pinnately lobed_pedately_or_radiately lobed_pinnately_&_pedately lobed_trifidly,_sagittate bi-_tri-_quadripinnate decompound;
+{ 28 28._fine_venation sec_tert_cross_veins_to_primaries sec_tert_parallel_to_primaries sec_tert_parallel_interprimaries sec_tert_reticulate only_primaries;
+{ 29 29._fenestration absent by_necrosis_between_primaries;
+{ 30 stomata2 anomocytic brachyparacytic some_polar_subsidiaries;
+{ 31 prickles_stem_petiole absent present;
+{ 32 erect_shoots_with_bulbils absent present;
+{ 33 stem_type not_condensed_or_thickened strongly_thickened_not_globose strongly_thickened_tuber highly_reduced;
+{ 34 stem_habit creeping_to_erect erect_distally subterranean aerial_climbing aerial_epiphytic;
+{ 35 peltate_leaves absent present;
+{ 36 aquatic_habit not_aquatic helophyte floating_aquatic submerged_aquatic rheophyte amphibious;
+{ 37 petiole_ligule_sheath not_long long_ligulate_apically;
+{ 38 intravaginal_squamules absent present;
+{ 39 spathe_behavior no_differentn_in_persistence lower_persistent,_blade_caduc entire_spathe_caducous;
+{ 40 spathe_shape fully_expanded boat-shaped,_base_varied basal_tube,_expanded_blade;
+{ 41 spadix-spathe_chambers not_2_chambers 2_chambers;
+{ 42 spadix-spathe_flap no_flap internal_flap;
+{ 43 spathe_margins free_or_basal_fusion connate;
+{ 44 spadix-spathe_dorsal dorsally_free adnate_to_female_zone adnate_to_whole_spadix;
+{ 45 spadix_zonation no_zonation male_and_female female_sterile_male female_male_sterile female_sterile_male_sterile;
+{ 46 appendix absent_inconspicuous conspicuous_staminodial conspicuous_smooth;
+{ 47 flowering_sequence not_basipetal basipetal;
+{ 48 female_zone_length more_than_one_flower one_flower;
+{ 49 stamen_thecae not_horned horned;
+{ 50 connective not_thickened thickened_laterally_at_apex;
+{ 51 stamen_connation free connate_filaments entirely_connate;
+{ 52 anther_dehiscence longitudinal_slits oblique_porelike_slits apical_pores;
+{ 53 staminodes absent in_female_zone;
+{ 54 ovary_locules two_or_three unilocular more_than_three;
+{ 55 ovule (hemi)anatropous campylotropous hemiorthotropous orthotropous;
+{ 56 endosperm copious sparse_to_absent;
+{ 57 placentation axile_or_intrusive apical parietal basal_(parietal,_axile) basal_and_apical;
+{ 58 chromosome_number State_0 State_1 State_2 State_3 State_4 State_5 State_6 State_7 State_8 State_9;
+{ 59 staminodes_interfertile absent_prismatic_spongiform hairlike,_bristlelike_etc.;
+{ 60 styles not_lat_thickened_extended lat_thickened_extended;
+{ 61 ovule_number three_or_more_per_locule 1-2_per_locule;
+{ 62 tepal_connation free_or_partly single_unit;
+{ 63 tepal_apex unthickened thickened;
+{ 64 pistillode_in_male absent pistillode_or_vestige;
+{ 65 leaf_spongy_aerenchyma State_0 State_1 State_2 State_3;
+{ 66 leaf_collenchyma State_0 State_1 State_2 State_3 State_4 State_5;
+{ 67 leaf_vascular_bundles broad,_phloem_strands_semicircular,_type_1 narrow,_phloem_strands_eliptical,_type_2 small,_xylem_a_wide_cell_or_lacuna,_type_3;
+{ 68 petiole_collenchyma State_0 State_1 State_2 State_3 State_4 State_5 State_6;
+{ 69 petiole_ground_tissue State_0 State_1 State_2 State_3;
+{ 70 petiole_vascular_bundles large,_type_1 medium_size,_type_2 small_with_domonant_single_xylem_elements,_type_3;
+{ 71 cotyledon_type haustorial storage;
+{ 72 cotyledon_shape State_0 State_1;
+{ 73 first_leaf State_0 State_1;
+{ 74 hypocotyl State_0 State_1;
+{ 75 primary_root State_0 State_1;
+{ 76 sporopollenin State_0 State_1;
+{ 77 roots State_0 State_1;
+{ 78 root_branching State_0 State_1;
+{ 79 leaf_veins present absent;
+{ 80 anther_thecae tetrasporangiate disporangiate;
+{ 81 raphides State_0 State_1;
+{ 82 biforines State_0 State_1;
+;
+
+
+ccode  - 0.82;
+
+
+;

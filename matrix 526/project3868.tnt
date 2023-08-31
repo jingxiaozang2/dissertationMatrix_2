@@ -1,0 +1,80 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.04.30'
+42 20
+
+&[num]
+Rangea                         111111001110011111110111010001100?1000????
+Stromatoveris                  111111001110011111110111010001100010000???
+Pteridinium                    1111110111100?111111011100000110??1000????
+Arborea                        111111001101001111110?1111000110??1000????
+Thaumaptilon_walcotti          ?1??1100?1100011??11001??00?01?0??1000????
+Pambikalbae                    11111100110?0?111111011110000110??1000????
+Swartpuntia                    1111110011000011?1111?1100100110??1000????
+Dickinsonia                    1111111010000011?111111100100110???000??11
+Ernietta                       1111111111100011?11101?100100110??1000????
+Palaeopascichnus               010000-001000011000000100000000?0000000000
+Bosworthia                     010000-00100000000010010001000000010000000
+Rhizocarpon                    000000-001001000000000-0001000000010000000
+Thectardis                     000000-0010000?0000000-0-000011?00?000???0
+Leptomitus                     000000-001000010000000-0-000011000100000?0
+Galeactena                     0?0000000000001000000000001001111010000011
+Trichoplax                     000000-000000000000000-0-01000000010000011
+Fungia                         000000000100101000111000001111111010000111
+Pennatula                      000000000100001000100000001111111010000111
+Spinther                       000000000000001100111010001001201111111011
+Pikaia                         000000000000001000100000010001201111111011
+
+;
+
+
+cnames
+{ 0 Zero_order_longitudinal_folding absent present;
+{ 1 Zero_order_unit_overprinting absent present;
+{ 2 Zero_order_concave-convex_adjacency absent present;
+{ 3 Zero_order_curvature_(furling) absent present;
+{ 4 Inter-axial_band absent present;
+{ 5 Inter-axial_band_reaching_body_margin absent present;
+{ 6 Body_transect_line_perpendicular_to_long_axis absent present;
+{ 7 Medial_constriction absent present;
+{ 8 Zero_order_oval_cross_section absent present;
+{ 9 Basal_attachment absent present;
+{ 10 Striated_basal_constriction absent present;
+{ 11 Enlarged_basal_holdfast absent present;
+{ 12 Attachment_structure_on_body_plane absent present;
+{ 13 ''Axial_bulb''_holdfast_type absent present;
+{ 14 Primary_striation_of_zero_order_unit absent present;
+{ 15 Secondary_striation_of_primary_units absent present;
+{ 16 Tertiary_striation_of_secondary_units absent present;
+{ 17 Alternating_primary_units absent present;
+{ 18 Axial_primary_units absent present;
+{ 19 Apically_acute_primary_striation absent present;
+{ 20 Basally_obtuse_primary_striation absent present;
+{ 21 Primary_units_interdigitated_at_seam absent present;
+{ 22 Basal_primary_unit_length_>_apical_primary_unit_length absent present;
+{ 23 Primary_unit_oval_cross-section absent present;
+{ 24 Primary_unit_terminal_depth_>_surface_width absent present;
+{ 25 Sinusoidal_primary_margins absent present;
+{ 26 Width/length narrow wide;
+{ 27 Multicellular_zooids absent present;
+{ 28 Feeding_tentacles absent present;
+{ 29 Body_symmetry absent present;
+{ 30 Body_symmetry_group asymmetric radial bilateral;
+{ 31 Calcareous_skeleton absent present;
+{ 32 Body_cavity_internalised absent present;
+{ 33 Through-gut absent present;
+{ 34 Basal-apical_differentiation absent present;
+{ 35 Differentiated_primary_units absent present;
+{ 36 Primary_extensions absent present;
+{ 37 Cephalisation absent present;
+{ 38 Nerve_cord absent present;
+{ 39 Mesenteries absent present;
+{ 40 Active_movement absent present;
+{ 41 Locomotion absent present;
+;
+
+
+ccode  - 0.29 31.41 + 30;
+
+
+;

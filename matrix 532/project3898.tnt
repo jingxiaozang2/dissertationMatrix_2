@@ -1,0 +1,246 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.17.20'
+143 85
+
+&[num]
+Ascaphus_truei                           10000000010001002010100?100?11110000000000100410000?0??1000000100?1200001000000100000?00000100010000?0001100020003000001000?1?00010011101011000
+Alytes_obstetricans                      102010000000010010101010110?10000011011011100121000010010002000013110000111000110100?00201000?0?00010010010000101311000100002211000001121010000
+Bombina_variegata                        1020?0000100010000101014110?10000011000001100121000010010002000013120001111110100200000202000?010000?0100100011012110002000320010?00001210?2001
+Pelodytes_punctatus                      121000000100010010101000120?100100100?0011100021000010010000021014110000111110210200100202110?0000010140000000111311001111021100?1000010201?000
+Spea_multiplicata                        121010201100010010111010020?100011100100111001?000000??100010210141200000101103002001002?3000??010010030011000111111000221022100?10000?21103000
+Spea_hammondi                            122110201?00021011111002020?1000121?0100111?001000000??100020????????????10110300200000203110?00100100?0011000111111000121022200110000121103000
+Scaphiopus_couchii                       12212120220002101111100?020?0000121001101110011032010??1000102101412000001011?200200000203?10?0010010030010000121111000221022200?10000121113000
+Pelobates_cultripes                      22?021222200020011111002010?10001110011000100?1022001001000112101412000001111020020000020?110?0010010140110000111?11000111022100?1?0000210?3000
+Megophrys_montana                        111021202101020000111002010?1000001?0?0011100111200010010001221014110000010110?00001110202002000100101401000001110110001?10120?0?11?100?10?1000
+Heleophryne_natalensis                   10000000010101001010100011101001001100001110001100001001000100101?120000010112210000110?0110100010010050000000111?1?0002010112010?0000101112020
+Calyptocephalella_gayi                   1220212222010200201110020111000001140?101110012123101001000120?0111200000101102010?0?10011102100?00100501100001113210011012111011011?0111111000
+Telmatobufo_venustus                     100020?011000200201?100010101000011?01100010012120001001000?00101012000001?1122?00000111?1000?00?0010050010000111??1001101011101301110111112000
+Platyplectrum_ornatum                    021010201100010?10101?12111010000113011011100121000?1001000100101111000001021221000001000110200010010020010001121021001111011101100010121113002
+Adelotus_brevis                          011020001100010?002?101211101000001?010011100421300?1001010120101311000001011221?0011101011011001001005000000111102100211101110140??10001112022
+Heleioporus_australiacus                 1000002011000200101010001110100?001?0100111004210001100100010010111100??0101122?0000010101111100100100501??0011210210???210?2??1?0??10021???000
+Mixophyes_schevilli                      01202020110002012021100211111000011?011011100121200110010001001010110000010010211011120001102100100100?0010001121021001111221101101100101111000
+Pristimantis_wnigrum                     0020200011000100101?100211101000011?01?111100311100?1001000010100?11001101?2102100011210?110210000010050000001?21011002101220101101210101112122
+Pristimantis_huicundo                    20100000?10101001020101?11101000011?01?111100311100?1001000000100?11000101?2102100011210011021?00001005000000112101?00210102?1?1?01210?01112?22
+Oreobates_discoidalis                    10201000110111001020101010101001001200011110011100001001000100101111001001?21021000112100110210000010060000001111021002?211101011011?0001111022
+Strabomantis_bufoniformis                00202??0110?02?0102?101?0?101000??1?010?111?0?2100001001?00120101?11000?01??102??00112?0?110??00000100?00?0001?2???10???21??????????10101112??2
+Strabomantis_ingeri                      11202100220?020?1011101302110000?11?010011100121320?1001000?20101?11000?01?2102???01?21??1????00000100?00?000?1?1???002?21????01?0??10???1??0?2
+Eleutherodactylus_inoptatus              012020001101010010111014111?1101001?0110111001211000100100011????????????1?210210001121001102100000100?00?0001111021002?2111110110???0001111022
+Flectonotus_fitzgeraldi                  110020?0110001001020100011111000011?0?011110000110001001000110001011000001?210210001110001101100000100500000011110?11021010121???012?0001111102
+"Gastrotheca_monticola"                  222021211201020?1010100001111000111311111110012122??10010001?0?01?11000001?2102100001101?1101100000100501100011110?11021111121011012?0101101102
+"Hemiphractus_fasciatus"                 22202121220002002011100?01111000111?010111110123320?1110???100101102000001?210201001120011102100000100201100021210?1102121211101101210??1011102
+Phyllomedusa_sauvagii                    110011201000010000111???11101000001?00001110012110001001000120100?12001?01?21021000010020?111000000100501100011211?1102111012101301010111112100
+Litoria_lesueurii                        110010001000010010201?00121110000013011011100111100?1001000100000?1100100102??210100110201102100000100400100012111211022?111110130121000111?002
+Litoria_Cyclorana__longipes              10001000100001001011110?0211100012130111?11001210001100100010????????????1?21021110011020100210?000100?00?0001221021?02??10211013012101?1112002
+Litoria_Cyclorana__australis             011021101200020110111002011110000213011011100421320110010001?0101?12000001?110211100010201?02100000100?0010001121021002321021101301210121113002
+Hypsiboas_pulchellus                     1010000011010100102010011210100?001300011110011110001001000110000?12000101121121010100020110110000010050000001121021102401012101301210101112102
+Osteopilus_dominicensis                  22212122120?0000101?1004011100?0121?01111110001212011001000110???????????1?2102100001102011010000001????000001121011102101012101?0121010111?102
+Allophryne_ruthveni                      2212100011010000101?11??110?1000111??001110?000?000?0??1000?30001311000001?2102100001102?11010000000?020000001111011002001002101001200111101022
+Leptodactylus_latrans                    00202000110101001020101311111000001301101110012100001001000110001111000101021021100112101110210000010140010001111121002221220101101110001112102
+Atelognathus_patagonicus                 12100000110001001010100011101000001?00000010011100000??100010????????????1?210210000111011101010000100200100001110?10?22010111010010000001??002
+Telmatobius_marmoratus                   00101010010001001020100011101000001?0100?11001201000100100000????????????1?11021000?121011101110000100?0010001111??1002221010101?01110011112002
+Telmatobius_oxycephalus_SB019            0210100001000100102010021110100001130000111?0110000?100100010010111200000101102100011210111111?000010050010001?11?1100211101?101001110011111002
+Telmatobius_verrucosus                   02001000010000000020100211111000001?0000?11001200000100?00010???1?12000001?110210000121001101110000100?00100012112??0????1011101001110011?????2
+"Telmatobius_hauthali"                   00101000110001001010100211101000001300001110002000001001000100??11120000010110210000?2101110111000010050010001211311002221010101001110001112002
+"Telmatobius_scrocchii"                  0210100011000100101010021110100001130?001110002000001001000100??11120000010110210000021011101110000100500100012112110022210101010011?0001111002
+Chacophrys_pierottii                     0220212?221002001011100501111000121401101111141122221101001110000?12000101001121101002111111210000010050110001121031002221022201201010121113002
+Ceratophrys_cranwelli                    02202121221002001011100201110000121411101111242122221101001120000?12000101001021101012101111210001010050110001121?31002221022201201010121113002
+Ceratophrys_cornuta                      1220212122100200101111??011100001214111011112421222211010??020000?12000101001021101012101111210000010050010001121021002221122201201010121113002
+Ceratophrys_calcarata                    12202121?2100210101?11??011100001214111011111421222211010??12????????????1?010211010121111112100000100?0110001221031002221022201201010121113002
+Lepidobatrachus_laevis                   02202122221002002010100501110000121411101111142122221101001021000?12000101011?21101011111111210000010050110001121021002101022201201010121113000
+Lepidobatrachus_asper                    02202122221002002010110501110000121?11101111142122221101001021000?12000101011021101012111111210001010050110001121021002101022201201010121113000
+"Cycloramphus_dubius"                    00202000110101111021100211111001011?010011100121300010010002?????????????1021011000111000110210000010050000001111021002?010101010011000011??012
+Thoropa_miliaris                         0110100011000100102110??1?111000001?01101110011100101001000000001112000101?21021000111010110210000010140000001?????1002?110201010011?000111?022
+"Proceratophrys_boiei"                   121021201200120010111002111?1000011?0110111001212121100100012010121?????0101102110001210111021000001005011000112102100222111120120101011111?002
+Odontophrynus_americanus                 02?020?011001100?0111002?11110001213011011100421102?1001000110?0111200000101102110001110111121000001005011000?121021002221011201201010121113002
+"Pleurodema_cinereum"                    022010001000110010201002?1101000001201001110042100100??1000100001311001101021021000112101110210000010160000001111021002221011101001000001112102
+Melanophryniscus_stelzneri               2222202011001000002011??100?100012121100000?0110000110010000300012010010010110210?0001020??110000000?02001001221112100210?012101001010111111002
+Bufo_bufo                                1221201021001100001111??1010100?00120100110?01100001100100000000131100100101102100001101011011100000??40010002111?21002?010121010010?01111??002
+Peltophryne_empusa                       2220212222000200111111??01110000111?0110110?01?42201100100013????????????1?1102010001102011121000000?0?001000211112100222111200100????111111??2
+Rhinella_arenarum                        2222212221000200101111??0111000001120110110?01?1011110010001000013110010010110200000?101011121000000??40110002111?21002221010001001010111114002
+Phrynomantis_bifasciatus                 2200000000001000001011??110??11?00150000110?031?00001001100130001311010101?210310?001001?111??000000?031010????110?1102101012101001010011111132
+Dermatonotus_muelleri                    2022200000000000001011??100?011100100001110?02010000100110013000121211010102103102001002011121000000?0311100121110310021010111010010?0021111002
+Cophixalus_riparius                      1222200001000000001011??1101?000011?0001110?0311000?10011001300013121?0101?2102100001002011011000000?0311101???111?10?2101011101?0?0?00011??022
+"Phlyctimantis_verrucosus"               1210200011000100101010001110?001001?0001111003211000100110010011110000100102103000001210?111210000011071000022121031102101120101000010101111000
+"Arthroleptis_adolfifriederici"          2200200011000000101011??111001??001?000011100321000?1001000?1010120100100102102100011210?1102100000110611100221210310121012???01100?10001110022
+Ptychadena_mascareniensis                020020001100100010101002110?10001112000011100321000?100100010000111110?1010210?110011210?11021000001114110002221?1?1002311220101101010001112102
+Ceratobatrachus_guentheri                122021?0220102001011100201100000011?1111111?032132011111010220101311001001?2103110011210?11021000001114110002212102?012101220101101010001101002
+Conraua_crassipes                        0200200011000100101010021110000?0012010011100311000010010101101013110001010?103100011210?111210000011141110012111231002201220101101110021112022
+Pyxicephalus_adspersus                   0220212022100200102110020111000011121110111103212201100101012011111200000101103110011210?11021000001114111001212103?0021212201011010101211?4002
+Rana_temporaria                          120020001100110010211012021010000012000011100311100010010001101011110000010110310001121011102110000111411100121111410021212201011010?0001112002
+Arariphrynus_placidoi                    11?0?0????0001?0??1?1?????10?????1???1?1??1?????100?1?01000?2????????????1?2??21?101?2?0?111???0???????????????2?0?10?????????????????00111?04?
+Eurycephalella_alcinae                   1200?????2010?????1???????11100??11??1????1?0??????01?010???2??????????????1?????????????1?????0????????0100001210?100122?????????????10111?11?
+Cratia_gracilis                          00?0?0?0110?0???????????????1?0??0???10???1??1?1100?1001000?1????????????????????0?0???0???1????????????000001?110?????????????????????1???????
+Thaumastosaurus_servatus                 02202120221002001011100201101000111?0110111003112200100100011??????10???01?0103110011210111?21?0?00111?1110002111031?0???12?010110?????????????
+Beelzebufo_ampinga                       ??2?2122?2??02????21?????????????????1?0?11??421?2?2100????1???????????????1122?10???112011?0000?01???????????????????????0?????????????1??????
+"Uberabatrachus_carvalhoi"               120?2100120?1201??21??????1?100??11??110??1?????20?21?0?????1????????????1?11?2??001?210??1????0?00???????????????????????0????????????????????
+Baurubatrachus_pricei                    1220?12??2?0021010101?????1?10001214?1101?1????132?01?01???12????????????1??11?0101011???11??100100???????0000111421??????2?01014012??11???????
+Arthroleptella_lightfooti                220000?011011000002011??11101000011?0?01111?02111000100110011011131211?101?21031000000101110111000011141010112201131002?0121110110?01?01??0?042
+Cacosternum_boettgeri                    210000?010001010202010??11101000011?0101111?030100001001?00100111301001?01?210310000101011?00000000100711101???112110001012101?110?01001110?042
+Cacosternum_namaquense                   220000?00000100010021???11101000?21?0?01111?131110011001100100111?110??101?210310200011011?00010?00101411001????1311002?01111?0110?110000?0?002
+Odontobatrachus_natator                  201021?0110100001021101512101000101?0000111?0301100010010101001011100?0?01?21231101101101110210000011171110111211?21002101220101101010011?01022
+Limnonectes_blythii                      2110201?2101010020211002?211001110??1100111?03110?0010010001101?131?0?0001?000311010?01011102100???111?111010211114100210121120110?010000???142
+Natalobatrachus_bonebergi                200000101101100100021???1110100011??0001111?031110001001100100111310000101?210310001?110111011100001114111011221142100210121010110?010001?00022
+Nyctibatrachus_major                     201010?01101000110211010111?0111?11?0000111?13211000100100010???????????01?210310001?11011112110000111?1110102201011??310121010110?010011??10?1
+Petropedetes_vulpiae                     220011001000120010111???121110001?1?0000111?01?110001001?0011??????1????01?211310000?11011102110000111310101122110110021012202?110?0100011?1022
+Petropedetes_palmipes                    200000001000000010211???1210101100??0000?11?010110001001?00100??111?0?00?1?210300001?11011102?00000111311100?2111011??????21010110?0?0000???022
+Phrynobatrachus_kreffti                  200020101101000010201???11101000111?0000111?031110001001?00110101312100?01?210311001?21011102110000111311101122110310?210121020110?110001101102
+Strongylopus_grayii                      220000?0110000011020100211101000111?010??11?1321100010011001001113100?0001?11?311000?11011102000000111410101122010310??10122010110?010001?01102
+Tomopterna_tuberculosa                   120020001101000010101???1210011100??0001?11?021101011001?002001011110?0?01?211310001?1101110211000?110?110011?101001????1?211201100000010???102
+Indirana_phrynoderma                     2110?0?0110100001011100511101???????010?111?031110001001?001001?????????01?11?3100000110111021?0100111?11101121110?1????01211101100110001???032
+Aubria_subsigillata                      ?2222?202211020010101002001010001?1?0110111?0?21120?1001010220111111000001???03?1??1?210?11?21?0???1114111?11????????011?12????11?????????1??0?
+
+;
+
+
+cnames
+{ 0 Skull_roof,_orbital_region,_minimum_width_relative_to_maximum_antorbital_width State_0 State_1 State_2;
+{ 1 Skull_roof,_orbital_region,_shape State_0 State_1 State_2;
+{ 2 Nasals,_relation_to_one_another State_0 State_1 State_2;
+{ 3 Nasal,_position_of_anterior_end_relative_to_anterior_tip_of_maxilla State_0 State_1 State_2;
+{ 4 Frontoparietals,_relation_to_one_another State_0 State_1 State_2;
+{ 5 Frontoparietal,_supraorbital_flange State_0 State_1;
+{ 6 Occipital_artery_pathway,_relation_to_skull_roof State_0 State_1 State_2;
+{ 7 Squamosal-frontoparietal_relationship State_0 State_1 State_2 State_3;
+{ 8 Squamosal,_otic_ramus,_otic_plate_(=_ramus_paroticus_of_Ro?ek_2003) State_0 State_1 State_2;
+{ 9 Squamosal,_zygomatic_ramus State_0 State_1 State_2;
+{ 10 Squamosal-nasal_relationship State_0 State_1;
+{ 11 Pterygoid,_anterior_ramus,_anterior_extent State_0 State_1;
+{ 12 Pterygoid,_anterior_ramus,_position_relative_to_maxilla State_0 State_1;
+{ 13 Pterygoid,_medial_ramus,_configuration State_0 State_1 State_2;
+{ 14 Pterygoid,_anterior_ramus,_ventral_flange State_0 State_1;
+{ 15 Pterygoid,_anterior_ramus,_dorsal_flange State_0 State_1;
+{ 16 Parasphenoid,_cultriform_process,_anterior_extent_relative_to_antorbital_plane State_0 State_1 State_2;
+{ 17 Parasphenoid,_cultriform_process,_longitudinal_ridge_on_ventral_surface State_0 State_1;
+{ 18 Parasphenoid,_alae,_orientation_in_ventral_aspect State_0 State_1 State_2;
+{ 19 Parasphenoid,_alae,_keels_on_ventral_surface State_0 State_1 State_2;
+{ 20 Vomer State_1;
+{ 21 Vomer,_teeth State_0 State_1;
+{ 22 Vomer,_teeth,_position_relative_to_planum_antorbitale State_0 State_1;
+{ 23 Vomer,_teeth,_disposition State_0 State_1 State_2 State_3 State_4 State_5;
+{ 24 Vomer,_anterior_process,_extent_relative_to_maxillary_arch State_0 State_1;
+{ 25 Vomer,_postchoanal_process State_0 State_1 State_2;
+{ 26 Palatine,_as_a_discrete_element State_0 State_1;
+{ 27 Palatine,_odontoids_or_ridges_on_ventral_surface State_0 State_1;
+{ 28 Sphenethmoid,_dorsal_exposure_between_nasals_and_frontoparietals State_0 State_1;
+{ 29 Sphenethmoid,_ventral_configuration State_0 State_1;
+{ 30 Sphenethmoid,_dorsal_configuration State_0 State_1;
+{ 31 Sphenethmoid,_orbitonasal_foramen State_0 State_1;
+{ 32 Sphenethmoid,_planum_antorbitale,_mineralization State_0 State_1;
+{ 33 Nasal_capsule,_septum_nasi,_mineralization State_0 State_1 State_2;
+{ 34 Nasal_capsule,_septum_nasi,_width State_0 State_1;
+{ 35 Cartilaginous_roofing_of_cavum_cranii,_configuration State_0 State_1 State_2 State_3 State_4 State_5;
+{ 36 Neurocranium,_lateral_wall_at_the_level_of_the_optic_foramen,_mineralization State_0 State_1;
+{ 37 Crista_parotica,_degree_of_ossification State_0 State_1;
+{ 38 Crista_parotica,_distal_expansion State_0 State_1;
+{ 39 Exoccipital,_occipital_condyles,_shape State_0 State_1;
+{ 40 Tympanic_annulus State_0 State_1;
+{ 41 Columella State_0 State_1;
+{ 42 Teeth_on_premaxilla_and_maxilla State_0 State_1;
+{ 43 Tooth_crown,_number_of_cuspids State_0 State_1;
+{ 44 Premaxilla,_pars_palatina,_palatine_process,_configuration State_0 State_1 State_2;
+{ 45 Premaxilla,_pars_palatina,_lateral_end,_configuration State_0 State_1 State_2 State_3 State_4;
+{ 46 Premaxilla,_alary_process,_orientation State_0 State_1 State_2;
+{ 47 Premaxilla,_contact_with_maxilla_in_labial_aspect State_0 State_1 State_2 State_3 State_4;
+{ 48 Maxilla,_pars_facialis_in_the_orbital_region,_shape State_0 State_1 State_2 State_3;
+{ 49 Maxilla,_pars_facialis_external_surface,_aspect State_0 State_1 State_2 State_3;
+{ 50 Maxilla,_pars_facialis,_anterodorsal_process State_0 State_1 State_2;
+{ 51 Maxilla,_pars_palatina,_orientation_at_the_level_of_the_planum_anteorbitale State_0 State_1 State_2;
+{ 52 Quadratojugal,_pars_jugalis State_0 State_1;
+{ 53 Quadratojugal,_dorsal_process State_0 State_1;
+{ 54 Quadratojugal,_lateral_process State_0 State_1;
+{ 55 Mentomeckelian_bone State_0 State_1;
+{ 56 Mentomeckelian_bone,_lateral_process State_0 State_1;
+{ 57 Dentary,_fang-like_laminar_projections State_0 State_1;
+{ 58 Fang-like,_symphyseal_ectopic_ossifications State_0 State_1;
+{ 59 Angulosplenial,_coronoid_process,_shape State_0 State_1 State_2;
+{ 60 Lower_jaw,_articulation_with_skull,_position State_0 State_1 State_2 State_3;
+{ 61 ._Hyoid,_hyalia,_general_configuration State_0 State_1 State_2;
+{ 62 Hyoid,_anterior_process_of_hyale State_0 State_1;
+{ 63 Hyoid,_process_lateral_to_anterior_process_of_hyale State_0 State_1;
+{ 64 Hyoid_plate,_anterolateral_(alary)_processes) State_0 State_1;
+{ 65 Hyoid_plate,_anterolateral_(alary)_processes),_shape State_0 State_1 State_2 State_3 State_4;
+{ 66 Hyoid_plate,_posterolateral_process State_0 State_1;
+{ 67 Hyoid_plate,_posteromedial_process,_ossification State_0 State_1 State_2;
+{ 68 Hyoid_plate,_posteromedial_process,_flange_on_medial_side State_0 State_1;
+{ 69 Hyoid,_posterior_projection_on_hyoid_plate State_0 State_1;
+{ 70 Hyoid_plate,_shape State_0 State_1;
+{ 71 Hyoid_plate,_calcification State_0 State_1;
+{ 72 Parahyoid_bone State_0 State_1;
+{ 73 Presacral_vertebrae,_number_(irrespective_of_fusions) State_0 State_1;
+{ 74 Trunk_vertebrae,_centrum_formation State_0 State_1;
+{ 75 Atlas,_cotyle_arrangement State_0 State_1 State_2;
+{ 76 Atlas,_cotyle_position_relative_to_neural_canal State_0 State_1;
+{ 77 Vertebrae_I_and_II_relationship State_0 State_1 State_2;
+{ 78 Posteriormost_presacral_vertebra,_centrum_configuration State_0 State_1 State_2 State_3;
+{ 79 Posterior_four_presacrals,_neural_arches,_imbrication State_0 State_1;
+{ 80 Anterior_presacrals,_neural_spines State_0 State_1;
+{ 81 Vertebra_VI,_transverse_processes,_posterior_margin_orientation State_0 State_1 State_2;
+{ 82 Vertebra_IV,_transverse_processes,_mediolateral_length_relative_to_that_of_sacral_diapophyses State_0 State_1;
+{ 83 Posteriormost_presacral_vertebra,_transverse_processes,_mediolateral_length_relative_to_that_of_sacral_diapophyses State_0 State_1;
+{ 84 Vertebra_III,_transverse_processes/associated_ribs,_uncinate_processes State_0 State_1;
+{ 85 Sacral_diapophyses,_distal_expansion_in_dorsal_view,_evaluated_as_the_distal_length_(DL)_relative_to_the_maximum_distance_between_distal_margins_of_diapophyses_(MW)_=_sacral_width_of_Trueb_&_Tyler_(1974) State_0 State_1 State_2;
+{ 86 Sacral_diapophyses,_distal_ends_in_lateral_view State_0 State_1;
+{ 87 Sacral_vertebra,_articulation_with_urostyle State_0 State_1 State_2;
+{ 88 Urostyle,_transverse_processes State_0 State_1;
+{ 89 Urostyle,_length_relative_to_presacral_portion_of_vertebral_column State_0 State_1 State_2 State_3;
+{ 90 Urostyle,_transverse_processes_-_2 State_0 State_1;
+{ 91 Urostyle,_length_relative_to_presacral_portion_of_vertebral_column_-_2 State_0 State_1;
+{ 92 Urostyle,_dorsal_crest State_0 State_1 State_2;
+{ 93 Urostyle,_anterodorsal_process_at_anterior_end_of_dorsal_crest State_0 State_1;
+{ 94 Urostyle,_shape_in_lateral_view State_0 State_1;
+{ 95 Free_ribs_in_adults State_0 State_1;
+{ 96 Free_intervertebral_discs_in_subadults State_0 State_1;
+{ 97 Dorsal_shield_formed_by_medial_or_medial_and_lateral_elements_joined_to_each_other_and_to_the_vertebrae_by_ligaments State_0 State_1;
+{ 98 Dorsal_shield_formed_by_at_least_medial_elements_continuous_with_the_neural_spines State_0 State_1;
+{ 99 Pectoral_girdle,_omosternum State_0 State_1;
+{ 100 Pectoral_girdle,_omosternum,_degree_of_ossification State_0 State_1;
+{ 101 Pectoral_girdle,_sternum,_degree_of_ossification State_0 State_1;
+{ 102 Pectoral_girdle,_sternum,_shape State_0 State_1 State_2 State_3 State_4 State_5 State_6 State_7;
+{ 103 Pectoral_girdle,_epicoracoids_in_the_coracoideal_region,_relation_to_one_another State_0 State_1;
+{ 104 Coracoid,_sternal_end,_expansion_relative_to_the_length_of_bone State_0 State_1;
+{ 105 Coracoid,_sternal_end,_shape State_0 State_1;
+{ 106 Coracoid,_posterodorsal_process State_0 State_1;
+{ 107 Clavicle State_0 State_1;
+{ 108 Clavicle,_orientation State_0 State_1 State_2;
+{ 109 Clavicle,_medial_portion,_shape State_0 State_1 State_2;
+{ 110 Clavicle,_relationship_with_scapula State_0 State_1 State_2;
+{ 111 Scapula,_maximum_width_of_glenoid_fossa_relative_to_maximum_width_of_shaft State_0 State_1 State_2;
+{ 112 Scapula,_medial_cleft State_0 State_1;
+{ 113 Scapula,_anterior_margin,_processes_or_crests State_0 State_1 State_2 State_3 State_4;
+{ 114 Cleithrum,_overall_shape_in_dorsal_view State_0 State_1 State_2 State_3 State_4;
+{ 115 Humerus,_ventral_condyle,_diameter_relative_to_total_distal_width_at_epicondyle_level State_0 State_1;
+{ 116 Intercalary_elements State_0 State_1;
+{ 117 Preaxial_carpals_(element_Y_and_distal_2),_configuration State_0 State_1;
+{ 118 Postaxial_carpals_(ulnare_and_distals_3,_4_and_5),_configuration State_0 State_1 State_2 State_3;
+{ 119 Prepollex,_number_and_shape_of_prepollical_elements State_0 State_1 State_2 State_3 State_4;
+{ 120 Fingers_1_and_2_(digits_II_and_III),_relative_lengths State_0 State_1 State_2;
+{ 121 Carpal_torsion State_0 State_1;
+{ 122 Ilium,_dorsal_crest,_development State_0 State_1 State_2;
+{ 123 Ilium,_ventral_acetabular_expansion_in_acetabular_view_relative_to_height_of_acetabulum State_0 State_1 State_2 State_3;
+{ 124 Ilium,_angle_between_iliac_shaft_and_ventral_acetabular_expansion State_0 State_1 State_2;
+{ 125 Ilium,_dorsal_acetabular_expansion_in_acetabular_view_in_relation_to_height_of_acetabulum State_0 State_1 State_2;
+{ 126 Ilium,_ischiadic_process State_0 State_1;
+{ 127 Ilium,_dorsal_prominence State_0 State_1;
+{ 128 Ilium,_dorsal_tubercle_morphology State_0 State_1 State_2 State_3 State_4;
+{ 129 Ilium,_spiral_groove State_0 State_1;
+{ 130 Ischium,_posterodorsal_expansion State_0 State_1;
+{ 131 Ischium,_posterior_margin,_shape State_0 State_1 State_2;
+{ 132 Pubic_region,_mineralization State_0 State_1;
+{ 133 Epipubis State_0 State_1;
+{ 134 Femur,_femoral_crest State_0 State_1;
+{ 135 Femur,_length_relative_to_tibiofibula_length State_0 State_1 State_2;
+{ 136 Proximal_tarsals_(tibiale_and_fibulare),_configuration State_0 State_1 State_2;
+{ 137 Distal_tarsals_3_and_2,_configuration State_0 State_1;
+{ 138 Distal_tarsal_1,_as_a_discrete_element State_0 State_1;
+{ 139 Prehallux,_number_and_shape_of_prehallical_elements State_0 State_1 State_2 State_3 State_4;
+{ 140 Toe_IV,_terminal_phalanx,_general_shape State_0 State_1;
+{ 141 Toe_IV,_terminal_phalanx,_shape_of_distal_end State_0 State_1 State_2 State_3 State_4;
+{ 142 Pupil_shape State_0 State_1 State_2;
+;
+
+
+ccode  + 0.142;
+
+
+;

@@ -1,0 +1,198 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.02.41'
+134 46
+
+&[num]
+Elymnias_hypermnestra              0011100000?0000002000?000?????00002001000010110?0110000100000010000111010001000000100?000?0?110012010?0000100000000100?100?0110?010010
+Bia_actorion                       000111010100000000000?0010?10?20000001001000110?0000000100001011000100010010000011111000100?011111101011000000?01001001001000011110010
+Aponarope_sutor                    010101001?11100001000??01??10??0002001?010?1?10?0111??????????????????????????????????????????????????????????????????????????????????
+Narope_cyllabarus                  010101000101100002000?1011?10?00002001101101110?0112???????????10?1???10??????????????????????????????????????????????????????????????
+Narope_cyllarus                    01010100020110000101001011?10?00002001101101010?0112???????????10?1???00??????????????????????????????????????????????????????????????
+Narope_cyllastros/cyllene          010101000201100001000?1011?10?00002001101101110?0112010???1210110111?100??10101011111000110?110111101111001000?01001000000?0110?110010
+Narope_nesope                      010101000101100002000?1011?10?00002001000021110?0002??????????????????????????????????????????????????????????????????????????????????
+Narope_panniculus                  010101000201100001000?1011?10?00002001001010?10?0102010???0010110110?100??101010??????????????????????????????????????????????????????
+Brassolis_isthmia                  011111000200100100000?0011?10?1001101100101020??????1010000010110101?3????1001011???????????00?????00?00001000001100?00?0100000?0000?1
+Brassolis_astyra                   011111000200100100000?0011?10?1001101100101010???????0?0000010111101?300??100101110?100011??00?????00?00001000001100?00??100000?0000?1
+Brassolis_sophorae                 011?11000200100100000?0011?10?1001101100101010??????101000001011?101?300??100101110?100011??00?????00?00001000001100?00?0100000?000011
+Dynastor_darius                    011111000211100000000?1011?10?1000101110101011100000101000011011200101010010000?11111100111001000210100000100010101100?001000011110000
+Dynastor_napoleon                  011111000211100000000?0010?10?100010111010100110000010100001101120010000??100001111111001110010002101000001000101011000001000011110000
+Dasyophthalma_creusa               11111100022111000001100011?11?10001001001010010?00001001000111112?011000??1001001111100011101100010010000101000010?1000001000011101000
+Dasyophthalma_rusina               11111100022111000001000011?11?10001001001010010?00000001000111112?011100??1001001???????????110001001000010100001001000001000011111000
+Opoptera_aorsa                     0111111002111100110100001210??10001001200010010?000000011010101100010100??100000??????????????????????????????????????????????????????
+Opoptera_arsippe                   01111110?????100010100001210??10001001010000010?0102??????????????????????????????????????????????????????????????????????????????????
+Opoptera_fruhstorferi              0111110002211000100100101200??20001001010000010?100100011000101100010100??1001001???????????1100021010000011???010?10??101000011100000
+Opoptera_staudingeri               0111110002211100120100001200??20001001010000010?000100011013101100010100??100100??????????????????????????????????????????????????????
+Opoptera_syme                      0111110002211000100100101200??10001001010000010?100100011000101100010100??100000111111001110110002101000011100?01001000101000011110000
+Caligopsis_seleucida               01111100021110100011010111?11?110011000010102110001010011003101100011000??1000001???????????210001001000001110?01001000001100010010000
+Eryphanis_automedon                011111000211101000000?0110?10?12000101000010210?0010??????1310111001100101100000????????????21000100100010111101101111????????????????
+Eryphanis_lycomedon                011111000211101000000?0110?11?12000101000010210?00000001100310112?01100111100000?111110011112100010010001011110110111101?10?0?????????
+Eryphanis_reevesii                 01111100121110100011010111?11?12000101301010211000000001100310112?01100111100000111111001???21000100100010111101100111?10100000?100000
+Caligo_atreus                      01111100021110100001110010?11?11101001100010211000010001010310111?01100111100100??????????????????????????????????????????????????????
+Caligo_beltrao                     01111100021110100001100010?11?11101001000010211000010011010310111?01100111100100111110001110010102101000001001111001000011101010100100
+Caligo_illioneus                   01111100021110100001010011?11?11001001100010211100010001010310111?01110111100100111110001110010102101000001001111001000011111010100100
+Caligo_martia                      11111100021110100011010011?11?11001001000010211000000001000300111?011000??100100????????????010102101000001001011001000011111010101000
+Penetes_pamphanis                  01111100021110100001010010?2?010000001011010210?00011011000010110001001100100001????????????110000?01000001000001011001001000011100010
+Selenophanes_cassiope              01111100021110000011110011?2?020002001001010?10?00001010000111111?01001101101000????????????110002101000011100000?01000101000011010000
+Selenophanes_josephus              01111100020110100011110011?2??10002001001010210?00001010000111111?01001101101000??????????????????????????????????????????????????????
+Catoblepia_amphirhoe               01111100??????100011010110?2?020001001001011110?00001010100010111?01031101100100111110001110110001101000011100?0101100?101000011?00000
+Catoblepia_berecynthia             01111100021110100001010110?2?020001001001010110?00001010000010111?010211011001001111101011101100011010000111000010?1000101000011000000
+Catoblepia_orgetorix               01111100021110100011010110?2?020001001001010110?00001011000010111?01021101100100??????????????????????????????????????????????????????
+Catoblepia_xanthus                 011111000211101000100?0110?2?020001001001010110?000010?0?00010111?01021100100100??????????????????????????????????????????????????????
+Catoblepia_xanthicles              011111000211101000000?1110?2?020001001001010210?0000?????????????????????????????11110101?1011000110100001110000101100?1??????????????
+Mielkella_singularis               01111100021110100011010110?2?110001001001010010?00000011000010011?01000101101100??????????????????????????????????????????????????????
+Orobrassolis_ornamentalis          01111100121110100011010110?2?110000001001010110?00001001000010111?01000101100100??????????????????????????????????????????????????????
+Blepolenis_bassus                  01111100122110100011000110?2?120001000001010110?00001001000010111?0100010?101100111110001110??????????????????????????????????????????
+Blepolenis_batea                   01111100122110100011000110?2?120001000001010110?00001001000010111?01000101101100111110001110??????????????????????????????????????????
+Opsiphanes_boisduvallii            01111100112110100011000110?2?120000000001010110?00001001000010010001000101100100??????????????????????????????????????????????????????
+Opsiphanes_bogotanus               01111100??????100011010110?2?120000000001010110?0000??????0010010001000101100100?11110101???110102101000011??0001?010?1011000011111010
+Opsiphanes_cassina                 01111100??????100011010110?2?120000010001010110?0000?????????????????????????????11110101???110101101000011100001001001???????????????
+Opsiphanes_invirae                 011111001121101000110?0110?2?12000?000001010110?00001011000010011001000101100100111110101110110101101000011100001001001011000011111010
+Opsiphanes_quiteria                01111100??????100011010110?2?120000010001010110?0000????????????????????????????111110101110110101101000011100001001001011000011111010
+Opsiphanes_tamarindi               01111100112110100011010110?2?120000000001010110?00001001000010011?01000101100100??????????????????????????????????????????????????????
+
+;
+
+
+cnames
+{ 0 Eye_pubescence absent present;
+{ 1 FW_Sc inflated not_inflated;
+{ 2 FW_R1 anastomosed_with_Sc not_anastomosed_with_Sc;
+{ 3 FW_R3 absent present;
+{ 4 Nearest_vein_to_FW_apex R3 R4;
+{ 5 HW_pre-costal_cell absent present;
+{ 6 Prominent_HW_tail_at_M3 absent present;
+{ 7 Prominent_HW_tail_at_Cu2 absent present;
+{ 8 Male_midleg,_dorsal_spines_on_femur absent present;
+{ 9 Male_midleg,_lateral_rows_of_spines_on_tibia absent on_outer_side_only_(ie,_one_lateral_row) on_both_sides_(ie,_two_lateral_rows);
+{ 10 Male_midleg,_outer,_lateral_row_of_spines_on_tibia limited_to_the_lateral_portion_of_the_tibia slightly_extended_dorsally fully_extended_dorsally;
+{ 11 Male_midleg,_tibial_spurs absent present;
+{ 12 Male_midleg,_dorsal_spines_on_tarsus absent present;
+{ 13 Male_mid-_and_hindlegs,_colour_of_distal_edge_of_each_segment_and_tarsal_sub-segment similar_to_the_colour_of_the_segment_/_sub-segment lighter,_forming_rings_that_contrast_the_colour_of_the_segment_/_sub-segment;
+{ 14 Abdominal_scent_organs_located_on_the_pleural_membrane_of_the_fourth_abdominal_segment absent present;
+{ 15 In_dorsal_and_dorsolateral_views,_anterolateral_constriction_of_the_tegumen absent present;
+{ 16 In_dorsal_and_dorsolateral_views,_lateral_protrusion_of_the_tegumen absent present;
+{ 17 In_lateral_view,_dorsal_outline_of_tegumen arched_both_anteriorly_and_posteriorly straight_anteriorly_and_arched_posteriorly straight_both_anteriorly_and_posteriorly;
+{ 18 Hairpencil_on_dorsoposterior_portion_of_tegumen absent present;
+{ 19 Hairpencil_on_dorsomedial_portion_of_tegumen absent present;
+{ 20 Hairpencil_on_dorsolateral_portion_of_tegumen absent present;
+{ 21 Hairpencil_on_dorsomedial_portion_of_tegumen_-_2 short long;
+{ 22 In_lateral_view,_separation_between_pedunculum_and_vinculum visible pedunculum_and_vinculum_seamlessly_amalgamated,_synscleritous;
+{ 23 In_ventral_view,_saccus shorter_than_the_genitalic_capsule_is_wide equal_to,_or_longer_than_the_genitalic_capsule_is_wide;
+{ 24 Heavier_sclerotization_of_the_dorsal_edge_of_valva absent present;
+{ 25 Heavier_sclerotization_of_the_dorsal_edge_of_valva_-_2 does_not_extend_to_the_valva_tip extends_just_to_the_valva_tip encircles_the_valva_tip;
+{ 26 Heavily_sclerotized_valva_tip broader_than_shaft narrower_than_shaft;
+{ 27 Heavily_sclerotized_portion_of_the_dorsal_edge_of_valva with_minute_ribbed_serrations with_even-shaped_spines with_uneven-shaped_spines_or_projections;
+{ 28 Even-shaped_spines_of_the_dorsal_edge_of_valva expanding_for_up_to_half_the_valva_length expanding_for_almost_the_entire_valva_length;
+{ 29 Uneven-shaped_spines_or_projections_of_the_dorsal_edge_of_valva spread_apart clustered_together;
+{ 30 Groove_at_the_articulating_point_between_valva_and_appendices_angulares absent limited_to_the_base_of_valva extended_distally_for_ca_one-third_of_the_valva_length;
+{ 31 Thin,_setae-bearing_flange_associated_with_the_dorsal,_basal_region_of_valva absent present_membranous present,_sclerotized;
+{ 32 Finger-shaped_protuberance_at_the_dorsal,_basal_third_of_valva absent present;
+{ 33 Basal,_internal_region_of_valva similar_in_sclerotization_to_distal_region conspicuously_less_sclerotized_than_distal_region;
+{ 34 Distal_opening_of_phallus dorsal dorsolateral ventrolateral;
+{ 35 Thin,_dorsal_prong_of_phallus absent present;
+{ 36 Peg-like_setae_on_phallus_shaft absent present;
+{ 37 Coecum_penis absent present;
+{ 38 Lateral_uncus_wings,_as_they_extend_posteriorly_into_uncus_process vanishing_gradually merging_to_form_a_single,_prominent_dorsal_keel forming_two_dorsolateral_keels forming_two_dorsolateral_humps;
+{ 39 In_ventrolateral_view,_pocket_of_setae_in_the_membrane_ventral_to_the_uncus_wings absent present;
+{ 40 In_lateral_view,_posterior_uncus_process straight_at_base_and_bending_at_tip evenly_arched;
+{ 41 In_dorsal_view,_posterior_uncus_process mid_region_similar_to_or_narrower_than_base mid_region_clearly_broader_than_base;
+{ 42 Distal_portion_of_posterior_uncus_process blunt sharp,_sclerotized_point bifid;
+{ 43 Uncus_ventrolateral_microtrichia absent present;
+{ 44 Length_of_setae_at_posterior_uncus_process all_setae_short all_setae_medium_length some_or_all_setae_long;
+{ 45 Gnathos absent present;
+{ 46 Gnathos,_posterior_expansion_of_proximal_region absent present;
+{ 47 Gnathos,_dorsal_expansion_of_proximal_region smooth spiny;
+{ 48 Gnathos,_anterior_expansion_of_proximal_region absent present;
+{ 49 Gnathos,_distal_region clearly_narrower_than_proximal_region similar_to_or_wider_than_proximal_region;
+{ 50 Gnathos,_distal_region_-_2 smooth spiny;
+{ 51 Gnathos_-_2 adjoining_lateral_uncus_wing_and_tegumen_approximately_equally adjoining_tegumen_more_extensively_than_lateral_uncus_wing adjoining_tegumen_exclusively;
+{ 52 Female_foreleg,_dorsal_spines_on_tibia absent present;
+{ 53 Female_foreleg,_number_of_tarsomeres five one;
+{ 54 Female_foreleg,_pulvillar_pad absent present;
+{ 55 Female_foreleg,_ventral_tarsomere_spines short long;
+{ 56 Female_foreleg,_basal_tarsomere_(tm1) approximately_the_same_length_as_the_sum_of_the_lengths_of_tarsomeres_2_to_5 clearly_longer_than_the_sum_of_the_lengths_of_tarsomeres_2_to_5;
+{ 57 Female_foreleg,_third_tarsomere_(tm3) approximately_1,5_X_longer_than_tm4 nearly_4_X_longer_than_tm4;
+{ 58 Intersegmental_sac_between_seventh_abdominal_sternite_(Stn7)_and_sterigma rounded with_two_lateral_pockets;
+{ 59 Degree_of_sclerotization_of_the_intersegmental_sac_between_Stn7_and_sterigma entirely_membranous with_an_antero-medial_sclerotized_region with_a_postero-medial_sclerotized_region entire_sac_appears_sclerotized;
+{ 60 Orientation_of_the_anterior_ribs_of_the_intersegmental_sac_between_Stn7_and_sterigma transverse longitudinal;
+{ 61 Anterior_ribs_of_the_intersegmental_sac_between_Stn7_and_sterigma continuous broken;
+{ 62 Lateral_section_of_sterigma fused_to_anterolateral_edge_of_eighth_tergite_(Tg8) not_fused_to_to_anterolateral_edge_of_Tg8;
+{ 63 Lateral_section_of_sterigma_-_2 broad thin;
+{ 64 Anterior_section_of_sterigma_(‘lamella_antevaginalis’) continuous interrupted_by_a_gap_at_midpoint absent;
+{ 65 Anterior_section_of_sterigma_(‘lamella_antevaginalis’),_broad_flap_extended_to_cover_ostium_bursa absent present;
+{ 66 Lateral_sections_of_sterigma continuous_with_remainder_of_sterigma separated_from_remainder_of_sterigma;
+{ 67 Posterior_section_of_sterigma_(‘lamella_postvaginalis’) absent present;
+{ 68 Inward_projections_of_sterigma absent present;
+{ 69 Antrum entirely_membranous with_a_sclerotized_spot with_a_sclerotized_ring fully_sclerotized;
+{ 70 Corpus_bursa oval elongate;
+{ 71 Signa absent present;
+{ 72 Signa_-_2 parallel divergent;
+{ 73 Signa_-_3 nearly_as_long_as_corpus_bursa clearly_shorter_than_corpus_bursa;
+{ 74 Sclerotized_base_of_the_posterior_apophyses extended_to_dorsal_edge_of_the_papilla_anales not_extended_to_dorsal_edge_of_the_papilla_anales;
+{ 75 Sclerotized_base_of_the_posterior_apophyses,_anterior_expansion_that_forms_ventral_flaps absent present;
+{ 76 Posterior_edge_of_sclerotized_base_of_the_posterior_apophyses straight_or_slightly_out-curved with_a_dorsal_projection,_appearing_in-curved;
+{ 77 Setae_on_posterior_edge_of_sclerotized_base_of_the_posterior_apophyses absent present;
+{ 78 In_lateral_view,_papillae_anales taller_than_deep deeper_than_tall;
+{ 79 In_lateral_view,_posterior_contour_of_papilla_anales arched-out_in_center straight_or_arched-in;
+{ 80 Egg,_chorion,_longitudinal_ribs absent present;
+{ 81 1st_instar,_head_surface smooth with_irregular,_interconnected_wrinkles;
+{ 82 1st_instar,_head_tubercles absent present;
+{ 83 1st_instar,_head_tubercle_closest_to_midline_on_head_vertex much_larger_than_subdorsal_and_lateral_tubercles similar_to_or_smaller_than_subdorsal_and_lateral_tubercles;
+{ 84 1st_instar,_plumose_setae_on_head absent present;
+{ 85 1st_instar,_plumose_setae_on_head_-_2 short_barbs_(barely_visible) long_barbs;
+{ 86 1st_instar,_flat,_broad_setae_on_head absent present;
+{ 87 1st_instar,_mandible smooth dentate;
+{ 88 1st_instar,_hypostome forming_a_narrow_point_at_midline broad_at_midline;
+{ 89 1st_instar,_number_of_setae_in_the_Sv_series_of_abdominal_segment_3 two three;
+{ 90 1st_instar,_seta_D2_of_anal_shield located_at_the_base_of_cauda displaced_distally;
+{ 91 1st_instar,_when_displaced_distally,_seta_D2_of_anal_shield located_at_or_below_midlength,_ie,_closer_to_the_base_of_cauda located_above_midlength,_ie,_closer_to_the_tip_of_cauda;
+{ 92 5th_instar,_head_shape_in_frontal_view rounded rectangular trapezoidal;
+{ 93 5th_instar,_apical_head_scoli_closest_to_midline_on_vertex absent present;
+{ 94 5th_instar,_apical_head_scoli_closest_to_midline_on_vertex_-_2 independent fused;
+{ 95 5th_instar,_dorsal_head_scolus narrowing_progressively_towards_tip ending_at_a_blunt_tip;
+{ 96 5th_instar,_secondary_projections_on_apical_head_scoli_closest_to_midline_on_vertex absent present;
+{ 97 5th_instar,_additional_head_scoli_in_the_apical_series one_pair two_pairs three_pairs;
+{ 98 5th_instar,_orientation_of_head_scoli_in_the_apical_series parallel_to_each_other_in_the_frontal_view diverging_from_each_other;
+{ 99 5th_instar,_posterior_head_scoli_series absent present;
+{ 100 5th_instar,_row_of_setae_behind_apical_head_scolus_closest_to_midline,_near_posterior_margin_of_head absent present;
+{ 101 5th_instar,_row_of_setae_behind_head_scolus_closest_to_midline,_near_posterior_margin_of_head setae_thin,_sharp_at_tip setae_cuneiform;
+{ 102 5th_instar,_plumose_setae_on_genae absent present;
+{ 103 5th_instar,_tubercle_between_the_mandible_and_stemmata_II_and_IV absent present;
+{ 104 5th_instar,_cluster_of_differentiated_secondary_setae_between_stemmata_I-IV_and_V absent present;
+{ 105 5th_instar,_cluster_of_differentiated_secondary_setae_between_stemmata_I-IV_and_base_of_mandible,_dorsal_section absent present;
+{ 106 5th_instar,_number_of_setae_on_mandibles two more_than_two;
+{ 107 5th_instar,_chalazae_on_dorsal_surface_of_body flattened_(short) finger-like_(tall);
+{ 108 5th_instar,_row_of_finger-like_(tall),_contiguous_chalazae_lining_subspiracular_edge_of_body absent present;
+{ 109 5th_instar,_densely_packed_row_of_spines_formed_by_enlarged_cuticular_sculpturing_at_T1-3_midline absent present;
+{ 110 5th_instar,_oval_markings_on_dorsal_abdominal_midline_formed_by_enlarged_cuticular_sculpturing absent present;
+{ 111 5th_instar,_fleshy_tubercles_on_dorsal_midline absent present;
+{ 112 5th_instar,_tip_of_secondary_setae_on_dorsal_surface_of_the_body bulbous sharp;
+{ 113 5th_instar,_short,_club-shaped_setae_between_last_pair_of_prolegs absent present;
+{ 114 5th_instar,_proleg_crochets_(scored_for_proleg_on_third_abdominal_segment) triordinal tetraordinal;
+{ 115 5th_instar,_caudae absent present;
+{ 116 5th_instar,_tubercles_on_caudae mostly_shorter_than_setae mostly_longer_than_setae;
+{ 117 5th_instar,_anal_comb absent present;
+{ 118 Pupa,_predominant_color brown green;
+{ 119 Pupa,_head_projections short long;
+{ 120 Pupa,_continuous_brown_line_along_antenna absent present;
+{ 121 Pupa,_dark_lateral_line absent present;
+{ 122 Pupa,_dark_lateral_line_-_2 crossing_through_wing_pad following_the_dorsal_contour_of_wing_pad;
+{ 123 Pupa,_dark,_differentiated_setae_on_the_dorsal_midline absent present;
+{ 124 Pupa,_dorsal_midline_of_thoracic_segment_2 rounded forming_a_keel;
+{ 125 Pupa,_basilar_tubercles absent present;
+{ 126 Pupa,_dorsal_edge_of_wing_pad rounded forming_a_keel;
+{ 127 Pupa,_keel_at_the_dorsal_edge_of_wing_pad continuous broken;
+{ 128 Pupa,_milky_spots_at_the_dorsal_edge_of_wing_pad absent present;
+{ 129 Pupa,_wing_trachea visible not_visible;
+{ 130 Pupa,_dorsal_abdominal_midline rounded forming_a_slight_keel_that_extends_across_several_abdominal_segments;
+{ 131 Pupa,_dorsum_of_abdominal_segment_6 similar_to_other_segments projected_to_form_a_hump;
+{ 132 Pupa,_in_dorsal_view,_constriction_at_the_base_of_the_cremaster,_between_abdominal_segments_9_and_10 absent present;
+{ 133 Pupa,_in_dorsal_view,_cremaster triangular squared;
+;
+
+
+ccode  - 0.133;
+
+
+;
