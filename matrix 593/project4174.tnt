@@ -1,0 +1,61 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.42.08'
+30 13
+
+&[num]
+Nymphaster_arenatus                 000000000000000000000000000000
+Stauraster_primitivus               100111010001000000100000??????
+Sphaeraster_tabulatus               101212111101000100100000101100
+Echinosphaeraster_scutatus          10121211110100010010?000?01100
+Testudinaster_peregrinus            111202????10000100????????????
+Eosphaeraster_amellagensis          1?1212110001000100201111001100
+Bulbosphaeraster_valettei           1?12120100?1000100201111001100
+Valettaster_argus                   111212111210111111011111112211
+Podosphaeraster_pulvillus           111212111210111111011111002211
+Asterodiscides_elegans              001103000101000000000000000000
+Culcita_novaeguiniae                101103000101000000000000000000
+Manfredaster_bulbiferus             100111000111000000000000000000
+Stauranderaster_squamatus           100111000111000000000000000000
+
+;
+
+
+cnames
+{ 0 Abactinal_surface flat tumid;
+{ 1 Actinal_surface flat tumid;
+{ 2 Elongated_rays present_R>r absent_(R=r);
+{ 3 Marginal_ossicles large,_form_conspicuous_border same_size_as_abactinals poorly_differentiated_from_abactinals not_differentiated;
+{ 4 Abactinals small,_numerous few,_large;
+{ 5 Proximal_abactinals paxilliform tumid flat,_tessellate,_or_truncated_cones form_reticulum;
+{ 6 Proximal_abactinals_-_2 with_oval_articulation_surfaces_situated_at_centre_of_each_margin articulate_by_means_of_narrow_vertical_ridges_between_papular_pores;
+{ 7 Articulation_surfaces_between_abactinals solid with_rounded_pits;
+{ 8 Abactinal_ossicles composed_entirely_of_rectilinear_stereom composed_of_differentiated_superficial_perforate_stereom,_and_inner_labyrynthic_zone;
+{ 9 Abactinal_ossicles_-2 with_even_cover_of_small_granule_pits carry_small_number_of_larger_spines smooth;
+{ 10 Inner_calycinal_ossicles of_same_size_as_pir,_pr_ smaller_than_pr,_pir;
+{ 11 pir_and_pr_relationship in_contact separated_by_intercalary_ossicles;
+{ 12 Radials_present_distal_to_pr Numerous Only_four-five_present;
+{ 13 Paired_ossicles distal_to_pir_equidimensional_ elongated_vertically;
+{ 14 Actinals small,_numerous few,_large;
+{ 15 Actinals_-_2 well_demarcated not_differentiated_from_abactinals;
+{ 16 Actinals_-_3 adjacent_to_peristome_numerous_in_irregular_arrangement form_double_inset_chevron_of_about_15_ossicles;
+{ 17 Ossicles numerous_small_actinal_ossicles_present_in_proximal_interradius single_large_rhombic_ossicle_(V-ossicle)_occupies_interradial_contact_with_proximal_adambulacrals_and_orals;
+{ 18 Adambulacrals lack_well_defined_insertion_for_adadm with_oval_discrete_pit_for_adadm very_tall,_narrow_insertion_for_adam;
+{ 19 Actinal_face_of_adambulacrals composed_of_labyrynthic_stereom composed_of_rugose_perforate_stereom;
+{ 20 ambulacrals not_compressed short,_compressed;
+{ 21 padam_and_dadam_on_amb set_on_short_flanges flanges_absent;
+{ 22 abradial_margin_of_ambulacral rounded margin_straight,_chisel-like;
+{ 23 triangular_proximal_flange_on_amb_head imbricates_adjacent_ossicle short_no_imbrication;
+{ 24 pits_for_ligaments_on_amb-adamb_and_inter_adamb_articulation absent present;
+{ 25 abactinal_process_on_ambulacral_base absent rounded_proesses_present;
+{ 26 Oral_ossicle with_elongated_triangular_proximal_blade proximal_blade_triangular,_short,_blunt proximal_blade_rounded;
+{ 27 actinal_margin_of_oral longer_than_distal_margin of_equal_length_to_distal_margin actinal_and_distal_margins_not_differentiated,_convex;
+{ 28 apophysis_of_oral with_straight_sides forming_abactinally_broadening_process;
+{ 29 flange_for_riom_insertion smooth striated;
+;
+
+
+ccode  - 0.29;
+
+
+;

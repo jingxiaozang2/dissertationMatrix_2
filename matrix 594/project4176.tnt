@@ -1,0 +1,188 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.42.40'
+22 148
+
+&[num]
+Cichlidogyrus_attenboroughi                 ???2?01101011000131110
+Cichlidogyrus_sclerosus                     ???2?01101011000131110
+Cichlidogyrus_zambezensis                   ???2?01101011000131110
+Scutogyrus_longicornis                      ???2?01101011000031110
+Scutogyrus_vanhovei                         ???2?01101011000031110
+Cichlidogyrus_arthracanthus                 ???2?01101011000131110
+Cichlidogyrus_halli                         ???2?01101011000131110
+Cichlidogyrus_pouyaudi                      ???2?01101011000131110
+Euryhaliotrema_johnii                       0223102004210010131110
+Euryhaliotrema_spirotubiforum               0223102004210010131110
+Euryhaliotrema_mehen                        0223102004210010131110
+Euryhaliotrema_pirulum                      0223102004210010131110
+Sciadicleithrum_bravohollisae               03222010040?0000031110
+Sciadicleithrum_meekii                      03222010040?0000031110
+Haliotrematoides_guttati                    022210?00111001003?110
+Haliotrematoides_plectridium                022210?00111001003?110
+Haliotrematoides_spinatus                   022210?00111001003?110
+Mexicana_rubra                              0202?0110111001003?110
+Metahaliotrema_digyroides                   022210?100010010130110
+Metahaliotrema_subancistroides              022210?100010010130110
+Metahaliotrema_scatophagi                   022210?100010010130110
+Protogyrodactylus_alienus                   03233010010?0000130110
+Protogyrodactylus_hainanensis               03233010010?0000130110
+Gussevia_asota                              0??2?01003000010131?10
+Parasciadicleithrum_octofasciatum           03?2101?0?000000030?10
+Onchobdella_aframae                         00?3?00??2011010031?10
+Onchobdella_bopeleti                        00?3?00??2011010031?10
+Ligophorus_leporinus                        0322?0210?0?0010031110
+Ligophorus_vanbenedenii                     0322?0210?0?0010031110
+Ligophorus_imitans                          0322?0210?0?0010031110
+Ergenstrema_mugilis                         0??2??310?0?01?0031?10
+Xenoligophoroides_cobitis                   03?2?02102010010031110
+Enterogyrus_coronatus                       1??2?000010101?0131110
+Enterogyrus_malmbergi                       1??2?000010101?0131110
+Paradiplectanotrema_klimpeli                ???2?00?01010010031010
+Pseudempleurosoma_haywardi                  ???2?00?0?111010031010
+Bravohollisia_maculatus                     1??2?000111?0010130?10
+Caballeria_intermedius                      0??2?000111?0010130?10
+Bravohollisia_tecta                         1??2?000111?0010130?10
+Bravohollisia_plectorhynchus                1??2?000111?0010130?10
+Lethrinitrema_grossecurvitubus              ???21000022?0010130?10
+Lethrinitrema_nebulosum                     ???21000022?0010130?10
+Haliotrema_johnstoni                        ???2?000012?0010031?10
+Platycephalotrema_platycephali              0322100002110000131110
+Platycephalotrema_macassarense              0322100002110000131110
+Haliotrema_bilobatus                        ???2?000012?0010031?10
+Haliotrema_magnihamus                       ???2?000012?0010031?10
+Glyphidohaptor_safiensis                    0320100?02010010031110
+Tetrancistrum_sp.                           0310100?02010010131?10
+Pseudohaliotrema_sphincteroporus            0310100102010010131110
+Parancyrocephaloides_daicoci                ???2?00002110000130?10
+Haliotrema_susanae                          ???2?000012?0010031?10
+Haliotrema_cromileptis                      ???2?000012?0010031?10
+Haliotrema_chenhsintaoi                     ???2?000012?0010031?10
+Haliotrema_angelopterum                     ???2?000012?0010031?10
+Haliotrema_scyphovagina                     ???2?000012?0010031?10
+Thylacicleidus_sp.                          10?2?00???0?1010130?10
+Tetrancistrum_indicum                       0310100?02010010131?10
+Tetrancistrum_labyrinthus                   0310100?02010010131?10
+Gobioecetes_biwaensis                       00?21000020101?0130?10
+Gobioecetes_longibasis                      00?21000020101?0130?10
+Ancyrocephalus_mogurndae                    ?????1?001000010131110
+Eutrianchoratus_cleithrium                  ???2?00??20?0011?21?10
+Heteronchocleidus_buschkieli                ???2?00???0??010121?10
+Trianchoratus_gussevi                       00?2400?0101?1?1?21110
+Pseudodactylogyrus_anguillae                ???21000010?0000010110
+Pseudodactylogyrus_bini                     ???21000010?0000010110
+Dactylogyrus_lamellatus                     0??2?0?00201?01??11110
+Dactylogyrus_bicornis                       0??2?0?00201?01??11110
+Dactylogyrus_auriculatus                    0??2?0?00201?01??11110
+Dactylogyrus_mascomai                       0??2?0?00201?01??11110
+Dogielius_catlaius                          ???2?021020?01?0111?10
+Dactylogyrus_extensus                       0??2?0?00201?01??11110
+Dactylogyroides_tripathii                   ?3???0????0?0000110?10
+Kapentagyrus_limnotrissae                   ???2?101010?1010131110
+Kapentagyrus_tanganicanus                   ???2?101010?1010131110
+Characidotrema_nursei                       01?2?010010?0010031110
+Characidotrema_vespertilio                  01?2?010010?0010031110
+Pseudancylodiscoides_sp._1                  ???2?0??0?0?0010030?10
+Pseudancylodiscoides_sp._3                  ???2?0??0?0?0010030?10
+Pseudancylodiscoides_sp._2                  ???2?0??0?0?0010030?10
+Cornudiscoides_geminus                      ???2?0??020??010030?10
+Cornudiscoides_proximus                     ???2?0??020??010030?10
+Thaparocleidus_siluri                       ???210?00?001010030?10
+Thaparocleidus_vistulensis                  ???210?00?001010030?10
+Thaparocleidus_campylopterocirrus           ???210?00?001010030?10
+Quadriacanthus_clariadis                    032?20100200?000030?10
+Quadriacanthus_fornicatus                   032?20100200?000030?10
+Quadriacanthus_mandibulatus                 032?20100200?000030?10
+Bychowskyella_pseudobagri                   ???2?0??1?0?1010030?10
+Chauhanellus_auriculatum                    ???211000?0110?0?30?10
+Chauhanellus_intermedius                    ???211000?0110?0?30?10
+Hamatopeduncularia_petalumvaginata          ???2?1?00?21?0?0?31?10
+Chauhanellus_boegeri                        ???211000?0110?0?30?10
+Chauhanellus_sp.                            ???211000?0110?0?30?10
+Hamatopeduncularia_bagre                    ???2?1?00?21?0?0?31?10
+Hamatopeduncularia_isosimplex               ???2?1?00?21?0?0?31?10
+Hamatopeduncularia_arii                     ???2?1?00?21?0?0?31?10
+Susanlimocotyle_narina                      0??2?0?00100000013?110
+Schilbetrema_sp.                            0322?0100100?000030?10
+Boegeriella_conica                          032000000101?000031110
+Boegeriella_ophiocirrus                     032000000101?000031110
+Demidospermus_mortenthaleri                 03?1?0000?011010131?10
+Nanayella_aculeatrium                       0??0?0000?01?010131110
+Nanayella_fluctuatrium                      0??0?0000?01?010131110
+Nanayella_amplofalcis                       0??0?0000?01?010131110
+Demidospermus_sp._11                        03?1?0000?011010131?10
+Demidospermus_sp._23                        03?1?0000?011010131?10
+Cosmetocleithrum_bifurcum                   0??0?00001010000131110
+Cosmetocleithrum_bulbocirrus                0??0?00001010000131110
+Cosmetocleithrum_trachydorasi               0??0?00001010000131110
+Demidospermus_anus                          03?1?0000?011010131?10
+Demidospermus_rhinelepisi                   03?1?0000?011010131?10
+Demidospermus_prolixus                      03?1?0000?011010131?10
+Aphanoblastella_magna                       032010000?020010031110
+Aphanoblastella_travassosi                  032010000?020010031110
+Aphanoblastella_aurorae                     032010000?020010031110
+Diaphorocleidus_magnus                      04221010?1000010131110
+Diaphorocleidus_neotropicalis               04221010?1000010131110
+Cacatuocotyle_papilionis                    0????0000101?1?0131110
+Urocleidoides_tenuis                        0????0200?0?10?0?31110
+Urocleidoides_uncinus                       0????0200?0?10?0?31110
+Urocleidoides_digitabulum                   0????0200?0?10?0?31110
+Trinigyrus_anthus                           0??0?010020001?011?110
+Trinigyrus_carvalhoi                        0??0?010020001?011?110
+Trinigyrus_peregrinus                       0??0?010020001?011?110
+Heteropriapulus_heterotylus                 032?1010020000?0131110
+Heteropriapulus_simplex                     032?1010020000?0131110
+Unilatus_unilatus                           0320?0??04020010131?10
+Ligictaluridus_pricei                       ???2?0?00?011010131?10
+Actinocleidus_recurvatus                    ???210?00?011010131?10
+Ancyrocephalus_paradoxus                    ?????1?001000010131110
+Ancyrocephalus_percae                       ?????1?001000010131110
+Onchocleidus_similis                        ???2???00?0??010131?10
+Ameloblastella_chavarriai                   032010100?000010031110
+Ameloblastella_unapioides                   032010100?000010031110
+Ameloblastella_edentensis                   032010100?000010031110
+Vancleaveus_janauacaensis                   0????0100100?010130110
+Unibarra_paranoplatensis                    0??0?010020?01?0131110
+Mymarothecium_viatorum                      0322?01002000010031110
+Pavanelliella_pavanellii                    0??22010010?01?1?0?110
+Characithecium_paranapanemense              0322101001010010131110
+Anacanthorus_lepyrophallus                  042??0200?22?1?1?0?110
+Anacanthorus_paraxaniophallus               042??0200?22?1?1?0?110
+Anacanthorus_penilabiatus                   042??0200?22?1?1?0?110
+Dolicirroplectanum_lacustre                 0??2?1?1011?0000131?01
+Pseudorhabdosynochus_grouperi               2??211?1011?0000131?21
+Paradiplectanum_sillagonum                  0??2?1??010?0000131?01
+
+;
+
+
+cnames
+{ 0 Tegument (0)_smooth (1)_striated (2)_smooth_or_striated;
+{ 1 Number_of_cephalic_lobes (0)_0 (1)_2 (2)_3 (3)_4 (4)_5;
+{ 2 Position_of_cephalic_lobes (0)_terminal (1)_subterminal_bilateral (2)_terminal_bilateral;
+{ 3 Number_of_eyespot_pairs (0)_0 (1)_1 (2)_2 (3)_1_or_2;
+{ 4 Number_of_head_organ_pairs (0)_2 (1)_3 (2)_4 (3)_4_or_5 (4)_3,_4,_or_5;
+{ 5 Intestinal_caeca (0)_confluent (1)_non-confluent;
+{ 6 Mutual_position_of_gonads (0)_tandem (1)_overlapping (2)_tandem_or_overlapping (3)_beside;
+{ 7 Position_of_vas_deferences (0)_looping_left_intestinal_caecum (1)_not_looping_left_intestinal_caecum;
+{ 8 Number_of_seminal_vesicles (0)_1 (1)_2;
+{ 9 Number_of_prostatic_reservoirs (0)_0 (1)_1 (2)_2 (3)_0_or_2 (4)_1_or_2;
+{ 10 Accessory_piece (0)_present (1)_absent (2)_present_or_absent;
+{ 11 Position_of_testis (0)_preovarian (1)_postovarian (2)_beside;
+{ 12 Comparative_size_of_hooks (0)_similar (1)_dissimilar;
+{ 13 Dorsal_bar (0)_present (1)_absent;
+{ 14 Dorsal_bar_-_2 (0)_modified (1)_unmodified;
+{ 15 Ventral_bar (0)_present (1)_absent;
+{ 16 Ventral_bar_-_2 (0)_modified (1)_unmodified;
+{ 17 Number_of_anchors (0)_0 (1)_2 (2)_3 (3)_4;
+{ 18 Anchors (0)_modified (1)_unmodified;
+{ 19 Diventricula (0)_present (1)_absent;
+{ 20 Squamodiscs (0)_present (1)_absent (2)_present_or_absent;
+{ 21 Male_copulatory_organ (0)_tubular (1)_nested_tube;
+;
+
+
+ccode  - 0.21;
+
+
+;

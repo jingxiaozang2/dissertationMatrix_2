@@ -1,0 +1,70 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.40.56'
+39 13
+
+&[num]
+Moeritherium                         00000010001000010000000010??00000000-00
+Pezosiren_portelli                   -0?00000-00??00011010?1011-?10000000-00
+Anthracobunidae                      000???0000100000??000?20?0?01??????0?00
+Archaeoparadoxia_weltoni             1101111111110000??0?000000001001??00?00
+Paleoparadoxia_tabatai               1111111111110000100100000000111110?0?00
+Behemotops_proteus                   1?111?0000000000????00?00?110???1????00
+Behemotops_katsuiei                  ?????1000000000???010??0???1????????100
+Ashoroa_laticosta                    11???1?111??011???110??00????????????00
+Cornwallius_sookensis                111?1?11111?111100001?20000?000?0111100
+Desmostylus_hesperus                 11111111101?112211101111110000011110011
+Vanderhoofius_coalingensis           111-1111101?1123?1?01-11110?00???????11
+Sanjussen_specimen_UHR32380          1??-???1?0??11?3????1-?1??0?0??????????
+Ounalashkastylus_tomidai             1?1????1111?112?????1??0?01?0????????11
+
+;
+
+
+cnames
+{ 0 'hypoconulid shelf of m3;' not_broadened transversely_broad;
+{ 1 external_auditory_meatus low_on_skull,_open_ventrally high_on_skull,_closed_ventrally;
+{ 2 'lower canine;' small,_not_procumbent enlarged_to_form_procumbent_tusk;
+{ 3 lower_incisors anteroposteriorly_or_obliquely_aligned ransversely_aligned;
+{ 4 paraoccipital_process not_elongated elongated;
+{ 5 foramen_postzygomaticus absent present;
+{ 6 p2 present lost;
+{ 7 molar_cusps not_swollen,_separated swollen_and_appressed;
+{ 8 p4-m3_hypoconulid_and_entoconid_II not_enlarged enlarged,_especially_entoconid_II;
+{ 9 m2 without_extra_cuspid with_incipient_extra_cuspid_between_and_labial_to_protoconid_and_hypoconid;
+{ 10 diastema_between_canine_and_premolars absent present;
+{ 11 p3_paraconid present lost;
+{ 12 remaining_premolars present lost_in_adults;
+{ 13 molar_cingula present lost;
+{ 14 extra_cusps_on_molars absent incipient larger,_approaching_size_of_main_cusps;
+{ 15 number_of_lower_incisors three two one zero;
+{ 16 external_nares facing_anteriorly more_superiorly;
+{ 17 premaxilla does_not_contact_frontal contacts_frontal;
+{ 18 sagittal_crest present absent;
+{ 19 pachyosteosclerosis absent_in_post-cranial_skeleton present_in_post-cranial_skeleton;
+{ 20 molars brachydont hypsodont,_cusps_columnar;
+{ 21 shape_of_lower_incisors flattened conical_and_tusklike;
+{ 22 pairs_of_upper_incisors zero one two;
+{ 23 bony_swelling_medial_to_lower_molars_in_adults absent present;
+{ 24 zygomatic_process_of_squamosa not_dorsoventrally_broadened broadened;
+{ 25 upper_canine present lost;
+{ 26 lower_canine_tusk circular_in_cross_section mediolaterally_compressed;
+{ 27 posterior_cusps_of_p4 unreduced reduced;
+{ 28 anterior_alveolar_border_of_mandible horizontal downturned;
+{ 29 incisors with_enamel lacking_enamel;
+{ 30 jugal extends_to_glenoid_fossa does_not_extend_to_glenoid_fossa;
+{ 31 sternebrae unpaired paired;
+{ 32 femur_shaft round_or_oval_in_cross_section flattened;
+{ 33 'interpremaxillary dorsal tuberosity;' absence_of_a_tuberosity_anterior_to_the_external_nares_on_the_dorsal_surface_of_the_suture_between_the_premaxillary_bones presence_of_a_tuberosity_anterior_to_the_external_nares_on_the_dorsal_surface_of_the_suture_between_the_premaxillary_bones;
+{ 34 anterior_orbital_groove absent present;
+{ 35 infraorbital_foramen_placement_in_respect_to_the_orbit infraorbital_foramen_in_the_same_coronal_plane_with_the_orbit infraorbital_foramen_in_a_coronal_plane_anterior_to_that_of_the_orbit;
+{ 36 postzygomatic_foramen_orientation_with_respect_to_the_epitympanic_sinus postzygomatic_foramen_lies_either_directly_anterior_or_antero-superior_to_the_epitympanic_sinus postzygomatic_foramen_lies_antero-inferior_to_the_epitympanic_sinus;
+{ 37 number_of_major_cusps_on_m2 less_than_six equal_to_or_more_than_six;
+{ 38 number_of_major_cusps_on_m3 less_than_seven equal_to_or_more_than_seven;
+;
+
+
+ccode  - 0.38;
+
+
+;

@@ -1,0 +1,69 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.43.35'
+29 22
+
+&[num]
+Dipteris_conjugata                    02-101011-112-011102-20112100
+Diplopterygium_bancroftii             00-111101-1120100012020010100
+Gleichenella_pectinata                00-111101-1121101022020000100
+Matonia_pectinata                     0?-1100?1-?120?11??2020102110
+Leptopteris_hymenophylloides          0121110011011110221010-00?001
+Leptopteris_wilkesiana                0121110011011110211010-001001
+Leptopteris_fraseri                   0121110011011110211010-001001
+Osmundastrum_cinnamomeum              111011010-1-2010011201-001001
+Osmunda_vachellii                     11021100011-2010100101-00?001
+Osmunda_regalis                       11221100001-2010110001-00?001
+Osmunda_lancea                        112011000-1-2010110101-00?001
+Osmunda_javanica                      11021100011-2010110101-001001
+Osmunda_japonica                      112011000-1-2010110001-00?001
+Osmunda_claytoniana                   11121100011-2010000201-002001
+Osmunda_banksiifolia                  11021100011-2010110101-00?001
+Todea_barbara                         0111110021010010010211-001001
+Todea_papuana                         0111110021010010010211-001001
+Todea_amissa                          0???1???2?010?10010211-0?1001
+Todites_cacereii                      11211???2??10010?01201-0?3001
+Todites_lobatus                       112?1???2??10?102011?1-0??001
+Todites_princeps                      11210???1??10?1020?010-???00?
+Todites_denticulatus                  11211???2??10110?1021?-??20??
+
+;
+
+
+cnames
+{ 0 Articulation_of_pinnae Absent Present;
+{ 1 Division_of_frond_rachis Pseudodichotomous Anisotomous_to_pinnate Dichotomous;
+{ 2 Frond_dissection Pinnate Pinnate_pinnatisect Bipinnate_to_tripinnate;
+{ 3 Frond_dimorphism Fertile_and_sterile_fronds_dimorphic Fertile_and_sterile_fronds_monomorphic Fertile_and_sterile_fronds_hemidimorphic;
+{ 4 Dromy Anadromous Catadromous;
+{ 5 Laminar_trichomes Absent Present;
+{ 6 Laminar_scales Absent Present;
+{ 7 Distribution_of_sporangia_on_frond Fronds_partially_fertile Fronds_completely_fertile;
+{ 8 Morphology_of_the_ultimate_segments_(whether_pinnae,_pinnules,_or_divisions_of_pinnules)_on_fertile_frond Reduced Monomorphic Laminar_but_distinct;
+{ 9 Distribution_of_fertile_pinnae_on_frond Exclusively_distributed_on_the_apical_portion_of_the_frond Medial_to_basal;
+{ 10 Distribution_of_sporangia_on_pinnae At_least_some_fertile_pinnae_incompletely_covered_with_sporangia Fertile__pinnae_completely_covered_in_sporangia_(on_the_abaxial_surface_only_for_laminar_pinnae);
+{ 11 Attachment_of_sori/sporangia_on_fertile_frond Marginal Abaxial;
+{ 12 Aggregation_of_clusters_of_sporangia_on_fertile_portions_of_the_frond Sporangia_densely_packed,_seemingly_acrostichoid Sporangia_scattered_along_veins,_may_form_small_clusters_scattered_along_the_veins Sporangia_aggregated_in_discrete_clusters;
+{ 13 Differentiation_of_basalmost_pinnules Basalmost__pinnules_not_distinct Basalmost_pinnules_distinct;
+{ 14 Number_of_vein_orders_in_ultimate_frond_segments One Two;
+{ 15 Venation_reticulate Absent Present;
+{ 16 Lateral_(secondary)_vein_branching_pattern_within_the_ultimate_frond_segments_(pinnae,_pinnules,_or_divisions_of_pinnules) Bifurcating:_veins_dichotomize_once Dichotomizing_more_than_once_between_the_midrib_and_the_margin_of_the_lamina Simple:_secondary_veins_that_do_not_divide;
+{ 17 Margin_of_ultimate_frond_segment Entire Toothed Crenulate;
+{ 18 Apex_shape_of_ultimate_frond_segment Cuneate Rounded Mucronate/retuse;
+{ 19 Base_shape_of_ultimate_frond_segment Lobed Rounded_to_decurrent Fully_adnate;
+{ 20 Pinnule_attachment_angle_to_pinna_costa_(once_pinnate_fronds)_or_ultimate_segment_attachment_to_pinnule_costule_(tripinnate_fronds) Pinnules/ultimate_segments_attached_consistently_at_the_same_angle Angle_of_pinnule/ultimate_segment_attachment_decreasing_apically;
+{ 21 Annulus_position Basal:_in_close_proximity_to_sporangial_stalk Equatorial:_approaching_a_90_°_angle_respect_to_the_stalk Distal:_reaching_an_apical_position_on_the_sporangium;
+{ 22 Sorus_outline Round Elongate;
+{ 23 Orientation_of_sporangial_dehiscence Apical Lateral;
+{ 24 Paraphyses Absent Present;
+{ 25 Rachis_adaxially_grooved Rachis_not_grooved Rachis_with_a_medial_ridge_flanked_by_a_pair_of_grooves Rachis_with_three_ridges Rachis_with_a_single_central_groove;
+{ 26 Sori Absent,_sporangia_not_organized_into_discrete_sori Sori_present;
+{ 27 Indusia Indusia_absent Indusia_present;
+{ 28 Annulus_span_on_sporangium Longitudinal_bow Restricted,_lateral_patch;
+;
+
+
+ccode  - 0.28;
+
+
+;

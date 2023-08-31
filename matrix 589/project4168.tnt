@@ -1,0 +1,107 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.39.54'
+46 43
+
+&[num]
+Allosminthus_ernos                    000000000000000000000?0?00000000?0000?000000?0
+Bohlinosminthus_parvulus              0100021220100100000?3001001?00?10??00201000000
+Heosminthus_teredens                  01000212201001?0100?300?00?0002000000201001001
+Heosminthus_primiveris                01000102201001?0000030010000002000000?1100100?
+Heosminthus_borrae                    0100020220100120100?30010003002000000?01001000
+Heosminthus_nomogenesis               010001?220100120000?30010010002??0000?0?00000?
+Heosminthus_chimidae                  0?00021?20100120000?30010010002?00000?01001000
+Heterosminthus_firmus                 010001122010212010202001011?00000111020110111?
+Heterosminthus_erbajevae              ?100021?2010?12010?12001011000000???0201101111
+Onjosminthus_baindi                   010002122110?020000?30010013002200?11200001000
+Parasminthus_debruijni                010002022010002100010001010?00??011102010111?0
+Shamosminthus_sodovis                 0100?2122?102101000?0001001300?02??01?010011??
+Sinosminthus_inapertus                000002?02000202000003001121100110001121000100?
+Plesiosminthus_olzi                   11?0011220100020000?3?0?0112002?0001020101100?
+Plesiosminthus_clivosus               110002122010011000003000000??020?0?0020?01?000
+Plesiosminthus_barsboldi              1100021220100120?00030010010002110010201?1?000
+Plesiosminthus_asiaticus              110002222010002000?030010000002000?10201011000
+Plesiosminthus_vegrandis              ?100021220100120000?3?0?00021020???1020?00?000
+Schaubeumys_grangeri                  11000212?01011200010300100110000?0010201011000
+Schaubeumys_sabrae                    1100022230101100101030010013002000?0020?01??0?
+Plesiosminthus_admyarion              ?1010?12?011010030013001?00300200??10201011?0?
+Plesiosminthus_meridionalis           ?10101122011?1201001?001000300120??1020100?00?
+Plesiosminthus_schaubi                11010212201100?010003001000300220??0020100?000
+Plesiosminthus_myarion                ?10102122010012000003001000000200??10201011?0?
+Plesiosminthus_winistoerferi          110002122010012000?0310010111021?001021101100?
+Plesiosminthus_conjunctus             110102122010012000?03000000000200??1020101100?
+Plesiosminthus_moralesi               ?10?02022011010000?03001000300?00???120100110?
+Megasminthus_gladiofex                ?11002223010103000213001000300200??10200011000
+Megasminthus_tiheni                   ?11102223010103000213001001300200??10?00011000
+Macrognathomys_gemmacollis            ?000??222?1001??2120?0102003112010?0020?01??01
+Macrognathomys_bartlett               ?00011221?100101212?211022231120100012??01??01
+Sicista_primus                        00000122101001114120311022?1112?2001??0001?101
+Sicista_gaotege                       0000112211?0010121201110?22?1120100112??0????1
+Sicista_wangi                         000001210110010121212110?2231120200102??0???01
+Sicista_praeloriger                   000010210110010121202110???31120200110??0???01
+Sicista_bagajevi                      00002121011001112120211002231120100112??0???01
+Sicista_bilike                        00001121010101114120211022?31120?00112??0???01
+Sicista_betulina                      000020210100011121202110?2?11100200112??0???01
+Sicista_concolor                      00001122111001212120211022?31120100112??0???01
+Sicista_subtilis                      00000122111001012120211002231122200102??0???01
+Litodonomys_minimus                   ?1010202201?00??0000300000?3000201?0020?00??0?
+Litodonomys_lajeensis                 ?101021220100000000?3000000300?20110020101000?
+Omoiosicista_fui                      ?00001122010?021402?20?10201002????1020?00?001
+
+;
+
+
+cnames
+{ 0 longitudinalgroove absent present;
+{ 1 shapeendosinus symmetrical anteriorly_oblique;
+{ 2 endosinus closed open_to_the_anterior_fossette;
+{ 3 posteroloph continuous_with_the_hypocone discontinuous;
+{ 4 enamellakeM1 absent one_or_two three_or_more;
+{ 5 Anteroloph absent_or_weak short,_incomplete long,_complete;
+{ 6 Anterocone absent present_as_a_swollen_part_of_the_anteroloph distinct_from_the_anteroloph;
+{ 7 protolophI located_on_the_labial_side_of_the_anterior_arm_of_the_protocone connecting_to_the_anterocone_or,_if_the_anterocone_is_absent,_located_on_the_lingual_side_of_the_anterior_arm_of_the_protocone absent;
+{ 8 ProtolophII absent connecting_to_the_center_of_the_protocone_(=protoloph) attaching_to_the_posterior_arm_of_the_protocone connecting_to_the_mesocone;
+{ 9 middlefossette open closed_by_a_strong_longitudinal_ridge;
+{ 10 mesolophlocation closer_to_the_hypocone at_the_middle_of_the_endoloph;
+{ 11 endostyle absent present;
+{ 12 metaloph straight,_connecting_to_the_center_of_the_metacone curved,_connecting_to_the_posterolabial_corner_of_the_metacone metaloph_II;
+{ 13 metacone rounded_or_less_compressed anteroposteriorly_compressed,_forming_a_loph_with_the_metaloph;
+{ 14 protolophII absent if_present,_incomplete completely_present,_connecting_to_the_posterior_arm_of_the_protocone completely_present,_connecting_to_the_mesocone;
+{ 15 posteriorconcavity absent present;
+{ 16 anteroconid isolated_from_the_metaconid_and_protoconid located_on_the_base_of_the_metaconid connecting_to_the_metalophid double_anteroconid connected_to_the_protoconid;
+{ 17 protoconiddirection posterolabially transversely;
+{ 18 anteriorectolophidconnection protoconid absent_or_no_connection metalophid;
+{ 19 ectostylid absent present;
+{ 20 mesolophid_m1 absent_or_short present_as_pseudomesolophid long,_weaker_and_lower_than_the_ecotolophid long,_as_high_as_the_ectolophid;
+{ 21 entoconidarmextension transversely_or_anterolabially posterolabially;
+{ 22 posterolophidhypoconidlongitudinalridge absent present;
+{ 23 hypoconulid absent present;
+{ 24 accessoryspur absent present,_extending_from_the_hypoconulid present,_extending_from_the_hypoconid;
+{ 25 metaconidlocation protoconid anterior_arm_of_protoconid anteroconid;
+{ 26 metaconidconnection anterior_arm_of_the_protoconid anteroconid protoconid;
+{ 27 protoconidposteriorarm complete,_connecting_to_the_metaconid_or_incomplete,_extending_to_the_base_of_posterior_wall_of_the_metaconid connecting_to_the_mesostylid_(=pseudomesolophid) connecting_to_the_mesolophid absent;
+{ 28 entoconidarmextensionm2 transversely_or_anterolabially posterolabially;
+{ 29 entoconidconnection anterior_arm_of_the_hypoconid hypoconid;
+{ 30 mesolophid_m2 absent_or_weak short long;
+{ 31 posteriorarmprotoconidmesolophid either_one_present both_present both_absent;
+{ 32 entoconidarmextensionm3 transversely_or_anterolabially posterolabially absent;
+{ 33 M1_roots three four;
+{ 34 M2_roots three four;
+{ 35 m_posterolophid notcontinuous_to_top_of_entoconid continuous_to_top_of_entoconid;
+{ 36 M_paraconespur absent present;
+{ 37 M_Mesoloph short medium long;
+{ 38 m2_anteriorspur absent present;
+{ 39 M2_metaloph hypocone anterior_arm_of_hypocone;
+{ 40 Labial LingualCusps opposite alternate;
+{ 41 M1_posteroloph not_reaching_the_metacone reaching_the_metacone;
+{ 42 M3_mesoloph short long;
+{ 43 M2_Outline square rectangular;
+{ 44 m1_mesolophidextension from_the_mesoconid from_the_point_of_the_inflexion_in_the_orientation_of_the_ectolophid;
+{ 45 P4_connectionbetween absent present;
+;
+
+
+ccode  - 0.45;
+
+
+;

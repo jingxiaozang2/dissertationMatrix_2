@@ -1,0 +1,123 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.39.00'
+72 33
+
+&[num]
+Temnodontosaurus_sp.                   00000000000000000000000100000000000000000000000000000000000000000?00??00
+Malawania_anachronus                   ?????????????????????????????????????00??1100000?0001?00????????????????
+Ichthyosaurus_communis                 00000100?00000011?1011010000010100000?0000100000?11010110000001000000000
+Stenopterygius_quadriscissus           10011102000000001010000101010001011?11100000000010?0000110??00000010?0?0
+Chacaicosaurus_cayi                    1???10021??????????0?00011?????00???????01???01000001100??0?????????0?10
+Ophthalmosaurus_icenicus               0101111111100100101?0010?01100011101101010111010111111001010001011000000
+Baptanodon_natans                      0??1111111000000101???10?011101110?0?110110110?0?1?1??00????????1100??00
+Brachypterygius_extremus               0111?0100?110??????1012011???0101?????101?1001001111?100??????????00????
+Maiaspondylus_lindoei                  1011?1?01?10???????0?????????????0??????1?1001001?1?0?10????10?????0????
+Undorosaurus_gorodischensis            0111??????1??0?????1011???11?????01??00010111000?101010000110010??10??11
+Arthropterygius_chrisorum              ???????????????????0122011???????11?1??010011000?1?1010???1100?????1????
+Mollesaurus_periallus                  100101?01111000??111?01010010????0??????????????????????????????1?0?0?0?
+Acamptonectes_densus                   11?1??1??????1?????1001011111100100?10101?1110101??1??0???????????0??0??
+Caypullisaurus_bonapartei              ?????0?2?0?10?11?10??????????01?10???1101111000111210110211?0?110?00??10
+Aegirosaurus_leptospondylus            0001?11011100?10001?????????????1???????1?10010011111?1021??0011??????00
+Platypterygius_australis               01110032001100101201012011010010101110111111000?11210110201101111000011?
+Platypterygius_hercynicus              011???2??01??110??1???21?1?1001???1?10111111000211210110??11101?00?0??1?
+Platypterygius_sachicarum              0111?03200100111120????1???????01?????1?11011000?????11???11?0??10??1?1?
+Platypterygius_americanus              1011?0??000000?0?20???2?0???????1?1??11?1110000211??011???11?0??????????
+Athabascasaurus_bitumineus             10?1?0111?10?100110???2????1100?10?1????????????????????201???????0?????
+Leninia_stellans                       ?????????010010?0?1???11?0??????1???????????????????????????????11????1?
+Sveltonectes_insolitus                 1011?12?1110111?1??0012111?1????100?1110111000???111111021110111?0101100
+Cryopterygius_kristiansenae            111??0111?0001?1121???2???0????11????01010100000011111100011001????0?111
+Janusaurus_lundi                       11???010?10011?1121???2111??1???1??????01001100??1?11100201100???0?1??00
+Gengasaurus_nicosiai                   ???????????????????0??1?1?1??011?0?1??1???01000??1?1?10?20????????0??0??
+Muiscasaurus_catheti                   ???1?1220???0????21???20?1??????1????????????????????????????????0????1?
+Simbirkiasaurus_birjukovi              0?11?0310010??????????2?11??????????????????????????????????????????????
+Keilhauianui222.667                    1101???????????????0121011?1?????01??1011011100??1?1?10?2100?0?0????1???
+Palvennia_hoybergeti                   1111011211???10112???220110111111????1101001100011111100????????01100001
+Arthropterygius_thalassonotus          ??????3?0??????????01220?10??01?????????10011000????010?????????0?0110??
+MOZ_5788                               ??0?????1???1111?0?1?1??????101???0?1?1?1?11100011??11??00???0?000?10?00
+Catutosaurus_gaspariniae               110?11221?00?????0?????????????110?1??10?11110?211111?1?????????1101???0
+Keilhauia_nui                          ??0??????????????????????????????01??00010?110???1??????2100?0?0????????
+
+;
+
+
+cnames
+{ 0 Crown_striation presence_of_deep_longitudinal_ridges_(_0_) crown_enamel_subtly_ridged_or_smooth_(_1_);
+{ 1 Base_of_enamel_layer poorly_defined,_invisible_(0) well_defined,_precise_(1);
+{ 2 Root_cross-section_in_adults rounded_(_0_) quadrangular_(_1_);
+{ 3 Plicidentine Vertical_grooves_present_basal_to_the_crown_and_apical_to_the_root_osteocementum_(_0_) this_region_of_the_tooth_appears_smooth_(_1_);
+{ 4 Processus_postpalatinis_pterygoidei absent_(_0_) present_(_1_);
+{ 5 Lateral_exposure_of_the_maxilla maxilla_anterior_process_long,_extending_approximately_1.5_narial_length_or_more_anterior_to_external_naris_(_0_) maxilla_anterior_process_short_extending_approximately_1_narial_length_or_less_anterior_to_the_external_naris_(_1_);
+{ 6 Descending_process_of_the_nasal_on_the_dorsal_border_of_the_nares absent_(_0_) spur-like_and_short_(_1_) spur-like_and_long,_almost_dividing_completely_the_naris_(_2_) stout_descending_process_of_the_nasal_forming_a_pillar_with_the_ascending_process_of_the_maxilla_(_3_);
+{ 7 Premaxilla-lacrimal_contact_ventral_to_the_external_naris broad_premaxilla-lacrimal_contact_ventral_to_the_naris_excluding_the_maxilla_from_ventral_narial_edge_(0) reduced_premaxilla-lacrimal_contact_ventral_to_the_nares_excluding_the_maxilla_from_ventral_narial_edge_present_6_and/or_reducing_its_participation_of_the_bony_aperture_of_the_naris_(1) no_contact_between_the_premaxilla_and_the_lacrimal_and_the_maxilla_with_significant_participation_in_the_ventral_edge_of_the_external_nares_(2);
+{ 8 Processus_supranarialis_of_the_premaxilla present_(_0_) absent_or_reduced_(_1_);
+{ 9 Processus_narialis_of_the_prefrontal absent_(_0_) present_(_1_);
+{ 10 Anterior_margin_of_the_jugal tapering,_running_between_lacrimal_and_maxilla_(_0_) broad_and_covering_large_area_of_maxilla_ventrolaterally_(_1_);
+{ 11 Anterior_margin_of_the_jugal_-_2 terminates_prior_to_anterior_end_of_lacrimal_(_0_) reaches_or_surpasses_anterior_end_of_lacrimal_(_1_);
+{ 12 Posterior_margin_of_the_jugal articulates_with_the_postorbital_and_quadratojugal_(_0_) excluded_from_the_quadratojugal_by_the_postorbital_(_1_);
+{ 13 Sagittal_eminence present_(_0_) absent_(_1_);
+{ 14 Processus_temporalis_of_the_frontal absent_(_0_) present_(_1_);
+{ 15 Supratemporal-postorbital_contact absent_(_0_) present_(_1_);
+{ 16 Broad_postfrontal-postorbital_contact absent_(0) present_(1);
+{ 17 Squamosal_shape triangular_(_0_) squared_(_1_) squamosal_absent_(_2_);
+{ 18 Quadratojugal_exposure extensive_(_0_) small,_largely_covered_by_squamosal_or_supratemporal_and_postorbital_(_1_);
+{ 19 Basipterygoid_processes short,_giving_basisphenoid_a_square_outline_in_dorsal_view_(_0_) markedly_expanded_laterally,_being_wing-like,_giving_basisphenoid_a_marked_pentagonal_shape_in_dorsal_view_(_1_);
+{ 20 Basisphenoid_,_dorsal_view dorsal_plateau_appears_equal_or_wider_than_basioccipital_facet,_i.e._basioccipital_facet_oriented_mostly_posteriorly_(_0_) basioccipital_facet_appears_equal_to_or_wider_than_dorsal_plateau_(_1_);
+{ 21 Basisphenoid_,_ventral_view internal_carotid_foramen_located_around_the_anteroposterior_midpoint_of_the_basisphenoid_(_0_) internal_carotid_foramen_located_in_the_posterior_third_of_the_basisphenoid_(_1_) internal_carotid_foramen_almost_hidden_in_ventral_view_and_/_or_located_on_the_basioccipital_facet_of_the_basisphenoid_(_2_);
+{ 22 Extracondylar_area_of_basioccipital wide_(_0_) reduced_but_still_present_ventrally_and_lateral_(_1_) extremely_reduced,_being_nonexistent_at_least_ventrally_(_2_);
+{ 23 Basioccipital_condyle width_and_height_approximately_equal_(_0_) much_wider_than_high_(_1_);
+{ 24 Basioccipital_peg present_(_0_) absent_(_1_);
+{ 25 Ventral_notch_in_the_extracondylar_area_of_the_basioccipital present_(_0_) absent_(_1_);
+{ 26 Shape_of_the_paroccipital_process_of_the_opisthotic short_and_robust_(_0_) elongated_and_slender_(_1_);
+{ 27 Stapes_proximal_head slender,_much_smaller_than_opisthotic_proximal_head_(_0_) massive,_as_large_or_larger_than_opisthotic_head_(_1_);
+{ 28 Stapedial_shaft_in_adults thick_(_0_) slender_and_gracile_(_1_);
+{ 29 Supraoccipital exoccipital_processes_parallel_(_0_) exoccipital_processes_divergent_(_1_);
+{ 30 Lateral_margins_of_the_foramen_magnun supraoccipital_make_up_a_minor_contribution_to_the_foramen_magnun_(_i.e._shallow_ventral_notch)_(_0_) supraoccipital_contribution_almost_equal_to_that_of_exoccipitals_(_1_);
+{ 31 Mandibular_symphysis splenial_playing_a_more_extensive_role_in_the_mandibular_symphysis_than_the_dentary_(_0_) splenial_participating_in_the_mandibular_symphysis_but_restricted_to_the_posterior_half_(_1_);
+{ 32 Angular_lateral_exposure much_smaller_than_surangular_exposure_(_0_) extensive_(_1_);
+{ 33 Posterior_dorsal_/_anterior_caudal_centra 3.5_times_or_less_as_high_as_long_(_0_) four_times_or_more_as_high_as_long_(_1_);
+{ 34 Tail_fin_centra strongly_laterally_compressed_(_0_) as_wide_as_high_(_1_);
+{ 35 Neural_spines_of_atlas-axis completely_overlapping,_may_be_fused_(_0_) never_fused_(_1_);
+{ 36 Chevrons_in_apical_region present_(_0_) lost_(_1_);
+{ 37 Glenoid_contribution_of_the_scapula extensive,_being_at_least_as_large_as_the_coracoid_facet_(_0_) reduced,_being_markedly_smaller_than_the_coracoid_facet_(_1_);
+{ 38 Prominent_acromion_process_of_scapula absent_(_0_) present_(_1_);
+{ 39 Anteromedial_process_of_coracoid present_(_0_) absent_(_1_);
+{ 40 Plate-like_dorsal_ridge_on_humerus absent_(_0_) present_(_1_);
+{ 41 Protruding_triangular_deltopectoral_crest_on_the_humerus absent_(_0_) present_(_1_);
+{ 42 Humerus_distal_and_proximal_ends_in_dorsal_view distal_end_wider_than_proximal_end_(_0_) nearly_equal_or_proximal_end_slightly_wider_than_distal_end_(_1_);
+{ 43 Humerus_anterodistal_facet_for_preaxial_accessory_element_anterior_to_radius absent_(_0_) present_(_1_);
+{ 44 Posteriorly_deflected_ulnar_facet absent_(_0_) present_(_1_);
+{ 45 Humerus_intermedium_contact absent_(_0_) present_(_1_);
+{ 46 Shape_of_the_posterior_surface_of_the_ulna rounded_or_straight_and_nearly_as_thick_as_the_rest_of_the_element_(_0_) concave_and_edgy_(_1_);
+{ 47 Posterior_accessory_epipodial_element_posterior_to_ulna absent_(_0_) present_(_1_) present_with_associated_facet_on_humerus_(_2_);
+{ 48 Manual_pisiform absent_(_0_) present_(_1_);
+{ 49 Notching_of_anterior_facet_of_leading_edge_elements_of_forefin_in_adults present_(_0_) absent_(_1_);
+{ 50 Posterior_enlargement_of_forefin number_of_postaxial_accessory_?complete?_digits_:_none_(_0_) one_(_1_) two_or_more_(_2_);
+{ 51 Preaxial_accessory_digits_on_forefin absent_(_0_) present_(_1_);
+{ 52 Longipinnate_or_latipinnate_forefine_construction one_(_0_) two_(_1_)_digits_directly_supported_by_the_intermedium;
+{ 53 Zeugo-_to_autopodial_elements flattened_and_plate-like_(_0_) strongly_thickened_(_1_);
+{ 54 Tightly_packed_rectangular_phalanges absent,_phalanges_are_mostly_rounded_(_0_) present_(_1_);
+{ 55 Digital_bifurcation Absent_(_0_) frequently_occurs_in_digit_IV_(_1_);
+{ 56 Ischium-pubis_fusion_in_adults absent_or_present_only_proximally_(_0_) present_with_an_oburator_foramen_(_1_) present_with_no_obturator_foramen_(_2_);
+{ 57 Ischium_or_ischiopubis_shape plate-like,_flattened_(_0_) rod-like_(_1_);
+{ 58 Prominent_,_ridge-like_dorsal_and_ventral_process_demarked_from_the_head_of_the_femur_and_extending_up_to_the_mid-shaft absent_(_0_) present_(_1_);
+{ 59 Ventral_process_on_femur smaller_than_dorsal_process_(_0_) more_prominent_(_1_);
+{ 60 Astragalus_/_femoral_contact absent_(_0_) present_(_1_);
+{ 61 Femur_anterodistal_facet_for_accessory_zeugopodial_element_anterior_to_tibia absent_(_0_) present_(_1_);
+{ 62 Tibia_peripheral_shaft_in_adults notched_(_0_) straight_(_1_);
+{ 63 Postaxial_accessory_digit absent_(_0_) present_(_1_);
+{ 64 Stapedial_process_of_the_supratemporal absent_(_0_) present_(_0_);
+{ 65 Anteromedial_process_of_the_supratemporal absent_(_0_) present_and_longer_than_the_anterolateral_process_regardless_of_the_contact_with_the_parietal_(_1_);
+{ 66 Basis_of_the_exooccipitals the_base_of_the_exooccipital_is_conspicuously_anteroposteriorly_expanded_(0) the_base_of_the_exoccipital_strongly_reduced_(i.e._the_supraoccipital_facet_is_equal_to_or_larger_than_the_basioccipital_facet)_(1);
+{ 67 Posterior_third_of_the_humeral_shaft not_compressed,_posterior_edge_of_the_shaft_strongly_concave_(_0_) compressed_and_posterior_edge_of_the_gently_concave_(_1_);
+{ 68 Forked_posterior_process_on_the_pterygoid absent_=_0 present_=_1;
+{ 69 Prootic,_osseous_labyrinth_shape impression_of_the_avsc_to_sac-ut_distance_equal_or_shorter_than_width_of_the_ut+sac,_i.e.,_“V”-shaped_(0) impression_of_the_anterior_vertical_semicircular_canal_(avsc)_to_the_sacculus_(sac)-utriculus_(ut)_much_longer_than_the_width_of_the_ut_+_sac,_i.e.,_“T”-shaped_(1);
+{ 70 Postorbital_portion_of_the_jugal gracile_(_0_) _anteroposteriorly_wide_(_1_);
+{ 71 Interclavicle_medial_stem shape_strap-like_or_rod-like_but_relatively_slender_(_0_)_ markedly_expanded_(_1_);
+;
+
+
+ccode  - 0.71;
+
+
+;
