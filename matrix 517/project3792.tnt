@@ -1,0 +1,96 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 14.22.04'
+63 15
+
+&[num]
+Metoposaurus_diagnosticus            111110121?00010??11111111111001111012?111111111111??11111?12221
+Metoposaurus_krasiejowensis          111?10?2????011??1111111?11100111101211111111111110111110?12??1
+Metoposaurus_algarvensis             111110??1?00010??111?1111111001?1101??112?11111?1110????????22?
+Panthasaurus_maleriensis             111010?31?00010??11?1111111100111101201111?111111101111?1?12111
+Arganasaurus_azerouali               0?1?11131?000????1???111?11201111112201111?111110201????????10?
+Anaschisma_browni                    111010022?10?????1111111111101111101???111011111120111111012101
+Buettnererpeton_bakeri               11101-?20??101???01111111111001111012?11?11111111201111?1?12101
+Apachesaurus_gregorii                111?1-020?11?00???111111?101000?11-1112011?111101101110?111?12?
+Arganasaurus_lyazidi                 11110-130?01000?????1?01?110001?1?12??21????????????111?????11?
+Dutuitosaurus_ouazzoui               111?11130?000?0??010111111110011110120211101111101010?010011111
+Callistomordax_kugleri               111110022?100?0??1110100?00010101101101010?01100010??0010?12021
+Almasaurus_habazzi                   011111130?200?1??11111110001101001021001210010000100?00???00?2?
+Rhineceps_nyasaensis                 01101-130?01010??111110000011?011101100??10010010100??00??????0
+Trimerorachis_insignis               100000132?000?0??1001000?01200001010100010000011000000?0?000020
+Eryops_megacephalus                  00000-130?01010???00000000011?00000100000000000000?0?0?0?002120
+
+;
+
+
+cnames
+{ 0 Skull_roof_ornamentation honeycomb_pattern_of_pits pits_and_elongated_ridges_in_growth_zones;
+{ 1 Orbit_shape round oval;
+{ 2 External_nares_orientation opened_to_lateral_view opened_to_anterior_or_dorsal_view;
+{ 3 Septomaxilla present absent;
+{ 4 Maxilla-nasal absent present;
+{ 5 Maxilla-orbit Maxilla_does_not_enter_orbit Maxilla_enters_orbit;
+{ 6 Lacrimal-nasal_suture absent present;
+{ 7 Lacrimal_shape compact,_less_than_half_the_distance_between_the_naris_and_the_orbit elongate,_at_least_50%_of_the_distance_between_the_naris_and_the_orbit compact elongate;
+{ 8 Lacrimal-orbit absent narrow_contact broad_contact;
+{ 9 Lacrimal-naris Lacrimal_enters_naris Lacrimal_excluded_from_naris;
+{ 10 Prefrontal_anterior_contact nasal_and_lacrimal nasal_and_maxilla frontal_and_lacrimal;
+{ 11 Prefrontal-jugal_suture absent present;
+{ 12 Postfrontal-orbit_contribution broad reduced;
+{ 13 Jugal_anterior_margin level_with_anterior_orbital_margin anterior_to_anterior_orbital_margin posterior_to_anterior_orbital_margin;
+{ 14 Parietal-supratemporal straight angled;
+{ 15 Infraorbital_sulcus With_simple_curve with_stepped_flexure with_Z-shaped_flexure;
+{ 16 Supraorbital_sulcus passes_medial_to_lacrimal passes_onto_lacrimal;
+{ 17 Postorbital_sulcus_posterior_skull_margin_contact absent present;
+{ 18 Vomerine_tooth_row absent present_as_a_transverse_row_or_V-shaped_with_apex_directed_posteriorly;
+{ 19 Maxilla-vomer_contact absent present;
+{ 20 Parachoanal_tooth_row present absent;
+{ 21 Pterygoid_ornamentation absent present;
+{ 22 Pterygoid_transverse_flange absent present;
+{ 23 Pterygoid_palatine_ramus curved straight;
+{ 24 Parasphenoid_ornamentation absent confined_to_basal_plate extends_on_the_cultriform_process;
+{ 25 Parasphenoid_central_depression absent present;
+{ 26 Cultriform_process_(width) narrow broad;
+{ 27 Cultriform_process_(narrowing) uniform_width thinner_medial_third thinner_posterior_third;
+{ 28 Cultriform_process_(keel) absent present;
+{ 29 Orbits_in_interpterygoid_fenestrae second_anterior_quarter_of_interpterygoid_fenestrae anterior_quarter_of_interpterygoid_fenestrae Posterior;
+{ 30 Posteriorly_projecting_occiput absent present occiput_partially_exposed_in_dorsal_view occiput_fully_exposed,_with_foramen_magnum_largely_visible_in_dorsal_view;
+{ 31 Quadrate-squamosal present excluded_by_the_quadratojugal;
+{ 32 Quadrate_visible_in_dorsal_view present absent;
+{ 33 Squamosal_(crista_falciformis) absent present_as_modest_ridge;
+{ 34 Tabular_horn well_developed moderately_developed;
+{ 35 Exoccipital_process absent present_but_not_visible_in_dorsal_view present_and_visible_in_dorsal_view;
+{ 36 Paraquadrate_fenestra absent small_fenestra elongate_fenestra;
+{ 37 Accessory_paraquadrate_fenestra absent present;
+{ 38 Posttemporal_fenestra large_opening,_larger_than_foramen_magnum_ small_round_foramen small_polygonal_foramen;
+{ 39 Foramen_magnum_(shape) subtriangular keyhole-shaped;
+{ 40 Foramen_magnum_(proportions) dorsal_portion_dorsoventrally_deeper ventral_portion_dorsoventrally_deeper both_portions_equal_in_dorsoventral_depth;
+{ 41 Pterygoid_(upward_crest) absent present;
+{ 42 Ossified_opisthotic absent present;
+{ 43 Coronoid_dentition present absent;
+{ 44 Anterior_coronoid_tooth_row present absent;
+{ 45 Posterior_coronoid_tooth_row present absent;
+{ 46 Prearticular_anterior_extent midpoint_of_middle_coronoid not_anterior_to_posterior_coronoid;
+{ 47 Hamate_process absent present;
+{ 48 Splenial-symphysis absent present;
+{ 49 Posterior_Meckelian_fenestra round elongate subtriangular;
+{ 50 Mandibular_ventral_margin straight concave;
+{ 51 Mandibular_tapering_height absent present;
+{ 52 Axial_neural_arch_fused absent present;
+{ 53 Ossified_pleurocentra_in_posterior_trunk_vertebrae present absent;
+{ 54 Presacral_intercentra elongate,_d/l<0.8 short_cylinders,_d/l_>_0.8;
+{ 55 Neural_spine_height low_throughout_vertebral_column dorsally_extended_in_posterior_portion_of_trunk_or_tail;
+{ 56 Caudal_intercentrum_deeply_notched present absent;
+{ 57 Procoelous_third_vertebra absent present;
+{ 58 Intercentra_shape crescent_shaped disc_shaped;
+{ 59 Uncinate_processes absent uncinate_plate uncinate_process;
+{ 60 Clavicular_contact absent reduced_to_anterior_part_of_pectoral_girdle prolonged_contact;
+{ 61 Clavicular_ornamentation large_pitted_zone_in_ossification_centers intermediate_pits_zone_in_ossification_centers reduced_pits_zone_in_ossification_centers;
+{ 62 Ilium_shaft straight concave;
+;
+
+
+ccode  - 0.7 9.12 14.23 25.28 30.34 37.59 62 + 8 13 24 29 35.36 60.61;
+
+
+;

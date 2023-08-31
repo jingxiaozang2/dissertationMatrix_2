@@ -1,0 +1,66 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 14.21.26'
+27 21
+
+&[num]
+Biarmosuchus_tener                   0?000-0000--000000100001000
+Hipposaurus_boonstrai                00000-0000--010000000000100
+Herpetoskylax_hopsoni                10000-0010--010000000000101
+Lycaenodon_longiceps                 10000-00?0--0?????????????1
+Ictidorhinus_martinsi                ?0000-0010--0?000000000????
+RC_20                                10000-0010--0100????????101
+Lemurosaurus_pricei                  ?0111001?1001?011000001?201
+Lobalopex_mordax                     ?01?100111001?0111001010111
+Lophorhinus_willodenensis            10111001?1??????????????2??
+Lende_chiweta                        10111101?1011?3121101111111
+Leucocephalus_wewersi                10111101?101122121101111111
+Proburnetia_viatkensis               1011110111001?2121101111211
+Paraburnetia_sneeubergensis          ?0111101?1011?212110111?111
+Niuksenitia_sukhonensis              ????????????????3?01111111?
+Burnetia_mirabilis                   101?1210?11022113101111120?
+Mobaceras_zambeziensis               ??1?12110110221??10?1111110
+Bullacephalus_jacksoni               ?1111210?1102??221001111110
+Pachydectes_elsi                     ?111???11???2212????????100
+TM_4305                              ???????0??????1??10???1????
+NHMUK_r871                           ???????11????23????????????
+BP/1/7098                            00111101?1??????????????11?
+
+;
+
+
+cnames
+{ 0 Length_of_dorsal_process_of_premaxilla long,_extends_posterior_to_the_level_of_the_upper_canine short,_does_not_extend_posterior_to_the_level_of_the_upper_canine;
+{ 1 Ornamentation_on_lateral_surface_of_maxilla absent_or_consisting_only_of_pits_and_foramina highly_rugose_with_a_series_of_well-developed_parallel_striations_running_posterodorsally_to_anteroventrally_immediately_anterior_to_the_lacrimal;
+{ 2 Preorbital_fossae absent present_as_broadly_depressed_regions_of_facial_surface_of_lacrimal_and_jugal,_separated_by_ridge;
+{ 3 Deep_pits_on_lateral_surface_of_snout absent present;
+{ 4 Median_nasal_excrescence absent present;
+{ 5 Morphology_of_median_nasal_excrescence narrow_ridge pachyostosed_ridge_of_nearly_equal_transverse_width_throughout_its_length bulbous,_rounded_boss,_with_greatest_transverse_width_at_its_mid-length;
+{ 6 Discrete_prefrontal_boss absent present;
+{ 7 Median_frontal_excrescence absent present;
+{ 8 Posterolateral_process_of_frontal does_not_reach_midpoint_of_pineal_foramen extends_to_at_least_the_midpoint_of_the_pineal_foramen;
+{ 9 Anterior_supraorbital_boss absent present;
+{ 10 Morphology_of_anterior_supraorbital_boss triangular quadrangular;
+{ 11 Posterior_margin_of_anterior_supraorbital_boss uniformly_swollen with_curved_lateral_ridge,_giving_folded_appearance_to_boss_in_lateral_view;
+{ 12 Posterior_supraorbital_boss absent present_as_a_small_but_discrete_swelling_along_the_posterodorsal_margin_of_the_orbit present_as_an_enlarged_boss_above_the_posterodorsal_margin_of_the_orbit;
+{ 13 Preparietal absent present,_does_not_contact_pineal_foramen present,_makes_up_anterior_margin_of_pineal_foramen;
+{ 14 Pineal_boss raised,_unpachyostosed_rim highly_discrete,_teardrop-shaped,_pachyostosed_boss diffuse,_rounded,_pachyostosed_boss absent,_circumpineal_region_depressed;
+{ 15 Zygomatic_bosses absent present_as_one_or_two_oval_bosses_at_the_ventral_margin_of_the_zygomatic_arch present_as_a_large,_circular_boss_extending_across_the_lateral_face_of_the_zygomatic_arch;
+{ 16 Ventral_squamosal_boss absent present_as_small,_ventrally_directed_process present_as_large,_pachyostosed_boss present_as_a_transversely_expanded,_elongate,_pachyostosed_boss;
+{ 17 Dorsal_squamosal_boss absent present;
+{ 18 Skull_roof-occiput_contact sharply_angled,_with_clear_demarcation_between_posterior_edge_of_skull_roof_and_dorsal_edge_of_occiput weakly_angled,_skull_roof_slopes_posteroventrally_to_join_occiput;
+{ 19 Occipital_dimensions height_of_occiput_>40%_of_width height_of_occiput_<35%_of_width;
+{ 20 Paired_ridge_on_occipital_surface_of_postparietal_lateral_to_nuchal_crest absent present;
+{ 21 Nuchal_crest nuchal_crest_largely_restricted_to_postparietal,_separated_from_foramen_magnum_by_broad_flat_section_of_supraoccipital nuchal_crest_extends_to_dorsal_margin_of_foramen_magnum;
+{ 22 Squamosal-tabular_border without_thickening_of_squamosal squamosal_pachyostosed_to_form_dorsoventrally_elongate_swelling_along_border_with_tabular;
+{ 23 Post-temporal_fenestra large small;
+{ 24 Palatine_boss_morphology delta-shaped_boss_with_marginal_tooth_row reniform_boss_with_marginal_tooth_row State_2;
+{ 25 Pterygoid_boss_morphology broadly_dentigerous_boss delta-shaped_boss_with_marginal_tooth_row;
+{ 26 Dentition_on_transverse_process_of_pterygoid present absent;
+;
+
+
+ccode  - 0.11 17.26 + 12.16;
+
+
+;

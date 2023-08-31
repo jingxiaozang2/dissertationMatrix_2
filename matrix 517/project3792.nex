@@ -1,0 +1,394 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-30 02.19.37 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=15;
+    TAXLABELS
+    		'Metoposaurus diagnosticus'
+		'Metoposaurus krasiejowensis'
+		'Metoposaurus algarvensis'
+		'Panthasaurus maleriensis'
+		'Arganasaurus azerouali'
+		'Anaschisma browni'
+		'Buettnererpeton bakeri'
+		'Apachesaurus gregorii'
+		'Arganasaurus lyazidi'
+		'Dutuitosaurus ouazzoui'
+		'Callistomordax kugleri'
+		'Almasaurus habazzi'
+		'Rhineceps nyasaensis'
+		'Trimerorachis insignis'
+		'Eryops megacephalus'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=63;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'Skull roof ornamentation'
+		 [2] 'Orbit shape'
+		 [3] 'External nares orientation'
+		 [4] 'Septomaxilla'
+		 [5] 'Maxilla-nasal'
+		 [6] 'Maxilla-orbit'
+		 [7] 'Lacrimal-nasal suture'
+		 [8] 'Lacrimal shape'
+		 [9] 'Lacrimal-orbit'
+		 [10] 'Lacrimal-naris'
+		 [11] 'Prefrontal anterior contact'
+		 [12] 'Prefrontal-jugal suture'
+		 [13] 'Postfrontal-orbit contribution'
+		 [14] 'Jugal anterior margin'
+		 [15] 'Parietal-supratemporal'
+		 [16] 'Infraorbital sulcus'
+		 [17] 'Supraorbital sulcus'
+		 [18] 'Postorbital sulcus posterior skull margin contact'
+		 [19] 'Vomerine tooth row'
+		 [20] 'Maxilla-vomer contact'
+		 [21] 'Parachoanal tooth row'
+		 [22] 'Pterygoid ornamentation'
+		 [23] 'Pterygoid transverse flange'
+		 [24] 'Pterygoid palatine ramus'
+		 [25] 'Parasphenoid ornamentation'
+		 [26] 'Parasphenoid central depression'
+		 [27] 'Cultriform process ?'
+		 [28] 'Cultriform process ?'
+		 [29] 'Cultriform process ?'
+		 [30] 'Orbits in interpterygoid fenestrae'
+		 [31] 'Posteriorly projecting occiput'
+		 [32] 'Quadrate-squamosal'
+		 [33] 'Quadrate visible in dorsal view'
+		 [34] 'Squamosal ?'
+		 [35] 'Tabular horn'
+		 [36] 'Exoccipital process'
+		 [37] 'Paraquadrate fenestra'
+		 [38] 'Accessory paraquadrate fenestra'
+		 [39] 'Posttemporal fenestra'
+		 [40] 'Foramen magnum ?'
+		 [41] 'Foramen magnum ?'
+		 [42] 'Pterygoid ?'
+		 [43] 'Ossified opisthotic'
+		 [44] 'Coronoid dentition'
+		 [45] 'Anterior coronoid tooth row'
+		 [46] 'Posterior coronoid tooth row'
+		 [47] 'Prearticular anterior extent'
+		 [48] 'Hamate process'
+		 [49] 'Splenial-symphysis'
+		 [50] 'Posterior Meckelian fenestra'
+		 [51] 'Mandibular ventral margin'
+		 [52] 'Mandibular tapering height'
+		 [53] 'Axial neural arch fused'
+		 [54] 'Ossified pleurocentra in posterior trunk vertebrae'
+		 [55] 'Presacral intercentra'
+		 [56] 'Neural spine height'
+		 [57] 'Caudal intercentrum deeply notched'
+		 [58] 'Procoelous third vertebra'
+		 [59] 'Intercentra shape'
+		 [60] 'Uncinate processes'
+		 [61] 'Clavicular contact'
+		 [62] 'Clavicular ornamentation'
+		 [63] 'Ilium shaft'
+	;
+	STATELABELS
+		1
+		'honeycomb pattern of pits'
+		'pits and elongated ridges in growth zones'
+		,
+		2
+		'round'
+		'oval'
+		,
+		3
+		'opened to lateral view'
+		'opened to anterior or dorsal view'
+		,
+		4
+		'present'
+		'absent'
+		,
+		5
+		'absent'
+		'present'
+		,
+		6
+		'Maxilla does not enter orbit'
+		'Maxilla enters orbit'
+		,
+		7
+		'absent'
+		'present'
+		,
+		8
+		'compact, less than half the distance between the naris and the orbit'
+		'elongate, at least 50% of the distance between the naris and the orbit'
+		'compact'
+		'elongate'
+		,
+		9
+		'absent'
+		'narrow contact'
+		'broad contact'
+		,
+		10
+		'Lacrimal enters naris'
+		'Lacrimal excluded from naris'
+		,
+		11
+		'nasal and lacrimal'
+		'nasal and maxilla'
+		'frontal and lacrimal'
+		,
+		12
+		'absent'
+		'present'
+		,
+		13
+		'broad'
+		'reduced'
+		,
+		14
+		'level with anterior orbital margin'
+		'anterior to anterior orbital margin'
+		'posterior to anterior orbital margin'
+		,
+		15
+		'straight'
+		'angled'
+		,
+		16
+		'With simple curve'
+		'with stepped flexure'
+		'with Z-shaped flexure'
+		,
+		17
+		'passes medial to lacrimal'
+		'passes onto lacrimal'
+		,
+		18
+		'absent'
+		'present'
+		,
+		19
+		'absent'
+		'present as a transverse row or V-shaped with apex directed posteriorly'
+		,
+		20
+		'absent'
+		'present'
+		,
+		21
+		'present'
+		'absent'
+		,
+		22
+		'absent'
+		'present'
+		,
+		23
+		'absent'
+		'present'
+		,
+		24
+		'curved'
+		'straight'
+		,
+		25
+		'absent'
+		'confined to basal plate'
+		'extends on the cultriform process'
+		,
+		26
+		'absent'
+		'present'
+		,
+		27
+		'narrow'
+		'broad'
+		,
+		28
+		'uniform width'
+		'thinner medial third'
+		'thinner posterior third'
+		,
+		29
+		'absent'
+		'present'
+		,
+		30
+		'second anterior quarter of interpterygoid fenestrae'
+		'anterior quarter of interpterygoid fenestrae'
+		'Posterior'
+		,
+		31
+		'absent'
+		'present'
+		'occiput partially exposed in dorsal view'
+		'occiput fully exposed, with foramen magnum largely visible in dorsal view'
+		,
+		32
+		'present'
+		'excluded by the quadratojugal'
+		,
+		33
+		'present'
+		'absent'
+		,
+		34
+		'absent'
+		'present as modest ridge'
+		,
+		35
+		'well developed'
+		'moderately developed'
+		,
+		36
+		'absent'
+		'present but not visible in dorsal view'
+		'present and visible in dorsal view'
+		,
+		37
+		'absent'
+		'small fenestra'
+		'elongate fenestra'
+		,
+		38
+		'absent'
+		'present'
+		,
+		39
+		'large opening, larger than foramen magnum '
+		'small round foramen'
+		'small polygonal foramen'
+		,
+		40
+		'subtriangular'
+		'keyhole-shaped'
+		,
+		41
+		'dorsal portion dorsoventrally deeper'
+		'ventral portion dorsoventrally deeper'
+		'both portions equal in dorsoventral depth'
+		,
+		42
+		'absent'
+		'present'
+		,
+		43
+		'absent'
+		'present'
+		,
+		44
+		'present'
+		'absent'
+		,
+		45
+		'present'
+		'absent'
+		,
+		46
+		'present'
+		'absent'
+		,
+		47
+		'midpoint of middle coronoid'
+		'not anterior to posterior coronoid'
+		,
+		48
+		'absent'
+		'present'
+		,
+		49
+		'absent'
+		'present'
+		,
+		50
+		'round'
+		'elongate'
+		'subtriangular'
+		,
+		51
+		'straight'
+		'concave'
+		,
+		52
+		'absent'
+		'present'
+		,
+		53
+		'absent'
+		'present'
+		,
+		54
+		'present'
+		'absent'
+		,
+		55
+		'elongate, d/l<0.8'
+		'short cylinders, d/l > 0.8'
+		,
+		56
+		'low throughout vertebral column'
+		'dorsally extended in posterior portion of trunk or tail'
+		,
+		57
+		'present'
+		'absent'
+		,
+		58
+		'absent'
+		'present'
+		,
+		59
+		'crescent shaped'
+		'disc shaped'
+		,
+		60
+		'absent'
+		'uncinate plate'
+		'uncinate process'
+		,
+		61
+		'absent'
+		'reduced to anterior part of pectoral girdle'
+		'prolonged contact'
+		,
+		62
+		'large pitted zone in ossification centers'
+		'intermediate pits zone in ossification centers'
+		'reduced pits zone in ossification centers'
+		,
+		63
+		'straight'
+		'concave'
+		
+	;
+	MATRIX
+	'Metoposaurus diagnosticus'		            111110121?00010??11111111111001111012?111111111111??11111?12221
+	'Metoposaurus krasiejowensis'		          111?10?2????011??1111111?11100111101211111111111110111110?12??1
+	'Metoposaurus algarvensis'		             111110??1?00010??111?1111111001?1101??112?11111?1110????????22?
+	'Panthasaurus maleriensis'		             111010?31?00010??11?1111111100111101201111?111111101111?1?12111
+	'Arganasaurus azerouali'		               0?1?11131?000????1???111?11201111112201111?111110201????????10?
+	'Anaschisma browni'		                    111010022?10?????1111111111101111101???111011111120111111012101
+	'Buettnererpeton bakeri'		               11101-?20??101???01111111111001111012?11?11111111201111?1?12101
+	'Apachesaurus gregorii'		                111?1-020?11?00???111111?101000?11-1112011?111101101110?111?12?
+	'Arganasaurus lyazidi'		                 11110-130?01000?????1?01?110001?1?12??21????????????111?????11?
+	'Dutuitosaurus ouazzoui'		               111?11130?000?0??010111111110011110120211101111101010?010011111
+	'Callistomordax kugleri'		               111110022?100?0??1110100?00010101101101010?01100010??0010?12021
+	'Almasaurus habazzi'		                   011111130?200?1??11111110001101001021001210010000100?00???00?2?
+	'Rhineceps nyasaensis'		                 01101-130?01010??111110000011?011101100??10010010100??00??????0
+	'Trimerorachis insignis'		               100000132?000?0??1001000?01200001010100010000011000000?0?000020
+	'Eryops megacephalus'		                  00000-130?01010???00000000011?00000100000000000000?0?0?0?002120
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 8 10 - 13 15 - 24 26 - 29 31 - 35 38 - 60 63, ord: 9 14 25 30 36 - 37 61 - 62;
+      ENDBLOCK;
+      BEGIN MESQUITE;
+ MESQUITESCRIPTVERSION 2; TITLE AUTO; tell ProjectCoordinator; timeSaved 1625938684690; getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa; tell It; setID 0 218469952080686846; endTell; getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters; tell It; setID 0 8345518527440610447; mqVersion 360; checksumv 0 3 4212204112 null getNumChars 63 numChars 63 getNumTaxa 15 numTaxa 15 short true bits 7 states 7 sumSquaresStatesOnly 3288.0 sumSquares 3288.0 longCompressibleToShort false usingShortMatrix true NumFiles 1 NumMatrices 1; mqVersion; endTell; getWindow; tell It; suppress; setResourcesState false false 100; setPopoutState 300; setExplanationSize 0; setAnnotationSize 0; setFontIncAnnot 0; setFontIncExp 0; setSize 1057 643; setLocation 131 65; setFont SanSerif; setFontSize 10; getToolPalette; tell It; endTell; desuppress; endTell; getEmployee #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord; tell It; showDataWindow #8345518527440610447 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker; tell It; getWindow; tell It; setExplanationSize 30; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 957 571; setLocation 131 65; setFont SanSerif; setFontSize 10; getToolPalette; tell It; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam; endTell; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam; colorCells #mesquite.charMatrices.NoColor.NoColor; colorRowNames #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor; colorColumnNames #mesquite.charMatrices.CharGroupColor.CharGroupColor; colorText #mesquite.charMatrices.NoColor.NoColor; setBackground White; toggleShowNames on; toggleShowTaxonNames on; toggleTight off; toggleThinRows off; toggleShowChanges on; toggleSeparateLines off; toggleShowStates on; toggleAutoWCharNames on; toggleAutoTaxonNames off; toggleShowDefaultCharNames off; toggleConstrainCW on; toggleBirdsEye off; toggleShowPaleGrid off; toggleShowPaleCellColors off; toggleShowPaleExcluded off; togglePaleInapplicable on; togglePaleMissing off; toggleShowBoldCellText off; toggleAllowAutosize on; toggleColorsPanel off; toggleDiagonal on; setDiagonalHeight 80; toggleLinkedScrolling on; toggleScrollLinkedTables off; endTell; showWindow; getWindow; tell It; forceAutosize; endTell; getEmployee #mesquite.charMatrices.AlterData.AlterData; tell It; toggleBySubmenus off; endTell; getEmployee #mesquite.charMatrices.ColorByState.ColorByState; tell It; setStateLimit 9; toggleUniformMaximum on; endTell; getEmployee #mesquite.charMatrices.ColorCells.ColorCells; tell It; setColor Red; removeColor off; endTell; getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip; tell It; showStrip off; endTell; getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel; tell It; togglePanel off; endTell; getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip; tell It; showStrip off; endTell; getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector; tell It; autotabOff; endTell; getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip; tell It; showStrip off; endTell; getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor; tell It; panelOpen true; endTell; endTell; endTell; getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters; tell It; showCharacters #8345518527440610447 #mesquite.lists.CharacterList.CharacterList; tell It; setData 0; getWindow; tell It; useTargetValue off; setTargetValue ; newAssistant #mesquite.lists.DefaultCharOrder.DefaultCharOrder; newAssistant #mesquite.lists.CharListInclusion.CharListInclusion; newAssistant #mesquite.lists.CharListPartition.CharListPartition; newAssistant #mesquite.parsimony.CharListParsModels.CharListParsModels; setExplanationSize 30; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 957 571; setLocation 131 65; setFont SanSerif; setFontSize 10; getToolPalette; tell It; setTool mesquite.lists.CharacterList.CharacterListWindow.ibeam; endTell; setActive; endTell; showWindow; getEmployee #mesquite.lists.CharListAnnotPanel.CharListAnnotPanel; tell It; togglePanel off; endTell; endTell; endTell; endTell; 
+ENDBLOCK;
+BEGIN MESQUITECHARMODELS;
+ ProbModelSet * UNTITLED = 'Mk1 ?': 1- 63; 
+ENDBLOCK;

@@ -1,0 +1,217 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 14.19.54'
+123 76
+
+&[num]
+Achenomorphus                       001111010101010000301000101100000101010000001121000100000110011110110001001100020020100011020010001110020110101000000000001
+Arrow_min                           00000111000101010201001?1??00?00?00100010?10??40001000110001100????00???00200?30?01100000?1-----20001000?0-01011--10030?000
+Arrow_rel                           0000011000010101020100101010000011010001011000400000101100011000000000110020013020110100011-----2010100010-01011--100301000
+Astenus                             001111100001020011301001100101010100110000121111111101101110011100011211121100022110100010020010000110120110111011000000001
+Astenus_usa                         00111110000102001130100?10010101010011000012111111110110111001110001121112110002211010001?02001000011012?1101110--000000001
+Atanygn_acu                         0101111000010101000100001201100011010101101000400000101000011000010001110020003000111100011-----0110100000-0101001100200022
+Baryopsis                           0011110100010101022110101011000000010000011000300012000001000110000000010011102100201010100031100010100001001010--000000110
+Biocrypta                           1011110100010101022110001001000000010100001000301012000001000010000000010000002100201000100011100110100101001010--000000111
+Cephalochetus                       101112010001010002411100100100000100010000100030011100000100001010001000000010110020100010020010011110010110101011000000111
+Cryptobiina_rsa                     101111010001010002211000100100000010010000100030101200000110011010100000000110011020100010001010011010010100101000000000111
+Cylindroxystus_borinquense          0010110100010100012010001001001101000100000411200012000001000010101000010111002210201010110100101011010211000010--010000011
+Cylindroxystus_longulus             001011010001010001201000100100110000010000041120001200000110001010100001001110221020101010011010101110020100000011010000011
+Cyrtoquedius                        0100111100010101000100101101100011000101101000300000101000011000010001110020003010211000011-----2010100000-0101100100200022
+Dibelonetes                         001111100001120011301001110101010100110000121111110101101100011110011211121100222000100010020010000110120110101011000000001
+Dicax                               001111010001010102211000101100000000000001100030001200000100011000000001001110210020101011003110001010000100001011000000110
+Diochus_or                          0001100110000100003010001011000000010000001100100010001201011000000001110000103001111100001-----0110100001101011--000000000
+Dolicaonina_rsa                     0010100100010200014111001011000000010000001000300012100001000010100000010111102100201000110031101010100201001010--000000110
+Dolicaonina2_rsa                    0010110100010200014111001011000000010000001001300012000001000010100000010111102100201000110031101010100101101010--000000110
+Domene                              0011110100000100021010001011000001001000001011100011011001000010001000010011101200201010100020111011110201010000--000000011
+Dysanabatium                        001111010000010000101000101110000000010000101120101100000110010000100001001110120000100010003110100100020100001011000000001
+Echiaster                           0010020101011200113010011101010111001100001211011112011002-00111000112111211001201201100100200100111100201101010--000000001
+Echiasterina                        0010020001011200113010011101010111001100001211011112011002-00110000112111211103201201100100200100111100201101010--000000001
+Enallagium                          00111101010102000210100110011000110011000000112111110000011001101011000100110022002010001100111010110102010100110000000000?
+Euaesthetus                         0010020101010200103100011011110101000000010000410001001001000010000001110011113020001000101-----0111100001101010--000000000
+Eustilicus                          001111010101120002301001100111001101110000021101101101100100011010110000001100210010100011020110001110020110101000000000001
+Gnathymenus                         00100101000101000141110?1011000000000000001011300011000001000110000000010111102200201000100010101010100201100010--000000111
+Hemiquedius                         0100111100010101000101101001000010000101101000300011101200011000010001110120013010211100011-----1010100000-0101100100200022
+Hesperus                            0100111100010111000100001101100010010111100100201001100001010100010001110020013010211000011-----1010100100-0101100100201022
+Homaeotarsus                        101111010001010102211000100100000011010000100030101200000100001010000000000010211020101010001110011010020110101000000000111
+Hyperomma_bicoloripes               0011110100010100022110101001000000000100001000300012000001000110000000010111002100201010100000100010100001001010--000000110
+Lathrobium_brunnipes                0011110100000100021010001011000001010100001011200013000001000000001000010011101200201000100020111011010211010000--000000011
+Lathrobium_fovulum                  0011110100000100021010001011000001010100001001200013000001000000001000010011101200201000100020111011010211010000--000000011
+Leptobium                           0010010100010100014111001011000000000000001000300012100001000110000000010111002200201000110031101010100101001010--000000110
+Lithocharis                         00111101010100-0113010001001000011010100000011210001000001000110000000010011000200201000110200100011100201101010--000001001
+Lobrathium_candicum                 001111010000010002101000101100000001010000101120101100000100011000100001001110120020101010002111101101021101000000000000011
+Lordithon                           01000201000000-0100100101011?01001010000011000400000001000011000000000110020013000101010011-----0110100000-0101100000400000
+Medon                               001002010101020001301001100101001100010000001121000100000100011000110001001110220020100010020010001110020110101011000000001
+Medonina_russia                     001111010100010001301001101110001000010000001121100100000110011000110001001100210010100011000110001111020111001011000000001
+Neolindus                           00100201000100-00120100012010011001001000004112000120000010000101010000101110022102010101001101010110002?100001000010000011
+Neosclerus                          001002110101010001301001101100001001010000001110000100000100011010110001001100220020100011020010001110020110101000000000001
+Notobium                            001011010000010000111000101100000001010000001130101100000100001010100001001110220020101011003110100010020101000000000000000
+Nudobius                            100012011010010000010000111110000001010000011020101100110111110000000111000001301111110101000200001011000111001101000101000
+Ochthephilum                        101111010001010002211000100100000000010000100030001200000100001010000000000000210020100010001010011010010100101011000000111
+Oedichirus                          00111001000101001252010010110000000000000113001000110?1002-00010000000000101003100001000100031002011001111001011--011010010
+Orus                                0011120101010200013010011011100010100100000011211011010001100110001100010011002200201000110010100111100201100010--000000001
+Othius_sp                           0001120110000100000110101110100000010100001011300011101100011000100000010020103000111100010002001010100000-0001001000101000
+Oxyporus                            0010020100000111100100021210100011000000111000400001001001000001000100110021013020111000101-----0110110000-10000--000001001
+Paederidus                          0010111100010100114111011011000000000000001000200011010002-0010001000000001100212010100010001010100110110110101011000000110
+Paederus_littoralis                 0010010100010100014111011011000000000000001000200011010002-0010001000000001100212120100010001010100110110110101011000000110
+Paederus_riparius                   001011110001010001411101101100000000000000100020001101000100010001001000001100212020100010001110100110110110101011000000110
+Palaminus                           0011110100010100125201001011000001000000000000100001001002-00101000000000101002100001100100031002011101211001011--011010010
+Phanophilus                         001011010000010000101000111100000001010000101120001100000100000000100001001100220020100011003110100110020100001000000000011
+Pinophilus                          001110010001010012520100101100000101000001100020000110100000111010000000010110210000110011003110201110111100101100000010001
+Platydomene_bicolor                 001111010000010002101000101100000001010000101120101100000100011000100001001110120020101010002011101101021101000000000000001
+Platydracus                         0100121000010111020100101001100011010111100000210001100001111100010001110020013010211100011-----2010100100-0101100100201022
+Platypro_afr                        0000111110010101020100120010100000000000011000400001101200011000100001110020013000110100011-----2000100000-0001000000301000
+Pseudolathra                        001011010000010001201000100100000001010000101120001200000100000010100001001100120020101011012110100100020100000001000000011
+Pseudomedon                         001112010101010001301001100101001100010000001121000100100100011010110001001100120020100011020010101110020110101011000000001
+Quedius_antipodum                   0100111000010111000100001011100011010001101000400000101000011000010001110020013000111100011-----1010100000-0101101100201022
+Quedius_molochinus                  0100111100010101000100101001000011010101101000400000101000011000010001110020003000211100011-----1010100000-0101100100201022
+Ronetus                             0010020101011200113010011101010111001100001211011112011002-00110000112111211003201201100100200100111100201101010--000000001
+Rugilus                             001001010101120002301001110101001100110000021001100101000100011000110000001100210110110010020010001110020110101011000000001
+Scopaeus                            0011110001010200013010011001000001110100000011011011011002-00110000100010011002201201000100010100111100201100010--000000001
+Stilicoderus                        001111010001120002301001110101001100110000021001100101000100011000110000001110210010100010020110001110020110101001000000001
+Stilicopsis                         00111110000110-0113010011101010111001100001211111101010011100110100112111211002221001000100200100001101201101010--000000001
+Suniotrichus                        001111010101020000301001101101000101010000011111110100001100011010110001001100220020100011020110001110020110101000000000001
+Sunius                              0010020101010200013010011011000010000100000011200011000001000110001000010011002200201000110200100011100201101010--000000001
+Tachyporus                          00000111000100-0100110001011101001000000011000400000101000011000000000110120013000101010001-----0110100000-0101111000401000
+Taenodema                           001111010001010012520100101100000101000001000020000110100000111010000000010100210000110011003110201110121100101100000010000
+Tetartopeus                         0011110100000100021010001011000001010000001011100011000001000000001000010011101200201000100020111011010211010000--000000011
+Thinocharis                         001000010101120002301001110101000100110000011111100101000100011000110001001100210010110011020110001110020110101011000000001
+Thyreocephalus_annulatus            100012011011010000010010111100001001010000021010101100110111110000000101002001301111110101000200001011020110001101000101000
+Xanthopygus                         0100111100010111000100101001100010010111100000200001100000010100010001110020013010211000011-----2010100100-0101100100201022
+Scymbalium                          001010010000011100111000101100001001010001100130001110000100001010100001010010010020100011003110101010020100101000000000011
+Micrillus                           001111010000011000111000100100000001000000000130001100000110010000100001010000211020100011003010001010020100101000000000011
+Scymbalopsis_kirgizika              0010100100000101011111001011?00000010000001000300011001001000010101000010010002100001010110031111010100201001010--000000010
+
+;
+
+
+cnames
+{ 0 Antennae,_form non-geniculate geniculate;
+{ 1 Antennae,_base_of_antennomere_1 concealed_to_different_extent_thus_not_fully_visible_from_above fully_exposed_and_visible_from_above;
+{ 2 Antennae,_"shelf"_on_head_concealing_antennal_bases absent present;
+{ 3 Antennae,_antennomere_3,_tomentose_pubescence absent present;
+{ 4 Antennae,_antennomere_4,_tomentose_pubescence absent present;
+{ 5 Antennae,_antennomeres_9_and_10,_each_of_them,_shape elongated,_filiform,_thin elongated,_egg_or_funnel_shaped wider_than_long;
+{ 6 Antennae,_antennomere_11,_shape symmetrical asymmetrical;
+{ 7 Antennae,_setation,_long_setae_extending_perpendicular_to_antennal_axis absent present;
+{ 8 Antennae,_distance_between_bases longer_than_distance_from_base_of_antenna_to_anterior_margin_of_eye equal_to_or_smaller_than_distance_from_base_of_antenna_to_anterior_margin_of_eye;
+{ 9 Eyes,_setae_between_ommatidia absent present;
+{ 10 Head,_longitudinal_grooves_on_dorsal_surface_between_eyes absent present;
+{ 11 Head,_labrum,_width_vs_length width_less_than_twice_the_length width_equal_to_twice_the_length_or_wider;
+{ 12 Head,_labrum,_size not_expanded,_at_least_half_mandibles_visible_when_closed expanded,_almost_or_completely_covering_mandibles_when_closed;
+{ 13 Head,_labrum,_development entire notched_to_different_extent dentate;
+{ 14 Head,_labrum,_depth_of_emargination shallow,_basally_not_reaching_membrane_connecting_labrum_with_frons_(frontoclypeus) deep,_basally_extended_through_membrane_connecting_labrum_with_frons_(frontoclypeus);
+{ 15 Head,_labrum,_apical_membrane absent present;
+{ 16 Head,_labrum,_attachment_to_frons_(frontoclypeus) with_distinct_membrane_between_frons_and_base_of_labrum without_distinct_membrane_between_frons_and_base_of_labrum;
+{ 17 Head,_maxillary_palpomere_3,_shape elongated,_regular expanded,_more_fusiform slightly_expanded,_vase-like;
+{ 18 Head,_maxillary_palpomere_4,_shape fusiform conical nipple-like,_elongate small,_acicular truncate,_short securiform;
+{ 19 Head,_maxillary_palpomere_4,_width thinner_than_palpomere_3 as_wide_or_almost_as_wide_as_palpomere_3 wider_than_palpomere_3;
+{ 20 Head,_maxillary_palpomeres_3_and_4,_length palpomere_3_equal_to_or_shorter_than_4 palpomere_3_longer_than_4;
+{ 21 Head,_maxillary_palpomere_4,_setation glabrous_or_at_most_sparsely_setose densely_setose;
+{ 22 Head,_labial_palpomeres_2_and_3,_length palpomere_2_equal_to_or_longer_than_3 palpomere_2_shorter_than_3;
+{ 23 Head,_labial_palpomere_3,_width as_wide_as_palpomere_2 thinner_than_palpomere_2 wider_than_palpomere_2;
+{ 24 Head,_labial_palpi,_fringe_of_setae_on_apical_margin_of_palpomeres present absent;
+{ 25 Head,_ligula,_development bilobed entire reduced;
+{ 26 Head,_ligula,_dorsal_plate,_setation absent present;
+{ 27 Head,_mandibules,_projection strongly_projected_anteriad bent_laterally;
+{ 28 Head,_mandibules,_dorso-lateral_groove absent present;
+{ 29 Head,_mandibular_prostheca present absent;
+{ 30 Head,_mandibles,_teeth present absent;
+{ 31 Head,_mandibles,_shape stout_(at_least_twice_as_wide_at_base_as_width_at_apical_portion) thin_(as_wide_at_base_as_apical_portion_or_slightly_wider);
+{ 32 Head,_mandibles,_left_vs_right mandibles_symmetrical_(but_size_of_same_teeth_may_slightly_differ_on_left_and_right_mandible) mandibles_asymmetrical_(when_size,_shape_or_sometimes_number_of_teeth_clearly_differ_on_left_and_right_mandible);
+{ 33 Head,_frons_(i.e._the_area_of_the_head_between_eyes),_punctation more_sparse_than_on_rest_of_head as_on_rest_of_head;
+{ 34 Head,_dorsal_surface,_pair(s)_of_trichobothria absent present;
+{ 35 Head,_integument,_presence smooth with_microscupture;
+{ 36 Head,_dorsal_side,_punctation lack_of_distinctive_punctation_or_surface_smooth distinctive_punctation,_surface_rugose;
+{ 37 Head,_ventral_basal_ridge,_development underdeveloped_or_absent fully_developed;
+{ 38 Head,_dorsal_basal_ridge absent present;
+{ 39 Head,_infraorbital_ridge absent present;
+{ 40 Head,_postgenal_ridge absent present;
+{ 41 Head,_nuchal_ridge present absent;
+{ 42 Head,_posterior_margin,_temples,_shape straight rounded;
+{ 43 Head,_ventral,_gular_sutures,_development fully_separated,_but_relatively_close partially_fused fully_fused absent_(or_at_least_not_visible_externally) wide_apart;
+{ 44 Head,_gular_sutures,_development_at_base_of_gula continue_through_neck_to_posterior_margin_of_head_(posterior_orifice) become_indistinct_(fade)_not_reaching_posterior_margin_of_head;
+{ 45 Neck,_postoccipital_suture_vs_gula postoccipital_suture_do_not_cross_gular_sutures,_not_distinct_at_base_of_gula postoccipital_suture_crosses_gular_sutures_and_continues_through_base_of_gula;
+{ 46 Neck,_width very_narrow,_equal_or_less_than_1/5_of_head_width narrow,_equal_or_less_than_1/3_of_head_width regular,_equal_or_less_than_1/2_of_head_width wide,_more_than_1/2_of_head_width very_wide,_as_wide_as_head;
+{ 47 Dense_hair_on_head,_pronotum_and_elytra absent present;
+{ 48 Head_vs_pronotum,_width head_narrower_or_as_wide_as_pronotum head_wider_than_pronotum;
+{ 49 Head_vs_pronotum,_length head_shorter_or_as_long_as_pronotum head_longer_than_pronotum;
+{ 50 Pronotum,_length wider_than_long_or_quadrate longer_than_wide;
+{ 51 Pronotum,_widest_at base apex_or_anterior_to_its_middle middle same_width_everywhere;
+{ 52 Pronotum,_front_angles_(in_dorsal_view) not_producing_over_anterior_margin_of_pronotum producing_over_anterior_margin_of_pronotum;
+{ 53 Pronotum,_front_angles,_shape regular obtuse_(apex_of_pronotum_with_neck-like_projection);
+{ 54 Pronotum,_midline,_punctation less_punctation_than_rest_of_pronotum,_often_appears_impunctate as_punctated_as_rest_of_pronotum_(or_not_punctated_if_no_punctation_in_general);
+{ 55 Prothorax,_antesternal_plates,_development absent present sclerotized_membrane_in_place_of_plates;
+{ 56 Prothorax,_additional_sclerotization_on_anterior_margin_of_prosternum absent present;
+{ 57 Pronotum,_superior_marginal_line,_development not_deflexed deflexed absent;
+{ 58 Pronotum,_superior_marginal_line_vs_inferior_line not_meeting_each_other meeting_or_very_close_to_each_other;
+{ 59 Pronotum,_postcoxal_process_of_hypomeron,_development well_developed_and_sclerotized translucent,_somewhat_flexible,_or_absent;
+{ 60 Prothorax,_front_angles_of_pronotum_vs_prosternum_(in_ventral_view) front_angles_not_produced_beyond__meeting_point_of_prosternum_and_pronotum front_angles_produced_beyond_meeting_point_of_prosternum_and_pronotum;
+{ 61 Prosternum,_pronotosternal_suture,_development well_developed weakly_developed_or_absent;
+{ 62 Prosternum,_basisternum,_surface smooth with_punctation_or_wrinkled;
+{ 63 Prosternum,_basisternum,_transversal_carina absent present;
+{ 64 Prosternum,_basisternum,_longitudinal_median_carina absent present;
+{ 65 Prosternum,_furcasternum,_sharp_longitudinal_carina present absent;
+{ 66 Prosternum,_furcasternum,_transversal_carina absent present;
+{ 67 Prosternum,_furcasternum,_relative_extension_basad less_extended_-_its_pointy_edge_does_not_reach_level_of_tip_of_postcoxal_process more_extended_-_its_pointy_edge_reaches_level_of_tip_of_postcoxal_process;
+{ 68 Prosternum,_furcasternum,_lateral_extension not_expanded_under_anterior_coxae expanded_under_anterior_coxae;
+{ 69 Prosternum,_furcasternum,_length longer_than_1/2_of_basisternum_length shorter_or_equal_to_1/2_of_basisternum_length longer_than_basisternum;
+{ 70 Prosternum,_furcasternum,_shape triangular rectangular;
+{ 71 Prothorax,_prosternum,_prosternal_apophysis_as_clear_invagination present absent;
+{ 72 Mesospiracular_peritremes,_development distinct reduced;
+{ 73 Mesothorasic_membrane_(area_under_anterior_coxae),_degree_of_sclerotisation soft,_without_strongly_sclerotized_areas with_strongly_or_fully_sclerotized_areas_embedding_spiracles not_visible,_hidden_behind_furcasternum;
+{ 74 Mesosternum,_sterno-pleural_sutures,_shape curved,_converging_towards_each_other_in_their_basal_(closer_to_prepecturs)_half curved,_running_parallel_to_each_other_in_their_basal_(closer_to_prepecus)_half straight,_running_transversly_along_entire_extension;
+{ 75 Mesosternum,_sterno-pleural_sutures,_basal_end ending_at_prepectus ending_before_(not_reaching)_prepectus;
+{ 76 Mesosternum,_basisternum,_longitudinal_carina absent present;
+{ 77 Mesosternum,_furcasternum,_longitudinal_intercoxal_carina present absent;
+{ 78 Mesosternum,_transversal_carina_between_sterno-pleural_sutures straight_or_interrupted_in_middle pointed_apicad_(towards_abdomen) pointed_or_curved_basad_(towards_prothorax) absent;
+{ 79 Mesosternum,_lateral_ridges_near_(apicad_from)_prepectus absent present,_single present,_double;
+{ 80 Mesosternum,_connection_to_metasternum mesosternum_clearly_separated_from_metasternum_by_membrane mesosternum_separated_from_metasternum_by_suture,_no_membrane mesosternum_completely_fused_to_metasternum;
+{ 81 Mesosternum,_ridge_below_coxal_rests present absent;
+{ 82 Mesothorax,_scutellum,_scutellar_ridge(s) absent only_one_present both_anterior_and_posterior_present;
+{ 83 Mesothorax,_elytron,_humeral_spines_or_spine-like_setae absent present;
+{ 84 Mesothorax,_elytron,_subbasal_ridge,_development well-developed,_reaching_humerus reduced,_not_reaching_humerus,_or_absent;
+{ 85 Mesothorax,_elytra,_epipleuron,_marginal_ridge present absent;
+{ 86 Mesothorax,_epipleuron,_additional_ridge_(in_addition_to_marginal_ridge) absent present;
+{ 87 Mesothorax,_elytra,_overlap absent present;
+{ 88 Mesothorax,_elytra,_elongated_elytra_bases absent present;
+{ 89 Mesothorax,_elytra,_row_of_setae_on_edge_of_posterior_margin absent present;
+{ 90 Protibia,_comb-like_rows_of_setae,_presence present absent;
+{ 91 Protibia,_comb-like_rows_of_setae,_position_relative_to_long_axis_of_tibia transversally diagonally longitudinally;
+{ 92 Protibia,_comb-like_rows_of_setae,_number_of_fully_developed_rows 2 3 4 5_or_more;
+{ 93 Protibia,_comb-like_rows_of_setae,_number_of_setae 3_at_most more_than_3 no_setae,_spines_instead;
+{ 94 Protibia,_comb-like_rows_of_setae,_position_on_tibia closer_to_tarsus closer_to_femur_or_in_mid_distance_between_femur_and_tarsus;
+{ 95 Protibia,_expanded_area_for_comb-like_rows_of_setae absent present;
+{ 96 Protarsus,_basal_four_tarsomeres,_compared_to_those_of_meso-_and_metatarsi,_width narrower_or_equal_to_meso-_and_metatarsomeres wider,_at_most_twice_as_wide_as_meso-_and_metatarsomeres more_than_twice_as_wide_as_meso-_and_metatarsomeres;
+{ 97 Protarsus,_dense_pale_adhesive_setae_underneath present absent;
+{ 98 Protarsus,_tarsomere_4,_development bilobed not_bilobed;
+{ 99 Mesotibia,_outer_edge,_thorns present absent;
+{ 100 Mesotibiae,_outer_side,_long_bristles present absent;
+{ 101 Mesotarsomere_1,_length equal_to_or_longer_than_mesotarsomere_2 shorter_than_mesotarsomere_2;
+{ 102 Meso-_and_metatarsomere_4 similar_to_proceeding_one modified,_either_widened_or_bilobed,_with_dense_pale_of_adhesive_setae_underneath;
+{ 103 Metacoxa,_suture absent present absent,_but_coxa_with_two_different_surfaces;
+{ 104 Metatibia,_width same_along_whole_length apically_expanded;
+{ 105 Metatibia,_apical_ctenidium absent present;
+{ 106 Metatibia,_apical_ctenidium,_position on_both_anterior_and_posterior_faces on_one_side_only;
+{ 107 Metatarsomere_1,_length equal_to_or_longer_than_metatarsomere_2 shorter_than_metatarsomere_2;
+{ 108 Metatarsi,_tarsomeres_1_vs_apical_tarsomere,_length tarsomere_1_shorter_than_apical tarsomere_1_equal_to_or_longer_than_apical;
+{ 109 Metarsi,_tarsomeres_4_vs_5_(or_3_vs_4_if_tarsi_4-segmented),_length tarsomere_4_(or_3)_equal_to_or_shorter_than_5_(or_4) tarsomere_4_(or_3)_longer_than_5_(or_4);
+{ 110 Metatarsi,_tarsomere_5_vs__2-4_(or_4_vs_2-3_if_tarsi_4-segmented),_length tarsomere_5_(or_4)_equal_to_2-4_(or_2-3)_combined tarsomere_5_(or_4)_shorter_than_2-4_(or_2-3)_combined;
+{ 111 Tarsi,_empodial_setae,_length longer_or_equal_to_claws half_or_less_shorter_than_claws;
+{ 112 Hind_wing,_venation,_MP3_vein present absent;
+{ 113 Hind_wing,_venation,_veins_MP4_and_CuA,_development completely_separated largely_or_completely_fused;
+{ 114 Abdomen,_tergite_I,_protergal_glands absent present;
+{ 115 Abdomen,_tergites_IV-VII,_paratergites present absent;
+{ 116 Abdomen,_segment_VII,_separation tergite_and_sclerite_separated tergite_and_sclerite_fused;
+{ 117 Intersegmental_membrane,_pattern_of_sclerites regular,_brick-wall,_sclerites_hexagonal,_rectangular_or_quadrangular irregular,_angular_(mostly_triangular)_sclerites irregular,_rounded_sclerites small,_quadrangular_sclerites no_pattern;
+{ 118 Intersegmental_membrane,_sclerites,_degree_of_sclerotisation weakly_sclerotised strongly_sclerotised;
+{ 119 Abdomen,_sternite_III,_keel_between_metacoxae present absent;
+{ 120 Abdomen,_sternite_IV,_anteromedian_gland absent present;
+{ 121 Abdomen,_tergites_IX,_shape produced_into_flat,_apically_obtuse_to_sharp,_sometimes_with_spine-like_process produced_into_inflated,_apically_sharp_process produced_into_inflated,_apically_obtuse_or_rounded_process;
+{ 122 Male,_aedeagus,_paired_parameres present highly_reduced_or_absent present_but_fused_into_single_structure;
+;
+
+
+ccode  - 0.122;
+
+
+;

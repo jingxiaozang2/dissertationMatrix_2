@@ -1,0 +1,186 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 14.22.24'
+139 29
+
+&[num]
+Sclerocephalus_haueseri              0102001020-001?-10?0?010000001100000000000111000011?1000-?00-000000000?0000?0000100--?011000101001000000020000110?1?000?001-020101--1?000?0
+Rhineceps_nyasaensis                 020200?100-0011-100000100100?1100000101001121000-001?0000101000000010100001?00000011100010010000010000001110000000?????????????????????????
+Lydekkerina_huxleyi                  0002001100-00?1-?0?000100?00110100000001001210002101?2111----000011101010?110100?0?010000001?110110?011?0010101200???000000??20?02?01000110
+Eocyclotosaurus_appetolatus          0202001211-0010--00000100000010000010011010200?03211101111110001021111011110111011102001010010??1022102113??00110??0101001??02?1011?2100201
+Quasicyclotosaurus_campi             0202002210-0011-10000010000?11?0000111?10?0200???????012111??00?0211110111?112??11???001?100?0?01??????????????????????????????????????????
+Cyclotosaurus_intermedius            02020012?0-0010--00001100000111000011011?0021000010?1211200110000101010011110110?1102001010010?0102221211010001200????????????10111120?????
+Mastodonsaurus_giganteus             02020002?1-0011-10?001100000?1100001?011011210000111221220100001020111011111111001102001010010001122102023?1101200?011201000020102112100011
+Lyrocephaliscus_euri                 0010102?20-0011-10?0?0100001010100010?1110121000011022010100100102011101101?020000102100020000001???????????????????00?000???2?1???1???????
+Trematolestes_hagdorni               0010102?00000002-001?0?100000?0000010111001210001100??110001000102111011101002100110200?020??0?011????11220?00121?2??010001?020??200011110?
+Benthosuchus_sushkini                01120022?0-0011-1000001000001100000?0011?0121000011012111110?0000101120110111100?01020011?00011011221111001110110????000000?02?10101?000210
+Trematosaurus_brauni                 011010?2?0?0011?100000?000010?0000010?111012100001011???0??01002020110011111121001112001020100110??????1????00121??????????????00111???????
+Bothriceps_australis                 101000??00-?1----00-001000001?0100010001?02-1201010?13121-111111001?110100?0021100111101?00010??1102010000111012200????000?????????????????
+Compsocerops_cosgriffi               1011001000-?1----01-001010101101001010?1101210000100?2120-0011110001111111?0121101?12??120100?1111222011011010122???1010000?0??00?0?001010?
+Gerrothorax_pulcherrimus             10010011000?01121010010020100?0?000010?1?02-120001101302001?000000?011011110121100??2?0?200100?01011110???11???2??201?????0?001?00?0?0???1?
+Chinlestegophis_jenkinsi             001?02????001----10-000000000211001010?11?0?1?00????23?2-----1????????????????1????02011001????1??11101???1?001??????????????????1?????????
+Rileymillerus_cosgriffi              0?1001?0??0?1----11-200000??02?????0??0?102-?20???0112-1-----00?1?011201111012??011?2???100100111???1?1??????0?001?????????????????????????
+Riley_with_lacrimal                  0?1001?0??0?01?0?111200000??02?????0??0?102-?20???0112-1-----00?1?011201111012??011?2???100100111???1?1??????0?001?????????????????????????
+Almasaurus_habazzi                   0010102?20100110101220000011021110010011?012100001112311?11110010201120111?01211021020011100011?1????11120?110111????010000??0?0021?10????0
+Callistomordax_kugleri               00101022?0000002-0110001000102000001001110121001111012110001000?121110111010021102?02001020011?011122001230000?10?11??1?1010020001000101101
+Metoposaurus_diagnosticus            001010??100001121000000000010?1100010011?11200?1??1?12121111100?021??101111?121011102?110010??111?2221????1?????????11?0111?12200111????20?
+Metoposaurus_krasiejowensis          00101002?0000?1?10???0?000010??11?010011111200012210121211111001020111011110121011102?11001?11111?2221111010101110?01120111012??01112000200
+Metoposaurus_algarvensis             00101002??0?0??2?0?000000001001100010011??120001??102212?111100102?111011110121011?02111001001111?2221?????1110??????12??1????20011????????
+Panthasaurus_maleriensis             00101002?0000?1110?00000000100?10?0100111112?001221012120111100102?1110111101210111121110010?1?11022211?2????0111??1?12011??121011?12000200
+Arganasaurus_azerouali               001110????1001111010000000010200?0010111?112110122101212?111100?0???1??111??121?11102211001211?11?222111200010111?????????????111?0????????
+Anaschisma_browni                    00111002?00000??1011000000?10?????010011111200?1??101212??11?001020111011110121011102?11001?110110222111101010111??1112?1111121101?12000000
+Buettnererpeton_bakeri               0010100210-00?1-101?001000010111?00100111112001122102212?111?001020111011110121011102111001?1111102221111001101110?011201111121111012000200
+Apachesaurus_gregorii                001010??00-0000--011001000?1011100010011111202011111101200??01010??11??111?0121?11102?11000210?11?222101????10111??0121101?11??011?1?????0?
+Arganasaurus_lyazidi                 0010?0??00-00-1-00?0001000010?1100010111??1201?122???212??1?000?02???????????????1????110010????1?????????????????????????????111?0????????
+Dutuitosaurus_ouazzoui               00101002?010011010?000000001021100010011?112000122101212?11?10010200110111?012101110211100101100112221111-0010111?1002211?10111011??2000200
+
+;
+
+
+cnames
+{ 0 Skull_(proportions) longer_than_wide wider_than_long;
+{ 1 Preorbital-postorbital_(length_ratio) <_1 between_1_and_2 >2;
+{ 2 Orbit_location Medial,_framed_by_wide_jugals_laterally lateral_emplacement,_framed_by_very_slender_jugals;
+{ 3 Orbits_in_interpterygoid_fenestrae second_anterior_quarter_of_interpterygoid_fenestrae anterior_quarter_of_interpterygoid_fenestrae Posterior;
+{ 4 Ornamentation_(prepineal_growth_zone) elongate_grooves_absent elongate_grooves_present;
+{ 5 Lateral_line_sulci throughout_skull_roof absent confined_to_circumorbital_region;
+{ 6 Number_of_premaxillary_teeth >_15 10-15 <10;
+{ 7 Number_of_maxillary_teeth <_30 30-50 >50;
+{ 8 Premaxilla_(alary_process) absent present,_forming_a_posterior_hook-like_indentation_along_medial_narial_margin present,_forming_a_posterior_hook-like_indentation_separated_from_the_medial_narial_margin;
+{ 9 Premaxilla_(mandibular_apertures) absent present;
+{ 10 Maxilla-orbital_margin_contact absent present;
+{ 11 Nasal_(width) longer_than_wide as_wide_as_long;
+{ 12 Lacrimal present absent;
+{ 13 Lacrimal-nasal absent present;
+{ 14 Lacrimal_length compact,_less_than_half_the_distance_between_the_naris_and_the_orbit elongate,_at_least_50%_of_the_distance_between_the_naris_and_the_orbit;
+{ 15 Lacrimal-orbital_margin_contact contact_absent contact_narrow contact_broad;
+{ 16 Lacrimal-naris_contact present absent;
+{ 17 LEP absent present;
+{ 18 Prefrontal_(anterior_end) Pointed wide_and_blunt;
+{ 19 Prefrontal_anterior_contact nasal_and_lacrimal nasal_and_maxilla frontal_and_lacrimal;
+{ 20 Prefrontal,_frontal_(anterior_extent) prefrontal_terminating_anterior_to_the_anterior_terminus_of_the_frontal_ terminating_at_same_level_as_the_terminus terminating_posterior_to_the_terminus;
+{ 21 Prefrontal-postfrontal sutured separated_by_frontal;
+{ 22 Prefrontal-jugal absent present;
+{ 23 Frontals paired fused;
+{ 24 Frontal-nasal_(suture) anterior_to_orbital_margin level_with_margin posterior_to_margin;
+{ 25 Frontal,_nasal_(length) frontal_as_long_or_longer_than_nasal frontal_shorter_than_nasal;
+{ 26 Postfrontal_contribution_to_orbital_margin broad reduced;
+{ 27 Postorbital,_postfrontal Shorter_than_supratemporal_and_parietal as_long_or_longer;
+{ 28 Postorbital_(lateral_process) not_wider_than_orbit with_substantial_lateral_process_projecting_into_jugal;
+{ 29 Jugal_anterior_margin level_with_anterior_orbital_margin anterior_to_anterior_orbital_margin posterior_to_anterior_orbital_margin;
+{ 30 Parietal_(width) greater_width_than_frontal equal_or_lesser_width;
+{ 31 Parietal_((length) shorter_than_frontal_along_midline as_long_or_longer;
+{ 32 Parietal-supratemporal_suture straight angled;
+{ 33 Parietal-postorbital contact_absent present;
+{ 34 Parietal-tabular absent present;
+{ 35 Pineal_foramen_(position) within_anterior_half_of_the_parietals within_posterior_half_of_the_parietals;
+{ 36 Supratemporal_(proportions) longer_than_wide quadrangular;
+{ 37 Squamosal_(shape) pentagonal sub-triangular;
+{ 38 Squamosal_(falciform_crest) Posterior_rim_of_squamosal_straight with_convex_projection,_referred_to_as_falciform_crest;
+{ 39 Squamosal-tabular_(dorsal) Separated_by_supratemporal sutured;
+{ 40 Quadratojugal-maxilla In_contact Separated_by_jugal;
+{ 41 Quadrate-squamosal_suture present excluded_by_the_quadratojugal;
+{ 42 Otic_notch enclosed_otic_notch semicircular_embayment straight_transverse_posterior_skull_margin_without_embayment_between_cheek_and_table;
+{ 43 Otic_notch_(position) Lateral,_expanding_along_entire_cheek_to_form_continuous_unornamented_area_up_to_quadrate slit-like small_and_rounded,_confined_to_dorsomedial_part_of_squamosal;
+{ 44 Postparietal_(proportions) longer_than_wide wider_than_long;
+{ 45 Tabular_(horn) well-developed moderately_developed absent;
+{ 46 Parotic_process_of_the_tabular_(lateral_flange) absent present;
+{ 47 Occipital_flange Descending_flange_of_occipital_portion_of_postparietals_forming_a_bulge long_smooth_blades_as_long_as_the_dermal_portion_of_the_postparietal;
+{ 48 Paraquadrate_foramina_(borders) entirely_within_quadratojugal framed_by_quadrate_and_quadratojugal framed_by_squamosal_and_quadratojugal framed_by_quadrate,_squamosal,_and_quaratojugal;
+{ 49 Paraquadrate_foramina_(size) absent small,_maximum_diameter_narrower_than_occipital_condyle large,_maximum_diameter_wider_than_occipital_condyle;
+{ 50 Posttemporal_fenestrae_(size) as_wide_or_wider_than_maximum_width_of_foramen_magnum narrower;
+{ 51 Posttemporal_fenestra_(shape) oval_or_circular polygonal;
+{ 52 Foramen_magnum_proportions dorsal_portion_dorsoventrally_deeper ventral_portion_dorsoventrally_deeper both_portions_equal_in_dorsoventral_depth;
+{ 53 Posteriorly_projecting_occiput absent present occiput_partially_exposed_in_dorsal_view occiput_fully_exposed,_with_foramen_magnum_largely_visible_in_dorsal_view;
+{ 54 Skull_(level_of_jaw_articulation) Quadrate_trochlea_posterior_to_tabular_horns At_one_level_or_anterior;
+{ 55 Quadrate_and_occipital_condyles Quadrate_condyles_posterior_to_occipital_ones At_the_same_level Well_anterior;
+{ 56 Infraorbital_sulcus With_simple_curve with_stepped_flexure with_Z-shaped_flexure;
+{ 57 Supraorbital_sulcus passes_medial_to_lacrimal passes_onto_lacrimal;
+{ 58 Temporal_sulcus Does_not_terminate_on_the_supratemporal Terminates_on_the_supratemporal;
+{ 59 Postorbital_sulcus-posterior_skull_margin_contact absent present;
+{ 60 Postorbital-infraorbital_sulci sulci_remain_distinctly_separated_posteriorly sulci_merge_together_on_the_jugal;
+{ 61 Palate_structure in_occipital_view,_pterygoids_either_sloping_continuously_ventrolaterally_or_flat_horizontal vertically_curved_ventrally_at_right_angle_with_basicranium;
+{ 62 Choana_(shape) oval circular;
+{ 63 Maxilla-choana forming_most_of_the_lateral_margin_of_the_choana maxilla_restricted_by_palatine_and_vomer maxilla_excluded_from_choana;
+{ 64 Choana,_interpterygoid_vacuity posterior_margin_of_choana_is_anterior_to_the_anterior_margin_of_the_vacuity posterior_margin_of_choana_is_at_or_posterior_to_the_anterior_margin_of_the_vacuity;
+{ 65 Anterior_palatal_opening(s) vomer_and_premaxilla_with_continuous_suture single_perforation_for_symphyseal_fangs paired_perforations_for_symphyseal_fangs;
+{ 66 Palatal_tusks_(cross-section) round_or_oval laterally_compressed_and_keeled_at_least_on_one_side;
+{ 67 Maxilla-vomer contact_absent contact_present;
+{ 68 Vomer_(denticles) present absent;
+{ 69 Transverse_tooth_row_(transvomerine) Absent present_and_transverse V-shaped;
+{ 70 Parachoanal_tooth_row present absent;
+{ 71 Palatine_(denticles) present absent;
+{ 72 Ectopterygoid_(denticles) present absent;
+{ 73 Ectopterygoid_(fangs) present absent;
+{ 74 Jugal_(ventral_process) No_ventral_outgrowth Insula_jugalis_framing_subtemporal_window;
+{ 75 Palatine,_ectopterygoid_(suture) straight_or_very_slightly_convex sinuous_or_kinked;
+{ 76 Pterygoid_(denticles) present absent;
+{ 77 Pterygoid_(anterior_sutures) contacts_both_vomer_and_palatine only_contacts_palatine does_not_contact_vomer_or_palatine;
+{ 78 Pterygoid-exoccipital contact_absent present;
+{ 79 Pterygoid,_ectopterygoid palatine_ramus_exclusively_formed_by_pterygoid with_posteromedial_projection_of_ectopterygoid;
+{ 80 Pterygoid_(posterolateral_flange) absent present;
+{ 81 Palatine_ramus_medial_margin_(pterygoid) curved_medially_concave straight curved_medially_convex;
+{ 82 Pterygoid_(oblique_crest/otic_ridge) absent present;
+{ 83 Orientation_of_the_parasphenoid-pterygoid_suture not_oblique_(curved_or_straight)_to_the_long_axis_of_the_skull oblique_to_the_long_axis_of_the_skull;
+{ 84 Basicranium_(suture) suture_much_shorter_than_basal_plate,_reaching_at_best_40%_its_length_ suture_between_40%_and_67%_as_long_as_the_basal_plate suture_almost_as_long_as_basal_plate;
+{ 85 Parasphenoid_ornamentation absent confined_to_basal_plate extends_on_the_cultriform_process;
+{ 86 Parasphenoid_central_depression absent present;
+{ 87 Parasphenoid_(shagreen) Tooth_patches_present teeth_entirely_absent;
+{ 88 Parasphenoid_(plate,_proportions) longer_than_wide equant_or_slightly_wider_than_long substantially_wider_than_long;
+{ 89 Cultriform_process_(structure) Ventrally_flat with_ridge_emplaced_on_broader_base knife-edged_and_keel-shaped;
+{ 90 Cultriform_process_width narrow broad;
+{ 91 Cultriform_process_narrowing uniform_width thinner_medial_third thinner_posterior_third;
+{ 92 Cultriform_process_(anterior_extent) terminates_at_or_posterior_to_anterior_margin_of_interpterygoid_vacuity_(when_viewed_ventrally) terminates_anterior_to_this_level;
+{ 93 Quadrate_trochlea medial_bulge_only_slightly_larger_than_lateral_one much_larger;
+{ 94 Opisthotic ossified unossified;
+{ 95 Sphenethmoid ossified unossified;
+{ 96 Dentition_(marginal) Heterogenous,_varying_sizes_and_distances homogeneous,_small_teeth,_equidistant;
+{ 97 Adsymphyseal_teeth present absent;
+{ 98 Middle_coronoid denticles_only teeth_only edentulous;
+{ 99 Anterior_coronoid denticles_only teeth_only edentulous;
+{ 100 Posterior_coronoid denticles_only teeth_only edentulous;
+{ 101 Prearticular_anterior_extent midpoint_of_middle_coronoid not_anterior_to_posterior_coronoid;
+{ 102 Prearticular_process_(hamate_process) absent present_and_short present_and_tall;
+{ 103 Preglenoid_process labial_side_of_surangular_with_straight_dorsal_margin_anterior_to_glenoid with_dorsally_convex_margin;
+{ 104 Meckelian_window_(length) small_round_or_oval_opening elongate_window_shorter_than_the_adductor_fossa as_long_or_longer_than_adductor_fossa;
+{ 105 Meckelian_window_(elements) bounded_by_the_prearticular,_postsplenial,_and_angular bounded_by_the_prearticular_and_postsplenial bounded_by_the_prearticular_and_angular bounded_by_the_prearticular,_postsplenial,_middle_coronoid_and_angular entirely_enclosed_by_the_postsplenial;
+{ 106 Splenial_contribution_to_symphysis absent present;
+{ 107 Splenial-coronoids splenial_contacts_multiple_coronoids_dorsally splenial_only_contacts_anterior_coronoid;
+{ 108 Angular_(extent_in_lateral_view) posterior_tooth_row middle_of_tooth_row;
+{ 109 Mandibular_anterior_ventral_margin straight concave;
+{ 110 Mandibular_tapering_in_height_anteriorly absent present;
+{ 111 Postglenoid_area short_boss distinct_process extended,_longer_than_glenoid_facet;
+{ 112 Glenoid_facet above_level_of_dentary same_level below;
+{ 113 Chorda_tympanic_foramen located_on_suture_between_articular_and_prearticular articular_alone absent suture_between_surangular_and_prearticular;
+{ 114 Presacral_count >28_positions 23-28_positions <_23_positions;
+{ 115 Atlas occipital_surfaces_separated occipital_surfaces_contacting;
+{ 116 Neural_arch_fused_on_axis absent present;
+{ 117 Intercentrum_(shape) Presacral_intercentra_form_simple_wedges dorsally_closed_discs dorsally_closed_and_elongated_cylinders;
+{ 118 Trunk_intercentrum_(chordal_canal) thoroughoing_and_wider_than_intercentrum_is_high thoroughgoing_and_narrower reduced_to_perforation_or_entirely_closed;
+{ 119 Intercentrum_(ventral_surface) shorter_than_wide_in_ventral_view,_transversely_rectangular as_long_as_wide,_quadrangular;
+{ 120 Intercentrum_(anterior_surface) always_concave convex_in_at_least_some_presacral_centra;
+{ 121 Pleurocentra present absent;
+{ 122 Neural_spine_height low_throughout_vertebral_column dorsally_extended_in_posterior_portion_of_trunk_or_tail;
+{ 123 Procoelous_third_vertebra absent present;
+{ 124 Parapophysis segmental intersegmental;
+{ 125 Ribs_uncinate_processes absent uncinate_plate uncinate_process;
+{ 126 Clavicle_(contact) absent reduced_to_anterior_part_of_pectoral_girdle prolonged_contact;
+{ 127 Clavicle_ornamentation reticulate_ornamentation_confined_to_small_region_and_with_broader_arc_of_radiating_grooves reticulate_ornamentation_forms_large_portion_of_posterolateral_surface_with_narrower_arc_of_radiating_grooves;
+{ 128 Clavicle_(sensory_groove) absent present_along_posterolateral_margin_of_ventral_surface;
+{ 129 Interclavicle_(porportions) as_long_as_wide 1.3_times_as_long_as_wide more_than_twice_as_long_as_wide;
+{ 130 Relative_size_of_region_of_reticulated_ornamentation_on_the_interclavicle_in_adults large,_equal_to_or_greater_than_half_the_total_width_of_the_ornamented_surface small,_less_than_half_the_total_width_of_the_ornamented_surface;
+{ 131 Anterior_termination_of_ornamented_region_of_interclavicle rounded tapering_to_a_triangular_point;
+{ 132 Humerus_(supinator) process_absent discrete_projection_offset_from_ectepicondyle process_largely_confluent_with_ectepicondyle;
+{ 133 Humerus_(torsion) Strong_70-90_degrees Weak_well_below_60_degrees;
+{ 134 Ilium_(shaft,_orientation) shaft_inclined_posterodorsally vertical;
+{ 135 Ilium_(shaft,_length) shaft_of_variable_length_but_laterally_flattened very_long_and_slender;
+{ 136 Ilium_(anterior_margin_of_dorsal_shaft) straight concave anteriorly_convex_with_flexure_at_mid-height;
+{ 137 Pubis unossified ossified;
+{ 138 Femur_(trochanter) internal_trochanter_present_as_discrete_process_offset_from_shaft continuously_confluent_with_shaft;
+;
+
+
+ccode  - 0.2 5 8.14 16.19 21.23 25.28 30.41 43.48 50.54 56.63 65.76 78.80 82.83 86.87 89.103 105.111 115.116 119.126 128 130.138 + 3.4 6.7 15 20 24 29 42 49 55 64 77 81 84.85 88 104 112.114 117.118 127 129;
+
+
+;

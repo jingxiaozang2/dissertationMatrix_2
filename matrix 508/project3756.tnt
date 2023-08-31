@@ -1,0 +1,121 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 14.15.43'
+69 34
+
+&[num]
+Kayentachelys_aprix                 100002000001000000000000000000-000000000000000-0000000100?0000000000?
+Pleurosternon_bullockii             2110020001210120000000020000010??01????0100000000000000000?0100000?0?
+Glyptops_plicatulus                 21100200012?01210000000200000?00?0?100101000000100000000000010000000?
+Arundelemys_dardeni                 11?002000?2?0010000000020?0?0000011??????????????????????????????????
+Hayemys_latifrons                   10?0??00012110?0?00000??010?0??1010??????????????????????????????????
+Neurankylus_baueri                  ???????????????????????????????????????100010010010000000?1010000111?
+Neurankylus_exemius                 ??????????2??????????0?????11???011????100010?100100000000100010011??
+Neurankylus_lithographicus          ?0???????????????????0???????0??01?????1010?00????00000000100000011??
+Neurankylus_torrejonensis           0000??????1??0?0?0??0001?0011???01?1?00101010???0100000?0?10?0?0?11??
+Trinitichelys_hiatti                11?0020001210010000001??0?0000?0011????0100?00??0000?000??100000?110?
+Scabremys_ornata                    ???????????????????????????????????????021120???000000011010011?011??
+Thescelus_insiliens                 ???????????????????????????????????????0110100?100000002001000101???0
+Baena_arenosa                       10100110011??1101000????00?1???0?1?1?01001010???1-0100?210100011111??
+Baena_affinis                       10??0???0?????1?1000?11??????????????0?0300100121-0100121010001011111
+Baena_escavada                      ???????????????????????????????????????001020?????0?00?21010001?111??
+Baena_hayi                          ????????????????????????????0??????????001020???1-01001010110111111??
+Boremys_grandis                     ???????????????????????????????????????1201201??1-1111121??00011011??
+Boremys_pulchra                     101100100?2?11?010?0111?010001??01001?10201201111-1111021011001?01101
+Chisternon_undatum                  101012?00111?11010001110001101?1?10020110001011?1-11?012?010001?1111?
+Denazinemys_nodosa                  101001000121111010100110000001?1010????0211200?21-11001210100010011??
+Eubaena_cephalica                   101100200122111010101112010001100100111??????????????????????????????
+Eubaena_hatcheri                    ???????????????????????????????????????0000200121-110010101000?0011??
+Stygiochelys_estesi                 101012100121111010001111010001111110?11??????????????????????????????
+Cedrobaena_brinkman                 1??001100222??1?100021110100011001000110010?00??0000000010110110?11??
+Cedrobaena_putorius                 1??001110222??1?1000211101001010010?0????????????????????????????????
+Gammerabaena_sonsalla               101001111?2?1110100011120???0??0010??????????????????????????????????
+Goleremys_mckennai                  101001210122?1101000011001000?10010??????????????????????????????????
+Palatobaena_bairdi                  00-0012111221120110111101101021001?0011??????????????????????????????
+Palatobaena_cohen                   00-0012111221120110111111100011001000110010?10??0000001010110110111??
+Palatobaena_gaffneyi                00-00121112211201101111111010210110??????????????????????????????????
+Plesiobaena_antiqua                 101001100121111010001112010001101100011000001011000000011011011011111
+Turtle_graveyard                    1011010001221110101011120100011001001?1001120?121-0100111011001011111
+Saxochelys_gilberti                 1010121001211110100011120100011001001110100?01111-11001?1010001101111
+Arvinachelys_goldeni                10000011012210101??0000?0110001?1101?10001020???000000001?1?0110111??
+
+;
+
+
+cnames
+{ 0 skull_shape_in_dorsal_view much_wider_than_long as_wide_as_long much_longer_than_wide;
+{ 1 sculptured_skull absent_(may_have_crenulations,_but_sculpturing_not_similar_to_that_found_on_shell) knobs_(similar_to_that_found_on_the_shell,_where_known);
+{ 2 snout_shape rectangular_snout pointed_snout;
+{ 3 preorbital_length short long;
+{ 4 orbit_shape circular posterior_notch_(not_perfect_circle);
+{ 5 size_of_orbit notably_small normal notably_large;
+{ 6 maxillary_hight_below_orbit notably_gracile normal notably_tall;
+{ 7 orbit_inset_into_maxilla no yes;
+{ 8 orientation_of_orbit laterally dorsally;
+{ 9 Cheek_emargination no_emargination minor_emargination deep;
+{ 10 upper_temporal_emargination absent present,_but_shallow deep;
+{ 11 size_of_tympanum notably_small normal notably_large,_relative_to_orbit;
+{ 12 Size_of_the_external_narial_opening small,_significantly_smaller_than_the_orbit large,_approximately_the_same_size_as_the_orbit;
+{ 13 orientation_of_external_nares anteriorly anterodorsally;
+{ 14 lingual_ridge complete reduced,_anteriorly_only absent;
+{ 15 Hooked_premaxilla absent present;
+{ 16 shape_of_triturating_surface lingual_and_labial_margins_more_or_less_parallel lingual_and_labial_margins_diverge_posteriorly,_triturating_surface_greatly_expanded_posteriorly;
+{ 17 angle_between_maxillae acute_angle obtuse_angle;
+{ 18 intermaxillary_arch/_tongue_groove broad narrow;
+{ 19 sulcus_around_external_narial_opening no present;
+{ 20 nasal_size large reduced absent;
+{ 21 prefrontal_exposure_on_skull_roof large reduced_to_absent;
+{ 22 frontal_maxilla_contact absent present;
+{ 23 jugal_contribution_to_orbit large small absent;
+{ 24 jugal_thickening absent present;
+{ 25 squamosal_parietal_contact present,_upper_temporal_emargination_shallow absent,_upper_temporal_emargination_deep;
+{ 26 Parietal_width_versus_length maximum_combined_width_of_parietals_less_then_their_length maximum_combined_width_of_parietals_greater_than_their_length;
+{ 27 posterior_thickening_of_parietal thins_out_posteriorly does_not_thin_out_posteriorly;
+{ 28 so_crest_capped_by_rounded_parietals absent present;
+{ 29 supraoccipital_exposure_between_parietals_on_skull_roof absent slight_exposure large_exposure;
+{ 30 PMX,_praeplanum_foramen located_entirely_within_premaxillae located_within_suture_of_premaxillae,_vomer_and/or_maxillae;
+{ 31 foramen_palatinum_posterius formed_by_pterygoid_and_palatine formed_entirely_by_palatine;
+{ 32 midline_contact_of_pterygoid large small;
+{ 33 pterygoid_basioccipital_contact poorly_developed well_developed;
+{ 34 contribution_of_opisthotic_to_stapedial_foramen excluded_from_stapedial_foramen enters_stapedial_foramen;
+{ 35 Hooked_mandible absent present;
+{ 36 splenial large reduced absent;
+{ 37 tubercle_on_posterolateral_edge_of_dentary absent present;
+{ 38 height_of_dentary hight low,_jaw_gracile;
+{ 39 carapace_length less_than_50cm greater_than_50cm;
+{ 40 shell_sculpturing smooth_to_slightly_sculptured distinct_tubercles_for_sculpturing_"glyptops_like"_sculpturing knobby long_waves;
+{ 41 general_fusion_of_the_shell no yes;
+{ 42 anteriorly_scalloped_shell absent present,_apomorphy_of_Boremys;
+{ 43 scalloping_of_posterior_rim_of_carapace absent present,_but_slight distinct;
+{ 44 costal_fontanelles absent yes,_fenestra_present,_even_in_individuals_where_sutures_are_fused;
+{ 45 preneural absent present;
+{ 46 neural_6_contacts contacts_costals_5_and_6 contacts_costals_5,_6,_and_7;
+{ 47 number_of_suprapygals_+_pygals three two one;
+{ 48 cervical_scutes undivided divided_(includes_sometimes);
+{ 49 size_of_cervical,_if_only_one_present single_cervical__wider_than_long single_cervical_longer_than_wide;
+{ 50 nuchal_scute absent present;
+{ 51 anterior_supernumary_pleural absent present;
+{ 52 posterior_supernumerary_pleural absent present;
+{ 53 supramarginal_scales absent present;
+{ 54 1st_vertebral_scute wide_anteriorly_and_narrows_posteriorly wide_posteriorly_and_narrows_anteriorly;
+{ 55 vertebral_III_shape wider_than_long length_and_width_approximately_equal length_greater_than_width;
+{ 56 5th_vertebral_forms_postior_edge_of_shell no yes;
+{ 57 vertebral_V vertebra_V_width_=_or_>_vertebral_IV_width vertebral_V_width_<_vertebral_IV_width;
+{ 58 epiplastral_processes present absent;
+{ 59 anterior_plastral_lobe rectangular/trapezoidal triangular;
+{ 60 plastral_lobe_dimensions posterior_lobe_larger_than_anterior_lobe anterior_lobe_larger_than_posterior_lobe;
+{ 61 gulars large,_like_extragulars greatly_reduced_relative_to_extragulars absent;
+{ 62 medial_contact_of_extragulars absent present;
+{ 63 sigmoidal_extragula_and_humeral_sulcus absent present;
+{ 64 sigmoidal_femoral/anal_sulcus absent clearly_present;
+{ 65 development_of_axillary_buttress poorly_developed_with_the_buttress_only_weakly_extending_onto_the_costals well_developed_with_the_buttress_extending_onto_the_costals_(forming_a_distinct_neck_shield);
+{ 66 extent_of_inguinal_buttress poorly_developed_with_the_buttress_not_extending_onto_the_middle_of_the_costals_(ends_on_the_distal_portion_of_costal) well_developed_withthe_buttress_reaching_the_costals;
+{ 67 articular_surfaces_on_cervical_vertebrae no,_all_are_amphicoelous yes,_some_vertebrae_are_proceolous_or_ophisthocoelous;
+{ 68 distal_caudals same_length_as_proximal_caudals significantly_longer_than_proximal_caudals;
+;
+
+
+ccode  + 0 5.6 9.11 14 20 23 29 36 43 47 55 61 - 1.4 7.8 12.13 15.19 21.22 24.28 30.35 37.42 44.46 48.54 56.60 62.68;
+
+
+;

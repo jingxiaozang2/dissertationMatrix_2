@@ -1,0 +1,189 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 14.59.09'
+117 54
+
+&[num]
+Oikopleura_fusiformes              010-00-0-0-0-110??0-100100--00----002-00---0--10-????0000-000110-10---10100---1101-00-1000000--1??011??0-10--0100-010
+Oikopleura_dioica                  010-00-0-0-0-1100?0-100100--00----002-00---0--10-0-010000-000110-10---00100---1101-00-0000000--111011000-10--0100-010
+Megalocercus_huxleyi               010-00-0-0-0-110??0-100100--00----002-00---0--10-0-010000-000110-10---10100---1101-00-??????0--1?1011000-10--0100-01?
+Fritillaria_borealis               010-00-0-0-0-110??0-100100--00----002-00---0--10-??0?0000-000110-10---10100---1101-00-0000000--1??011??0-10--0100-01?
+Salpa_fusiformis                   000-10-0-0-101000?0-10000101113---003-00---0--10-0-1010011101110-11111101010--0-------1101111??010--1000-00--1321?001
+Thalia_democratica                 000-10-0-0-101001?0-10000101113---003-00---0--10-0-1010011101110-11111101010--0-------110011100010--1000-00--1??1?001
+Iasis_cylindrica                   000-10-0-0-10100??0-10000101113---003-00---0--10-0-1010011101110-11111101010--0-------1100111?0010--1000-00--1??1?001
+Doliolum_nationalis                000-11?0-1311100??1010000101113---030100---0--0------0100-000110-1110-10100---1001-00-1101100--0111-1000-00--01110100
+Doliolum_denticulatum              000-1130-1311100??1010000101113---030100---0--0------0100-000110-1110-10100---1001-00-??????0--0111-100??0???0??1?10?
+Pyrosoma_atlanticum                000-10-0-0-0-1000?0-10100110103---03010111110011010100000-000110-0110-101010--0-------0110101?00111-1000-00--01110001
+Ascidiella_aspersa                 1-0-01210120-1000?0-100000--00----03000111010111?1110100111001110-110-10000---10110010011??10--1111-1101101000000-000
+Ascidiella_scabra                  1-0-01210120-100??0-100000--00----0300011101011111110100111001110-110-10000---101100100111110--1111-1101001010000-000
+Ascidia_mentula                    1-0-01210120-1000?0-100000--00----03000111011111?111010?111001110-110-10000---10110010011??10--1111-1100-00--03310000
+Ascidia_virginea                   1-0-01210120-100??0-100000--00----0300011101111111110101111001110-110-10000---10110010??????0--?111-110??0???????????
+Corella_parallelogramma            1-0-01210120-100??0-100000--00----031-0110-1011111010100111001111-110-10000---101100100111110--1111-1101000--00010000
+Rhodosoma_callense                 1-0-01210120-100??0-100000--00----03000110-10111110101?0111001111-110-10000---101???10??????0--?111-110??0???????????
+Phallusia_mammillata               1-0-01?10120-100010-100000--00----030001???11?11?111010?110001110-110-10000---10110010011?110--1111-110??0???????????
+Phallusia_nigra                    1-0-01?10120-100?10-100000--00----0300011101111111110101110001110-110-10000---10110010??????0--?111-110??0???????????
+Agnezia_septentrionalis            1-0-01?10120-100??0-100000--00----031-0111010111010101?00-0001110-110-10000---??????????????0--?111-110??0???????????
+Perophora_japonica                 1-0-01110120-1000?0-10000111?01--0020001???1??11?101010?0-0001110-110-100010--111100110111110--1111-1001100--01111000
+Perophora_viridis                  1-0-01110120-100??0-10000111101--002000110-10111110101000-0001110-110-100010--11110011??????0--?111-100??0???????????
+Ciona_intestinalis                 1-0-01210120-1000111100000--00----03001111011111010101000-100110-0110-10100---101100100110110--1111-1111001010000-000
+Dendrodoa_grossularia              1-0-010100-0-100??0-110000--00----13000100-0001001110100111001110-1111110010--1001-110??????0--1110111011010101010000
+Molgula_retortiformis              1-0-01111110-100??10100000--00----131-110??0??10-11001??101111110-111111010---0-------??1???0--??101111??0?????????0?
+Molgula_citrina                    1-0-01111110-100??10100000--00----131-1101000010-11001?0101111110-1111110110--1001-10-??????0--??101111??0?????????0?
+Molgula_manhattensis               1-0-01111110-1001010100000--00----131-1101000010-1100110101111110-111111010---1001-10-0111110--111011111001010000-000
+Microcosmus_claudicans             1-0-01011110-100??0-110000--00----13001101000010-11001?0111111110-111111010---101???10??????0--11100111??0?????????0?
+Styela_clava                       1-0-01010110-1001?0-110000--00----13001101000010-110011?111001110-111111010---10110?100111110--111001111001010000-000
+Styela_rustica                     1-0-01010110-100??0-110000--00----1300110??0?010-11001??111001110-111111010---1001-110??1???0--??10?11???0?????????0?
+Styela_plicata                     1-0-01010110-100000-110000--00----13001101000010-11001?0111001110-111111010---10110110??????0--11100111??0?????????00
+Botryllus_schlosseri               1-0-00-10140-1001?0-1000011010?--103000101000010-1100100111011110-1111110110--101111100111110--0110010011011004116000
+Symplegma_brakenhielmi             1-0-00-100-0-100??0-1000011010?--10300010??0??10-110010???1011110-1111110110--101111100111110--0110010???00--0210-000
+Halocynthia_roretzi                1-0-01011100-100100-110000--00----1300110100001100-101?01111?1110-111111010---10110010??????0--111011111?0?????????0?
+Herdmania_momus                    1-0-01011110-101??0-100000--00----1300110100001100-101?0111111110-111111010---101???10??????0--??100111??0?????????0?
+Kukenthalia_borealis               1-0-01010110-101??0-1000011010?--103001101000010-1100100111011110-11111100110010111?10??????0--0?100100??0?????????0?
+Pelonaia_corrugata                 1-0-01010110-100??0-100000--00----03001101000010-11001?011100110-0111111010---0-------??????0--??100111??0?????????0?
+Diazona_violacea                   1-1001110120-100??101000011110000-03000110-10111?0-1010011000110-0110-10100---10110010??????0--??010110??0?????????0?
+Clavelina_lepadiformis             1-1000-100-0-100??1010000110101--0030000---0--1110-101000-000110-0110-101010--111100100110110--0111-10010010101112000
+Diplosoma_listerianum              1-10011100-0-1000?11100001101001--020000---0--1110-101000-000110-0110-1010111-111101110110110--0111-1001000--0200-000
+Didemnum_maculosum                 1-10011100-0-101??11100001101001--020000---0--1110-101000-000110-0110-1010111-11110111??????0--??11-100??0?????????0?
+Lissoclinum_verrilli               1-10011100-0-101????10000110?001--020000---0--11???1010???000110-0110-1010111-111???110110110--0111-10???00-?0110-000
+Distaplia_stylifera                1-1001110140-100??101000011010000-020010---0--11???1010???10?110-0110-1010110111110?110110110--0111-10011012001114000
+Eudistoma_obscuratum               1-1001110120-100?1101000011010000-010000---0--11???1010???000110-0110-101010--111???110110110--0111-100??00--01213000
+Polyclinum_constellatum            1-1101110140-100?0101000011010001-030000---1--111?01010???000110-0110-101010--1111-?110110110--0111-10010011?01111000
+Polyclinum_aurantium               1-1101110140-100??101000011010001-030000---1--1110-101000-000110-0110-101010--1111-111??????0--0?11-100??0?????????0?
+Synoicum_pulmonaria                1-1101110140-100??1010000110?0001-030000---0--1110-101000-000110-0110-101010--111???11??????0--0?11-100??0?????????0?
+Aplidium_turbinatum                1-1101210140-100??101000011010001-030000---0--11???1010?0-100110-0110-101010--11110111??????0--0111-1000-010-0210-00?
+Morchellium_argus                  1-1101210140-100??101000011010001-030000---0--1110-101?00-100110-0110-101010--11110111??????0--??11-100??0?????????0?
+Sycozoa_sigillinoides              1-1000-10140-100??1?10000110101--0020000---0--1110-101?00-000110-0110-001011011101-010??????0--??11-100??0?????????0?
+Branchiostoma_floridae             010-00-100-0-0-0-010000110--00----030100---0--10-0-011001-???000-1101001010---1010-00-1000011101011-1000-00--0????001
+Branchiostoma_lanceolatum          010-00-100-0-0-0-010000110--00----030100---0--10-0-011001-???000-1101001010---1010-00-??????1101011-1000-00--0????001
+Petromyzon_marinus                 010-00-100-0-0-0-010000100--00----030100---0--10-0-001011-???000-10---00100---1010-00-1100011111011-0--0-00--0????001
+Lampetra_planeri                   010-00-100-0-0-0-010000100--00----030100---0--10-0-001011-???000-10---00100---1010-00-11??011111011-0--0-00--0????001
+Lampetra_fluviatilis               010-00-100-0-0-0-010000100--00----030100---0--10-0-001011-???000-10---00100---1010-00-1????11111011-0--0-00--0????001
+
+;
+
+
+cnames
+{ 0 sessile_adults absent present;
+{ 1 Undulatory_locomotion_in_adults absent present;
+{ 2 body_division absent present;
+{ 3 number_of_body_parts 2 3;
+{ 4 incurrent_and_excurrent_siphon_on_opposite_poles_of_the_animal absent present;
+{ 5 lobed_incurrent_siphon absent present;
+{ 6 number_of_lobes_at_incurrent_siphon 4 6 8 >8;
+{ 7 oral_tentacles absent present;
+{ 8 shape_of_oral_tentacles simple,_unbranched branched;
+{ 9 lobed_excurrent_siphon absent present;
+{ 10 number_of_lobes_at_excurrent_siphon 2 4 6 >6 atrial_languet;
+{ 11 conspicuous_circular_muscle_bands_for_locomotion absent present;
+{ 12 shape_of_circular_muscle_bands discontinuous continuous;
+{ 13 tunic absent present;
+{ 14 shape_of_tunic simply_covers_epidermis forms_elaborated_filter-feeding_house;
+{ 15 calcareous_spicules_in_tunic absent present;
+{ 16 tunic_protrusions absent present;
+{ 17 vanadium absent present;
+{ 18 epicardium absent present;
+{ 19 shape_of_epicardium_in_adult uniform paired,_separated_sacs;
+{ 20 heart_beat_reversal absent present;
+{ 21 endocarp absent present;
+{ 22 light_organs absent present;
+{ 23 notochord_in_adults absent present;
+{ 24 length_of_notochord not_extended extended,_along_the_whole_body;
+{ 25 colonial absent present;
+{ 26 sexually_mature_colonial_form: absent:_sexually_propagating_chain_of_animals_break_up present:_colonial_forms_throughout_entire_development;
+{ 27 connection_of_zooids_within_colonies zooids_completely_embedded_in_a_common_tunic zooids_connected_via_stolons;
+{ 28 metagenesis absent present;
+{ 29 polymorphic_generations absent present;
+{ 30 type_of_budding epicardial mesenchymatic palleal complex_stolo_prolifer;
+{ 31 type_of_epicardial_budding strobilation pyloric_(esophageal_and_entero-epicardial);
+{ 32 type_of_strobilation abdominal postabdominal;
+{ 33 type_of_mesenchymatic_budding septal vascular;
+{ 34 shape_of_branchial_basket_wall unfolded folded;
+{ 35 arrangement_of_stigmata_in_one_side_of_the_body 1_stigma 3_rows 4_rows >4_rows;
+{ 36 shape_of_stigmata straight lunate_or_spiral round_or_ovoid expanded;
+{ 37 orientation_of_stigmata_in_adults longitudinal_(anterior_to_posterior) transversal_(ventral_to_dorsal);
+{ 38 parastigmatic_blood_vessels absent present;
+{ 39 longitudinal_blood_vessels absent present;
+{ 40 internal_longitudinal_vessel_on_papillae absent present;
+{ 41 ciliated_longitudinal_vessels absent present;
+{ 42 arrangement_of_cilia continuous_row_of_cilia cilia_in_individual_tufts;
+{ 43 branchial_basket_with_papillae absent present;
+{ 44 papillae_at_intersections_of_transverse_and_longitudinal_vessels absent present;
+{ 45 junctions_of_longitudinal_and_transverse_vessels_with_cilia absent present;
+{ 46 dorsal_organ absent present;
+{ 47 dorsal_organ_with_languets absent present;
+{ 48 number_of_languet_equals_number_of_transverse_vessels absent present;
+{ 49 dorsal_organ_with_membrane absent presnt;
+{ 50 dorsal_organ_smooth_edged_or_plain absent present;
+{ 51 dorsal_organ_with_multiple_tranverse_ciliary_bands absent present;
+{ 52 dorsal_organ_as_ciliated_groove absent present;
+{ 53 shape_of_peripharyngeal_band flat_ciliated_epithelium ciliated_groove;
+{ 54 peripharyngeal_band_with_conspicuous_dorsal_curvature absent present;
+{ 55 papillae_in_prebranchial_area absent present;
+{ 56 excretory_structure absent present;
+{ 57 type_of_excretory_structure kidney renal_vesicles_or_nephrocytes;
+{ 58 stomach_folded_or_plicated absent present;
+{ 59 hepatic_gland absent present;
+{ 60 stomach_caecum absent present;
+{ 61 pyloric_gland absent present;
+{ 62 shape_of_gastrointestinal_tract straight u-shaped;
+{ 63 position_of_gastrointestinal_tract_in_relation_to_branchial_basket mostly_posterior lateral;
+{ 64 position_of_lateral_gastrointestinal_tract on_left_side on_right_side;
+{ 65 position_of_rectum_in_mostly_posterior_gastrointestinal_tracts dorsomedian ventromedian;
+{ 66 atrial_cavity absent present;
+{ 67 origin_of_atrial_cavity ventral dorsal;
+{ 68 shape_of_ontogentetic_rudiment_of_atrial_opening paired unpaired;
+{ 69 position_of_unpaired_rudiment_of_atrial_opening ventral dorsal;
+{ 70 hermaphroditism absent present;
+{ 71 type_(position)_of_gonads enterogon pleurogon;
+{ 72 position_of_gonads_in_relation_to_branchial_basket lateral posterior;
+{ 73 occurrence_of_gonads unpaired paired;
+{ 74 site_of_fertilization external internal;
+{ 75 site_of_brooding atrial_or_peribranchial_area brood_chambers;
+{ 76 site_of_brood_chamber outgrowth_of_peribranchial_cavity common_tunic;
+{ 77 location_of_atrial_brood_chamber left_side dorsal_side;
+{ 78 chordate_type_larva absent present;
+{ 79 orientation_of_larval_tail_in_relation_to_larval_trunk vertical horizontal;
+{ 80 larval_eye absent present;
+{ 81 larval_statocyte absent present;
+{ 82 larval_photolith absent present;
+{ 83 larval_ampullae absent present;
+{ 84 larval_adhesive_papillae_(more_than_one) absent present;
+{ 85 orientation_of_larval_papillae triradial sagittal;
+{ 86 serotonin-lir_in_the_brain_of_adult_specimens absent present;
+{ 87 serotonin-lir_in_the_peripharyngeal_bands absent present;
+{ 88 serotonin-lir_in_the_endostyle absent present;
+{ 89 serotonin-lir_in_the_retropharyngeal_band absent present;
+{ 90 serotonin-lir_in_the_esophagus absent present;
+{ 91 serotonin-lir_in_the_gastrointestinal_tract absent present;
+{ 92 adult_with_cerebral_eye(s) absent present;
+{ 93 type_of_photoreceptor_cells_in_adult_cerebral_eyes rhabdomeric ciliary;
+{ 94 adult_cerebral_eye_with_lens absent present;
+{ 95 shape_of_adult_brain ovoid,_pear-shaped elongated;
+{ 96 brain_divided_into_cortex_and_neuropil absent present;
+{ 97 neural_gland absent present;
+{ 98 position_of_neural_gland_compared_to_brain not_ventral ventral;
+{ 99 position_of_not_ventral_neural_gland dorsomedian right;
+{ 100 dorsal_tubercle absent present;
+{ 101 shape_of_dorsal_tubercle simple intricate;
+{ 102 opening_of_dorsal_tubercle_pedestal-like_elevated absent present;
+{ 103 dorsal_strand absent present;
+{ 104 dorsal_strand_ends_in_close_proximity_to_brain absent present;
+{ 105 caudal_ganglion_in_adults absent present;
+{ 106 ventral_visceral_nerve absent present;
+{ 107 number_of_ventral_visceral_nerves 1 2 4;
+{ 108 dorsal_strand_plexus absent present;
+{ 109 brain_appendages absent present;
+{ 110 number_anterior_nerves_per_side 1 2 3 4 6;
+{ 111 number_posterior_nerves_per_side 1 2 3 4;
+{ 112 lateral_nerves absent present;
+{ 113 number_of_lateral_nerves_per_side 1 2 3 4 5 6 >6;
+{ 114 unpaired_anterior_nerve_projecting_toward_dorsal_tubercle absent present;
+{ 115 statocyte_in_adult absent present;
+{ 116 conspicuous_lateral_fiber_tracts_in_adult_brains absent present;
+;
+
+
+ccode  - 0.116;
+
+
+;
