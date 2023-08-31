@@ -1,0 +1,82 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.22.48'
+43 21
+
+&[num]
+Tricoelodus_spp.                                        ??0020????????0?1001110000?01??????????????
+Polymorphis_lechei                                      ??0020????????0?1001100000111??????????????
+Cramauchenia_normalis                                   00013000000100001001010100?11?010000??00?0?
+Coniopternium_spp.                                      ??0100????????0??0?1000100?01??????0???0???
+Pternoconius_spp.                                       ??0020????0???0??100000100111??????????????
+Llullataruca_shockeyi                                   ??0100????????0??101110100001??????0???????
+Theosodon_spp.                                          1000011100011000101000011[01]11100111100-00000
+Cullinia_levis                                          ??0?1[01]????????0?00?1100110011???????????1??
+Huayqueriana_cristata                                   21?2?122[01]11100?0?1111??1?0???1[01]0110????????
+Scalabrinitherium_bravardi                              2-0[01]0122011110000111000110?11111?01????????
+Oxyodontherium_zeballosi                                21003[01]2201100?010111000110?110?0??0????????
+Paranauchenia_denticulata                               ??1?012?0?????0?01011?0111??1??????????????
+Paranauchenia_hystata                                   ??11?1???????????1?1?00?11111??????????????
+Promacrauchenia_antiquua                                ?111112?0?1000110110110110011111101110?11??
+Promacrauchenia_calchaquiorum                           2?????22111000?101101????????1111??????????
+Xenorhinotherium_bahiense                               2201322?211011111110110110010?1?101111??1??
+Macrauchenia_patachonica                                222232[23]221111110110111111001111010111111111
+Macraucheniopsis_ensenadensis                           ??2233???1111?100110111110011??????????????
+Windhausenia_delacroixi                                 ??10?2???1???1???????10?1?010?1??01????????
+Promacrauchenia_sp._(Anaya_and_Macfadden_1995)          ??2231????????1??????11110?11??????111?????
+Micrauchenia_saladensis                                 ???????????????????????????????????11111111
+
+;
+
+
+cnames
+{ 0 Development_of_nasals developed_overhanging_the_nasal_aperture reduced vestigial_or_absent;
+{ 1 Orbit_postorbital_bar open_large_gap open_small_gap closed;
+{ 2 Entoconid_on_m1-m2 developed_reaches_lingual_level_of_metaconid weak_does_not_reach_lingual_level_of_the_metaconid absent;
+{ 3 Trigonid_of_m1 uncompressed slightly_compressed_against_the_talonid_of_p4 strongly_compressed_against_the_talonid_of_p4;
+{ 4 Entoconid_on_m3 developed_and_joined_to_hypolophid_(cristid_obliqua) incipient_on_the_hypolophid_(cristid_obliqua) joined_to_hypolophulid absent;
+{ 5 Length_of_m2 small_(5-20_mm) medium_(21-35_mm) large_(36-45_mm) very_large_(more_than_45_mm);
+{ 6 Position_of_coronal_plane_passing_through_infraorbital_foramen anterior_to_M1 anterior_to_M2 anterior_to_M3 over_M3;
+{ 7 Snout_in_dorsal_view premaxillae_and_maxillae_separated_sagittally premaxillae_sutured_sagittally premaxillae_and_maxillae_sutured_sagittally;
+{ 8 Orbit,_coronal_plane_passing_through_rostral_border anterior_to_posterior_border_of_M3 level_with_posterior_border_of_M3 considerably_posterior_to_M3_(equivalent_to_one_tooth-length_gap);
+{ 9 Nasal_aperture_caudal_border anterior_to_orbit level_with_orbit;
+{ 10 Anterior_palatal_shape lateral_borders_almost_parallel narrowing_at_P2_or_P3_level;
+{ 11 Outline_of_premaxillary_area_in_palatal_view acute rounded;
+{ 12 Premaxillary_area_in_lateral_view slightly_ventrally_curved straight;
+{ 13 Frontal_fossae_on_caudal_margin_of_nasal_aperture absent present;
+{ 14 'Height of tooth crown (HI: crown height/labiolingual width; Janis 1988) based on m3 when possible' brachyodont_(HI_<_1.45) mesodont_(HI_≥_1.45);
+{ 15 Diastema_between_I3-C present absent;
+{ 16 Parastyle_on_P3-P4 labially_projected level_with_mesostyle_and_metastyle;
+{ 17 Concavities_between_lingual_styles_(parastyle-mesostyle-metastyle)_on_M1-M3 shallow deep;
+{ 18 Position_of_hypocone_on_M1-M2 hypocone_level_with_metacone hypocone_near_protocone_mesial_to_metacone;
+{ 19 Position_of_hypocone_vs_protocone_on_M2 hypocone_labial_to_protocone hypocone_lingual_to_protocone;
+{ 20 Anterolingual_cingulum_(precingulum)_on_M1-M2 noticeably_more_lingual_than_posterolingual_cingulum slightly_lingual_or_at_same_level_as_posterolingual_cingulum;
+{ 21 Hypolophulid_on_p4 shorter_than_paralophid similar_in_length_to_paralophid;
+{ 22 Entolophid_on_m1-m2 present absent;
+{ 23 Hypoconulid_on_m3 expanded_forming_a_third_lobe not_expanded;
+{ 24 Paralophid_on_m1-m2 labial_to_lingual_border_of_metaconid level_with_or_lingual_to_lingual_border_of_metaconid;
+{ 25 Metaconid_on_m2 labial_or_level_with_paraconid_and_entoconid/hypoconulid projects_lingual_to_level_of_paraconid_and_entoconid/hypoconulid;
+{ 26 Implantation_of_c-p2_series oblique parallel_to_mandibular_border;
+{ 27 Trigonid_valley_on_p4 larger_than_talonid_valley similar_in_size_to_talonid_valley;
+{ 28 Entoconid_on_p4 present absent;
+{ 29 Choana,_rostral_border_(=posterior_border_of_palate) level_with_or_anterior_to_posterior_border_of_M2 posterior_to_M2;
+{ 30 Sagittal_crest present absent;
+{ 31 Basioccipital,_median_crest absent_or_vestigial present;
+{ 32 Skull_shape_(ratio_SL/SW) short_and_wide_(SL/SW_≤_2.3) long_and_narrow_(SL/SW_>_2.3);
+{ 33 Occipital_condyles protruding_at_level_of_nuchal_crest_in_lateral_view not_protruding_at_level_of_nuchal_crest_in_lateral_view;
+{ 34 Odontoid_notch U-shaped V-shaped;
+{ 35 Fusion_of_ulna_and_radius unfused fused;
+{ 36 Presence_of_a_radial_aliform_expansion absent present;
+{ 37 Medio-lateral_development_of_the_radial_aliform_expansion_(URA/URD) moderately_wide_(URA/URD_<_1) expanded_(URA/URD_≥_1);
+{ 38 Scaphoid,_number_of_articular_facets_for_the_trapezoid two_(ridge_separating_the_facets) one_(no_ridge,_continuous_facet);
+{ 39 Cuneiform,_facet_for_the_magnum entirely_lateral extending_over_the_magnum_proximally;
+{ 40 Pisiform_shape moderately_proximo-distally_expanded_at_the_posterior_end_ greatly_proximo-distally_expanded_at_the_posterior_end;
+{ 41 Atlas,_posteriormost_border_of_transverse_processes_ anterior_to_atlas's_articular_facet_for_the_axis_ posterior_to_atlas's_articular_facet_for_the_axis;
+{ 42 'Axis, relative dorsoventral height of articular facets for the atlas (WA/HA; WA: Width of one anterior articular surface for the atlas; HA:  Dorsoventral height of one anterior articular surface for the atlas)' high_(WA/HA_<_0.9) low_(WA/HA_≥_0.9);
+;
+
+
+ccode  + 0.2 6.7 - 3.5 8.42;
+
+
+;

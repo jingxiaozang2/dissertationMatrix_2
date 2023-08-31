@@ -1,0 +1,134 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.21.10'
+84 32
+
+&[num]
+Chelydra_serpentina                    0-0000202000021200100-0122300100000000002000030000000-0-0-100001100-11-0030-001--000
+Notoemys_laticentralis                 ??????????00000????????1??3??000202????0200?00100000000020100001001110001-10011--00-
+Platychelys_obendorferi                ?????????????????????????????0??????1?10200030100001010220100001001111001-10121-?00-
+Araripemys_barretoi                    0-01002021000202000-10120010000011100001111001014000110?210-0101000-1200??1-1000-000
+Podocnemis_sextuberculata              0-00002011000211000-111022110100111000001102210210011012140-110101100-000001001--001
+Podocnemis_expansa                     0-00002011001211000-111022110100111000001102210210011012140-110101100-000001021--001
+Elseya_dentata                         102000011101001000100-11220111002021011011013102101-1112130-1101000-0-00031-0?1-0103
+Emydura_macquarii                      102100011101001000100-11220111002021011011022102101-111212101101000-0-00031-00020103
+Rheodytes_leukops                      102100011101001000100-11220101002021011011013102101-111110101001000-0-00011-001-0101
+Myuchelys_latisternum                  1022000110010010000-0-11121111002021011011022102101-111122101101000-0-001-1-011-0101
+Pseudemydura_umbrina                   102000010111011000101011221110002021011011022102101-111112101001000-0-01020-?01-0103
+Chelodina_colliei                      122211112301220-100-11100100101020210111011101021001111030101210--0-0-11020-00010003
+Chelodina_expansa                      122211112301220-100-1110012010102021011101110102301-111031101211010-0-11020-0001-103
+Platemys_platycephala                  102100211101100000101011122010002021011001012102201-101132101101010-0-00010-111--101
+Acanthochelys_macrocephala             111100012201120100101011122010002021011001012102201-111132101211110-0-001-1-011-0111
+Acanthochelys_radiolata                111100212201120100101011122010002021011001012102201-111132101211110-0-001-1-011-0111
+Mesoclemmys_nasuta                     1121000122011210001010111200100020210110010121022002101132101211110-0-001-1-011-2101
+Mesoclemmys_gibba                      1121000122011011001010111200100020210110010121022002111132101211110-0-001-1-01122101
+Phrynops_hilari                        1021000122011011001010111220100020210110010121022001111132101111010-0-001-1-01001001
+Phrynops_geoffroanus                   1021000122011011001010111220100020210110010121022001111132101111010-0-001-1-01021001
+Chelus_fimbriatus                      0-22001122012200001110111210100020210110010112001001111130101211000-0-00011-001-000?
+Hydromedusa_maximiliani                1211010123012200011110110110101120210111011211022101101042111111110-0-001-1-01013000
+Hydromedusa_tectifera                  1211010123212100011110100110101120210111011211022001111041111100--0-10001-1-00013000
+Hydromedusa_casamayorensis             ????????23??220????????1??1??????02?01110112????2001111132111211000-0-001-1-?001?00?
+Yaminuechelys_gasparinii               ?2210??12320?21001?????????0101020??01110112110?000111002210021101111100???00101-00?
+Yaminuechelys_maior                    1?2????1232022100?????11??????102?2?01110112110?0001110122100211011110001-101002-001
+Yaminuechelys_sulcipeculiaris          ???????????????????????????????????????1?1???????001110?2210???0--??????????0001?0??
+Mesoclemmys_dahli                      112100002201121100101011120010002021011001012102201-111132101211110-0-001-1-01022100
+Mesoclemmys_raniceps                   112100002201121100101011120010002021011001012102201-111132101211110-0-001-1-01122100
+Mesoclemmys_vanderhaegei               ????????????????????????????????????????????21022003101132101211110-0-001-1-0112?102
+Mesoclemmys_vanegasorum                ???????????????????????????????0??21???0010?2102201-101132101211000-0-001-1-0103?102
+Mesoclemmys_hogei                      ???????????????????????????????0???????0010?21022003111132101211100-0-001-1-0112?102
+
+;
+
+
+cnames
+{ 0 Nasals Absent Present;
+{ 1 Nasals_covering_the_dorsal_view_of_the_premaxillar Completly Partially Not_covering;
+{ 2 Prefrontals_contact_in_the_midline Present Present,_contact_over_the_anterior_process_of_the_frontals Absent;
+{ 3 Anterior_process_of_the_frontals Not_developed Developed,_partially_separate_the_nasals Well_developed,_reaching_the_anterior_edge_of_the_skull;
+{ 4 Frontals Sutured Fused;
+{ 5 Posterior_maxillar_process_reaching_the_posterior_margin_of_the_orbits Present Absent;
+{ 6 Maxillar_contact_in_the_midline Present Absent,_separate_by_vomer Absent,_separate_by_premaxillar;
+{ 7 Quadratojugal Present Absent;
+{ 8 Lateral_edge_of_the_parietals_on_dorsal_view Extending_until_lateral_edge_of_the_skull Covering_the_stapediotemporalis_foramen not_extending_beyond_the_medial_region_of_the_skull;
+{ 9 Lateral_edge_of_the_parietals Tappering_anteriorly Paralell_or_subparalell Reduced_at_the_medial_portion Tappering_posteriorly;
+{ 10 Squamosal-Supraoccipital_contact Absent Present Present,_contact_by_temporal_bar;
+{ 11 Squamosal-Parietal_contact Absent Present;
+{ 12 Exoccipitals Not_meet_in_midline_over_the_foramen_magnum meet_in_midline_over_the_foramen_magnum fused_in_midline_over_the_foramen_magnum;
+{ 13 Supraoccipital_shape Rhomboidal Subtriangular Oblong_(anteroposterior_axis_much_longer_than_lateromedial_axis);
+{ 14 Crista_supraoccipitalis Not_extend_beyond_the_occipital_condyle Extend_beyond_the_occipital_condyle;
+{ 15 Posterior_skull_emargination Not_reaching_the_quadrate_in_dorsal_view Reaching_the_quadrate_in_dorsal_view Extending_beyond_the_quadrate_in_dorsal_view;
+{ 16 Posterior_skull_emargination_linked_with_lateral_emargination Absent Present;
+{ 17 Largely_apertura_narinum_internae Absent Present;
+{ 18 Palatines_contact_in_midline Present Absent;
+{ 19 When_palatines_not_contact_in_midline separate_by_vomer separate_by_pterygoids;
+{ 20 Pterygoid-Maxillar_contact Present Absent;
+{ 21 When_Pterygoids_Maxilla_contacs_are_absent Separated_by_palatines Separated_by_jugal;
+{ 22 Pterygoids-basioccipital_contact Present Absent;
+{ 23 Quadrate-Basisphenoid_contact Present Absent State_2;
+{ 24 Medial_process_of_the_basisphenoid_in_ventral_view Extending_beyond_the_processus_pterygoidei Reaching_the_processus_pterygoidei Extending_behind_the_processus_pterygoidei;
+{ 25 Medial_process_of_the_basisphenoid_separated_the_pterygoid completely almost_everything only_posterior_region;
+{ 26 Foramen_posterius_canalis_carotici_interni_in_ventral_view Developed_between_basisphenoid_and_prootic Developed_only_over_prootic Developed_between_prootic_and_quadrate Developed_between_pterygoids_and_prootic;
+{ 27 Lower_jaw_symphisis Sutured Fused;
+{ 28 Splenial_bone Absent Present;
+{ 29 Symphyseal_hook Absent Present;
+{ 30 Neural_arch_elements_of_the_atlas Dorsally_sutured Dorsally_fused;
+{ 31 Anterior_process_of_neural_arch_in_axis Absent Present;
+{ 32 Cervical_2 Amphicoelous Procoelous Opistocoelous;
+{ 33 Cervical_3 Opistocoelous Procoelous;
+{ 34 Cervical_4 Biconvex Procoelous Opistocoelous;
+{ 35 Cervical_5 Procoelous Biconvex;
+{ 36 cervical_6 Procoelous Biconcave;
+{ 37 cervical_7 Procoelous Biconcave;
+{ 38 cervial_8 Procoelous Biconvex;
+{ 39 Cervical_vertebrae shorther_than_twice_it_wide longer_than_twice_it_wide;
+{ 40 Angled_spine_on_cervical_vertebra_3-7 angled_respect_to_the_cervical_body_less_than_40_degrees angled_respect_to_the_cervical_body_more_or_equal_than_40_degrees absent_of_angled;
+{ 41 Postzygapophyses_process Separated_and_relatively_low Extended_posterodorsally_over_the_neural_spine;
+{ 42 Postzygapophyses_fused_in_the_midline Absent Present;
+{ 43 Medial_ventral_crest_on_8_cervical_vertebrae Absent Slightly_development_without_covering_all_vertebral_body_length Widely_development_at_all_vertebral_body_length;
+{ 44 Lenght_of_thoracic_vertebra_1 Longer_than_thoracic_vertebra_2 As_long_as_thoracic_vertebra_2 Slightly_shorter_than_thoracic_vertebra_2 Shorter_than_thoracic_vertebra_2;
+{ 45 Thoracic_rib_1A Thoracic_rib_1_large_and_separated_from_thoracic_rib_2 Thoracic_rib_1_reduced_almost_same_size_of_the_medial_portion_of_the_rib_2,_both_separated_by_an_oval_elongated_space Thoracic_rib_1_shorter_than_the_medial_exposed_portion_of_thoracic_rib_2,_very_small_oval_space_between_them Thoracic_rib_1_longer_than_thoracic_rib_2,_smaller_than_the_medial_portion_of_thoracic_rib_2,_both_separated_by_an_oval_elongated_space;
+{ 46 Thoracic_rib_1B Articulation_facet_on_thoracic_rib_1_absent Articulation_facet_on_thoracic_rib_1_present,_facet_or_tubercle_on_anterior_margin_of_thoracic_rib_1;
+{ 47 Costovertebral_Tunnel Developed_through_thoracic_vertebrae_serie,_narrowing_toward_posterior_end Moderate_developed_only_in_anterior_thoracic_vertebra,_narrowing_towards_posterior_end Slightly_developed_through_thoracic_vertebra_serie,_narrowing_toward_posterior_end;
+{ 48 Nuchal_bone_geometry Two_or_more_times_wider_than_lenght width_greater_than_lenght_but_less_than_two_times width_approximately_equals_lenght width_approximately_equals_length,_maximum_width_at_least_the_anterior_edge_width Nuchal_bone_greatly_emarginated,_anterior_edge_width_equals_maximum_width;
+{ 49 Nuchal_bone_position Reaching_the_anterior_margin Not_reaching_the_anterior_margin_located_behind_the_first_peripherals_bones;
+{ 50 neural_serie present absent;
+{ 51 When_neural_serie_is_present continuous,_reaching_the_suprapygal_bone continous_not_reaching_the_suprapygal continous_not_reaching_the_nuchal_bone_either_the_suprapygal_bone discontinous_not_reaching_the_nuchal_bone_either_the_suprapygal_bone;
+{ 52 Suprapygal_bone two one;
+{ 53 Illiadic_suture_restricted_to_costal_bones Present Absent;
+{ 54 Peripheral_bones anterior_shorter_than_posterior_ones anterior_longer_than_posterior_ones;
+{ 55 Axillary_butresses_extending_over_first_costal_bone Until_lateral_edge Until_medial_portion Until_medial_edge;
+{ 56 Axillary_butresses_extending_on_peripheral_bones Absence_of_axillary_buttresses Present,_until_peripheral_2_and_3 Present,_until_peripheral_3 Present,_until_peripheral_3_and_4 Present_until_peripheral_4;
+{ 57 Inguinal_buttress_extends_over_peripherals Peripherals_6_and_7 Peripheral_7 Peripherals_7_and_8 Peripheral_8 Not_extending_over_peripherals;
+{ 58 Cervical_scute Absent Present;
+{ 59 When_cervical_scute_is_present Reaching_the_anterior_margin_of_the_carapace Extend_behind_the_first_marginal_scutes;
+{ 60 Vertebral_1A Two_or_more_times_wider_than_long wider_than_long;
+{ 61 Vertebral_1B anterior_margin_of_vertebral_1_as_wide_as_the_posterior_margin wider_than_the_posterior_margin twice_as_wide_as_the_posterior_margin;
+{ 62 Vertebral_1_over_Vertebral_2 Equal_or_Narrower Wider;
+{ 63 Vertebral_5A Restricted_to_suprapygal_bone_and_eight_costal_bones Not_restricted_to_suprapygal_bone_and_eight_costal_bones;
+{ 64 Vertebral_5B1 Extending_over_pygal_bone Not_extending_over_pygal_bone;
+{ 65 Vertebral_5B2 Extending_over_peripheral_tenth_and_eleventh Extending_only_over_eleventh_peripherals;
+{ 66 Mesoplastra Absent Present;
+{ 67 When_mesoplastron_are_present Longer_as_wide Wider_than_long;
+{ 68 Fontanelles Absent Present;
+{ 69 When_fontanelles_are_present one two three;
+{ 70 Gular Reaching_the_anterior_margin_of_the_plastron Not_reaching_the_anterior_margin_of_the_plastron;
+{ 71 Humerals Contact_in_the_midline Not_contact_in_the_midline;
+{ 72 Pectoral_scute_extending_over_entoplastron Present Absent;
+{ 73 When_pectoral_scute_extend_over_entoplastron Cover_posterior_half cover_only_third_posterior cover_posterolateral_region reaching_the_suture_entoplastron-hioplastron;
+{ 74 Pectoral_scute_extending_over_epiplastron Present Absent;
+{ 75 Pectoral_scute_extending_over_mesoplastron Present Absent;
+{ 76 The_depth_of_the_nuchal_notch Shallow deep;
+{ 77 Pygal_shape trapezoidal rectangular hexagonal;
+{ 78 Ornamentation Present_in_both_carapace_and_plastron Absent_in_carapace,_occasionally_present_in_some_regions_of_the_plastron;
+{ 79 Type_of_ornamentation Sulci_form_uniform_polygons Sulci_form_irregular_polygons Sulci_form_polygons_and_lines Microvermiculation;
+{ 80 Squamosal-parietla_contact_temporal_bar wide_to_moderate narrow extremely_narrow_formed_by_squamosal-parietal_only extremely_narrow_formed_by_squamosal-parietal_and_supraoccipital;
+{ 81 Costals_1_meeting_medially absent present;
+{ 82 Shallow_midline_carapace_depression Absent present;
+{ 83 Pectoral_vs._abdominal_length_at_the_midline_of_plastron Pectoral_scute_as_long_as_the_abdominal Pectoral_scute_slightly_shorter_than_the_abdominal Abdominal_scute_twice_or_more_the_length_of_pectoral Pectoral_scute_much_longer_than_abdominal;
+;
+
+
+ccode  - 0 2 4.7 9.11 16.23 26.42 45.54 58.60 62.68 71 73.83 + 1 3 8 12.15 24.25 43.44 55.57 61 69.70 72;
+
+
+;

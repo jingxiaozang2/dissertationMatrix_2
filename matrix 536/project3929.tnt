@@ -1,0 +1,188 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.20.38'
+130 40
+
+&[num]
+Tetramesa_sp                        1000-00000000??0100000000000100000000?1??00???0?????000100000000-0-000001100????0100010000000104??000000010?000000-000000000001000
+Rileya_jras07552                    1100000022000300100210000000101000010???????????????000?00000000-0-000001110???00102010000000004100010000?0?000000-000000000001100
+Macrorileya_inopinata               11000000000000001000000000001000000001-0000000000010000000000000-0-00000110000000101010000000104?00000000001000000-000000000001100
+Acanthochalcis_nigricans            12110201110002110112200001011-0?00010?-0????????????011000001100010000010000???100021101301??103101110001?000111120012210200000200
+Cratocentrus_aff_decoratus          12111201110002110112200001011-02000102-022100--000-101100000110001000001000000010002110130111103101110001?000111120012210200000200
+Cratocentrus_gdel00534              1211120111000211011220000101??????????????????-???????1??0001100010000010000????00021101301??103101110001?000111120012210200000200
+Trigonura_sp                        1211111010000211012200000101101110001221121001100001001??1001100010010011110000101020011101211011000101100010201120012210200000000
+Trigonura_gdel00437                 12111110100002110122000001011????????????????????????01??1001100010010011110???101020011100??1011000101100010201120012210200000000
+Stypiura_sp                         1211111010000211112200000101101110001221121001100001011??1001100010010011110000101020011101211011000101100010201120012110200000011
+Stypiura_gdel00580                  12111110100002111122200001000????????????????????????11??1001000011010011110????01020011101??1011000101100010201120012110200000011
+Brachymeria_minuta                  1211111011000211000210000101111110112211?11101100111001010101100011010111010000101020001101211021000101100110001120001110010000110
+Brachymeria_podagrica               121111101100021100021000010??????????????????????????01010101100011010111010????01020001101??1021000101100110001120001110010000110
+Brachymeria_tibialis                1211111010000211000210000101111110112211?11101100111001010101100011010111010000101020001101211021000101100110001120001110010000110
+Brachymeria_gdel00453               121111101000001100021000010??????????????????????????01?10101100011010111010????01020001101??10?1000101100110001120001110010000110
+Chalcis_myrifex                     1211011010200011000100000000001110112311121101100001001000011100011011112110100102031100001211011000100000001001120102110101030020
+Melanosmicra_variventris            121111101020021100020000000?001110112311121101100001001000011100011011112110100102021100001211011000100000001001120102110001030020
+Conura_immaculata                   1211111010000211100200000000011110112311121101100111001000001100011011112110110102020100001211011000000000001001120102110001030000
+Conura_marcosensis                  121111101000021110020000000???????????????????1?????001000001100011011112?101???02020100001??1011000000000001001120102110001030000
+Conura_decisa                       12111110110002110002000000000111101023111211011001110010000011000110111111101?0102020100001211011000000000001001120102110001030000
+Conura_aff_xanthostigma             121111101000021100020000000?????1?????????1??????????01000001100011011112?10????020201?0001??1011000000000001001120102110001030000
+Dirhinus_anthracia                  1211011010211210002220000110011111-02221121111011001021000101100000110011010000121110111001211110?00002210000001110012110000021000
+Hontalia_aff_caerulea               021111101021?210002220000110?????????????????????????21??01011000001100?101?????211101?10?1??1110100002210000001110012110000021000
+Epitranus_observator                12111110101112-10?1221002000111111-02021121111011001021?00101100000110011110000101020111201212111100102210010001120022110000030000
+Epitranus_gdel00570                 121111101011?2110?12210020001???????????????????01?1021??0101100000110011110????01020111201??2111100102210010001120022110000030000
+Smicromorpha_doddi                  1311000?1110-310002200000100011001-1-?00??1???0??????201001011000000100110001???01-31--00112?0000100100210010001110002110001130000
+Smicromorpha_malaica                1311000?1110-?10002200000100?????????????????????????20??0101100000010011?00????01-31--0011??????100100210010001110002110001130000
+Belaspidia_nigra                    1211111010001111002200000000021110122?11??????00????121100101111110010011110????010200100112?1001100000000010001111000011000010100
+Tropimeris_gdel00333                121111101000?31101220001000???1?1??2????????????????111??0101111110000011110????010201110?1??1001100100200010001111000011000010100
+Neochalcis_fertoni                  1211111010001211211200111000021110122?11??????00????121100101111111010011110????110200111112?1001100100000010001111000011000010100
+Hockeria_bifasciata                 1211111010001211210200112000021110122211321101000011121100101111111010011010001111020011111211001100100000010001111000011000010100
+Haltichella_gdel00144               121111101110?211210200112100021110122?11???????0????121100101111111010011110????11020011111??100110010000001000111-000011000010100
+Antrocephalus_sp                    121111101000121121020011210002111012222132110100001112110010111111101001101000111102001111121100110010000001000111-000011000010100
+Antrocephalus_gdel00481             121111101000?2112102001121000????????????????????????21??0101111111010011010????11020011111??100110010000001000111-000011000010100
+Notaspidium_sp                      0211011011001211212220101100021111-022213211010000110211?0101111111110011010????210101111112?100110011-210?20001110000000000010110
+Notaspidium_gdel00469               021101101100121121222010110???????????????????????????1??0101111111110011010????21010111111??10??10011-210020001110000000000010110
+Zavoya_cooperi                      121101101100?211212220101110021111-22?21???????0????111?00101111111110001110????010200111112?100010010121-000001111000100000010100
+Irichohalticella_sp                 121101101010?21121220010100????????????1????????????121100101111111110011021????01020011111??10011?0111210?20001111000011?00010100
+Lasiochalcidia_dargelasii           1211011000101211212200101000021110122??1??????000???121100101111111010011021????01020011111211001100111210020001111000011000010100
+Psilochalcis_immaculata             121101101010?21121020010100????????????????????0?????211?0101111111010011021????01020011111??1001100111210020001111000011000010100
+Invreia_subaenea                    1211011011101211211200101000021110122211321101000011121100101111111110011021001101020011111211001100111210020001111000011000010100
+
+;
+
+
+cnames
+{ 0 Metallic_body_color absent present;
+{ 1 Sclerotization_of_body head_and_mesosoma_moderately_sclerotized_mostly_reticulate_or_coriaceous_gaster_slightly_sclerotized_collapsing_when_dried head_and_mesosoma_moderately_sclerotized_mostly_reticulate_or_coriaceous_gaster_moderately_sclerotized_not_collapsing_when_dried head_and_mesosoma_strongly_sclerotized_punctured_and_or_areolate_gaster_distinctly_sclerotized_not_collapsing_when_dried head_and_mesosoma_strongly_sclerotized_but_metasoma_collapsing_when_dried;
+{ 2 Relation_between_labrum_and_clypeus labrum_overlapped_by_clypeus labrum_exposed_and_abutting_anterior_to_clypeal_margin_not_overlapped_by_clypeus;
+{ 3 Structure_of_labrum lightly_sclerotized_without_sculpture_on_surface plate_like_often_with_sculpture_on_surface;
+{ 4 Labral_setae scattered_across_surface restricted_to_apical_margin;
+{ 5 Mandibular_base at_least_dorsally_concealed_by_genal_margin exposed_condyles_elongate_and_visible_externally_mouth_margin_not_incised_for_reception_of_mandible_lateral_to_clypeus exposed_mouth_margin_thickened_and_incised_for_reception_of_dorsal_corner_of_mandible;
+{ 6 Mouth_margin_above_mandible mouth_margin_not_incised_for_reception_of_mandible mouth_margin_thickened_and_incised_for_reception_of_dorsal_corner_of_mandible;
+{ 7 Exposed_muscle_of_mandible below_the_exposed_plane_of_the_mandible_and_not_extending_into_an_incision on_the_same_plane_with_mandible_and_extending_into_incision_on_outer_surface_of_mandible;
+{ 8 Number_of_teeth_on_left_mandible three two four;
+{ 9 Number_of_teeth_on_the_right_mandible three two four;
+{ 10 Length_of_mandibular_teeth ventral_tooth_about_the_same_length_as_dorsal_one ventral_tooth_much_longer_than_dorsal_one ventral_tooth_much_shorter_than_dorsal_one;
+{ 11 Orientation_of_mandibular_teeth endodont exodont;
+{ 12 Channel_on_posterior_surface_of_mandible absent present;
+{ 13 Delimitation_of_upper_margin_of_clypeus impressed_line visible_through_change_in_sculpture step_like no_evident_limit;
+{ 14 Lateral_clypeal_sulcus present absent;
+{ 15 Shape_of_clypeus about_as_broad_as_long more_than_3_times_as_broad_as_long;
+{ 16 Position_of_toruli_relative_to_oral_cavity ventral_margin_of_torulus_in_lower_third_of_face_not_adjacent_to_clypeus near_middle_of_head_or_higher adjacent_to_clypeus;
+{ 17 Anterior_tentorial_pits visible not_visible_externally;
+{ 18 Malar_sulcus complete incomplete absent;
+{ 19 Genal_carina absent angular_but_not_carinate clearly_present_raised;
+{ 20 Subapical_genal_tooth postgena_not_depressed_above_oral_fossa_genal_tooth_or_protrusion_absent postgena_distinctly_depressed_above_oral_fossa_hence_genal_carina_forming_a_protrusion_at_lateral_corner_of_mouth postgena_distinctly_depressed_above_oral_fossa_genal_carina_absent_just_above_mouth_corner_forming_a_tooth_at_some_distance_from_it;
+{ 21 Frontal_lobe_below_antennal_toruli absent present;
+{ 22 Orientation_of_antennal_toruli lateral_and_ventral_margins_of_toruli_not_raised lateral_and_ventral_margins_of_toruli_raised;
+{ 23 Separation_of_toruli 1_to_2_times_the_torular_diameter less_than_diameter_of_torulus;
+{ 24 Interantennal_projection_from_lateral_view absent_not_visible_from_lateral_view_or_prominent_but_not_discoid projection_prominent_and_sulcate projection_prominent_discoid_not_or_hardly_sulcate_on_top;
+{ 25 Antennal_scrobes present_and_shallow_to_moderately_deep_never_carinately_margined present_and_deep_mostly_carinately_margined_laterally;
+{ 26 Frontal_horns absent present;
+{ 27 Postoccipital_dorsolateral_pit_for_attachment_of_cervical_muscles absent present;
+{ 28 Postgenal_groove absent present_not_accompanied_by_postgenal_lamina;
+{ 29 Posterior_tentorial_pits_sulci present_as_sulci absent reduced_to_sulci_linking_posterior_end_of_posterior_tentorial_arm_pta_to_tentorial_bridge_pit_tbp;
+{ 30 Hypostomal_bridge_hb mostly_subforaminal_bridge_expanded_hypostomal_bridge_quite_reduced_or_not_differentiate hypostomal_bridge_present_distinct_from_subforaminal_bridge;
+{ 31 Level_of_subforaminal_bridge at_same_level_with_postgena sunk_down_compared_to_postgena in_front_of_postgenal_bridge;
+{ 32 Width_of_hypostomal_bridge_relative_to_occipital_foramen_of narrower_than_foramen at_least_as_broad_as_foramen;
+{ 33 Median_strip_of_ornamentation_on_hypostomal_bridge_hb present_as_a_set_of_cuticular_ridges_or_digitiform_expansions absent_or_virtually_so;
+{ 34 Width_of_median_strip_of_ornamentation_mso strip_narrow_less_than_one_quarter_width_of_hypostomal_bridge strip_wider_eg_at_least_one_third_width_of_hypostomal_bridge;
+{ 35 Shape_of_hypostomal_carina_hc forming_a_complete_arch_above_the_hypostomal_bridge forming_an_incomplete_arch_above_the_hypostoma_and_hypostomal_bridge extended_above_and_joining_the_lateral_edge_postoccipital_lateral_arm_pola;
+{ 36 Maxillary_condyles_mc close_to_each_other somewhat_distant far_from_each_other;
+{ 37 Cardo triangular elongate_but_with_expanded_triangular_apex stick_like fusiform;
+{ 38 Orientation_of_hypostoma_and_hypostomal_bridge_relative_to_subforaminal_bridge_sfb bridges_in_same_plan_or_hypostomal_bridge_hardly_sloping bridges_forming_together_an_obtuse_angle bridges_forming_together_a_right_to_acute_angle;
+{ 39 Length_of_hypostomal_bridge bridge_short_or_vestigial_much_shorter_than_subforaminal_bridge bridge_long_to_very_long_at_least_as_long_as_subforaminal_bridge;
+{ 40 Lateral_lamella_ll_on_anterior_tentorial_arm_ata narrow moderately_to_very_broad narrow_but_with_broad_apical_lobe very_broad_and_continuing_on_posterior_tentorial_arm_pta;
+{ 41 Structure_of_posterior_tentorial_arm_pta a_sclerotized_triangular_plate a_simple_thick_and_strongly_sclerotized_arm including_2_arms_dorsally_the_pta_itself_ventrally_a_subforaminal_process_sfp_along_surface_of_subforaminal_bridge;
+{ 42 Insertion_of_dorsal_tentorial_arm_dta evidently_above_lower_eye_margin_at_least_at_mid_height_of_eye below_at_or_slightly_above_ventral_eye_margin;
+{ 43 ata_pta_intersection far_from_from_base_of_maxillary_condyles_mc near_or_at_base_of_base_of_maxillary_condyles;
+{ 44 dta_pta_intersection at_ata_pta_intersection above_ata_pta_intersection;
+{ 45 Position_of_ata_apex_relative_to_surface_of_hypostomal_bridge ata_not_joining_surface_of_hypostomal_bridge apical_part_of_ata_forming_process_along_lateral_edge_of_hypostomal_bridge;
+{ 46 Pits_at_dorsal_end_of_ata absent present;
+{ 47 Position_of_dorsal_end_of_posterior_process_ppd on_ventral_margin_of_occipital_foramen_of below_ventral_margin_of_occipital_foramen;
+{ 48 Pits_at_dorsal_end_of_posterior_process_pppd absent present;
+{ 49 Position_of_ventral_end_of_posterior_process_ppv intercepting_pta on_surface_of_subforaminal_bridge;
+{ 50 Pits_at_ventral_end_of_posterior_process_pppv absent present;
+{ 51 Tentorial_bridge_tb thick_well_sclerotized_and_forming_a_T_like_structure_with_anterior_process_AP thin_slightly_sclerotized_and_forming_Y_like_structure_with_AP;
+{ 52 Postoccipital_lateral_arm_pola visible_only_on_either_side_occipital_foramen_of joining_ventrally_the_hypostomal_carinae;
+{ 53 Number_of_separate_claval_segments_in_female three two one;
+{ 54 Multiporous_plate_sensilla_mps_position_relative_to_antennal_surface_in_female all_mps_raised_above_surface_of_flagellum at_least_some_mps_sunken;
+{ 55 Number_of_flagellomeres_in_male eleven nine seven;
+{ 56 Modified_long_or_spatulate_hairs_on_male_flagellomeres absent present;
+{ 57 Posterior_margin_of_pronotum straight_or_slightly_concave strongly_concave;
+{ 58 Relative_position_of_tegula_and_humeral_plate tegula_not_covering_humeral_plate tegula_covering_humeral_plate;
+{ 59 Tegula_position anterior_corner_of_tegula_abutting_against_marginal_rim_of_mesoscutum tegula_evidently_tapering_anteriorly_its_anterior_corner_covered_by_lateral_rim_of mesoscutum;
+{ 60 Large_setiferous_cells_on_mesoscutum absent present;
+{ 61 Parascutal_and_axillar_carinae V_shaped_connection_or_not_meeting_at_transscutal_articulation U_shaped_connection_over_tegula_at_transscutal_articulation;
+{ 62 Axilla_tooth_facing_projecting_anterior_inner_limit_of_axillula absent present;
+{ 63 Differentiation_of_axillula axillula_absent_or_not_differentiate axillula_present;
+{ 64 Structure_of_inner_margin_of_axillula no_evident_structure_visible raised_carina;
+{ 65 Frenal_area_of_the_mesoscutellum not_marked_dorsally defined_completely_across_the_mesoscutellum;
+{ 66 Frenum_orientation frenum_sloping_to_vertical frenum_reflexed;
+{ 67 Declination_of_propodeum_dorsal_surface_lateral_view sloping_relative_to_longitudinal_axis_of_mesonotum flat_and_in_the_same_plane_as_mesonotum;
+{ 68 Shape_of_propodeal_spiracle subcircular_to_elliptical slit_like;
+{ 69 Orientation_of_propodeal_spiracle spiracle_oblique spiracle_vertical;
+{ 70 Setose_anterolateral_areola_on_propodeum absent present;
+{ 71 Posteroventral_extension_of_pronotum not_extending_ventrally_across_prepectus with_an_extension_that_articulates_or_crosses_the_prepectus;
+{ 72 Emargination_of_pronotum_around_mesothoracic_spiracle present_lateral_panel_emarginate_around_spiracle absent_lateral_panel_not_emarginate_around_spiracle inconspicuous_lateral_panel_slightly_emarginate_and_bearing_dense_patch_of_setae_hiding_spiracle;
+{ 73 Presence_and_shape_of_prosternal_discrimen visible_as_a_channel_a_groove_or_a_ridge absent;
+{ 74 Prosternum_shape rounded_between_ventral_and_posterior_surface_or_surfaces_not_distinct angulate_or_carinate_at_the_limit_between_ventral_and_posterior_surface with_vertical_lamina_at_limit_between_ventral_and_posterior_surface;
+{ 75 Separation_between_anterior_and_posterior_surface_of_prosternum absent_or_if_present_straight_line median_process_dentiform_or_lamelliform;
+{ 76 Profurcal_pit present absent;
+{ 77 Lobes_on_margin_of_dorsal_plate_of_profurca absent two_lobes_projections_present;
+{ 78 Ventral_plate_of_profurca one_surface_visible two_surfaces_visible_forming_a_right_angle_together;
+{ 79 Apical_stripe_of_prosternum apparent_not_sunken_within_body internal_sunken_within_body;
+{ 80 Ornamentation_of_ventral_belt_of_prepectus medioventral_areola_present_only small_and_sharp_medioventral_tooth large_medioventral_tooth;
+{ 81 Projection_of_mesothoracic_spiracle not_projecting_but_visible_externally hidden_externally partly_and_hardly_visible_as_hidden_by_a_patch_of_hairs_on_posterior_margin_of_pronotum;
+{ 82 Structure_of_lateral_panel_of_prepectus without_fovea_or_raised_rim medially_foveate_with_posterior_and_or_dorsal_rim_and_small_anterodorsal_projection;
+{ 83 Size_and_shape_of_exposed_lateral_panel_of_prepectus as_tall_or_taller_than_long_more_than_half_tegula_length longer_than_tall_more_than_half_tegula_length small_less_than_half_tegula_length lateral_panel_not_apparent;
+{ 84 Prepectus_relationship_to_tegula prepectus_reaching_tegula prepectus_not_reaching_tegula;
+{ 85 Setation_of_lateral_panel_of_prepectus setose bare;
+{ 86 Posteroventral_margin_of_prepectus ventral_margin_partially_or_completely_fused_medially_with_episternum completely_separated_from_mesepisternum;
+{ 87 Mesepisternum_epicnemium absent present_and_completely_delimited_by_carina;
+{ 88 Mesothoracic_discrimen sulcate_or_foveate raised_carina_or_bump_anteriorly_foveate_groove_posteriorly raised_carina_overall as_anchor_like_ornamentation_with_median_carina;
+{ 89 Position_of_mesofurcal_pit adjacent_to_mesocoxal_cavity on_mesotrochantinal_plate;
+{ 90 Shape_of_metepimeron subtriangular broadly_rectangular_or_squared;
+{ 91 Number_of_metafurcal_pits lateral_paired_pits single_median_pit pits_absent;
+{ 92 Inner_lamella_of_metadiscrimen as_usual_not_especially_raised strongly_raised;
+{ 93 Metepisternal_ventral_shelf absent present_above_mid_coxae_short present_above_mid_coxae_long;
+{ 94 Submedian_teeth_at_posteroventral_edge_of_metepisternal_shelf absent present;
+{ 95 Ornamentation_between_metacoxae median_groove single_median_carina_present two_submedian_carinae_present_converging_posteriorly two_submedian_carinae_present_parallel_and_short absent;
+{ 96 Carina_connecting_hind_coxal_and_propodeal_foramina absent present;
+{ 97 Number_of_setae_on_humeral_plate more_than_four up_to_four;
+{ 98 Basal_posterior_lobe_of_fore_wing absent present;
+{ 99 Apicoventral_tuft_of_setae_on_costal_cell absent present;
+{ 100 Hyaline_break_on_parastigma present absent;
+{ 101 Position_of_marginal_vein_relatively_to_front_margin_of_wing along_margin somewhat_removed_from_margin;
+{ 102 Length_of_marginal_vein_of_fore_wing between_1_3_times_stigmal_vein_plus_stigma_length more_than_3_times_stigmal_vein_plus_stigma_length more_than_10_times_length_of_stigmal_vein_plus_stigma;
+{ 103 Length_of_postmarginal_vein_of_fore_wing_fw longer_than_stigmal_vein_plus_stigma_shorter_than_costal_cell 1_to_2_times_as_long_as_the_stigmal_vein absent_or_shorter_than_stigmal_vein_plus_stigma;
+{ 104 Uncus_of_stigmal_vein_of_fore_wing present_and_projecting_as_a_linear_process absent;
+{ 105 Arrangement_of_uncal_sensilla arranged_in_line grouped_in_a_single_cluster two_pairs_separated_by_a_short_space;
+{ 106 Location_of_basal_hamulus near_the_others distant_from_the_others;
+{ 107 Shape_of_first_hamulus curved_towards_wing_surface_like_the_other_hamuli straight_or_only_slightly_curved_with_others_strongly_curved_towards_wing_surface curved_towards_base_of_hind_wing_with_others_curved_towards_wing_surface;
+{ 108 Line_of_setation_on_posterior_surface_of_procoxa absent present;
+{ 109 Apical_ornamentation_of_protibia without_horizontally_directed_stout_spur_or_elongation with_horizontally_directed_socketed_spur without_socketed_spur_but_distinctly_expanded_giving_the_appearance_of_a_spur;
+{ 110 Pegs_at_apex_of_mesotibia absent present;
+{ 111 Shape_of_metacoxa coxa_not_enlarged coxa_enlarged_and_or_elongate;
+{ 112 Shape_of_metafemur not_enlarged_ie_greater_than_or_equal_to_3x_as_long_as_broad enlarged_ie_smaller_than_or_equal_to_3x_as_long_as_broad;
+{ 113 Ventral_ornamentation_of_metafemur without_denticles_or_teeth_ventrally with_small_uniform_teeth_similar_to_blade_of_saw_over_most_of_length with_large_regular_lobe_like_teeth;
+{ 114 Position_of_basal_tooth_of_metafemur near_base_of_femur at_mid_length_of_femur;
+{ 115 Line_of_stout_bristles_on_inner_surface_of_metafemur absent present;
+{ 116 Tarsal_scrobe_on_apicodorsal_surface_of_metatibia absent_or_short_never_with_tooth_or_protrusion_above present_long_without_tooth_or_protrusion_above present_long_with_a_tooth_or_protrusion_above;
+{ 117 shape_of_the_apex_of_metatibia truncate_at_right_angle diagonally_truncate_posteroventral_corner_acute diagonally_truncate_posteroventral_corner_elongated_into_spine;
+{ 118 Number_of_apical_spurs_on_metatibia two_spurs one_spur no_spur;
+{ 119 Ventral_carinae_of_metatibia absent two_ventral_carinae_present_one_lateral_and_one_mesal;
+{ 120 Carina_on_inner_surface_of_metatibia absent present;
+{ 121 Tarsal_claws simple pectinate_having_1_or_2_peg_like_extra_projection_s with_basal_tooth;
+{ 122 Spatulate_seta_on_hind_tarsal_claw absent present;
+{ 123 Basal_lamina_on_petiole absent present;
+{ 124 Insertion_of_petiole_on_propodeum at_apex_near_metacoxal_foramina at_base_of_propodeum_near_posterior_margin_of_metanotum;
+{ 125 Relationship_between_petiole_and_propodeum body_of_petiole_entering_propodeum petiole_with_complete_lamina_surrounding_petiolar_foramen_of_propodeum petiole_with_ventral_lamina_abutting_against_petiolar_foramen kneecap_only_entering_propodeum;
+{ 126 Fusion_of_petiole_with_first_gastral_sternite_in_females not_fused fused;
+{ 127 Transverse_carina_in_front_of_cercal_plates absent present_cerci_inserted_in_foveae_situated_just_behind_the_carina present_cerci_situated_posteriorly_to_carina;
+{ 128 Relative_placement_of_hypopygium_tip in_basal_half near_tip_of_gaster somewhat_beyond_tip_of_gaster_apex_densely_setose;
+{ 129 Orientation_of_ovipositor_sheaths straight curved_downwards;
+;
+
+
+ccode  - 0.129;
+
+
+;

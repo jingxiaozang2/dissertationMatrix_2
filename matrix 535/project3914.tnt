@@ -1,0 +1,117 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.19.35'
+86 13
+
+&[num]
+Tinamiformes             000000000000001100100000000000011100000100101000000001000100000000000000000000000?1000
+Anseriformes             00000000100000000000000000?00000?10000010000000000000000001010?000000000000000000?0000
+Steatornithidae          101000001000000010000000000000001011010111001000100110011101111100110000101101100?0100
+Podargidae               10?0?0101100000010000010011010011000000000000000?001000011101?10000011010011010?1?0100
+Caprimulgidae            01000111101111001101110001002?01100100011000111000011110111111100100100100110100?50?01
+Nyctibiidae              011000111011110111011100011021001001000010000010000111001?11101101101100001101011?0001
+Aegothelidae             011011101100111111110000101011110101000010000000000100001110111000001001011101111?0111
+Apodidae                 011111?01100111101110001100111100100101?11000111011100001?11111010110011?111111115?011
+Hemiprocnidae            011111101100111101110001100111100100101?110001110111000011111110101110110111??????001?
+Trochilidae              00?101001100111000000001100021000100101?010000100100000111011110101110111111111110?011
+Archaeotrogon            ??????????????????????????????01111?????1111?11000?0???0???????00?001001??????????????
+Hassiavis                ?1?????1???????????1001???????1??1?10??01111?1?0?0?0??10111011000?00000?0?????????????
+Archaeodromus            ????????????0110110??01???0???10111?????1101111000??111?1?10??????????????????????????
+
+;
+
+
+cnames
+{ 0 Skull,_largely_or_completely_ossified_septum_nasale absent present;
+{ 1 Beak_short_and_very_wide_at_its_base,_with_large_nostrils_that_reach_into_its_tip no yes;
+{ 2 Os_lacrimale_vestigial_or_completely_reduced no yes;
+{ 3 Os_ectethmoidale,_greatly_expanded_and_plate-like,_with_dorsal_margin_largely_fused_with_ossa_frontalia no yes;
+{ 4 Vomer not_as_follows with_truncate_rostral_and_bifurcate_caudal_end_(typical_of_the_"aegithognathous"_palate);
+{ 5 Os_palatinum,_well-developed_processus_rostromedialis absent present;
+{ 6 Os_palatinum_with_strongly_protruding_angulus_caudolateralis no yes;
+{ 7 Os_palatinum,_pars_lateralis_extremely_widened no yes;
+{ 8 Os_palatinum_and_os_pterygoideum_fused yes no;
+{ 9 Well_developed_processus_basipterygoidei_that_articulate_with_the_ossa_pterygoidea yes no;
+{ 10 Processus_paroccipitales_widely_separated_and_strongly_ventrally_protruding no yes;
+{ 11 Cone-like_bony_protrusion_at_caudal_margin_of_foramen_nervi_optici absent present;
+{ 12 Quadratum,_processus_orbitalis_greatly_reduced no yes;
+{ 13 Quadratum,_condylus_caudalis_reduced,_condylus_lateralis_separated_from_elongate_condylus_medialis_by_a_deep_but_narrow_furrow no yes;
+{ 14 Quadratum,_processus_oticus,_dorsal_margin_of_caudal_surface_with_pneumatic_foramina no yes;
+{ 15 Quadratum,_processus_oticus_mediolaterally_narrow no yes;
+{ 16 Quadratum,_condylus_lateralis_protruding_ventrolaterally no yes;
+{ 17 Quadratum,_cotyla_quadratojugalis_facing_dorsally no yes;
+{ 18 Quadratum,_cotyla_quadratojugalis cup-like shallow;
+{ 19 Mandible,_rostral_part_of_rami_mandibulae_very_narrow,_pars_symphysialis_very_short no yes;
+{ 20 Mandible_with_intraramal_joint_and_caudal_half_of_rami_mandibulae_greatly_widened_and_dorso-ventrally_flattened no yes;
+{ 21 Mandible,_caudal_end_unusually_small,_with_very_short_cotyla_lateralis_and_stout_processus_medialis no yes;
+{ 22 Mandible,_caudal_end_forming_a_marked_bulge no yes;
+{ 23 Atlas,_incisura_fossae open closed;
+{ 24 Axis,_foramina_transversaria present absent;
+{ 25 Third_cervical_vertebra,_osseous_bridge_from_processus_transversus_to_processus_articularis_caudalis absent present;
+{ 26 5th_cervical_vertebra,_osseous_bridge_from_processus_costalis_to_midsection_of_corpus_vertebrae no yes;
+{ 27 Tips_of_processus_ventrales_of_14th_and_15th_praesacral_vertebrae_forming_large_horizontal_plate no yes;
+{ 28 Number_of_free_praesacral_vertebrae 19_or_more 18 17;
+{ 29 Furcula,_extremitas_omalis_with_distinct,_laterally_protruding_facies_articularis_acrocoracoidea no yes;
+{ 30 Coracoid,_processus_acrocoracoideus_with_hook-shaped_outline no yes;
+{ 31 Coracoid,_facies_articularis_scapularis_excavated_and_cup-like yes no;
+{ 32 Coracoid,_foramen_nervi_supracoracoidei present absent;
+{ 33 Coracoid,_processus_lateralis_reduced no yes;
+{ 34 Coracoid,_processus_lateralis_with_convex_lateral_margin no yes;
+{ 35 Sternum,_spina_externa_bifurcate no yes;
+{ 36 Sternum,_spina_externa_forming_a_ridge_that_extends_dorsoventrally_over_entire_rostrum_sterni no yes;
+{ 37 Sulci_coracoidei_cross_in_midline_of_bone no yes;
+{ 38 Sternum,_facies_articularis_coracoideus_weakly_saddle-shaped_or_convex no yes;
+{ 39 Caudal_margin_of_sternum with_four_notches_or_fenestrae with_two_notches_or_fenestrae without_notches_or_fenestrae;
+{ 40 Humerus,_proximal_end,_sulcus_transversus_very_deep,_long,_and_rectangular-shaped no yes;
+{ 41 Humerus_stout,_with_wide_proximal_end no yes;
+{ 42 Humerus,_crista_bicipitalis_forming_a_ventral_projection_at_insertion_site_of_musculus_scapulohumeralis_caudalis no yes;
+{ 43 Humerus,_caput_humeri_proximally_protruding_and_abruptly_set_off_from_caudal_surface_of_shaft no yes;
+{ 44 Humerus,_incisura_capitis_with_transverse_ridge no yes;
+{ 45 Humerus,_tuberculum_dorsale_strongly_developed no yes;
+{ 46 Humerus,_proximal_end,_caudal_prominence_of_tuberculum_ventrale_distinctly_greater_than_that_of_caput_humeri no yes;
+{ 47 Humerus,_distal_end,_tuberculum_supracondylare_ventrale_elongated_and_narrow no yes;
+{ 48 Humerus,_distal_end,_fossa_musculi_brachialis_deep_and_sharply_delimited no yes;
+{ 49 Humerus,_strongly_abbreviated_and_stocky,_ratio_length_of_bone,_width_of_shaft_in_midsection_less_than_7.0 no yes;
+{ 50 Radius,_distal_end_with_marked_tubercle_on_ventral_side_of_shaft,_opposite_to_tuberculum_carpale_of_ulna no yes;
+{ 51 Ulna_distinctly_exceeding_humerus_in_length no yes;
+{ 52 Ulna,_proximal_end_with_two_distinct_tubercles_for_the_attachment_of_the_tendon_of_musculus_biceps_brachi no yes;
+{ 53 Ulna,_proximal_end_with_marked_oblique_ridge_distal_of_processus_cotylaris_dorsalis no yes;
+{ 54 Ulna,_proximal_end_with_marked_impressio_scapulotricipitalis no yes;
+{ 55 Carpometacarpus,_os_metacarpale_minus_distinctly_exceeding_os_metacarpale_majus_in_length no yes;
+{ 56 Os_carpi_ulnare,_crus_longum_much_longer_than_crus_breve no yes;
+{ 57 Phalanx_digiti_alulae,_claw present absent_or_rudimentary_in_adulthood;
+{ 58 Fossa_dorsalis_of_phalanx_proximalis_digiti_majoris_divided_into_two_depressions_by_a_distinctly_raised_oblique_bulge no yes;
+{ 59 Phalanx_proximalis_digiti_majoris,_well_developed_processus_internus_indicis absent present;
+{ 60 Pelvis,_foramen_ilioischiadicum_caudally_closed no yes;
+{ 61 Pelvis_wide_in_mediolateral_direction,_width_across_antitrochanters_as_much_as_or_more_than_length_of_synsacrum no yes;
+{ 62 Pelvis,_well_developed_tubercula_praeacetabularia present absent;
+{ 63 Tibiotarsus,_distal_end,_pons_supratendineus ossified tendinous;
+{ 64 Tibiotarsus,_distal_end,_trochlea_cartilaginis_tibialis_with_very_deep_sulcus no yes;
+{ 65 Os_sesamoideum_intertarsale absent present;
+{ 66 Tarsometatarsus_strongly_abbreviated_and_stout,_measuring_less_than_half_of_carpometacarpus_length no yes;
+{ 67 Tarsometatarsus,_tuberositas_musculi_tibialis_cranialis_very_prominent no yes;
+{ 68 Tarsometatarsus,_hypotarsus,_tendons_of_musculus_flexor_digitorum_longus_enclosed_in_a_bony_canal no yes;
+{ 69 Tarsometatarsus,_hypotarsus,_tendons_of_musculus_flexor_hallucis_longus_enclosed_in_bony_canals no yes;
+{ 70 Tarsometatarsus,_arcus_extensorius_(ossified_retinaculum_extensorium_tarsometatarsi) absent present;
+{ 71 Tarsometatarsus,_canalis_interosseus_distalis present absent;
+{ 72 Second_and_third_phalanx_of_fourth_toe_strongly_abbreviated,_measuring_less_than_half_the_length_of_the_fourth_phalanx no yes;
+{ 73 Musculus_splenius_capitis_with_cruciform_origin no yes;
+{ 74 Musculus_ambiens present absent;
+{ 75 Musculus_iliofemoralis_externus present absent;
+{ 76 Musculus_flexor_cruris_lateralis,_pars_accessoria present absent;
+{ 77 Musculus_caudofemoralis,_pars_pelvica present absent;
+{ 78 Musculus_fibularis_longus present absent;
+{ 79 Musculus_popliteus present absent;
+{ 80 Vinculum_between_tendons_of_musculus_flexor_perforans_et_perforatus_digiti_III_and_m._perforatus_digiti_III present absent;
+{ 81 Musculus_flexor_hallucis_longus_and_musculus_flexor_digitorum_longus,_type_of_arrangement._See_George_&_Berger_(1966:447)_for_description_of_types_1-5,_Trochilidae_were_coded_0. State_1 State_0 type_1 type_2 type_3 type_4 type_5;
+{ 82 Wing diastataxic eutaxic;
+{ 83 Rictal_bristles absent present;
+{ 84 Caeca present absent;
+{ 85 Cerebellum_with_reduced_anterior_lobe,_particularly_small_folia_II_and_III,_and_relatively_large_posterior_lobe no yes;
+;
+
+
+ccode  - 0.85;
+
+
+;

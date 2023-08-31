@@ -1,0 +1,64 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.42.34'
+36 10
+
+&[num]
+Dugong_dugon                                  202110111210010211101211022000201101
+Hydrodamalis_gigas                            212101121350010212101201102?00201101
+Anomotherium_langewieschei                    ??????00021??20?????12?0??1?001?????
+Miosiren_kocki                                10101001021002020200????02120010????
+Potamosiren_madgalenensis                     ?1?00???????????????0??0??20002?????
+Ribodon_limbatus                              ?1?01???????????????0?1???23102?????
+Trichechus_manatus_latirostris                111011100011121002110221102311212022
+Trichechus_senegalensis                       111011100011121002110221102310212022
+Trichechus_inunguis                           111011100131121002110220102310212022
+Trichechus_hesperamazonicus_sp._nov.          ?1?011????????????1102201?23102?????
+
+;
+
+
+cnames
+{ 0 3._Rostrum Premaxillae_do_not_form_an_elongated_rostrum rostrum_elongated_but_small_relative_to_cranium_(lenght_of_pmx_symphysis_smaller_or_equal_to_0.27_x_AB) rostrum_enlarged_(length_of_pmx_symphysis_larger_than_0.27_x_AB);
+{ 1 11._Zygomatic-orbital_bridge_of_maxilla nearly_level_with_palate elevated_above_palate,_with_its_ventral_surface_lying_>1_cm_above_the_alveolar_margin;
+{ 2 13._Infraorbital_foramen small_(diameter_about_15_x_10_mm_or_less) large_(diameters_greater_than_15_x_10_mm,_but_less_than_30_mm) very_large_(both_diameters_greater_than_30_mm);
+{ 3 14._Zygomatic-orbital_bridge_of_Maxilla long_anteroposteriorly_(vertical_thickness_<_0.40_x_minimum_length) shortened_(thickness_greater_than_or_equal_to_0.40_x_length) shortened_and_transformed_into_a_transverse_vertical_wall;
+{ 4 16._Palate thin_or_incomplete_at_level_of_penultimate_cheek_tooth >_1_cm_thick_at_level_of_penultimate_tooth;
+{ 5 23._Anterior_palate_(=palatal_gutter,_fwd_of_IO_foramen) very_narrow_relative_to_posterior_palate_including_teeth_and_(especially)_to_rostral_masticating_surface almost_as_wide_as_posterior_palata_and_rostral_masticating_surface;
+{ 6 31._Nasals meet_in_midline separated_in_midline_by_frontals_and/or_an_incisure_or_separated_and_fused_with_frontals;
+{ 7 36._Supraorbital_process_of_frontal well_developed,_dorsoventrally_thin_overall_(<_2_cm_thick)_with_prominent,_dorsoventrally_flattened_posterolateral_corner dorsoventrally_thickened,_with_posterolateral_corner_only_moderately_or_weakly_developed reduced,_rounded,_lacking_posterolateral_corner dorsoventrally_thickened_(>2cm),_with_dorsal_surface_inclined_strongly_ventrolaterad_and_with_posterolateral_corner_strongly_developed_and_more_or_less_recurved;
+{ 8 66._Exoccipitals meet_in_a_suture_dorsal_to_foramen_magnum do_not_meet_in_a_suture;
+{ 9 67._Supracondylar_fossa_of_exoccipital absent distinct,_but_shallow,_directly_dorsal_to_condyle deep_and_extending_across_entire_width_of_occipital_condyle reduced_and_located_dorsomedial_to_condyle,_or_lost;
+{ 10 70._Dorsolateral_border_of_exoccipital thin_and_sharp_(<_0.5_cm_thick) Thicker,_rounded,_and_more_or_less_smooth_(ca._0.5-1.5_cm_thick) thickened_with_smoothly_rounded_posterior_edge_and_(in_adults)_a_flat_lateral_surface_ca._1-2.5_cm_wide_(which_may_overhang_a_deep_supracondylar_fossa_if_one_is_present),_but_not_otherwise_forming_a_posteriorly-overhanging_flange ca._2.5_cm_wide,_but_with_sharp,_overhanging_flange overhanging_the_posterior_face_of_exoccipital_as_a_thick,_rugose_flange_ca._2.5-3.5_cm_wide_in_adults greatly_thickened,_forming_broad,_rugose,_overhanging_flange_>3.5_cm_wide;
+{ 11 72._Hypoglossal_foramen surrouded_by_bone open_(forming_a_notch),_or_absent;
+{ 12 81._Outline_of_zygomatic_process_of_squamosal gradually_tapered_and_pointed_anteriorly,_with_triangular_anterior_cross-section regularly_or_irregularly_rounded_anteriorly,_with_non-triangular,_sometimes_inflated_cross-section;
+{ 13 82._External_auditory_meatus_of_squamosal narrow_and_slitlike_(anteroposterior_breadth_less_than_dorsoventral) about_as_wide_(anterodorsal-posteroventral)_as_high_(posterodorsal-anteroventral) very_broad_and_shallow,_wider_anteroposteriorly_than_high;
+{ 14 84._Zygomatic_process_of_squamosal medial_side_not_swollen,_appears_relatively_flat_or_concave_and_inclined_inward_dorsally medial_side_markedly_swollen,_inclined_inward_ventrally_or_forming_a_vertical_wall;
+{ 15 85._Ventral_extremity_of_jugal lies_posterior_to_orbit lies_approximately_under_posterior_edge_of_orbit,_but_forward_of_jugal"s_postorbital_process lies_ventral_to_orbit;
+{ 16 87._Preorbital_process_of_jugal does_not_contact_premaxilla contacts_premaxilla;
+{ 17 91._Lacrimal with_foramen_(nasolacrimal_canal) without_foramen,_but_still_large vestigial_or_absent;
+{ 18 97._Posterior_border_of_palatine not_incised,_merely_shallowl_concave incised_or_deeply_indented very_deeply_incised,_to_as_far_forward_as_level_of_M1;
+{ 19 99._Anterior_border_of_palatine extend_to_or_anteriorly_beyond_the_posterior_edge_of_the_zygomatic-orbital_bridge does_not_extend_so_far_forward;
+{ 20 123._Accesory_mental_foramina present,_in_addition_to_and_usually_posterior_to_the_large_principal_foramen absent;
+{ 21 125._Posterior_border_of_mandible descends_ventrally_or_posteroventrally_from_condyle_without_marked_interruption_or_abrupt_change_in_direction bears_a_steplike_process_(processus_angularis_superior)_below_condyle has_no_distinct_processus_angularis_superior_but_does_have_broadly_convex_outline_beginning_well_below_condyle;
+{ 22 126._Anterior_border_of_coronoid_process approximately_vetical extends_slightly_anterior_to_base_of_process extends_very_far_anterior_to_base;
+{ 23 129._Ventral_border_of_horizontal_ramus_of_mandible tangent_to_angle not_tangent_to_angle;
+{ 24 139._First_upper_incisor present vestigial_or_absent;
+{ 25 140._Depth_of_I1_alveolus much_less_than_half_of_the_premaxillary_symphysis about_half_the_length_of_the_symphysis much_greater_than_half_the_length_of_the_symphysis;
+{ 26 145._Premolars_1-4 all_present some_absent_(anterior_ones) all_absent_(no_permanent_premolars);
+{ 27 147._Molar_3 with_crown_longer_than_or_equal_to_that_of_M2 smaller_than_M2 with_reduced_circular_crown no_molar_identifiable_as_M3,_all_molars_subequal;
+{ 28 150._Supernumerary_molars absent present_and_replenished_indefinitely_by_horizontal_replacement;
+{ 29 156._Cheek-tooth_enamel smooth wrinkled;
+{ 30 157._Permanent_premolars some_double-_or_triple-rooted all_single-rooted all_absent;
+{ 31 200._Cervical_vertebrae 7_in_number 6_in_number;
+{ 32 205._Sacrum Includes_more_than_one_vertebra Includes_only_one_vertebra No_vertebra_is_identifiable_as_a_sacral_by_having_a_distinct_attachment_to_the_innominate_bone;
+{ 33 207._Posterior_caudal_vertebrae Taper_continuously_in_breadth_posterad Show_transverse_narrowing_in_peduncle_region,_then_broadening_(indicative_of_the_presence_of_flukes)_then_tapering_to_tip_of_tail;
+{ 34 213._Bicipital_groove_of_humerus Large,_tubercles_well_separated Small,_tubercles_largely_united Vestigial_or_absent,_tubercles_completely_united;
+{ 35 222._Deltoid_process_of_humerus Low_blunt_rugosity Prominent,_sharply_recurved_and_pointed Reduced_or_lost;
+;
+
+
+ccode  - 0.35;
+
+
+;

@@ -1,0 +1,181 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.19.08'
+28 135
+
+&[num]
+Paullinia_alata                       ?0101??1?1?01100010111110011
+Paullinia_baileyi                     ?0101??1?1?0??00010111??0011
+Paullinia_bracteosa                   ?010?00101101?00010111???011
+Paullinia_dasystachya                 ?0101??1?1?00100010111100011
+Paullinia_echinata                    ?0101??1?1?00100010111100011
+Paullinia_exalata                     ?0101??1?1?01000010111010011
+Paullinia_fibrigera                   ?0101??1?1?00100010111010011
+Paullinia_fimbriata                   ?0101??1?1?01000010111100011
+Paullinia_latifolia                   ?0101??1?1?00100010111110011
+Paullinia_micrantha                   ?0101??1?1?01100010111110011
+Paullinia_obovata                     ?0101??1?1?00100010111110011
+Paullinia_pinnata                     ?0101??1?1?00100010111010011
+Paullinia_pseudota                    ?0101??1?1?01100010111110011
+Paullinia_rubiginosa                  ?0101??1?1?00100010111000011
+Paullinia_rufescens                   ?010???100?01100010111101011
+Paullinia_rugosa                      ?0101??1?1?01000010111000011
+Paullinia_spicata                     ?0101??1?1?01000010111110011
+Paullinia_sprucei                     ?0101??1?1?00100010111110011
+Paullinia_trigonia                    ?0101??1?1?01100010111110011
+Paullinia_turbacensis                 ?0101??1?1?00100010111100011
+Paullinia_weinmanniifolia             ?0101??1?1?00100010111110011
+Acer_campestre                        1001110000?1100010010?001000
+Acer_cissifolium                      1001110000?1100010010?001000
+Acer_glabrum                          1001110000?1100010010?001000
+Acer_platanoides                      1001110000?1100010010?001000
+Aesculus_flava                        0001110000?1000010000?000000
+Aesculus_glabra                       0001110000?1000010000?000000
+Aesculus_indica                       0001110000?1000010000?000000
+Alectryon_connatus                    00011101?0101?0000110?000000
+Alectryon_diversifolius               00011101?0101?0000100?001000
+Alectryon_excelsus                    00011101?0101?0000100?000000
+Alectryon_oleifolius                  00011101?0101?0000110?1010?0
+Alectryon_subcinereus                 00001101?0101?0000110?100000
+Allophylus_cobbe                      ?00?0?01?110100000?00?001000
+Amesiodendron_chinensis               000101010010100000100?1010?0
+Arfeuillea_arborescens                100000000011001110000?010000
+Arytera_brackenridgei                 000?1101??10100000100?001000
+Arytera_collina                       000?1101??10100000100?001000
+Arytera_littoralis                    000?1101??10100000100?001000
+Athyana_weinmannifolia                00001?1010?10100110000010000
+Beguea_apetala                        00000101?010100000100?000000
+Blighia_sapida                        000101110010100000100?101000
+Blighia_unijugata                     000101110010100000100?101000
+Blighia_welwitschii                   000101110010100000100?000000
+Cardiospermum_corindum                0010?0010010100000011111?011
+Castanospora_alphandii                000001110010100110100?010000
+Chytranthus_macrobotrys               000001?00011011010?001100000
+Chytranthus_talbotii                  000001?00011011010?001100000
+Cubilia_cubili                        100?01?10010100000100?000000
+Cupania_dentata                       000?0101?01010000?100?001000
+Cupania_emarginata                    000?0101?01010000?100?001000
+Cupania_hirsuta                       000?0101?01010000?100?001000
+Cupania_scrobiculata                  000?0101?01010000?100?001000
+Cupaniopsis_anacardioides             0001?101?01010000?100?001000
+Cupaniopsis_apiocarpa                 0001?101?01010000?100?001000
+Deinbollia_borbonica                  ?000011100110100101100?10000
+Delavaya_yunnanensi                   000111010010100000?00??01000
+Diatenopteryx_sorbifolia              0000100100110110111000010000
+Dilodendron_bipinnatum                ?0000111?0100011?00100010000
+Dimocarpus_longan                     000?01?10010100000100?10?000
+Dodonaea_lanceolata                   000010000011011110010?010000
+Dodonaea_lobulata                     000010000011011110000?010000
+Dodonaea_viscosa                      000010000011011110000?010000
+Elattostachys_apetala                 0000?10100101100101?0?10?000
+Elattostachys_nervosa                 000??1010010110000100??00000
+Eriocoelum_kerstingii                 000101?100101000001001101000
+Eriocoelum_macrocarpum                000101?100101000001001101000
+Eriocoelum_microspermum               000101?100101000001001101000
+Erythrophysa_aesculina                100001?10011110010100?110000
+Eurycorymbus_cavaleriei               000101010010011010100?010?00
+Filicium_decipiens                    000011?1?0110110?0010?010000
+Filicium_longifolium                  000011?1?0110110?0010?010000
+Ganophyllum_falcatum                  ?000?1?1?011111010100?010000
+Guioa_glauca                          00000101?110100000100?001000
+Guioa_lasioneura                      00000101?110100000100?001000
+Handeliodendron_bodinieri             000111000010100010?001000000
+Haplocoelum_gallaense                 00010?00?11011001000?00?1?00
+Harpullia_arborea                     ?000??00?01011?010000?????00
+Hippobromus_pauciflorus               000010000001011010010?001000
+Hypelate_trifoliata                   0000100010110110?0000?0100?0
+Koelreuteria_bipinnata                ?101?0011010100010100?100000
+Koelreuteria_paniculata               ?101?0011010100010100?110000
+Laccodiscus_pseudostipularis          ?00001010010100010000?000000
+Lepisanthes_rubiginosus               ?0000??110110011?0?000010000
+Lepisanthes_senegalensis              00000??110110011?0?100010000
+Litchi_chinensis                      000101?1?010100000100?101000
+Llagunoa_nitida                       000010001010100000000?101000
+Macphersonia_gracilis                 0?0??101?010110000100?001000
+Magonia_pubescens                     0000000110110011100100010000
+Majidea_fosteri                       100001?000110011?0?100010000
+Majidea_zanguebarika                  100001?000110011?0?000010000
+Matayba_domingensis                   0001?1?1?010100000100?001000
+Matayba_elaeagnoides                  0001?1?1?0101000001000001000
+Matayba_guianensis                    0001?1?1?0101000001000001000
+Matayba_laevigata                     0001?1?1?0101000001000000000
+Matayba_opaca                         0001?1?1?0101000001001?01000
+Melicoccus_bijugatus                  ?000001110100011101100010000
+Mischocarpus_grandissumus             ?00?01?1?0?0100000?10?001000
+Mischocarpus_pentapetalus             ?00?01?1?0?0100000?10?001000
+Neotina_coursii                       0001?101?010100000100?001000
+Nephelium_lappaceum                   000101?1??110011?0100?010000
+Nephelium_laurinum                    000101?1??110011?0100?010000
+Pappea_capensis                       00001101?0101?00001?0?111000
+Paranephelium_macrophyllum            000001?1?110100000100?101000
+Paranephelium_xestophyllum            000101?1?110100000100?101000
+Placodiscus_leptostachys              00010111?011011010100?110000
+Plagioscyphus_louvelii                00010111?011011010100?110000
+Plagioscyphus_unijugatus              00010111?011011010100?110000
+Podonephelium_homei                   00001101?010?100101001111000
+Pometia_pinnata                       000101?1001001101010011?0000
+Pseudopteris_decipiens                00000101?010100000100?001000
+Radlkofera_calodendron                10001100?0100100101001100000
+Sapindus_saponaria                    01010011?0110011100100010000
+Sapindus_trifoliatus                  00000011?0110011100100010000
+Schleichera_oleosa                    0000?1?1??10100000?00?101000
+Serjania_communis                     ?01???????????????????????11
+Serjania_lethalis                     0010?00000101101000111010011
+Serjania_paucidentata                 0010?00000101101000111010011
+Serjania_polyphylla                   ?01???????????????????????11
+Stadmannia_oppositifolia              000011001011?10010100?111001
+Talisia_nervosa                       ?0000??0101100111011001?0000
+Thinouia_mucronata                    0010?1010??0100000011?100011
+Thouinia_paucidentata                 00001101?110100000100?001000
+Thouinia_portoricensis                00001101?110100000100?001000
+Tinopsis_apiculata                    00010101?010110000?000001000
+Toechima_erythrocarpum                ?0000101??10100000100?001000
+Toechima_tenax                        ?0010101??10100000100?001000
+Tristira_triptera                     10000111?011001110?10?010000
+Ungnadia_speciosa                     000011010010100000000?001000
+Vouarana_guianensis                   000101?1?01010000??00???1?00
+Xanthoceras_sorbifolia                ?101?000?010100010000?001000
+Xerospermum_noronhianum               000?01?10?101000101?0????000
+Zanha_africana                        ?000000??0110011?00?00010000
+Zanha_golungensis                     ?000000??0110011?00?00010000
+Ampelorhiza_heteroxylon               ?0101??000?010000?010101001?
+
+;
+
+
+cnames
+{ 0 pit_diam less_than_7_um greater_than_or_equal_to_7_um;
+{ 1 porosity diffuse ring_porous;
+{ 2 vessel_dimorphism absent present;
+{ 3 vesse_thickening absent present;
+{ 4 vessel_diameter less_than_120_um greater_than_or_equal_to_120_um;
+{ 5 vessel_frequency less_than_25_mm2 greater_than_or_equal_to_25_mm2;
+{ 6 vessel_length less_than_350_um greater_than_350_um;
+{ 7 fiber_length less_than_1000_um greater_than_or_equal_to_1000_um;
+{ 8 septate_fibers absent present;
+{ 9 fiber_wall_thickness fibre_walls_thin_or_medium_thick_walled thick_or_very_thick_walled;
+{ 10 fiber_dimorphism absent present;
+{ 11 fiber/vessel less_than_or_equal_to_1.4 greater_than_1.4;
+{ 12 apo_parenchyma absent present;
+{ 13 scanty_paratracheal_parenchyma absent present;
+{ 14 vasicentric_parenchyma absent present;
+{ 15 aliform_parenchyma absent present;
+{ 16 banded_parenchyma absent present;
+{ 17 marginal_parenchyma absent present;
+{ 18 idioblasts absent present;
+{ 19 parenchyma_stand_length fibre_walls_thin_or_medium_thick_walled thick_or_very_thick_walled;
+{ 20 ray_width fewer_than_5_cells 5_cells_or_more;
+{ 21 ray_dimorphism rays_not_of_two_distinct_sizes rays_of_two_distinct_sizes_present;
+{ 22 rays_composition fully_homocellular fully_heterocellular;
+{ 23 crystal_rays absent present;
+{ 24 crystal_axial_parenchyma absent present;
+{ 25 crystal_fibers absent present;
+{ 26 silica absent present;
+{ 27 habit self_supporting_large_trees_small/medium_trees_and_shrubs climbers;
+;
+
+
+ccode  - 0.27;
+
+
+;
