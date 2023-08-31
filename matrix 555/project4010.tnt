@@ -1,0 +1,170 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.55.29'
+112 40
+
+&[num]
+Tetracerus                 1000001000000000010000111000201010000000000100001011001000000000000000011000000000101010011000000000000000001010
+Boselaphus                 1011201100200000010100111001100001010000000110001111011110010000000110010010000000101110010000000111100000110010
+Bison                      1000201100010010120000102101100011101000000001001110000110010000010011010001000000101011010001100111000010100010
+Tragelaphus                1011100000000100000101002000200001000000001111001011002000110001100000111000000000101000010000000000000010000010
+Sylvicapra                 1001001102000000000000001000200010110100002100000011001100000010000000001000000000001000000000000000010000000001
+Kobus                      0000110000200001000011000000010201010100000111012110102110101100000011010011000001111000010010010011111110000001
+Hippotragus                2000200001000010020020101001010001110000001111001010011100111000010011010011001001111111110010000111100000011010
+Damaliscus                 1000210001000010021020101211111010110001002111112110012110101101100011112001001011111100100000000111100100111110
+Aepyceros                  2000210001000101011020101011110011100000002111112110002110111101101100012000100011111101000010010011110110001011
+Pelea                      10000000100000010?1001201011100001011000002000012110001110110001101100012000000010111000001010010010010000001101
+Dorcatragus                1000000000100001001000102000100000100110001100011110001000010010100000001100100010001000001100011000110100001001
+Raphicerus                 1000000000100000000100102000201100100000001100011010001000010010100000011100100010111000000110010000110100001001
+Oreotragus                 0000000010200000001000100000200100110010102000010010001100010000100000002100000110000000000011110000010101000000
+Madoqua                    0001000100000000001000202000200200100110002100011110001100010010100000012100000010011000001010010000010010001001
+Neotragus                  1000000100000000001000101000200100000000100110011101102100000000100000012100100010000000000000000000010010001000
+Ourebia                    1000000000000001001001100010201200111100101010012110002110010110100000012000010010111100000110010000111100001001
+Gazella                    1100200001000011000021102001100000100000101111002100002110010010100000012000110010111101001110010000111100011101
+Ammodorcas                 10001100002000000?0011102000200000000000101111001100002010110000100000011000110010111100001110010000111101011000
+Antilope                   2000100101000100011021102000110010100000102111012110002111010000100000012011010010111101000110010000111100011101
+Saiga                      1000200000200100110021102011200010101011010021011100011111000110101200012110100010111101101110010110011100011100
+Nemorhaedus                0000200101000010010010001000110010111000000000001100000110001011101000112001000100000000000001101000000110001110
+Rupicapra                  1000000012000000111010200011110101111000012021001100000110001001101000112001000100000010001010111000000111001110
+Ovibos                     1100201100011010110100102201210011111010000010001010000110001011101200112000000100001000000001101111000110001011
+Budorcas                   1100201001110110010000102201210011111010000000101110000110111011101000112001000100000000000011111001000010001011
+Capra                      2101200001000010120010201001010001110000001021001110010110101111101200112011000100000000000010101001000110001110
+Ovis                       2100200000011010121010202011011000110000012021001110010110101111101200112011000000001000000010001001100110001110
+Pantholops                 2101200001000000110010101001010211111011011010111100001111000101101100012001000010101100111010001000110100011111
+Qurliqnoria                11012000012010?111001?101??????????????????1?01111?010??????????????????????????????????????????????????????????
+Tragelaphus_f              ?0?1??00?????1????00?1??1??1???????????????1??????1?????????????????????????????????????????????????????????????
+Miotragocerus_f            ?1?1??01?????0????00?1??1??0??????0???????00??????1?????????????????????????????????????????????????????????????
+Ugandax_f                  ?0?1??11?????0????00?0??1??0??????1???????10??????0?????????????????????????????????????????????????????????????
+Kobus_f                    ?0?0??01?????0????10?0??0??0???????????????1??????1?????????????????????????????????????????????????????????????
+Sivacobus_f                ?0?0??01?????0????00?0??1??0??????1???????01??????1?????????????????????????????????????????????????????????????
+Sivatragus_f               ?0?0??00?????0????00?0??1??0??????0????????1??????1?????????????????????????????????????????????????????????????
+Damalacra_f                ?0?0??00?????0????01?0??0??1??????1????????1??????1?????????????????????????????????????????????????????????????
+Aepyceros_f                ?0?0??00?????0????11?0??0??0??????0???????01??????1?????????????????????????????????????????????????????????????
+Gazella_f                  ?0?0??00?????0????10?0??0??0??????0???????01??????1?????????????????????????????????????????????????????????????
+Prostrepsiceros_f          ?0?1??01?????0????11?0??0??1??????0???????01????????????????????????????????????????????????????????????????????
+Plesiaddax_f               ?1?1??10?????1????01?0??0?????????1???????10??????0?????????????????????????????????????????????????????????????
+Pachytragus_f              ?1?1??00?????0????01?0??0??1??????0???????11??????1?????????????????????????????????????????????????????????????
+
+;
+
+
+cnames
+{ 0 HORNCORE_length State_0:_short State_1:_medium State_2:_long;
+{ 1 HORNCORE_lateral_compression State_0:_uncompressed State_1:_mediolaterally_compressed;
+{ 2 HORNCORE_a-p_compression State_0:_uncompressed State_1:_a-p_compressed;
+{ 3 HORNCORE_keel State_0:_absent State_1:_present;
+{ 4 HORNCORE_diameter State_0:_small State_1:__intermediate State_2:_large;
+{ 5 HORNCORE_transverse_ridge State_0:_absent State_1:_present;
+{ 6 HORNCORE_horncore-orbit_position State_0:_horncore_above_orbit State_1:_horncore_behind_orbit;
+{ 7 HORNCORE_lateral_inclication State_0:_little_to_none State_1:_much_inclined;
+{ 8 HORNCORE_upright State_0:_false State_1:_true;
+{ 9 HORNCORE_spacing State_0:_wide_apart State_1:_intermediate State_2:_closer;
+{ 10 HORNCORE_longitudinal_groove State_0:_absent State_1:_moderate State_2:_deep;
+{ 11 HORNCORE_divergence State_0:_little State_1:_very;
+{ 12 HORNCORE_torsion State_0:_absent State_1:_present_(clockwise);
+{ 13 HORNCORE_counter-torsion State_0:_absent State_1:_present_(counter-clockwise);
+{ 14 HORNCORE_in_females State_0:_absent State_1:_present;
+{ 15 HORNCORE_postcornual_fossa_presence State_0:_absent State_1:_present;
+{ 16 SKULL_dorsal_orbit_rim_width State_0:_narrow State_1:_wide;
+{ 17 SKULL_frontal_sinus State_0:_absent State_1:_moderate State_2:_extensive;
+{ 18 SKULL_cranial_roof_inclination State_0:_slight State_1:_much_angled;
+{ 19 SKULL_cranial_roof_horizontal State_0:_inclined State_1:_horizontal;
+{ 20 SKULL_interfrontal_suture_morphology State_0:_simple State_1:_moderate State_2:_complex_or_ridged;
+{ 21 SKULL_supraorbital_foramina_pitted State_0 State_1;
+{ 22 SKULL_brainase_widening State_0:_posterior State_1:_parallel State_2:_anterior;
+{ 23 SKULL_supraorbital_forramina_spacing State_0:_narrow State_1:_wide;
+{ 24 SKULL_temporal_ridge_convergence State_0:_close State_1:_moderate State_2:_wide_apart;
+{ 25 SKULL_zygomatic_arch_deepening State_0 State_1 State_2;
+{ 26 SKULL_face_lengthening State_0 State_1;
+{ 27 SKULL_tooth_row-orbit_relative_location State_0 State_1;
+{ 28 SKULL_size_of_lachrymal_bone State_0 State_1 State_2;
+{ 29 SKULL_jugal_size State_0 State_1;
+{ 30 SKULL_jugal_lobate State_0 State_1;
+{ 31 SKULL_maxillary_tuberosity_development State_0 State_1 State_2;
+{ 32 SKULL_ethmoidal_fissure_presence State_0 State_1;
+{ 33 SKULL_preorbital_fossa_presence State_0 State_1;
+{ 34 SKULL_infraorbital_foramen_location State_0 State_1;
+{ 35 SKULL_alteral_flange_on_nasal_presence State_0 State_1;
+{ 36 SKULL_premaxilla-nasal_contact State_0 State_1;
+{ 37 SKULL_palatal_ridge_anterior_contact State_0 State_1;
+{ 38 SKULL_position_of_vomer_fusion_with_palate State_0 State_1;
+{ 39 SKULL_palatine_foramina_position_relative_to_dentition State_0 State_1;
+{ 40 SKULL_palatine_foramina_positino_relative_to_midline State_0 State_1;
+{ 41 SKULL_a-p_position_of_palatine_foramine State_0 State_1;
+{ 42 SKULL_location_of_median_indent_at_back_of_palate State_0 State_1 State_2;
+{ 43 SKULL_auditory_bulla_size State_0:_small State_1:_large;
+{ 44 SKULL_basioccipital_shape State_0:_triangular State_1:_rectangular State_2::_wide_anteriorly;
+{ 45 SKULL_size_of_anterior_tuberosities_of_basioccipital State_0:_weak State_1:_strong;
+{ 46 SKULL_longitudinal_ridge_posterior_to_anterior_tuberosities State_0:_absent State_1:_present;
+{ 47 SKULL_postglenoid_foramina_presence State_0:_absent_or_small State_1:_present_or_larger;
+{ 48 SKULL_size_of_foramen_ovale State_0:_smaller State_1:_intermediate State_2:_large;
+{ 49 SKULL_orientation_of_foramen_ovale_opening State_0:_ventral State_1:_lateral;
+{ 50 SKULL_occipital_surface_orientation State_0:_lateral State_1:_posterior;
+{ 51 SKULL_mastoid_exposure_width State_0:_wide State_1:_narrow;
+{ 52 SKULL_mastoid_exposure_orientation State_0:_posterior State_1:_lateral;
+{ 53 SKULL_mastoid_contact_with_parietal State_0:_absent State_1:_present;
+{ 54 TEETH_first_incisor_size State_0 State_1 State_2;
+{ 55 TEETH_crown_height State_0:_low State_1:_high;
+{ 56 TEETH_premolar_row_length_<60%_molar_row State_0:_false State_1:_true;
+{ 57 TEETH_p2_presence State_0:_no State_1:_yes;
+{ 58 TEETH_p3_metaconid_ridge_orientation State_0:_oblique State_1:_transverse;
+{ 59 TEETH_p3_and_p4_paraconid_morphology State_0:_indistinct State_1:_well_separated_from_parastylid;
+{ 60 TEETH_p4_metaconid_origin State_0:_not_posterior_to_protoconid State_1:_posterior_to_protoconid;
+{ 61 TEETH_p4_labial_valley_depth_anterior_to_hypoconid State_0:_shallow State_1:_deep;
+{ 62 TEETH_p4_entoconid_and_metaconid_fusion State_0:_not_fused State_1:_fused;
+{ 63 TEETH_p4_paraconid_and_metaconid_fusion State_0:_not_fused State_1:_fused;
+{ 64 TEETH_upper_molar_entostyle_presence State_0 State_1;
+{ 65 TEETH_upper_molar_entostyle_size State_0 State_1;
+{ 66 TEETH_upper_molar_mesotyle_with_concave_labial_metacone_wall State_0 State_1;
+{ 67 TEETH_M3_metastyle_flange_development State_0 State_1 State_2;
+{ 68 TEETH_upper_molars_labial_ribs_between_styles State_0 State_1;
+{ 69 TEETH_upper_molars_central_cavity_outline State_0 State_1;
+{ 70 TEETH_upper_molars_with_small_cavities_at_central_ingual_edge State_0 State_1;
+{ 71 TEETH_M3_posterior_half_enlarged State_0 State_1;
+{ 72 TEETH_ectostylids_on_lower_molars State_0:_all State_1:_lost_on_m2-m3 State_2:_lost_on_m1-m2;
+{ 73 TEETH_lower_molar_lingual_wall_profile State_0:_outbowed State_1:_flat;
+{ 74 TEETH_lower_molar_anterior_goat_folds State_0:_present State_1:_absent;
+{ 75 TEETH_m3_hypoconulid_labial_offset State_0:_absent State_1:_present;
+{ 76 TEETH_m3_hypoconulid_central_cavity_presence State_0:_absent State_1:_present_until_late_wear;
+{ 77 POSTCRAN_metacarpal_much_lengthened State_0 State_1;
+{ 78 POSTCRAN_radius_longer_than_metacarpal_and_much_longer_than_humerus State_0 State_1;
+{ 79 POSTCRAN_metacarpal_notably_shortened State_0 State_1;
+{ 80 POSTCRAN_femur_indent_between_articular_head_and_greater_trochanter State_0 State_1;
+{ 81 POSTCRAN_vastus_lateralis_crest_passing_above_and_behind_crest_for_gluteus_accessorius State_0 State_1;
+{ 82 POSTCRAN_top_of_greater_trochanter_relative_width_comapred_to_its_lower_part_in_lateral_view State_0 State_1;
+{ 83 POSTCRAN_width_of_lateral_articular_head_of_femur_in_dorsal_view State_0 State_1;
+{ 84 POSTCRAN_extent_of_lateral_rouch_fossa_on_posterior_surface_of_femoral_shaft State_0 State_1;
+{ 85 POSTCRAN_femur_patellar_fossa_width State_0 State_1;
+{ 86 POSTCRAN_development_of_protuberance_above_distal_lateral_condyle_on_femur_in_posteriore_view State_0 State_1;
+{ 87 POSTCRAN_tibia_with_strong_tubercle State_0 State_1;
+{ 88 POSTCRAN_lateral_edge_of_lateral_facet_on_tibia_upcurved State_0 State_1;
+{ 89 POSTCRAN_patella_groove_on_front_top_of_cnemial_crest_on_tibia State_0 State_1;
+{ 90 POSTCRAN_longitudinal_digital_flexor_ridge_location_on_posterior_surface_of_tibia State_0 State_1;
+{ 91 POSTCRAN_Size_of_naviculocuboid_facet_on_metatarsal State_0 State_1;
+{ 92 POSTCRAN_posteromedial_part_of_naviculocuvoid_facet_raised_in_medial_view_of_metatarsal State_0 State_1;
+{ 93 POSTCRAN_size_of_hollow_at_top_of_psoterior_surface_of_metatarsal State_0 State_1;
+{ 94 POSTCRAN__mediolateral_compression_of_metatarsal_shaft State_0 State_1;
+{ 95 POSTCRAN_longitudinal_groove_on_anterior_surface_of_metatarsal State_0 State_1;
+{ 96 POSTCRAN_metatarsal_anterioe_surface_flanges_distally State_0 State_1;
+{ 97 POSTCRAN_position_of_humerus_lateral_tuberosity_relative_to_infraspinatus_insertion_in_lateral_view State_0 State_1;
+{ 98 POSTCRAN_lateral_tuberosity_of_humerus_position_relative_to_bicipital_groove State_0 State_1;
+{ 99 POSTCRAN_posterior_eminence_flanged_behind_infraspinatus State_0 State_1;
+{ 100 POSTCRAN_bicipital_groove_width State_0 State_1;
+{ 101 POSTCRAN_shape_of_top_of_medial_tuberosity State_0 State_1;
+{ 102 POSTCRAN_base_of_medial_tuberosity_squared_in_anterior_view State_0 State_1;
+{ 103 POSTCRAN_development_of_top_of_distal_medial_condyle State_0 State_1;
+{ 104 POSTCRAN_radius_with_medial_rim_on_proximal_medial_facet State_0 State_1;
+{ 105 POSTCRAN_projection_of_back_of_medial_facet State_0 State_1;
+{ 106 POSTCRAN_back_edge_of_lateral_facet_set_forward State_0 State_1;
+{ 107 POSTCRAN_lateral_tubercle_size State_0 State_1;
+{ 108 POSTCRAN_development_of_distal_flanges_on_anterior_side State_0 State_1;
+{ 109 POSTCRAN_depth_of_top_of_scaphoid_facet,_posteriorly State_0 State_1;
+{ 110 POSTCRAN_metacarpal_medial_prominence_on_magnum-trapezoid_facet State_0 State_1;
+{ 111 POSTCRAN_metacarpal_top_articuklar_surface_indentation,_posteriorly State_0 State_1;
+;
+
+
+ccode  - 0.111;
+
+
+;

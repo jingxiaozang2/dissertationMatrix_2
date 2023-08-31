@@ -1,0 +1,166 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.46.40'
+107 41
+
+&[num]
+Macrocnemus_bassanii                      000001?00-00?0000??00100??????????00001000?00000000?0?00010000000000000??00000??00?000000???????????1000000
+Postosuchus_kirkpatricki                  000000000-1000?20??100000000???00000000000?00000000?1010000000001000000??00000??00?100000?????????0?0001000
+Herrerasaurus_ischigualastensis           000000000-1000?00??100001100???00000100000?00000000?101000000000?000000??00000??00?000000?????????0?000002?
+Preondactylus_buffarinii                  00???1?00-3011100???0?000100?????00010?000?0?011000?111110?000000001010??100010?01110110000000000?0?00?011?
+Austriadactylus_cristatus                 000001?01030??100??201000100???000?0101010?00011000?1111100?00000?01010??????10?0??00?1???0?10000??????0???
+Austriadraco_dallavecchiai                ?0??????????????????0?????00??????002000???10??10?10?????00?0000??010100010?011?0??????????0????????0?0????
+Arcticodactylus_cromptonellus             ?0???10???3010??????0???0?00??????0??0???0?0001100100?0000?00000??010?0??100012?01?0??10?00010000???00??1?0
+Peteinosaurus_zambellii                   ?0????????????????????????????????0?10??10?00??1000??????1000000??01110??110110?01100110100000000??00000110
+Dimorphodon_macronyx                      000000000-2111320??201010100???10100001011100011100?0?010?010000?101110??211110?01100110100000000?100000110
+Campylognathoides_spp.                    000001000-3010310??302000100???00000201010?00000000?0?0002000000?10111011211111?0?100111100?10110?100?00211
+Eudimorphodon_ranzii                      000001000-3010300??202000100???00000001010?0001101100?100000000001?????1121?111?0210011???0????????001?????
+MCSNB_8950                                ????????????????????????????????????????????????????????????????000101011?01111?02??0?01100110000??000?0110
+Carniadactylus_rosenfeldi                 001001?10-301?210??202001100???00?0?001000?1001101100?00000000?00?01010??1?1111?011001111001?11001???100110
+Caviramus_schesaplanensis                 ?0????????????????????????????????00?0?100?011??0?11?????01000?0???????????????????????????????????????????
+Raeticodactylus_filisurensis              001001?1103000210??202?01100???000??10110100111101110?0000100000???????????1111?02100?1?00?110000???0????1?
+Dorygnathus_banthensis                    001001010-4010210??402001000???00011101000?00000020?0?01020000010?0111000211114?120001101001000?0?1001?0212
+Sordes_pilosus                            001001000-?0????0???0??00100???00?1010?000?00000000?0?0002?01000?10?110??211112?12120110100100000?020011212
+Scaphognathus_crassirostris               001001010-3010400??402001100???00010101000?00000000?0?0002001001110011020211?14?12100?10100100010?010011212
+Rhamphorhynchus_muensteri                 001001010-4010400??503001000???000111010?0?00000020?0?00020000011?0111010211114?121201111002111101120111211
+Anurognathus_ammoni                       010000200-??????10??111?0?1000?11200301000??0000000????00200000011100023?201113002020?001101011112??0010110
+Batrachognathus_volans                    010??0100-??????10??1?1?0?1000??1200301?00??0000000????0020?00001???110?????113?????????1???????????0?1011?
+Dendrorhynchoides_curvidentatus           01???02?0-????????????1????????????0?0????????000?0????0?2???0001?100?1??211112?02020?001101111112???010110
+Dendrorhynchoides_mutoudengensis          01???02?0-????????????1????????????0?0????????000?0????0?2???0?01?10011??2?1112??2020?101101111112????10110
+Jeholopterus_ningchengensis               01???02?0-??????1?????1???1000????00?0????????000?0????0?2???0001010??2??201112?02020?001101011112?10010110
+Darwinopterus_modularis                   1011010111??????110603??0?11111?0110101000-00000000????002000110?1001102021111510??20?101000000000000111212
+Darwinopterus_robustodens                 1011010111??????110603??0?11111?0110101000-00000000????0020001101?0011020211115102220?101001000000000111212
+Darwinopterus_linglongtaensis             1011010111??????110603??0?11111?0110101000-00000000????002000110?1001102021111510?2200101000000000000111212
+Cuspicephalus_scarfii                     10100?0111??????????03?????1111?0110101000-000?????????????????????????????????????????????????????????????
+Wukongopterus_lii                         100?0?01????????????0??????2??????10101000-00000000-0-00020001101100110??211115101?2001010000000000??1?1212
+Wukongopterus_sp._IVPP_V_17959            1000010111??????110603????12110?0110101000-00000000-0-0002000?101????????????15?0?22001?1?0?00?????????????
+Kunpengopterus_sinensis                   101011010-??????1106030???11110?0010101000-00000000-0-000200011011001102?21101510122001010000000010??111211
+BPMC_0042                                 10?010010-??????1?????????1111??0?1?101000-00000000-0-00020001101100110??2?11151012200101000000001???1?1211
+K._sp._ZMNH_M8802/IVPP_V18403             10?010010-??????110?03?????1110?001?1?1000-00000000-0-00020001101100110??21?115?01?????????????????????1211
+Pterorhynchus_wellnhoferi                 101001??1???????110?03?---1111??0?10101000-??000000-0-00020000101??????????????1??????????????????1????????
+Changchengopterus_pani                    ??????????????????????????????????????????????????????????????????00000????111500222001???110011?1???1?1?11
+Pterodactylus_antiquus                    101001010-??????1106030?0?10110-0011101000?00000000????002000000211000120211?15001220020101?01110110021122?
+Pteranodon_longiceps                      101031010-??????1116030?0?10110?0111101000?000???????????????--?211000110211?161012?1020111111110212121122?
+Anhanguera_spp.                           1010010110??????1116020?0?10110?0111101001000000010????0020000112110001202111160?22?102010?1?1110?1112?????
+Caelestiventus_hanseni                    00000?00??21113?0??????10100???1010000101?1000?11?0?0?0110010000??????0?????????????????????????0??????????
+Dimorphodon_weintraubi                    ????0??????????????????????0?????????????????????????????????0???????????????????????21??1?0?110???100002?1
+Seazzadactylus_venieri                    00100???0-301101?--?0?000100--?000?0201000-1001101100-0000000000?0?????1?1??11??0111011??0011000???01??????
+
+;
+
+
+cnames
+{ 0 Skull,_elongation State_0 State_1;
+{ 1 Skull,_broader_than_long_with_very_short_preorbital_region_and_broadly_arching_jaws absent present;
+{ 2 Skull,_ventral_margin_at_the_articulation_with_mandible Straight Curved_down_caudally;
+{ 3 Skull,_posterodorsal_region,_elongated State_0 State_1;
+{ 4 Rostrum,_shape approximately_straight slightly_downturned,_with_a_gently_concave_ventral_margin donwturned,_with_an_angled_ventral_margin upturned;
+{ 5 Rostrum,_dorsal_margin_outline convex straight,_slightly_sigmoid_or_concave;
+{ 6 Jaws,_semicircular_in_shape State_0 State_1 State_2;
+{ 7 Premaxilla,_caudoventral=posteroventral present absent;
+{ 8 Premaxilla,_premaxillary_bony_crest absent present;
+{ 9 Premaxilla,_premaxillary_bony_crest,_straight_vertical_striations State_0 State_1;
+{ 10 Maxilla,_dorsal=ascending_process,_shape_in_lateral_view short,_broad_and_triangular long,_broad_and_arched_backward long,_very_thin_and_straight long,_thin_and_slightly_arched_backward short_and_straight;
+{ 11 Maxilla,_dorsal_(ascending_process,_backward_inclination more_than_125_° 125 or_less;
+{ 12 Maxilla,_antorbital_fossa_in_the_dorsal present absent;
+{ 13 Maxilla,_dorsoventrally_elongated_foramen_in_the_lateral_side_of_the_basal_part_of_the_dorsal absent present;
+{ 14 Maxilla,_premaxillary_process,_shape_in_lateral_view triangular,_tapering_and_pointed,_shorter_and_deeper_than_the_jugal_process triangular,_tapering_and_pointed,_low_and_long_like_the_jugal_process trapezoidal_and_deep trapezoidal_and_low harpoon-shaped;
+{ 15 Maxilla,_jugal_process,_shape_in_lateral_view triangular,_tapering_regularly_to_a_point subtrapezoidal,_tapering_to_a_point_only_distally,_proximal_part_with_parallel_dorsal_and_ventral_margins rectangular;
+{ 16 Nasal,_contact_with_maxilla present absent;
+{ 17 Nasal_descending_process_into_the_nasoantorbital_fenestra absent present;
+{ 18 Nasal_descending_process_into_the_nasoantorbital_fenestra_-_2 lateral medial;
+{ 19 Lacrimal,_shape_in_lateral_view crescent-shaped massive_vertical_bar atched-shaped_with_slender_jugal_process straight_slender_bar C-shaped,_arched_over_the_antorbital_fenestra short_and_quadrangular massive,_triangular_to_T-shaped;
+{ 20 Jugal,_rostrally_expanded_to_overlap_most_of_the_maxilla_laterally absent present;
+{ 21 Quadrate,_orientation inclined_anteriorly vertical_or_subvertical_(90-110°) inclined_backwards_of_110-135° inclined_backwards_>135°;
+{ 22 Palatal_elements,_shape inclined_backwards_>135 reduced_to_very_thin_bars_of_bone;
+{ 23 Skull_openings,_external_narial_opening,_relative_size smaller_than_orbit_or_antorbital_fenestra larger_than_orbit_or_antorbital_fenestra;
+{ 24 Skull_openings,_antorbital_fenestra,_position lies_level_with_the_naris lies_partially_or_totally_lower_than_the_naris;
+{ 25 Skull_openings,_antorbital_fenestra,_shape length_more_than_twice_the_height length_twice_the_height_or_less;
+{ 26 Skull_openings,_antorbital_fenestra_confluent_with_the_external_narial_opening absent present;
+{ 27 Skull_openings,_nasoantorbital_fenestra_(or_external_naris_plus_antorbital_fenestra)_,_extension State_0 State_1 State_2;
+{ 28 Skull_openings,_nasoantorbital_fenestra,_shape higher_than_long longer_than_high;
+{ 29 Skull_openings,_nasoantorbital_fenestra,_rostral_end bordered_by_the_premaxilla bordered_by_the_maxilla;
+{ 30 Nasoantorbital_fenestra,_posterodorsal_margin_(lacrimal),_shape concave straight/convex;
+{ 31 Skull_openings,_orbit,_relative_size Larger_than_antorbital_fenestra Smaller_than_antorbital_fenestra;
+{ 32 Orbit_size State_0 State_1;
+{ 33 Orbit,_shape State_0 State_1 State_2;
+{ 34 Mandible,_fusion_of_the_rami_at_the_symphysis absent present;
+{ 35 Mandible,_symphysis,_length less_than_30%_the_length_of_the_mandible more_than_30%_the_length_of_the_mandible;
+{ 36 Mandible,_shape_of_the_dorsal_margin_rostral_to_the_glenoid_for_the_quadrate_in_lateral_view dorsally_pointed more_or_less_convex_without_points_or_depressions with_two_low_dorsal_peaks_separated_by_a_depression totally_straight;
+{ 37 Mandible,_elongation ratio_mandibular_length/height_at_mid-;
+{ 38 Mandible,_external_mandibular_fenestra present absent;
+{ 39 Mandible,_orientation_of_the_retroarticular_process posteriorly_or_only_slightly_ventrally_directed posteroventrally_directed,_making_with_the_dentary_axis_an_angle_of_about_35?;
+{ 40 Dentary,_rostral_end_shape posteroventrally_directed,_making_with_the_dentary_axis_an_angle_of_about_35? slightly_bent_ventrally;
+{ 41 Dentary,_mandibular_bony_crest absent present;
+{ 42 Dentary,_mandibular_bony_crest,_extent limited_to_the_rostral_part_of_the_dentary continuing_posteriorly_as_a_low_flange_up_to_the_end_of_the_dentary;
+{ 43 Dentary,_arched_ridge_bounded_dorsally_and_ventrally_by_narrow_grooves_along_the_lateral_side_of_the_mandibular_ramus absent present;
+{ 44 Dentary,_large_oval_foramina_every_2 absent present;
+{ 45 Dentary,_cup-shaped_structures absent present;
+{ 46 Dentition,_variation_in_crown_shape_along_the_upper_jaw isodont heterodont;
+{ 47 Dentition,_variation_in_crown_shape_along_the_lower_jaw isodont heterodont;
+{ 48 Dentition,_bifid_apex_of_the_tooth_crown absent present;
+{ 49 Dentition,_crown_inclination all_teeth_upright only_premaxillary_and_first_dentary_teeth_procumbent State_2;
+{ 50 Dentition,_tri-_to_quinticuspid_tooth_crowns absent present;
+{ 51 Dentition,_tri-_to_quinticuspid_tooth_crowns,_shape somewhat_labolingually_flattened bulbous;
+{ 52 Dentition,_maxillary_crowns_below_and_distal_to_the_ascending non-serrate serrate;
+{ 53 Dentition,_maxillary_denticles_in_the_serrate_crowns_below_and_distal_to_ascending square_or_chisel-like triangular;
+{ 54 Dentition,_maxillary_teeth_much_enlarged_below_the_dorsal_process absent present;
+{ 55 Dentition,_post-symphysial_mandibular_tooth_crown_size_compared_to_maxillary_tooth_crown_size comparable,_at_least_to_part_of_maxillary_crowns much_smaller;
+{ 56 Dentition,_post-symphysial_mandibular_tooth_crown_shape_compared_to_maxillary_tooth_crown_shape similar different;
+{ 57 Dentition,_average_crown_mesiodistal_spacing_relative_to_successive_teeth_mesiodistal_length_in_post-symphysial_mandibular_and_maxillary_teeth less_than_successive_crowns_mesiodistal_length subequal_to_successive_crown_mesiodistal_length much_more_than_successive_crown_mesiodistal_length;
+{ 58 Dentition,_mandibular_teeth,_constricted_collum absent present;
+{ 59 Dentition,_diastema_with_a_concave_outline_between_the_first_two_dentary_teeth_and_those_following_posteriorly absent present;
+{ 60 Dentition,_number_of_mandibular_teeth more_than_6_tooth_pairs six_pairs_or_less;
+{ 61 Dentition,_first_pair_of_premaxillary_teeth,_relatively_small_and_closely_spaced State_0 State_1;
+{ 62 Dentition,_curvature_orientation State_0 State_1;
+{ 63 Dentition,_post-symphysial_mandibular_teeth,_maximum_crown_height_relative_to_basal_width less_than_four_times_width at_least_four_times_width;
+{ 64 Mid-cervical_vertebrae,_ribs long,_with_filiform_shafts_extending_caudally_up_to_the_successive_cervical_centrum reduced absent;
+{ 65 Sacral_vertebrae,_number three_or_less more_than_three;
+{ 66 Caudal_vertebrae,_length_of_the_caudal_segment_of_the_vertebral_column_respect_to_the_dorsal_segment longer shorter;
+{ 67 Caudal_vertebrae,_elongation short,_longest_caudal_centrum_less_than_2.5_times_longer_than_a_mid-dorsal_centrum elongate,_longest_caudal_centrum_over_2.5_times_longer_than_a_mid-dorsal_centrum;
+{ 68 Caudal_vertebrae,_filiform_processes_of_caudal_zygapophyses absent present;
+{ 69 Caudal_vertebrae,_hemapophyses_sending_filiform_processes_below_the_adjacent_centra absent present;
+{ 70 Caudal_series,_shorter_than_femur State_0 State_1 State_2;
+{ 71 Sternal_plate,_shape triangular quadrangular semicircular_or_triangular_inverted_(apex_opposite_to_cristospine) small_and_narrow;
+{ 72 Sternal_plate,_lateral_process_on_each_side_of_its_caudal_end absent present;
+{ 73 Coracoid,_shape subcircular_or_crescentic with_(dorsoventrally)_elongated_and_broad_shaft,_flattened_at_midshaft with_strut-like_shaft,_slender_and_cylindrical_at_midshaft;
+{ 74 Coracoid,_relative_dorsoventral_length less_than_2/3_length_of_scapula 2/3_or_more_length_of_scapula;
+{ 75 Forelimb_(h+u+mcIV+phalanges_of_digit_IV),_relative_length less_than_2.5_times_the_length_of_hind_limbs_(fe+ti+mtIII) 2.5_times_the_length_of_hind_limbs_or_more;
+{ 76 Humerus,_relative_length shorter_than_femur_or_as_long_as_femur longer_than_femur;
+{ 77 Humerus,_size_of_deltopectoral_crest scarcely_developed well-developed_and_projecting;
+{ 78 Humerus,_shape_of_the_well-developed_deltopectoral_crest_in_dorsoventral_view trapezoidal,_narrow_and_long_(Dimorphodon-like) trapezoidal,_broad_and_short_(Campylognathoid-like) subtriangular_(Sordes-like) rounded,_blunt_and_short_(Anurognathus-like) mid-proximally_constricted_and_expanded_distally_with_rounded_margin_(Rhamphorhynchus-like) tongue-like_(Pterodactylus-like) warped_(Pteranodon-like);
+{ 79 Humerus,_entepicondyle,_anteroposterior_width State_0 State_1;
+{ 80 Ulna,_length_relative_to_humerus less_than_1.5_times_length_of_humerus 1.5_times_length_of_humerus_or_more;
+{ 81 Ulna,_ulna/tibia_ratio <0.9 0.9-1.2 >1.2;
+{ 82 Pteroid_bone,_elongation 1/6_ulnar_length_or_less 1/6-2/5_ulnar_length more_than_2/5_ulnar_length;
+{ 83 Metacarpus,_relative_length_of_elements_I-III metacarpal_I_<_metacarpal_II_<_metacarpal_III metacarpal_I_<_metacarpal_II_=_metacarpal_III All_the_same_length;
+{ 84 Metacarpus,_metacarpals_articulating_with_carpus all only_some_of_them_or_none;
+{ 85 Metacarpus,_ventrocaudally_or_caudally_projecting_crest_in_the_middle_of_the_dorsocaudal_margin_of_the_shaft_of_metacarpal_IV absent present State_2;
+{ 86 Metacarpus,_metacarpal_IV-humerus_ratio less_than_35% more_than_35%_but_less_than_80% more_than_80%;
+{ 87 Manus_digits,_digit_IV,_relative_length Equal_or_less_than_65%_total_forelimb_length more_than_65%_total_forelimb_length;
+{ 88 Manus_ungual_phalanges,_relative_size similar_size_as_pedal_unguals much_larger_than_pedal_unguals;
+{ 89 Wing_phalanx_1,_relative_size less_than_35%_wing_finger_length 35%_wing_finger_length_or_more;
+{ 90 Wing_phalanx_1,_length_relative_to_wing_metacarpal phalanx_over_twice_the_length_of_the_metacarpal phalanx_less_than_twice_the_length_of_the_metacarpal;
+{ 91 Wing_phalanx_1,_length_relative_to_tibiotarsus phalanx_shorter_than_tibiotarsus phalanx_longer_than_tibiotarsus,_but_less_than_twice_its_length phalanx_about_or_longer_than_twice_the_length_of_tibiotarsus;
+{ 92 Wing_phalanx_2,_length_relative_to_ulna shorter_than_ulna as_long_as_ulna_or_longer;
+{ 93 Wing_phalanx_2,_length_relative_to_wing_phalanx_1 phalanx_2_about_the_same_size_or_longer_than_phalanx_1 phalanx_2_shorter_than_phalanx_1;
+{ 94 Wing_phalanx_3,_length_relative_to_wing_phalanx_1 phalanx_3_about_the_same_length_or_longer_than_phalanx_1 phalanx_3_shorter_than_phalanx_1;
+{ 95 Wing_phalanx_3,_length_relative_to_wing_phalanx_2 phalanx_3_about_the_same_length_or_longer_than_phalanx_2 phalanx_3_shorter_than_phalanx_2;
+{ 96 Wing_phalanx_4,_size more_than_30%_the_length_of_the_wing_phalanx_3 extremely_reduced;
+{ 97 Wing_phalanx_4,_proportion_relative_to_phalanx_1 both_elongated,_with_the_fourth_phalanx_longer_than_the_first_(ph4/d4>1.00) both_elongated,_with_the_fourth_phalanx_the_same_length_or_shorter,_but_longer_than_35%_the_lenght_of_the_first both_elongated,_with_the_fourth_phalanx_less_than_35%_the_lenght_of_the_first;
+{ 98 Acetabulum,_shape State_0 State_1;
+{ 99 Prepubis,_distal_end expanded_(paddle_or_fan-like) boot-like bifurcate_(rod-like);
+{ 100 Femur,_angle_of_caput_femoris_to_shaft 145°_or_less more_than_145°;
+{ 101 Femur,_proportional_length_relative_to_metacarpal_IV femur_about_twice_or_longer_than_metacarpal_IV femur_longer_but_less_than_twice_the_length_of_metacarpal_IV femur_about_the_same_length_or_shorter_than_metacarpal_IV;
+{ 102 Fibula,_relative_length Similar_length_as_tibia shorter_than_tibia,_not_reaching_the_tarsus;
+{ 103 Metatarsals,_arrangement tightly_bound_in_a_single_unit,_parallel_and_contacting_each_other_for_at_least_the_proximal_half_of_the_elements spreading_and_contacting_each_other_for_less_than_the_proximal_half_of_the_elements;
+{ 104 Metatarsals,_relative_length_of_metatarsal_IV longer_than_metatarsal_I subequal_in_length_to_metatarsal_I shorter_than_metatarsal_I;
+{ 105 Pedal_digit_V,_phalangeal_count three_or_four_phalanges two_phalanges one_or_none_(extremely_reduced);
+{ 106 Pedal_digit_V,_phalanx_2,_shape straight_or_slightly_arched curved_proximally_bent_(angled)_at_midlength extremely_bent_(exterior_angle_under_140°);
+;
+
+
+ccode  - 0.106;
+
+
+;

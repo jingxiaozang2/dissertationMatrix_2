@@ -1,0 +1,153 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.45.24'
+102 33
+
+&[num]
+Rhinobatos                0000000000000000000000000000000000000000000000000---00-000000000-0000200000000001000000000000000000000
+Raja                      0000000000000000000000000000000000000000000000000---00-000000000-0010000000010010100311000000000001000
+Hexatrygon                00??000000000000001?010000000001000?0?00000000000---00-000000000-112110?111021112???????00000000001000
+Paratrygon                0021000000011000002111000000010112000011001000000---00-000000000-1110?0?11112111?0?????200001000001000
+Styracura                 0001000000011100002111001000000112020000001000000---00-000000000-1110??1111121112???????000?0000001000
+Heliotrygon               0021000000011000002111000000010112000011001??0000---0???????????-???????????????????????000000000??000
+Plesiotrygon              0011000000011100002111010100010111020011001000000---00-000000000-1110?1?11112111?0?????200000000001000
+Potamotrygon              0011000000011100002111010100010111020011001000000---00-000000000-1110113111121112010120200000000001000
+Aetomyleus                02010010?111101?113120101021000012101100011??1010????11?1??1110?????0?2?1???2111????????00020101100100
+Myliobatis                020100100111101?113120101011000012101100011111010????110100111?001121321111321113010220000120101100100
+Weissobatis               ????0????1?1??????????????11000012???????1?11101011211101?0111000?121???1???2?11?????????????????00100
+Promyliobatis             ????0????1?1??????3120????01000?12???????1?11101011?1???1??1111?0?121???1??3??113????????????????00100
+Aetobatus                 0201001011111011113120111?21?010121011000211121--21211211001120201121321111321113010220?10100001100100
+Rhinoptera                02011110111110111131201?1?20?110121011000311110110120100100112110112132111132111?0102203??00?101100100
+Mobula                    0201111011110011013120111?20?110121011000310110??0?102-1?0011?00?1??1??111132111?1???????0001211200100
+Pastinachus               01010000000110000021110010?0000111000000001??0000-0?00-0???0000?-?111?2?1???2111????????00000001001000
+Himantura                 01?1000000011000002111001000000112000000001000000---00-000000000-1110102111121113010121211020000011010
+Dasyatis                  01?10000000110000021110010?0000111000000001000000---00-0?0000010-11?031?111121113101121111020000001000
+Pteroplatytrygon          0101000010011000002111001000000111000000001000000---00-000000000-1110?11111121113101121110000000001000
+Neotrygon                 0001000000011000002111001000000111010000001000000---00-000000000-01??10111012111200112121001000000?001
+Taeniura                  0001000000011000002111001000000111010000001000000---00-000000000-11?0311111121112001121210010000001001
+Protohimantura            ????00???0??100000?111???0000??????????????000000---00-000000000-??1????11??2?113???????????0?0??11010
+Heliobatis                ????00??000?1?0000??????0000000101???????0?000000---00-000000000-?110???11102111?????????????????01000
+Asterotrygon              ????00??000?1100001??1??0000000001???????0?000000---00-000000000-?110???11102111????????1????????01000
+Tethytrygon               ????00???0??1000002111???000000111???????0?000000???00?000000000??121???11?121112??1??1?1??10?0??01001
+Urobatis                  10010000000110000021110?1000000100000000101000000---00-000000000-11?0?01111121111010220100000000011000
+Urotrygon                 1001000000011000003111001000000100000000101000000---00-000000000-11?0101111221111010220100000000001000
+Trygonoptera              00010001000110000011110010002000000?0000001000000---00-000000000-1121?0?111?2111?0??????00010000011000
+Urolophus                 0001000110011010001111000000200?00000000001000000---00-000000000-1121101111021111010220110000000011000
+Arechia                   ????0????0??1??00011??????00000?00???????0?000000---???0?0000000??1?1?0?1??021111???????????0????11000
+Gymnura                   0101000001010000001111000011101102000000001000000---00-000000000-11?1101111021113010220?00001000000100
+Plesiobatis               0001000010011000001110020000000100000000001000000---00-000000000-1111?01111021111010?20100000000000000
+Lessiniabatis             ????0????0??10?000???????000301?02???????0?000000---00?000000000-?01110?1?????112???????????0????01000
+
+;
+
+
+cnames
+{ 0 Tubules_of_subpleural_components_of_hyomandibular_lateral_line_canals not_branched_at_extremities extremities_dichotomously_branched;
+{ 1 Subpleural_components_of_the_hyomandibular_lateral_line_canals posterior_branch_extends_caudally_more_or_less_parallel_to_longitudinal_body_axis posterior_branch_inflects_toward_midline_to_form_a_lateral_hook posterior_branch_inflects_to_continue_anteriorly_almost_parallel_to_anterior_branch,_forming_a_large_indentation;
+{ 2 Suborbital_components_of_infraorbital_lateral_line_canals projecting_posteriorly_lateral_to_mouth projecting_posteriorly_lateral_to_mouth_and_anteriorly_lateral_to_nasal_openings forming_a_complex_web?like_pattern_on_lateral_aspects_of_the_anteroventral_disc_region;
+{ 3 Scapular_loops_formed_by_scapular_components_of_trunk_lateral_line_canals absence_of_loops presence_of_scapular_loops;
+{ 4 Anterior_process_of_neurocranium absent present;
+{ 5 Preorbital_process present absent;
+{ 6 Preorbital_canal_for_passage_of_superficial_ophthalmic_nerve dorsally_located anteriorly_located;
+{ 7 Foramen_for_the_optic_(II)_nerve moderately_sized very_enlarged;
+{ 8 Postorbital_process_of_neurocranium infraorbital_lateral_line_canal_separates_postorbital_process_from_small,_anterior_triangular_outgrowth_(supraorbital_process)_of_the_supraorbital_crest postorbital_process_with_small_foramen_for_passage_of_infraorbital_lateral_line_canal;
+{ 9 Extent_of_orbital_region orbital_region_of_neurocranium_long shortened_orbital_region_with_more_anteriorly_placed_supraorbital_and_postorbital_process;
+{ 10 Postorbital_process without_ventrolateral_projection continuing_ventrolaterally_to_form_a_cylindrical_projection;
+{ 11 Ventrolateral_expansion_of_nasal_capsules nasal_capsules_laterally_expanded nasal_capsules_ventrolaterally_expanded;
+{ 12 Articulation_between_hyomandibula_and_Meckel?s_cartilage hyomandibulae_directly_attached_to_lower_jaws hyomandibulae_articulating_with_lower_jaws_through_strong,_stout_ligament_(hyomandibular?Meckelian_ligament)_at_distal_tip;
+{ 13 Angular_cartilages absence_of_angular_cartilages_within_hyomandibular?Meckelian_ligament presence_of_angular_cartilages_within_ligament;
+{ 14 Secondary_hyomandibular_cartilages absent present;
+{ 15 Symphysial_fusion_of_upper_and_lower_jaws antimeres_separate_at_symphysis both_antimeres_of_jaws_symphysially_fused;
+{ 16 Mandibular_width_at_symphysis lower_jaws_slender_at_symphysis lower_jaws_symphysially_thickened;
+{ 17 Lateral_projections_of_lower_jaws absent present;
+{ 18 Basihyal_cartilage basihyal_laterally_elongated,_fused_to_first_hypobranchialis basihyal_a_single_element,_but_separate_from_first_hypobranchials basihyal_separate_from_first_hypobranchials_but_fragmented_into_more_than_one_component basihyal_absent;
+{ 19 Fusion_of_ventral_pseudohyoid_and_first_ceratobranchial absent present;
+{ 20 Arrangement_of_posterior_ceratobranchials separate_from_each_other ankylosis_between_fourth_and_fifth_ceratobranchials fourth_and_fifth_ceratobranchials_fused_to_each_other;
+{ 21 Median_projection_of_the_basibranchial_medial_plate absent present;
+{ 22 Articulation_between_fifth_epi?_and_ceratobranchial_elements_to_scapulocoracoid close_together widely_separated;
+{ 23 Lateral_stay_of_synarcual originates_ventral_to_spinal_nerve_foramina originates_dorsal_to_spinal_nerve_foramina contacting_synarcual_both_dorsally_and_ventrally_to_foramina;
+{ 24 Fossa_on_dorsal_scapular_region absent present;
+{ 25 Contact_between_pro-_and_mesopterygium_in_the_pectoral_fin present absent;
+{ 26 Distinct_components_of_the_mesopterygium rygium_single_element fragmented missing_altogether;
+{ 27 Lateral_expansion_of_radials_in_pectoral_region absent present;
+{ 28 External_margin_of_mesopterygium more_or_less_straight,_not_fused_to_radials undulated,_not_fused_to_radials highly_sinuous,_appearing_to_be_fused_with_articulating_radial_elements more_or_less_straight,_with_fused_radials;
+{ 29 Median_prepelvic_process absent_or_weakly_developed very_elongated;
+{ 30 Pelvic_girdle_shape not_arched_or_only_moderately_so greatly_arched;
+{ 31 Dorsal_fin present absent;
+{ 32 Cartilaginous_rod_in_tail absent present;
+{ 33 Caudal_fin present reduced_to_tail?folds absent;
+{ 34 Adductor_mandibulae_complex without_posteromedial_extension posteromedial_extension_present;
+{ 35 Spiracularis_muscle projecting_ventrally_to_insert_on_either_palatoquadrate,_Meckel?s_cartilage,_and_or_hyomandibula projecting_ventrally_and_posteriorly_beyond_hyomandibulae_and_both_sets_of_jaws_to_insert_dorsal_to_coracomandibularis projecting_ventrally_and_posteriorly_beyond_hyomandibulae_and_both_sets_of_jaws_to_insert_ventral_to_coracomandibularis;
+{ 36 Depressor_mandibularis_muscle present absent;
+{ 37 Coracohyoideus_muscle not_connected_at_midline connected_at_midline;
+{ 38 Urea_retention urea_retained_in_blood urea_excreted_in_urine;
+{ 39 Rectal_gland present reduced;
+{ 40 Spiracular_tentacle absent present;
+{ 41 Cephalic_lobes absent single_and_continuous single_with_an_indentation paired;
+{ 42 Nasal_curtain not_reaching_mouth_region extending_posteriorly_as_far_as_mouth_opening;
+{ 43 Tooth_type_in_both_upper_and_lower_jaws minute broad;
+{ 44 Arrangement_of_teeth_in_both_upper_and_lower_jaws arranged_in_separate_diagonal_rows_or_ribbons horizontal_conveyor_or_pavement?like_arrangement;
+{ 45 Tooth_shape square_to_rounded hexagonal,_six_distinct_sides rectangular_with_posteriorly_deflected_lateral_margins;
+{ 46 Lateral_teeth present absent;
+{ 47 Differentiation_of_median_teeth_from_lateral_teeth median_and_lateral_teeth_are_similar median_teeth_relatively_expanded;
+{ 48 Differentiation_among_lateral_teeth lateral_teeth_unexpanded some_lateral_teeth_expanded;
+{ 49 Relative_amount_of_curvature_in_expanded_lower_teeth straight_and_uncurved moderately_curved strongly_curved;
+{ 50 Upper_tooth_curvature uncurved curved;
+{ 51 Direction_of_tooth_curvature concave flat/horizontal convex;
+{ 52 Tooth_association loosely_interlocking sometimes_loosely_interlocking_or_tightly_interlocking tightly_interlocking;
+{ 53 Tooth_Interlocking_mechanism overlapping tongue_and_groove no_direct_contact;
+{ 54 Shape_of_interlocking_tongue bulbous short_shelf long_shelf;
+{ 55 Crown_height high,_the_crown_height_exceeds_root_depth_on_unworn_teeth low_crown;
+{ 56 Occlusal_surface cusped smooth depressed;
+{ 57 Crown_shape_in_anterior_or_posterior_view straight domed deep;
+{ 58 Lateral_margins not_pinched pinched;
+{ 59 Root_type holaulacorhizous polyaulacorhizous;
+{ 60 Number_of_roots roots more_than_2_roots;
+{ 61 Roots_in_basal_view triangles narrow_blocks fine_edges;
+{ 62 Distance_between_roots narrower_than_root_laminae broad,_groove_wider_than_root_laminae;
+{ 63 Inclination_of_roots no_inclination offset_and_step?like long_and_strongly_inclined;
+{ 64 Root_groove_position regularly_spaced_between_laminae irregularly_spaced_between_laminae;
+{ 65 Levator_and_depressor_rostri_muscles absent present;
+{ 66 Serrated_tail_stings absent present;
+{ 67 Placoid_scales uniformly_present limited absent;
+{ 68 Thorns present absent;
+{ 69 Pulp_cavities_in_tooth_roots large broad_and_elongated small absent;
+{ 70 Tooth_vascularization Orthodont Osteodont modified_osteodont;
+{ 71 Infraorbital_loop_of_suborbital_and_infraorbital_canals absent present_and_forming_a_simple_posterolaterally_directed_loop present_and_forming_a_complex_reticular_pattern_or_a_number_of_loops the_loop_is_directed_to_the_anterior;
+{ 72 Rostral_cartilage complete vestigial_or_absent;
+{ 73 Postorbital_process_-_2 narrow very_broad_and_shelf-like;
+{ 74 Jugal_arch present absent;
+{ 75 Basihyal_and_first_hypobranchial both_present_and_unsegmented basihyal_is_segmented basihyal_is_absent basihyal_and_first_hypobranchial_cartilages_absent;
+{ 76 Suprascapulae articulates_with_vertebral_column fused_medially_to_synarcual_(=_pectoral_arch), fused_medially_and_laterally_to_synarcual;
+{ 77 Ball_and_socket_articulation_between_scapular_process_and_synarcual absent present;
+{ 78 Second_(thoracolumbar)_synarcual absent present;
+{ 79 Ribs present absent;
+{ 80 Segmentation_of_propterygium posterior_to_mouth proximal_segment_of_propterygium_of_pectoral_girdle_is_between_mouth_and_antorbital_cartilage the_first_segment_is_adjacent_to_the_nasal_capsule the_first_segment_is_adjacent_to_anterior_margin_of_antorbital_cartilage_or_anterior_to_margin_of_nasal_capsule;
+{ 81 Pseudosiphon present absent;
+{ 82 Dorsal_marginal_clasper_cartilage lacks_medial_flange possesses_medial_flange;
+{ 83 Dorsal_terminal_cartilage smooth_margin crenate_margin;
+{ 84 Cartilage_forming_component_claw present absent cartilage_embedded_in_integument_and_is_not_visible_externally cartilage_lines_the_inner_ventral_margin_of_the_clasper_glans_and_often_forms_the_component_shield;
+{ 85 Ventral_terminal_cartilage_(accessory_terminal_1_cartilage_in_rajids) simple free_distally_and_forms_component_sentinel_or_is_fused_with_ventral_marginal_cartilage_and_forms_component_projection folded_ventrally_along_its_long_axis_to_form_a_convex_flange;
+{ 86 Ventral_terminal_cartilage_(accessory_terminal_1_cartilage_in_rajids)_-_2 attached_over_length_to_axial_cartilage free_of_axial_cartilage;
+{ 87 Spiracularis undivided splits_into_lateral_and_medial_bundles,_with_the_medial_bundle_inserting_onto_the_posterior_surface_of_Meckel?s_cartilage_and_the_lateral_bundle_inserting_onto_the_dorsal_edge_of_the_hyomandibula extends_beyond_the_hyomandibula_and_Meckel?s_cartilage subdivided_proximally_and_inserts_separately_onto_the_palatoquadrate_and_the_hyomandibula;
+{ 88 Sexual_heterodonty absent present;
+{ 89 Medial_symphyseal_processes_of_the_Meckel?s_cartilage absent present;
+{ 90 Lateral_processes_of_the_palatoquadrate_extending_far_anteriorly absent present;
+{ 91 Anterior_processes_of_the_Meckel?s_cartilage absent present extending_anterior_past_jaw_joint;
+{ 92 Lateral_oral_diastema_alt diastema_width_greater_than_occlusal_width occlusal_width_greater_than_diastema_width;
+{ 93 Upper_jaw_profile oval_in_cross-section_(most_batoids) flat_top,_convex_occlusal_surface_(myliobatids) strongly_flattened_(mobulids);
+{ 94 Upper_jaw_mineralization all_surfaces_mineralized lingual_face_partly_unmineralized_(mobulids);
+{ 95 Lower_jaw_profile oval_in_cross-section strongly_linguolabially_expanded;
+{ 96 Upper_and_lower_jaw_trabeculae absent weakly_developed strongly_developed;
+{ 97 Second_transverse_keel absent present;
+{ 98 Calcification_pattern_of_radials crustal catenated;
+{ 99 Body_disc_shape rhombus,_quadrangular_or_oval,_with_pectoral_fins_not_greatly_expanded wing_like,_with_pectoral_fins_greatly_expanded;
+{ 100 Mid-dorsal_surface_of_disc_covered_by_heart-shaped_denticles_arranged_in_an_antero-posteriorly_directed_patch_having_sharply_defined_outlines absent present;
+{ 101 File_of_enlarged_?caniniform?_teeth_in_the_upper_jaw absent present;
+;
+
+
+ccode  - 0.101;
+
+
+;

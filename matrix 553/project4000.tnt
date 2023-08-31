@@ -1,0 +1,50 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 15.54.24'
+24 8
+
+&[num]
+Leonodus                   000000000000000000000000
+Cladodoides                000000000000000100000000
+Rosaodus                   001101001000101101112000
+Euselachii_indet.          101101101000000011111001
+Hybodus                    110001101000010111111000
+Favusodus                  110011110001012111112010
+Keichouodus                110001100110012111112100
+Synechodus                 110001100100121111112001
+
+;
+
+
+cnames
+{ 0 Character_1 State_0 State_1;
+{ 1 Character_2 State_0 State_1;
+{ 2 Character_3 State_0 State_1;
+{ 3 Character_4 State_0 State_1;
+{ 4 Character_5 State_0 State_1;
+{ 5 Character_6 State_0 State_1;
+{ 6 Character_7 State_0 State_1;
+{ 7 Character_8 State_0 State_1;
+{ 8 Character_9 State_0 State_1;
+{ 9 Character_10 State_0 State_1;
+{ 10 Character_11 State_0 State_1;
+{ 11 Character_12 State_0 State_1;
+{ 12 Character_13 State_0 State_1;
+{ 13 Character_14 State_0 State_1 State_2;
+{ 14 Character_15 State_0 State_1 State_2;
+{ 15 Character_16 State_0 State_1;
+{ 16 Character_17 State_0 State_1;
+{ 17 Character_18 State_0 State_1;
+{ 18 Character_19 State_0 State_1;
+{ 19 Character_20 State_0 State_1;
+{ 20 Character_21 State_0 State_1 State_2;
+{ 21 Character_22 State_0 State_1;
+{ 22 Character_23 State_0 State_1;
+{ 23 Character_24 State_0 State_1;
+;
+
+
+ccode  - 0.23;
+
+
+;
