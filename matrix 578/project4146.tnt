@@ -1,0 +1,203 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.34.51'
+129 56
+
+&[num]
+Tubiluchus_troglodytes                 00---------------------------------------------0-10---0--00-0-1-00-----------10-----------------------------------00--00--11--100
+Cricocosmia_jinningensis               00---------------------------------------------0-10---0--00-0-1-01100-10010-010-----------------------------------??????????--??0
+Megadictyon_haikouensis                10-----------00-00-0000-10--------------------1001????0--00-0-1100------?----010-------11-00???0-----0--?----???-???????????????0
+Jianshanopodia_decora                  10-----------00-00-000??10--------------------?001????0--00-0-1100------?----010-------11-00???0-----0--0----00---??????????????0
+Hadranax_augustus                      1???-???-??--0??00-???????--------------------???????????00-?-1111100-0-?30-01?0-------0--1????0-----0--?----???-????????????????
+Kerygmachela_kierkegaardi              10-----------00-00-0001010----0--------00-----10011---10100-001111100-0--30-01110120-0-0--000--0-----0--00---0100-?100??????????0
+Pambdelurion_whittingtoni              10-----------00-00-0011010----0--------01-----?11120-010100-001110------------110120-0-0--000--0-----0--?????????-??????????????0
+Mieridduryn_bonniae                    110?0?0?00???02-00-00110??----?--------1?-----?21120-0???10-0?10-0------------?1012120-100000--0-----??-0121100---??????????????0
+Utaurora_comosa                        10----???-0--?2-??-??110??----?--------??-----??1????????10-00??-0------------?1013100-??????--------?--013110111-??????????????0
+Opabinia_regalis                       10----???-0--02-00-0011010----?--------0?-----1211????11110-0010-0------------11012100-0--000--0-----0--012010111-??????????????0
+Aegirocassis_benmoulae                 110111000011101110-0011?200121000----10100011-111121?????00-0?0--0------------?1011120-0--000---011??0--0????????-??????????????0
+Buccaspinea_cooperi                    1????????????01110-001??201121103010?00101???111112110???00-000--0------------?1003--0-0--000-?-011110?-?????????????????????????
+Cambroraster_falcatus                  110110111011201110-001??20112110301110010000-11111211111100-010--0------------?1000--0-0--000---011110--0111000---??????????????0
+Hurdia_triangulata                     110111111011201110-001??20112110301110010001111111211111100-000--0------------?1010120-0--000---011010--0100000---??????????????0
+Hurdia_victoria                        110111011011201110-001??20112110301110010001111111211111100-000--0------------?1010120-0--000---011010--0100000---??????????????0
+Peytoia_nathorsti                      1101?????????01110-0011020112100301100010000101111211011100-010--0------------11011110-0--000---010110--00----0---??????????????0
+Schinderhannes_bartelsi                1????????????011?0-?011021?121?0301?000?0?011??11121??111???00????????????????????????-?????????1????0--010100100-???????????????
+Amplectobelua_symbrachiata             110100000010001110-001??21120002110-0011111100111?????11100-110--0------------11000--0-0--000---010110--0??1?0110-??????????????0
+Lyrarapax_unguispinus                  110100000010001110-00110211200020----001111??01111211011100-110--0------------?1000--0-0--000---010110--0????0110-?1001?????????0
+Anomalocaris_canadensis                11010000000--01110-0011021021001110-001111010-1111210011100-110--0------------11000--0-0--000---010110--012100100-??????????????0
+Houcaris_saron                         11010000000--01110-001??21021001210-002111110-1111210011100-110--0------------?1000--0-0--000---010110--012100110-??????????????0
+Fuxianhuia_xiaoshibaensis              11010010-1---110-3-13111-----------------------210----111110--0---------------111----10----00----------1-----00---1121??????????-
+Chengjiangocaris_kunmingensis          11010010-1---110-3-13111-----------------------210----111110--0---------------011----11----00----------1-----00---????110?????1?-
+Leanchoilia_superlata                  1110---------110-4-12111-----------------------210----11111?--0---------0-----111----11----010?--------0----------??????????????-
+Alalcomenaeus_sp                       1110---------1??-4-12111-----------------------210----11111?--0---------0-----111----11----0100--------0----------?12111000-??0?-
+Misszhouia_longicaudata                1111000001---110-3-12111-----------------------210----111111--0---------0-----112----11----0100--------0----------??????????????-
+Kuamaia_lata                           1111000001---110-3-12111-----------------------210----111111--0---------0-----112----11----0102--------0----------??????????????-
+Limulus_polyphemus                     1110---------100-4-12111-----------------------210----101111--0---------0-----114----11----010?--------0----------112111000-1001-
+Triops_cancriformis                    1110---------110-3-14111-----------------------210----101111--0---------0-----113----11----010?--------0-----0110-112211000-1001-
+Aysheaia_pedunculata                   10-----------00-00-0000-10--------------------10011---0--00-0-1100------0----100-------100001050-----0--0----1---1??????????????0
+Onychodictyon_ferox                    10-----------00-00-0000-11--------------------0000----10000-0-1111101010010-0100-------11-001010-----0--0----1---1??????????????0
+Onychodictyon_gracilis                 10-----------00-00-0000-0----------------------000----???00-0-111110??1??10-0100-------???001010-----0--1--------0??????????????0
+Diania_cactiformis                     10-----------00-00-0000-0----------------------000----0--00-0-1111100-1??00-0100-------10000???0-----0--1--------???????????????0
+Xenusion_auerswaldae                   10-----------00-00-0000-??--------------------??00----0--00-0-1111100-???10-01?0-------1????????-----0--1--------???????????????0
+Paucipodia_inermis                     10-----------00-00-0000-0----------------------000--?-0--00-0-1100------?----000-------0--001010-----0--1--------0??????????????0
+Microdictyon_sinicum                   10-----------00-00-0000-0----------------------100----0--00-0-1111100-10010-0000-------0--001010-----0--1--------0??????????????0
+Cardiodictyon_catenulum                10-----------00-00-0000-0----------------------?0?????10?00-0-1111100-10?10-0000-------0--001010-----0--1--------0??????????????0
+Hallucigenia_sparsa                    10-----------00-01-1000-0----------------------100----???00-0-0--111101111000-00-------0--001010-----0--?--------???????????????0
+Hallucigenia_fortis                    10-----------00-01-1000-0----------------------100----10?00-0-111111111??1000000-------0--001010-----0--1--------0??????????????0
+Hallucigenia_hongmeia                  1???-----??--0??0?????????--------------------???????????00-?-1111111110?1010000-------0--001000-----?--1--------????????????????
+Luolishania_longicruris                1100---------00-00-0000-0----------------------100----10?00-0-111111111??2011100-------101101000-----10-1--------0??????????????0
+Collinsium_ciliosum                    1100---------00-00-0000-0----------------------100----0--00-0-111111111014011100-------101001000-----11-1--------0??????????????0
+Collinsovermis_monstruosus             1???-?-?-??--0??00-00?????--------------------???????????00-0-111111111????????0-------101??????-----11-1--------???????????????0
+Collins_monster_emu_bay                110?-?-?-??--0??00-00?????--------------------???????????00-0-111111111??201???0-------101001000-----10-?----???-????????????????
+Acinocricus_stichus                    1???-?-?-??--0??00-00?????--------------------???????????00-0-111111111??511??00-------101??????-----10-?----???-????????????????
+Orstenotubulus_evamuellerae            1???-?-?-??--0??0?????????--------------------???????????00-?-111111?????10????0-------0--1?????-----??-?----???-????????????????
+Antennacanthopodia_gracilis            10-----------00-01-1000-0----------------------?0?????10000-0-1??0------?----0?0-------0--1????0-----0--1--------???????????????0
+Tertiapatus_dominicanus                10-----------00-0???100-0----------------------11?????10000-0-1100------?----1?0-------0--10???0-----0--1--------???????????????0
+Euperipatoides_sp                      10-----------00-0201100-0----------------------110----10000-0-1100------1----100-------0--101011-----0--1--------0111310111101100
+Metaperipatus_blainvillei              10-----------00-0201100-0----------------------110----10000-0-1100------1----100-------0--101011---?-0--1--------0111310111101100
+Epiperipatus_biolleyi                  10-----------00-0211100-0----------------------110----10000-0-1100------1----100-------0--101011---?-0--1--------0111310111101100
+Batillipes_pennaki                     10-----------01000-0010-0----------------------1011---10000-0-0--10-----01--0-00-------100011040-----0--0----1---101001101??110?1
+Echiniscus_testudo                     1100---------01000-0010-0----------------------1011---10000-0-0--1100-100?--0-00-------0--011030-----0--0----1---10100110110110?1
+Actinarctus_doryphorus                 1100---------01000-0010-0----------------------1011---10000-0-0--1100-100?--0-00-------0--011030-----0--0----1---101001101??110?1
+Macrobiotus_cf._harmsworthi            10-----------01000-0020-0----------------------0011---10000-0-0--10-----01--0-00-------0--011110-----0--0----1---1010011011011010
+Hypsibius_dujardini                    10-----------01000-0020-0----------------------0011---10000-0-0--10-----01--0-00-------0--011110-----0--0----1---1010011011011010
+
+;
+
+
+cnames
+{ 0 paired_appendages absent present;
+{ 1 anterior_region_covered_by_sclerites absent present;
+{ 2 head_shield_formed_by_fused_cephalic_segments absent present;
+{ 3 isolated_dorsal_sclerite_associated_with_eye-stalks absent present;
+{ 4 anterior_sclerite_extended_anteriorly absent present;
+{ 5 Shape_of_anterolateral_margin_of_dorsal_isolated_sclerite rounded acuminate;
+{ 6 Dorsal_isolated_sclerite_extended_laterally absent broad_triangular_extensions_laterally;
+{ 7 postero-lateral_constrictions_in_dorsal_isolated_sclerite absent present;
+{ 8 Dorsal_isolated_sclerite_extended_posteriorly_into_nuchal_region absent present;
+{ 9 extent_of_coverage_of_dorsal_isolated_sclerite_on_head broad_attachment_to_cephalic_region narrow_attachment_with_anterior_edge_of_cephalic_region;
+{ 10 isolated_lateral_sclerites absent present;
+{ 11 size_of_lateral_sclerites small_plates_associated_with_proximal_parts_of_frontal_appendages large_plates;
+{ 12 shape_of_lateral_sclerites circular elongate_and_rounded_lacking_notch_and_process elongate_and_rounded_with_posterior_notch_and_anterior_process trapezoidal_with_spines;
+{ 13 nature_of_post-ocular_(post-protocerebral)_body_appendages lobopodous arthropodized_(sclerotized,_arthrodial_membranes_present);
+{ 14 nature_of_pre-ocular_(protocerebral)_appendage paired,_not_sclerotized paired,_sclerotized proboscis;
+{ 15 pre-ocular_(protocerebral)_limb_pair_with_arthrodial_membranes absent present;
+{ 16 nature_of_post-ocular_lobopodous_inner_branch cylindrical/subconical_appendage laterally_expanded_swimming_flap;
+{ 17 nature_of_first_postocular_(deutocerebral)_appendage lobopodous_ambulatory_limb lobopodous_sensorial_limb lobopodous_limb_with_sclerotized_jaw arthropodized_antenniform_with_distinct_podomeres arthropodized_short_great-appendage/chelicerae arthropodized_antennal_scale arthropodized_long_great-appendage;
+{ 18 inner_blade_of_deutocerebral_jaw_with_diastema absent present;
+{ 19 deutocerebral_limb_pair_structurally_differentiated_from_rest_of_trunk_appendages undifferentiated,_or_reduced_in_size_only structurally_differentiated;
+{ 20 nature_of_second_postocular_(tritocerebral)_appendage undifferentiated_lobopodous_limb specialized_papillae arthropodized_biramous_walking_leg_with_distinct_podomeres arthropodized_uniramous_specialized_postantennal_appendage arthropodized_biramous_second_antennae;
+{ 21 position_of_pre-ocular_(protocerebral)_appendage_pair lateral ventral terminal;
+{ 22 pre-ocular_(protocerebral)_appendage_pair_fused not_fused fused;
+{ 23 nature_of_pre-ocular_(protocerebral)_appendage_fusion basal_only,_with_separate_distal_elements fused_into_a_reduced_labrum;
+{ 24 ventral_spines/spinules/endites_on_pre-ocular_(protocerebral)_appendage absent present_as_a_simple_spine/endite_(gilled_lobopodians,_certain_lobopodians) present_as_a_complex_endite_with_additional_spines/setae_(radiodonts);
+{ 25 number_of_ventral_spine/spinule/endite_series_on_pre-ocular_(protocerebral)_frontal_appendage one_series_(e.g._Aysheaia,_Kerygmachela,_Opabinia) two_series_(e.g._Anomalocaris_canadensis,_Onychodictyon_ferox,_Schinderhannes_bartelsi);
+{ 26 Strong_proximal_distal_differentiation_of_podomeres_and/or_endites absent present;
+{ 27 Relative_length_of_endites_on_sclerotized_pre-ocular_(protocerebral)_appendage subequal 5-6_subequal_endites alternate_long/short;
+{ 28 modal_length_of_endites_on_sclerotized_pre-ocular_(protocerebral)_appendage shorter_than_height_of_podomere_to_which_they_attach subequal_to_height_of_podomere_to_which_they_attach longer_than_height_of_podomere_to_which_they_attach;
+{ 29 form_of_endites_on_sclerotized_pre-ocular_(protocerebral)_appendage spiniform_(anomalocaridids,_amplectobeluids,_tamisiocaridids) plate-like_(most_hurdiids);
+{ 30 Mesial_curvature_of_endites absent present;
+{ 31 Size_of_endite_on_first_podomere_in_distal_articulated_region_of_pre-ocular_(protocerebral)_appendage same_size_as_other_endites_in_distal_articulated_region slightly_larger_than_other_endites_in_distal_articulated_region hypertrophied;
+{ 32 auxiliary_spines_on_distal_margin_of_endites absent one_spine two_spines three_or_more_spines;
+{ 33 orientation_of_auxiliary_spines perpendicular_to_endite angled_downwards_pointing_towards_distal_tip_of_endite;
+{ 34 Arrangment_of_auxiliary_spines radiating pectinate;
+{ 35 alternation_of_long_and_short_pectinate_auxiliary_spines absent present;
+{ 36 curvature_of_auxiliary_spines straight hooked;
+{ 37 setae_on_distal_margin_of_endites absent present;
+{ 38 auxiliary_spines_on_proximal_margin_of_endite absent one_present_on_at_least_one_endite two_present_on_at_least_one_endite;
+{ 39 dorsal_spines_on_protocerebral_appendage_podomeres/proboscis absent present;
+{ 40 paired_endites_on_protocerebral_appendage_podomeres absent present;
+{ 41 number_of_podomeres_in_the_sclerotized_protocerebral_appendage 10_or_fewer 11_or_more;
+{ 42 Change_in_slope_of_dorsal_margin_between_shaft_and_distal_articulated_region absent present;
+{ 43 Endite(s)_present_on_shaft absent present;
+{ 44 Morphology_of_distalmost_shaft_endite small_simple_spiniform broad_elongate_structure;
+{ 45 Highly_reduced_distal_podomeres absent present;
+{ 46 multifurcate_distal_termination_of_protocerebral_appendage absent present;
+{ 47 mouth_opening_orientation anterior ventral posterior;
+{ 48 one_or_more_pairs_of_appendages_located_anteriorly_relative_to_the_mouth_opening absent present;
+{ 49 radially_symmetrical_circumoral_structures absent present;
+{ 50 nature_of_radial_circumoral_structures scalids oral_papillae_or_lamellae radial_plates_organized_as_a_mouth_apparatus;
+{ 51 differentiation_of_plates_in_mouth_apparatus undifferentiated_plates_(e.g._Pambdelurion) differentiated_large,_medium_and/or_small_plates__(i.e._Radiodonta);
+{ 52 arrangement_of_differentiated_plates_in_mouth_apparatus three_large_plates_in_triradial_arrangment,_small_and_medium_plates_between four_large_plates_in_tetraradial_arrangement,_medium_plates_between;
+{ 53 inner_rows_of_teeth_within_mouthpart absent present;
+{ 54 eyes absent present;
+{ 55 eye_attachment eye_sessile eye_stalked;
+{ 56 type_of_eyes single_lens_eye_or_pigment_spots multiple_visual_units_(including_compound_eyes);
+{ 57 epidermal_segmentation absent present;
+{ 58 dorsal_integument_sclerotized_and_connected_by_arthrodial_membranes absent present;
+{ 59 sternites_connected_by_arthrodial_membranes absent present;
+{ 60 neck-like_constriction_on_lobopodous_trunk absent present;
+{ 61 relative_width_of_anterior_and_posterior_flap-bearing_trunk_segments less_than_3_times_as_wide_at_anterior_compared_to_posterior at_least_3_times_as_wide_at_anterior_compared_to_posterior;
+{ 62 annulations absent present;
+{ 63 annulation_distribution limbs_only trunk_and_limbs;
+{ 64 organization_of_trunk_annulation homonomous heteronomous;
+{ 65 metamerically_arranged_dorsolateral_epidermal_specializations absent present;
+{ 66 nature_of_paired_epidermal_specializations epidermal_depressions epidermal_evaginations;
+{ 67 proportions_of_epidermal_trunk_evaginations wider_than_tall_(e.g._nodes_or_plates) taller_than_wide_(e.g._spines);
+{ 68 trunk_epidermal_evaginations_with_acute_distal_termination absent present;
+{ 69 acute_distal_termination_in_epidermal_evagination_is_curved absent present;
+{ 70 sclerotization_of_epidermal_evaginations absent present;
+{ 71 dorsal_trunk_sclerite_ornament net_like scaly;
+{ 72 sclerites_consist_of_a_stack_of_constituent_elements absent present;
+{ 73 maximum_number_of_primary_dorsal_epidermal_specializations_above_each_leg_pair one two three four five seven;
+{ 74 secondary_sclerotized_dorsolateral_spines absent present;
+{ 75 dorsal_sclerotized_spine-like_evaginations_of_variable_length_along_the_body similar_length_along_body variable_length_along_the_body;
+{ 76 spacing_between_dorsolateral_epidermal_specializations_along_longitudinal_body_axis epidermal_specializations_regularly_spaced epidermal_specializations_irregularly_spaced;
+{ 77 papillae_on_trunk_annulations absent present;
+{ 78 serially_repeated_mid-gut_glands absent reniform,_submillimetric_lamellar;
+{ 79 trunk_exites absent present;
+{ 80 exite_organization lanceolate_dorsal_blades simple_oval_paddle_with_marginal_spines bipartite_shaft_with_lamellar_setae numerous_podomeres,_each_bearing_a_single_seta book_gills;
+{ 81 distinct_dorsolateral_flaps absent present;
+{ 82 organisation_of_lanceolate_dorsal_blades paired_blocks_on_dorsal_surface single_block_on_the_dorsal_surface paired_sets_attaching_to_lateral_flaps single_block_on_dorsal_surface_also_covering_anterior_margin_of_lateral_flaps;
+{ 83 Internal_strengthening_of_dorsolateral_flaps absent present;
+{ 84 Type_of_strengthening_of_dorsolateral_flaps anterior_margin_only strenthening_rays_across_the_anterior_half_of_the_flap strengthening_rays_across_the_whole_flap CB_condition;
+{ 85 dorsal_flaps/exites_fused_with_endopod_into_biramous_appendage not_fused fused;
+{ 86 antero-posteriorly_compressed_protopodite_with_gnathobasic_endites_in_post-deutocerebral_appendage_pair absent present;
+{ 87 secondary_structures_on_lobopodous_limbs absent present;
+{ 88 nature_of_secondary_structures spines/setae appendicules;
+{ 89 length_of_spines_on_lobopodous_limbs short_(e.g._Aysheaia,_Diania) long_(i.e._Luolishaniidae);
+{ 90 papillae_on_lobopodous_limbs absent present;
+{ 91 finger-like_elements_in_distal_tip_of_limbs absent present;
+{ 92 terminal_claws_on_trunk_limbs absent present;
+{ 93 terminal_claws_with_multiple_branches absent present;
+{ 94 number_of_claws_on_trunk_limbs one two three four six seven;
+{ 95 differentiated_distal_foot_in_lobopodous_trunk_limbs absent present;
+{ 96 hypertrophied_set_of_anterior_ventral_body_flaps absent present;
+{ 97 strengthening_rays_in_ventral_flaps absent present;
+{ 98 extent_of_strengthening_rays_within_ventral_flaps anterior_half_of_flap_only covering_the_entire_flap;
+{ 99 posterior_tapering_of_ventral_flaps absent present;
+{ 100 anterior_sets_of_reduced_ventral_flaps absent present;
+{ 101 lobopodous_limbs_differentiated_into_two_batches_of_multiple_anterior/long_and_posterior/short_limbs absent present;
+{ 102 number_of_anterior_morphologically_differentiated_elongated_limbs five_(Luolishania,_Acinocricus,_Collins’_monster_EBS) six_(Collinsium,_Collins’_monster_BS);
+{ 103 appendages_comprise_15_or_more_podomeres fewer_than_15_podomeres 15_or_more_podomeres;
+{ 104 limbless_posterior_extension_of_the_lobopodous_trunk_beyond_last_appendage_pair absent present;
+{ 105 posterior_tagma_composed_paired_lateral_flaps absent present;
+{ 106 number_of_lateral_flaps_on_posterior_tagma one_pair two_pairs three_pairs four_or_more_pairs;
+{ 107 Morphology_of_lateral_flaps_on_posterior_tagma Paddle-like Blade-like;
+{ 108 Spines_on_lateral_flaps_on_posterior_tagma absent present;
+{ 109 nature_of_differentiated_posterior_appendages appendicular_tail partially_fused/reduced_walking_legs;
+{ 110 Appendicular_tail_terminates_in_tail_spine(s) absent present;
+{ 111 Tail_spine(s)_paired unpaired paired;
+{ 112 Tail_spine(s)_bear_serrated_margin Absent Present;
+{ 113 claws_on_posterior_appendages_directed_anteriad normal_orientation_(claws_pointing_posteriad) rotated_anteriad;
+{ 114 dorsal_heart absent present;
+{ 115 dorsal_condensed_brain absent present;
+{ 116 number_of_neuromeres_integrated_into_the_dorsal_condensed_brain one two three;
+{ 117 mouth_innervation_relative_to_brain_neuromeres protocerebral_innervation deutocerebral_innervation tritocerebral_innervation innervation_from_multiple_neuromeres;
+{ 118 general_organization_of_VNC unpaired paired;
+{ 119 VNC_with_morphologically_discrete_condensed_hemiganglia_connected_by_median_commissures absent present;
+{ 120 paired_nerve_cord_lateralized absent present;
+{ 121 paired_nerve_cord_with_median_interpedal_commissures absent present;
+{ 122 nerve_cord_with_orthogonal_organization absent present;
+{ 123 orthogonal_nerve_cord_with_complete_ring-commissures absent present;
+{ 124 segmental_leg_nerves_shifted_anteriorly_relative_to_appendages_following_parasegmental_organization absent present;
+{ 125 paired_segmental_leg_nerves absent present;
+{ 126 regularly_spaced_peripheral_nerves_running_entire_length_of_nerve_cord absent_(Tardigrada,_crown-group_Euarthropoda) present_(Priapulida,_Onychophora,_Chengjiangocaris);
+{ 127 stomatogastric_ganglion absent present;
+{ 128 cirri absent present;
+;
+
+
+ccode  - 0.128;
+
+
+;

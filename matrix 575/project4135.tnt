@@ -1,0 +1,125 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.32.36'
+78 29
+
+&[num]
+Procynosuchus                    0000000000000000000000000000000000000000000?00??????000?00000000000000000000-0
+Galesaurus                       0000000000010001010010000001111011100000010?00??????0?0?0000100000000101?000-0
+Thrinaxodon                      0000011100010001010010000001111011100000000?00??????000?00001000000001010000-0
+Cynognathus                      0000011100021012021011100011122121110001010?00??????000?000?1110000110001000-0
+Diademodon                       00000111000211120210211001111221211?0000022110000000100?0011111000110111000100
+Trirachodon_berryi               ?00001110102111?0????110011112?1211?0001022110000010200?1231111000110101000201
+Trirachodon_kannemeyeri          ?000011101021112021121100111122121110001022110000010200?122111100011010?000201
+Cricodon                         ?00001110??????2?2???1??0111122121110001022110000010200?122111100011010?000201
+Langbergia                       0000011101021112?2??211001111211?1100001022110000010200?0111111???11010?000200
+Pascualgnathus                   ?0000111010211120211211001111221221000000210010100101?1012121111?0??0111000300
+Scalenodon_angustifrons          0000011100121112021121100111122121110001122122000000101012321???????0??1???300
+Mandagomphodon                   0000?11101??11?2?2???1?00111122??220110002212210101010102232???????????????31?
+Luangwa                          ?10001110??211120211211?011112212111000?12212210101010102232101100??1111000300
+Massetognathus                   1100011102121102021121100111122121120110122222100010111022321011101111110?0310
+Gomphodontosuchus                ?100?11100??1??2021??1?00?1112212110011002120210111111112232???????????????310
+Exaeretodon                      ?100111101?21012?2112110011112212210101002120211111111112232001110111011000310
+Tritylodontidae                  1?1111110212110211112110010112212220122?0222121?101010??2232001111111211111310
+Lumkuia                          0000111101010001020011000111122121100000010?00??????000?0001001?10????????00-0
+Probainognathus                  1000111111010001120011000111122121100000000?00??????000?01010011????111?0000-0
+Ectininion                       ?0001111010?00011200110001111221211000010?0?00??????0?0?000??0?????????????0-0
+Probelesodon                     100011111201000112001101111112212110000?010?00??????000?000?00111011111?0000-0
+Aleodon                          10001111120?0001120??102??1112212120000?021?00??????100?1111?0???0?????????300
+Chiniquodon                      ?00011111201000112001102111112212110000?021?00??????100?000??01110??11110000-0
+Pachygenelus                     1011111112000000100011020???122122201110100?00??????000?0200001111??12111110-0
+Morganucodon                     0011111112000000100121000101122121000010100?00??????000?01010011111112111110-0
+Sinognathus                      ?000111101021?02?????10?01111221?12?000002211000?01010??113????????????????300
+Beishanodon                      000011110101?001?????10001???????1??000?0222??00?010????123????????????????300
+Impidens_hancoxi                 ?0?????101?????????????00???????????10?????1???????0????111????????????????201
+Titanogomphodon                  ??000?1100?211?20????1?00???????????????022010?0?000?????01?????????????????00
+
+;
+
+
+cnames
+{ 0 Premaxilla_forms_posterior_border_incisive_foramen absent present;
+{ 1 Position_of_paracanine_fossa_relative_to_upper_canine anterolingual lingual posterolingual;
+{ 2 Prefrontal present absent;
+{ 3 Postorbital present absent;
+{ 4 Parietal_foramen present absent;
+{ 5 Vomer_internarial_shape broad_plate parallel-sided_keel;
+{ 6 Secondary_palatal_plate_on_maxilla does_not_reach_midline reaches_midline;
+{ 7 Secondary_palatal_plate_on_palatine extends_nearly_to_midline reaches_midline;
+{ 8 Length_secondary_palate_relative_to_tooth_row shorter about_equal_or_longer;
+{ 9 Length_secondary_palate_relative_anterior_border_of_orbit shorter about_equal longer;
+{ 10 Ventral_surface_of_basisphenoid_depressed_below_occipital_condyles less_than_¼_occipital_height greater_than_¼_occipital_height;
+{ 11 Zygomatic_arch_dorsoventral_height slender moderately_deep very_deep;
+{ 12 Zygomatic_arch_dorsal_extent_immediately_behind_orbit below_middle_of_orbit above_middle_of_orbit;
+{ 13 Jugal_depth_in_zygomatic_arch_relative_to_exposed_squamosal_depth less_than_twice greater_than_twice;
+{ 14 Jugal_suborbital_process absent present;
+{ 15 Squamosal_groove_for_external_auditory_meatus shallow moderately_deep very_deep;
+{ 16 Frontal-palatine_contact_in_orbit absent present;
+{ 17 Descending_flange_of_squamosal_lateral_to_quadratojugal absent present,_not_contacting_surangular present,_contacting_surangular_;
+{ 18 Internal_carotid_foramina_in_basisphenoid present absent;
+{ 19 Groove_on_prootic_extending_from_pterygoparoccipital_foramen_to_trigeminal_foramen present_and_open present_and_enclosed_as_a_canal;
+{ 20 Trigeminal_nerve_exit between_prootic_incisure_and_epipterygoid via_foramen_between_prootic_and_epipterygoid via_two_foramina;
+{ 21 Quadrate_ramus_of_pterygoid present absent;
+{ 22 Greatest_width_of_zygomatic_arch about_middle_of_arch_(anterior_to_level_of_quadrate) at_posterior_end_of_arch_(at_level_of_quadrate);
+{ 23 Length_of_palatine_relative_to_maxilla_in_secondary_palate shorter about_equal longer;
+{ 24 Posterolateral_end_of_maxilla passes_obliquely_posterodorsally_into_suborbital_bar forms_right_angle_ventral_to_jugal_contact;
+{ 25 V-shaped_notch_separating_lambdoidal_crest_from_zygomatic_arch absent present;
+{ 26 Dentary_symphysis not_fused fused;
+{ 27 Dentary_masseteric_fossa high_on_coronoid_region extends_to_lower_border_of_dentary;
+{ 28 Dentary_coronoid_process_height below_middle_of_orbit above_middle_of_orbit;
+{ 29 Position_of_dentary-surangular_dorsal_contact_relative_to_postorbital_bar_and_jaw_joint closer_to_postorbital_bar midway_between closer_to_jaw_joint;
+{ 30 Postdentary_rod_height_relative_to_exposed_length_(distance_between_base_of_reflected_lamina_and_jaw_joint) greater_than_one-half_length about_one-half_length less_than_onehalf_length;
+{ 31 Reflected_lamina_of_angular_posterior_extent_relative_to_distance_from_angle_of_dentary_to_jaw_joint greater_than_½_the_distance less_than_½_the_distance;
+{ 32 Reflected_lamina_of_angular_shape spoon-shaped_plate hook_with_depth_greater_than_onehalf_length hook_with_depth_less_than_one-half_length;
+{ 33 Upper_incisor_number five_or_more four three;
+{ 34 Lower_incisor_number four_or_more three two;
+{ 35 Incisor_cutting_margins smoothly_ridged serrated denticulated;
+{ 36 Incisor_size all_small some_or_all_enlarged;
+{ 37 Upper_canine_size large reduced_in_size absent;
+{ 38 Lower_canine_size large reduced_in_size absent;
+{ 39 Canine_serrations absent present;
+{ 40 Upper_postcanine_buccal_cingulum absent present;
+{ 41 Postcanine_lingual_cingulum narrow absent lingually_expanded;
+{ 42 Number_of_upper_cusps_in_transverse_row one two three_or_more;
+{ 43 Position_of_upper_transverse_cusp_row_on_crown on_anterior_half_of_crown from_midcrown_almost_to_posterior_margin at_posterior_margin_(no_posterior_cingulum);
+{ 44 Central_cusp_of_upper_transverse_row absent about_midway_between_buccal_and_lingual_cusps closer_to_lingual_cusp;
+{ 45 Longitudinal_shear_surface_of_main_upper_buccal_cusp anterior_and_posterior_(to_transverse_ridge,_if_present)_ posterior_only anterior_only;
+{ 46 Upper_anterobuccal_accessory_cusp present absent;
+{ 47 Upper_posterobuccal_accessory_cusp present absent;
+{ 48 Upper_anterolingual_accessory_cusp absent present;
+{ 49 Upper_anterior_transverse_(cingulum)_ridge low high;
+{ 50 Upper_lingual_ridge absent present;
+{ 51 Transverse_axis_of_crown_strongly_oblique_to_midline_axis absent present;
+{ 52 Number_of_lower_cusps_in_transverse_row one two three_or_more;
+{ 53 Lower_anterior_cingulum_or_cusp present absent;
+{ 54 Posterior_occlusal_basin_on_lower_postcanines absent present;
+{ 55 Wider_lower_cusp_in_transverse_row lingual buccal;
+{ 56 Posterior_portion_maxillary_tooth_row_inset_from_lateral_margin_of_maxilla_(cheek_developed) absent moderately_set_in well_set_in;
+{ 57 Axis_of_posterior_part_of_maxillary_tooth_row directed_lateral_to_subtemporal_fossa directed_towards_center_of_fossa directed_toward_medial_rim_of_fossa;
+{ 58 Number_of_posterior_sectorial_postcanines six_or_more three_to_five one_or_two none_(gomphodont);
+{ 59 Postcanine_replacement_pattern_in_adult alternating” widely-spaced_waves_(three_or_more_teeth_per_wave) single_wave;
+{ 60 Expanded_costal_plates_on_ribs absent present;
+{ 61 Lumbar_costal_plates_with_ridge_overlapping_preceding_rib absent present;
+{ 62 Acromion_process absent present;
+{ 63 Scapular_constriction_below_acromion absent present;
+{ 64 Procoracoid_in_glenoid present barely_present_or_absent;
+{ 65 Procoracoid_contact_with_scapula greater_than_coracoid_contact equal_to_or_less_than_coracoid_contact;
+{ 66 Manual_digit_III_phalanx_number four three;
+{ 67 Manual_digit_IV_phalanx_number four three;
+{ 68 Length_of_anterior_process_of_ilium_anterior_to_acetabulum_(relative_to_diameter_of_acetabulum) between_1.0_and_1.5 greater_than_1.5;
+{ 69 Length_of_posterior_process_of_ilium_posterior_to_acetabulum_(relative_to_diameter_of_acetabulum) between_0.5_and_1.0 greater_than_1.0 less_than_0.5;
+{ 70 Dorsal_profile_of_ilium strongly_convex flat_to_concave;
+{ 71 Total_length_of_pubis_relative_to_acetabulum_diameter Between_1.5_and_1.0 less_than_1.0;
+{ 72 Greater_trochanter_separated_from_femoral_head_by_distinct_notch absent present;
+{ 73 Lesser_trochanter_position on_ventromedial_surface_of_femoral_shaft on_medial_surface_of_femoral_shaft;
+{ 74 Vertebral_centra amphicoelous platycoelous;
+{ 75 Postcanine_tooth_row_in_adults Formed_by_sectorial Conical,_gomphodont_and_sectorial Gomphodont_and_sectorial Gomphodont;
+{ 76 Overall_morphology_of_the_upper_gomphodont_postcanines_in_occlusive_view Ovoid-ellipsoid Nearly_rectangular Nearly_triangular;
+{ 77 Maxillary_fossa_posterior_to_canine_root_on_lateral_snout_surface_above_labial_platform Absent Present;
+;
+
+
+ccode  - 0.77;
+
+
+;
