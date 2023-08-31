@@ -1,0 +1,258 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.13.21'
+130 110
+
+&[num]
+Pseudopucrolia_mutica                 1020101100-0-0000000000-----00000-0-0210-00100012---000--001-00-???0010-2?00100000-0001010000000-001110000---00010-011000100---011
+Quindina_bella                        011?11110100-0000000000-----00000-0-0010-00100010100000--001000-???0010-2311000020-0001000000000-001111100---01010-011220000---0--
+Syncranaus_cribrum                    111011110100-0000000000-----00000-0-0010-00100010100000--001400-???0010-2?11000020-0001010000000-0?12111100?-00010-111000110---0--
+Chacoikeontus_clavifemur              1120121100------0000000-----00000-0-0210-00100010100000--001-010???0010-4?21000000-2001010000000-0011110100?000010-010---000---011
+Incasarcus_dianae                     1020121100------0000000-----00000-0-021?-00100010100000--001-010???0010-4??1000000-1002010100000-0001110100??00010-011000100---011
+Prostygnus_vestitus                   10201221010100000000000-----00000-0-0211-000-0010100000--0014012???0010-2?10100000-000101?000000-201201110---0331100111120112-20--
+Yania_flavolimbata                    102012210100-0000000000-----00000-0-0211-000-000-----00--001-010???0010-2?00100000-0001010000100-001201110---0331100111120112-20--
+Cynorta_lithoclasica                  111011110100-1101000000-----00000-0-0110-010-0010100001100010012???1100?2?21001000-100110?020200-0?010010110?01011001?????01001100
+Cynorta_quibijana                     111011110100-1101000000-----00000-0-0110-01100010100001100010012???1100?2?11001000-100110?020000-0?110010110?01011001?????01001???
+Cynortoides_cubana_cubana             111011110100-1101000000-----00000-0-0110-01100010100001100010012???1100?2?11001000-1001100020000-0?110010110?01011001?????01001???
+Cynortoides_v-album                   111011110100-1101000000-----00100-0-0110-01100010100001100010012???1100?2?1?001000-1001100020000-0?110010110?01011001101000?001100
+Vonones_octotuberculatus              1020?11100-0-0000000000-----00000-0-0210-0?1001100000011000100?????1100?1322001020-1001100010100-0????????????????????????????????
+Vonones_planus                        1020011100-0-0000000000-----00000-0-0210-01100110000001100010012???1100?1322001020-1001100010100-00110010010?010110011010011001101
+Holovonones_compressus                102?01210100-00000000?0-----00000-0-0210-01100112---1010000130120001??0?1?0100?020-102020???0?00-0?1100100?000101100110100010000--
+Vonones_ornatus                       022110110100-1101000000-----00100-0-0100-01100010100000--001000-???110011?1?110020-1001000000000-0011001011000101100110110011-1101
+Vonones_sayi                          022110110100-0101000000-----00000-0-0100-0110001200000100001000-???110011?00110020-2000000000000-001100101?0?0101100110110011-1101
+Libitioides_albolineata               022110110100-1101000000-----00100-0-0100-0110001200000100001000-???110011?00110020-2000000000000-001100101?000101100110110011-1101
+Arucillus_armasi                      102002210100-1101000000-----00100-0-0210-010-000------11100-0?12???11?121??0001000-0000010000100-0?1100001?0?01011?011010011001101
+Trinimontius_darlingtoni              111012110100-0011000000-----00000-0-0210-01100012---0011100100110011101?2321101020-1000010110000-0?110010100?01011?0110100010010--
+Erginulus_clavotibialis               222?0111010110010000000-----00000-130210-0?0-000------1100014011201110122?10101020-100000?010100-001210121?00010112010----011-00--
+Meterginus_basalis                    211012110100-1111000000-----00?00-0-0210-00100010100000--00140113?1110123321000010-1001010100000-00?210101?01010110011??2001001101
+Poecilaemula_signata                  1110?211011110010000000-----00000-110110-00100012---000--0010011???110123321000000-1102000000000-001200100?0?010110011??10011-1101
+Paragryne_quadrimaculata              111011110100-0000000000-----00000-0-0110-01100010000000--001000-???110012310001010-1001100010001?00???????????????????????????????
+Metagryne_ferruginea                  111011110100-0011000000-----00000-0-0110-01100010000000--001000-???110012321000010-1001100010001?00???????????????????????????????
+Metagryne_albireticulata              11111010010100010000000-----00000-0-0?10-01101010100000--00140?????110012?1100001111001000000001?00???????????????????????????????
+Peruvicynorta_oxapampa                111111110100-0000000000-----00000-0-0?10-01101010100000--001000-???110012?210010111100100000000??00???????????????????????????????
+Acantholibitia_pustulosa              022100100100-0000000100-----00000-0-0100-0110011000000110101000-???110011?0000?010-100100000000??00???????????????????????????????
+Gryne_pluriarcuata                    022100100100-0001000100-----00000-0-0100-0110001000000110001000-2?0110013?10000010-100100000000100010-010010?010110011012001010100
+Fortalezius_excellens                 022?00100100-0000000100-----00000-0-0100-0110001000000110001300-2?01?0012?00000010-1001000000001?00???????????????????????????????
+Bodunius_biocellatus                  022100100100-0000000100-----00000-0-0100-0110001000000110001300-2?0110011?00001010-10010000000010000110101?00010110111221-01010100
+Metalibitia_paraguayensis             1221001100------0-0---0-----00000-0-0201-03100112---00110001000-2?0111011000100020-2001010000100-001200120?0101110-010----00---0--
+Ferkeria_vestita                      122100010100-0000000000-----00000-0-0201-03100111-0000100101000-???111011?00100000-2001010110100-001110101??1010111011010000---0--
+Platygyndes_titicaca                  122?001100------0-0---0-----00000-0-0201-030-000------0--00-000-???111011?00100000-2000010000100-00111010110?01011101?????01?-00--
+Paecilaemella_festae                  241001110100-0000000000-----00000-0-0110-010-000------0--00-30?????110013??1000000-010200000?0?0-00???????????????????????????????
+Paecilaemella_multimaculata           241?01110100-01000000?0-----00000-0-0110-010-000------0--00-???????110012?110?00?11010200000?0?0-00???????????????????????????????
+Protus_ornatus                        241?02110100-0110000000-----00000-0-1110-000-000------0--00-0010???110014331000000-010200000000??00???????????????????????????????
+Flirtea_picta                         141011110100-1110000000-----00000-0-1110-01100010100000--001000-???110013?10000000-1102000000000-0012101011000101101112200010010--
+Flirtea_valida                        1110111101?0-01?0000000-----00000-0-0110-01100010100000--001400-2?0110012?11000000-1102000000000-001110101100010110111????010010--
+Acritas_bilineatus                    121101110100-0000000000-----00000-0-1110-010-000------0--00-020-2?0110012?10111010-2?01000000000-0011101011000101100110120010010--
+Vononoides_unimaculatus               162101110100-0000100000-----00000-0-0110-01100010000000--001000-???11???2?10111010-2001000000000-1011101011000101100113120011-10--
+Chusgonobius_weyrauchi                162101100100-0000100000-----00000-0-011?-0110011000???100101000-???110012?10?110?0-20?1000001200-00???????????????????????????????
+Vononella_maculata                    ?62101110100-0000100000-----00000-0-0110-01100?1??0?000--?010?0-???11???2?1?1110?0-2001000000000-10???????????????????????????????
+Eucynortella_cryptogramma             ?62101110100-0000100000-----00000-0-0110-01??0????0??00--?01000-???1????2?101110?0-2001000001000-101?1000???001011?011311001??????
+Cynortopyga_pauper                    ?62101110100-0000100000-----00000-0-1110-010-0????0?000--?01020-???1?0??2?10110000-2?01000001000-0001100010?001011?011012001??????
+Vononana_peruviana                    162101110?-0-0000?00000-----00000-0-011?-01??0????????0--???0?0-???1????1?00?110?0-20?1001001000-000110?011?00?2????110110????????
+Guaporeius_patellaris                 162101110100-0000100000-----00000-0-1110-01100010000000--???000-???1?0??2?100110?0-20??001000000-000210101?00010110011312001001100
+Guaporeius_sanctissimus               162101110100-0000100000-----00000-0-1110-01100010000000--???000-???1?0??????011010-20??001000000-000210?01?0001????0113120?100????
+Taito_adrik                           261101110100-0000100000-----00000-0-1110-0110000----0-0--0--000-???110012?11010000-2001001001000-100100101100010?100113120010010--
+Taito_juruensis                       161101110100-0000100000-----00000-0-1110-01100010000000--001020-???110012?10111010-2001000000000-100110001?000101100113120010010--
+Taito_spaceinvaders                   161101110100-0000100000-----00000-0-1110-01100010000000--001020-???110012?11111010-2001000001100-1011100011000101100113120010010--
+Taito_honda                           161101110100-0000100000-----00000-0-1110-01100010000000--001000-???110012?10111010-2001000000100-100110101?000101100113100010010--
+Rhauculus_insignitus                  202012100100-0110000000-----00000-0-0210-00100110100001100010010???110120200000000-1001010110000-001110101?0001011?0110110013-00--
+Rhaucoides_ornatus                    111012210100-0010000000-----00000-0-1210-00100110100001100010010211110121?11000000-1001010010000-0011101010000101100110110012-1110
+Rhaucoides_riveti                     111012210100-0010000000-----00000-0-1210-001001101000011000100102?1110121?11000000-1001010010000-001110101?000101100110110012-1110
+Eucynorta_virescens                   111012110100-0010000000-----00000-0-1210-00100110100001100010010211110121?21000000-1001010010000-001110101?000101100110110012-1110
+Rhaucus_vulneratus                    202012200100-0000000000-----00100-0-0220-00100111-00000--0010010111110122?21001000-0000010010100-001210101100010113011111001001100
+Rhaucus_robustus                      202012200100-0010000000-----00000-0-1220-00100111-00000--0010010111110122?21001000-0000010010100-001210101100010113011111001001100
+Eulibitia_scalaris                    122100110100-0000000000-----00100-0-1210-01100012---000--101000-210110012??0001000-1001010000100-001210101010010110011010001001100
+Eulibitia_h-inscriptum                122100110100-0000000000-----00100-0-1210-01100012---000--101000-210110012?00001000-1001010000100-001210101010010110011010001001100
+Ambatoiella_vigilans                  102?01210100-0000000000-----00000-0-0210-010-000------0--00-000-0?0110011?00001000-0000010110100-001210100100010110011011001001110
+Oligovonones_brunneus                 102?01210100-0000000000-----00000-0-0210-010-000------0--00-000-2111?0?103??001000-0000010000100-00121010110?01011001?????010010--
+Libitia_cordata                       102001210100-0000000000-----00000-0-0210-020-000------0--00-000-210110011?00000000-0000010000100-0112101011000101100110-00010220--
+Libitia_bipunctata                    102001210100-0000000000-----00000-0-0210-020-000------0--00-000-210110011?00000000-0000010000100-0112111011000101100110-00010220--
+Neocynorta_marmorata                  11101111010100111000000-----00000-0-0110-01100010100000--001400-201110012??1000000-1001000000000-0012101001100101100110110010010--
+Neocynorta_venezuelensis              11101111010100111000000-----00000-0-0110-01100011-00000--001000-???110012??1000000-1001000000000-0012101011100101110110110010010--
+Cynorta_conspersa                     111011110100-0000001000-----00000-0-0010-01100010100000--001-012??011001231?000020-1002000000000-001201101100010110011311001?010--
+Gryne_pustulata                       111011110100-0000001000-----00000-0-0010-01100010100000--00130?????110013???000020-100200000000??00???????????????????????????????
+Cosmetus_varius                       111010010110-0110000-00-----0000100-0000-010-0010-10000--001200-2??11001533200002101002000000000-00???????????????????????????????
+Cosmetus_delicatus                    111010010110-0110000101203012000100-0000-010-0010-10000--001200-2?0110013???000020-1002000000000-001110111000002110110???0013-00--
+Cosmetus_arietinus                    111010010110-0100000100--1--2-000-0-0000-010-0010-10000--001200-???110012???000020-100200000000??000?001001000101100110000010010--
+Metavononoides_barbacenensis          111010110100-01000001101102010000-0-0000-01100010100000--001200-210110012?00000010-1001000000000-001100100100010110011??10010010--
+Metavononoides_guttulosus             111010110100-00000001102102010000-0-0000-01100010100000--001200-210110012?10000010-1001000000000-001100100100010110011??10010010--
+Metavononoides_orientalis             111010110100-01000001001--0011000-0-0000-01100010100000--001200-???110012300000010-1001000000000-00???????????????????????????????
+Paecilaema_albisectum                 111010110110-00000001011120110000-0-0000-010-0010100000--001?00-210110013?11000010-1002000000000-0011001001000101100110110010010--
+Paecilaema_u-flavum                   111010110110-00000001111120111000-0-0000-010-0010100000--001210-210110013?11000010-1002000000000-0011001001000101100110000010010--
+Paecilaema_melanacanthum              111010110110-01000001011120111000-0-0000-010-0010100000--001210-210110013?11000010-1002000000000-00110010010001011001?????010010--
+Paecilaema_lyra                       111010110110-00000001111110111000-0-0000-010-0010100000--001210-???11001????000010-1002000000000-00???????????????????????????????
+Paecilaema_muticum                    111010110110-00000000111132111000-0-0000-010-000------0--001?00-21011001????000010-1002000000000-00???????????????????????????????
+Paecilaema_ornatissimum               111010110110-00000001012121121000-0-0000-010-0010100000--001200-210110013?11000010-1002000000000-00???????????????????????????????
+Paecilaema_preciosum                  111010110110-01000000011112111000-0-0000-010-0010100000--001?00-210110013?11000010-1002000000000-00???????????????????????????????
+Paecilaema_renneri                    111010110110-01000001011110111000-0-0000-010-0010100000--001200-210110012?11000010-1002000000000-00110010000001011001?????010010--
+Kayania_compressicoxa                 111??1010100-0000000000-----0000100-0?10-0110101310?000--001100-???110012?11000101012?200000?00??00???????????????????????????????
+Kayania_bicolumnata                   1110210101?0-0000000000-----00000-100?10-01101013102000--001100-???110012?32000101012?2000000001?00????????????01?????????????????
+Marronia_elegans                      1300210100-0-00000000-0-----00000-0-0010-01100010100000--00100?????110012?21000020-1002000000001?0????????????????????????????????
+Sibambea_waorani_sp._nov.             130021010100-0000000000-----000110120010-010-000------0--00-100-0?0110012?1?000120-10020000000011001110101110010110011??00011-1110
+Sibambea_rotunda                      130021010100-0000000000-----000110120010-010-000------0--00-100-0?0110012?210001211100200000000110011101011100101100110000011-1110
+Discosomaticus_cinctus                130021010100-0000000000-----000110100010-01100012---000--001100-2?0110012?22000120-10020000000011001110101110010110011??00011-1110
+Protus_distinctus                     111021010100-0000000000-----0000100-0010-01101112---100--001000-???110012?21000121010020000000011001110101?1001011001?????011-1110
+Protus_bolivari                       111021010100-0000000000-----0000110-0010-01101012---100--001300-2?0110012?1100012101002000000001100?110101?0?010112011??00011-1110
+Protus_insolens                       111021010100-0000000000-----00000-0-0010-01101012---100--001000-???110013?21000020-10020000000011001110111100002112111??20010010--
+Paraprotus_speciosus                  111021010100-0000000000-----00000-110010-01101012---100--001000-2?0110013?31000021210020000000011001110111100002112111??20012-10--
+Protus_marllusi_sp._nov.              111021010100-0000000000-----0000110-0010-01101012---100--001300-2?011001????00002121002000000001?001110101100002112111??20012-10--
+Paraprotus_quadripunctatus            111021010100-0000000000-----00000-0-0?10-01101012---100--001000-???110013??10000?111002000000001100???????????????????????????????
+Paraprotus_atroluteus                 111021011?00-0000000000-----00000-0-0010-01100012---000--001000-???110013?32000020-1002000000001?00???????????????????????????????
+Paraprotus_albithorax                 111021011100-0000000000-----0000100-0?10-01100012---000--001000-???110013??1000020-1002000000001?00???????????????????????????????
+Gryne_marginalis                      11101111010110000000000-----00000-130010-01100010100000--001400-2?0110014??1000020-1012000000011100121110100000211?111??00010110--
+Gryne_leprosa                         11101110010100010000000-----00000-0-0010-01100010100000--001400-??0110013?21000020-10120000000111001211101100020110011??10010110--
+Gryne_coccinelloides                  11101110010100010000000-----00000-0-0010-01100010100000--001400-??0110013???000020-10?20000000?1?00???????????????????????????????
+Gryne_orensis                         11101110010100010000000-----00000-0-0010-01100010100000--001400-2?0110013???000020-101200000001110012111011000201100110?10010110--
+Gryne_dimorpha                        11101111010110010000000-----00000-0-0010-01100010000000--001400-??0110014?1?000020-1012000000011100121110110002011?011??10010110--
+Roquettea_andina                      111011110100-0000010000-----00000-0-0010-0110001010?000--0?0300-???1?00?4?21000020-10?20000000???00???????????????????????????????
+Roquettea_singularis                  111011110100-0000010000-----00000-0-0010-01110010101010--010300-2?0120004?21000020-10020000000011001210111000100010100000-113-00--
+Roquettea_jalapensis                  111011110100-0000010000-----00000-0-0010-01100010100000--000300-2?0120004?21000020-10020000000011001211111100100010110??0-113-00--
+Roquettea_carajas                     111011110100-0000010000-----00000-0-0010-01110010101000--000300-2?0120004?21000020-10020000000011001210111000100010100??0-113-00--
+Roquettea_peba                        111011110100-0000010000-----00000-0-0012001100010101000--000300-2?0120004?21000020-10020000000011001211111000100010100??0-113-00--
+Roquettea_scrotalis                   111011110100-0000010000-----00000-0-0010-011-0-1?1?1010--010300-2?0120004?21000020-10020000000011001211111000100010100??0-113-00--
+Roquettea_taurina                     111011110100-0000010000-----00000-0-0012001100010101000--000300-2?0120004?21000020-10020000000011000211111000100010110??0-113-00--
+Roquettea_bubalina                    111011110100-0000010000-----00000-0-0012111110010101000--000300-2?0120004?21000020-10020000000011001211111000100010100000-113-00--
+Roquettea_troguloides                 111011110100-0000010000-----00000-0-0012111110010101000--000300-2?0120004?21000020-10020000000011001211111000100010100000-113-00--
+Roquettea_decioi                      1110-1110100-0000010000-----00000-0-0010-01110010101010--000300-2?0120004?21000020-1002000000001100???????????????????????????????
+
+;
+
+
+cnames
+{ 0 DS,_lenght_(mm) Small,_<3 Medium,_4-6 Large_>6;
+{ 1 DS,_outline_shape,_type__(Kury_&_Medrano,_2016) Alpha Beta Lambda Delta Epsilon gamma beta_elongate;
+{ 2 DS,_outline_shape,_constrictions_C1_(Kury_&_Medrano,_2016) Not_marked_(Sibambea) Poorly_marked_(Paecilaema) Well_marked_(Ambatoiella);
+{ 3 Dorsal_scutum,_lateral_border_in_posterior_view following_the_general_body_curvature clearly_marked_by_a_deep_groove_and_raised_breaking_the_outline_of_scutum;
+{ 4 DS,_shape_in_lateral_view Flat_(carapace_and_abdomen),_slight_constrictions Constriction_of_scutal_groove_well_marked,_carapace_quasi_flat,_abdomen_convex_(Cynorta) Lenticular,_strongly_convex_in_lateral_view,_zero_constrictions;
+{ 5 DS,_anterior_border_of_carapace,_width_(revisar_todo) Narrow,_three_times_maximum_abdomen_width_(Acantholibitia) Wide,_aprox._2.5_times_maximum_abdomen_width_(Taito) Very_wide,_less_two_times_maximum_abdomen_width_(Meterginus);
+{ 6 DS,_abdomen,_posterior_border Without_coda Small_coda,_1/3_of_mid-bulge_lenght Large_coda,_almost_as_large_as_mid-bulge;
+{ 7 DS,_tegument Coarsely_granulated Smooth_or_covered_with_minute_granules;
+{ 8 DS,_coloration,_ocularium Concolorous_with_background Darker_than_background;
+{ 9 DS,_coloration Uniformly_brown,_when_different_colors_appear_they_are_faint_and_not_serose_layers Some_type_of_yellow/white_waxy_secretion_blots;
+{ 10 DS,_coloration,_blots,_number_of_shades_(Kury_&_Medrano,_2018) One_(solid) Two_(solid_and_translucent);
+{ 11 DS,_coloration,_blots,_reticulated_pattern Absent Present,_blots_criss-crossing_around_granules;
+{ 12 DS,_coloration,_blots,_reticulated_pattern,_shape Invading_the_mesotergum Only_marginal,_not_invading_mesotergum;
+{ 13 DS,_coloration,_color_blots_on_scutum,_backbone_as_a_continuous_line_(not_dots) absent present;
+{ 14 DS,_coloration,_color_blots_on_scutum,_v-part_of_chevron absent present;
+{ 15 DS,_coloration,_blots,_ears_of_chevron_(Kury_&_Medrano,_2018) Absent Present;
+{ 16 DS,_coloration,_color_blots_on_scutum,_omega_stripe Absent Present;
+{ 17 DS,_coloration,_blots,_equuleus_(also_called_easel,_Kury_&_Barros,_2014) Absent Present;
+{ 18 DS,_coloration,_blots,_numerous_minuscule_yellow-white_dots_covering_denselly_the_DS Absent Present;
+{ 19 DS,_coloration,_blots,_large_yellow-white_blots_in_relief__(Cynorta) Absent Present;
+{ 20 DS,_coloration,_blots,_yellow-white_granulation_on_small_granules_in_mesotergum_(solid_punctulation,_Kury_&_Medrano,_2018) Absent Present;
+{ 21 DS,_coloration,_blots,_horseshoe_(Kury_&_Medrano,_2018) Absent Present;
+{ 22 DS,_blots,_lyra,_with_complete_fenestrae_and_diaphanous_body absent present;
+{ 23 DS,_lyra,_branches not_reaching_carapace_at_all reaching_only_back_corners_of_cpx stretching_all_the_way_to_frontal_border_of_scutum;
+{ 24 DS,_blots,_lyra,_fenestra_magna,_posterior_border rounded pointing_backwards flat,_straight;
+{ 25 DS,blots,_lyra,_Inner_filling isolated_round_blots diaphanous_body solid mixed,_diaphanous,_void_and_meandering_blots;
+{ 26 DS,blots,_lyra,_outline_of_fenestra_magna formed_by_small_dots formed_by_very_large_dots as_a_continuous_line;
+{ 27 DS,blots,_lyra,_pairs_of_lateral_fenestrae absent present,_anterior_and_posterior;
+{ 28 DS,_coloration,_lyra,_vertebral_round_blots_(Paecilaema) absent small very_large;
+{ 29 DS,_coloration,_color_blots_on_scutum,_paired_dots_on_anterior_carapace_(Paecilaema) absent present;
+{ 30 DS,_coloration,_rib_of_mesotergal_groove_I absent present;
+{ 31 DS,_coloration,_blots,_complete_white_ring_in_anterior_and_lateral_margins Absent Present;
+{ 32 DS,_coloration,_blots,_anterior_margin_of_carapace_(crown) absent Present;
+{ 33 DS,_coloration,_anterior_part_of_carapace_(crown),_shape Entire Fragmented;
+{ 34 DS,_coloration,_blots,_ring,_laterals_in_abdominal_scutum Absent Present;
+{ 35 DS,_coloration,_blots,_ring,_laterals,_shape Arch_only Wide_stripe Arch,_widely_penetrating_mesotergum Fragmented_stripe;
+{ 36 DS,_coloration,_blots,_area_V,_isolated_posterior_stripe Absent Present;
+{ 37 Leg_IV,_femur,_width Very_thin_(ca._9_times_thinner_than_Scutal_Area_V) Medium_(ca._6.5_times_thinner_than_Scutal_Area_V) Thick_(ca._5_times_thinner_than_Scutal_Area_V);
+{ 38 Inter-ocular_distance,_proportion_to_carapace_(in_females) Narrow_(<1/4_of_carapace_width) Wide_(1/3_of_carapace_width) Very_wide_(1/2_of_carapace_width);
+{ 39 Ocularium,_shape Low,_with_median_concavity High,_dome-shaped High,_incrassate;
+{ 40 Ocularium,_protuberances,_shape Protuberances_just_near_eyes,_keeping_median_depression Protuberances_forming_a_single_large_structure;
+{ 41 Carapace,_posterior_part,_shape_(Roquettea) Standard,_lower_than_ocularium Incrassate,_as_high_as_ocularium;
+{ 42 Carapace,_guards_of_protoglyphs,_shape Reduced_to_a_rounded_lobe_(Rhaucus) Triangular_(Eulibitia) Square_(Libitia) Bifurcate_or_multifurcate_(Metalibitia);
+{ 43 Abdominal_scutum,_mesotergal_area_I,_armature Without_armature Paramedian_armature;
+{ 44 Abdominal_scutum,_mesotergal_area_I,_paired_armature,_built Small_tubercules_or_spines Large_spines_or_tubercles;
+{ 45 Abdominal_scutum,_mesotergal_area_I,_white_buttons_in_the_middle_of_the_area Absent Present;
+{ 46 Abdominal_scutum,_mesotergal_area_II,_armature Without_armature Paramedian_armature;
+{ 47 Abdominal_scutum,_mesotergal_area_III,_armature Absent Present;
+{ 48 Abdominal_scutum,_area_III,_armature,_shape__(in_females_if_sexual_dimorphism_is_present) Spines paramedian_acuminated_high_armature_(longer_than_wide) Tubercules paramedian_acuminated_thick_tubercles_(wider_than_long) Buttons small_rounded_tubercles Pseudo-columns thick_rounded_and_long_spines;
+{ 49 Abdominal_scutum,_area_III,_paramedian_spines,_size_(in_female_if_sexual_dimorphism_is_present) Low_spines,_one_third_of_the_height_of_DS_in_lateral_view High_spines,_as_high_as_DS_in_lateral_view;
+{ 50 Abdominal_scutum,_area_III,_paramedian_spines_or_tubercles,_fusion Separated Fused;
+{ 51 Abdominal_scutum,_area_III,_spines,_dimorphism Same_shape_(or_almost)_in_both_sexes Inflated_and_rounded_in_males Columns_in_males;
+{ 52 Abdominal_scutum,_area_III,_armature,_color_pattern concolorous_with_scutum_or_slightly_darker white-painted_buttons;
+{ 53 Abdominal_scutum,_area_III,_armature,_location Normal_position Displaced_forwards,_almost_in_the_middle_of_mesotergum;
+{ 54 Abdominal_scutum,_mesotergal_area_IV,_armature Absent Paramedian_armature;
+{ 55 Abdominal_scutum,_area_IV,_armature,_height low_tubercles high_tubercles;
+{ 56 Abdominal_scutum,_area_IV,_armature,_fussion Separated Fussed;
+{ 57 Abdominal_scutum,_area_V_(posterior_margin),_protruding_paramedian_armature Absent Present;
+{ 58 Abdominal_scutum,_areas_I_to_III,_combined_high_ornamentation With_normal_ornamentation_(without_fusion_between_armatures_of_different_areas) A_single_structure_as_a_column_with_two_or_four_immensely_inflated_globoid_or_pear-shaped_structures;
+{ 59 Areas_I_and-or_III,_armature,_texture Glossy Matte;
+{ 60 Free_tergite_I,_yellow_coloration uncolored Entirely_colored Paramedian_granules_colored Dots_equally_spaced Irregular_coloration,_not_including_granules;
+{ 61 Anal_opercle,_armature Granulated,_all_granules_of_same_size Pointed_tubercles,_one_pair_larger Blunt_protuberance;
+{ 62 Chelicerae,_sexual_dimorphism Absent_or_imperceptible,_basichelicerite_and-or_hand_monomorphic Present,_basichelicerite_and-or_hand_incrassate_in_males;
+{ 63 Chelicera,_sexual_dimorphism,_type Cheliceral_hand_of_male_immensely_inflated,_projected_dorsally,_covering_frontal_part_of_the_scutum_in_frontal_view,_basichelicerite_much_larger Cheliceral_hand_of_male_immensely_inflated,_but_not_projected_dorsally,_basichelicerite_much_larger Cheliceral_hand_of_male_moderately_swollen,_basichelicerite_thicker_than_in_female;
+{ 64 Chelicerae,_hand,_fixed_finger,_pectination Absent,_smooth Serrated Well-marked_teeth Keel;
+{ 65 Chelicera,_hand,_movable_finger,_distal_teeth Absent Present;
+{ 66 Chelicerae,_hand,_movable_finger,_basal_triangular_spine Absent Present;
+{ 67 Pedipalp,_general_shape Cylindrical Femur_compressed_and_tibia_spoon-shaped,_applied_over_the_chelicerae;
+{ 68 Pedipalp,_tarsus,_shape Cylindrical-ovoid Trapezoid_elongate Flatened_laterally;
+{ 69 Pedipalp,_tarsus,_lenght,_proportion_with_tibia Markedly_shorter_than_tibia Almost_as_long_as_tibia;
+{ 70 Pedipalpus,_tibia,_prolateral_margin Without_prominent_flap With_remarkable_flap_along_inner_side;
+{ 71 Pedipalp,_tibia,_wider_side Apical,_Roquettea-like in_3/4_lenght-Cynorta-like in_the_middle_lenght,_Rhaucus-like;
+{ 72 Leg_I,_tarsomeres,_Ta_counts four five six seven 8_to_9 10_or_more;
+{ 73 Leg_II,_tarsomeres,_BaTa_counts three four five six_or_more;
+{ 74 Leg_III,_tarsomeres,_Ta_counts five_to_six seven_to_eight nine_to_ten 11_to_13;
+{ 75 Leg_IV,_tarsomeres,_Ta_counts five_to_eight nine_to_13 more_than_13;
+{ 76 Leg_IV,_coxa_of_male,_prolateral_distal_armature Unarmed_or_mostly_reduced Well_marked_apophyse;
+{ 77 Leg_IV,_coxa_and_trochanter,_orientation Oblique Cx_IV_of_male_entirely_parallel_to_main_body_axis,_so_that_Fe_IV_lies_straight,_while_in_females_Cx_is_oblique_and_Fe_in_slanted;
+{ 78 Leg_IV,_coxa,_prodorsal_basal_armature None Groin_warts;
+{ 79 Leg_IV,_coxa,_basal_articulation_(with_scutum),_thickening Without_any_thickening Basal_thickening;
+{ 80 Leg_IV,_coxa,_visibility_in_dorsal_view Entirely_visible Partially_covered_by_DS_(scutum_outline_touches_or_surpasses_Cx_outline) Entirely_covered_by_DS_(only_posterior_margin_apparent);
+{ 81 Leg_IV,_coxa,_coloration Uniform_brown White/yellow_spots;
+{ 82 Leg_IV,_coxa,_white_areas,_shape Broad_white_patches_all_along_its_length Isolated_white_tubercles_all_over Small_dots_without_relief;
+{ 83 Leg_IV,_coxa,_lenght_proportion_to_DS_in_dorsal_view Short_,_0,3x_DS_(Libitia-like) Medium,_0,5x_DS_(Metavononoides-like) Long,_0,8x_DS_(Platygyndes-like);
+{ 84 Leg_IV,_coxa,_outline_of_lateral_border_in_dorsal_view Convex Concave Convex_proximally_and_concave_distally_(C._compressicoxa);
+{ 85 Leg_IV,_lenght_dimorphism Almost_same_lenght_in_both_sexes,_tibia_short Femur_and_tibia_longer_in_males,tibia_almost_of_same_size_of_femur Femur_enlarged_and_compressed_in_males;
+{ 86 Leg_IV,_femur,_length,_proportion__femur_IV_vs_DS_lenght Very_short,_less_than_1x_DS Short,_1.5x_DS Long,_2x_DS_or_more;
+{ 87 Leg_IV,_femur,_shape Same_thickness_in_all_lenght Distally_inflated Enlarged_basally;
+{ 88 Leg_IV,_femur,_general_dorsal_armature Mainly_scattered_tiny_granules Entirely_tuberculated;
+{ 89 Leg_IV,_Fe,_male,_dorso-basal_patellar_spur absent present;
+{ 90 Leg_IV,_femur,_ventro-basal_armature Absent Spines;
+{ 91 Leg_IV,_femur,_Pro-ventral_armature_in_distal_third Absent A_comb_a_low_independent_tubercles_increasing_in_size_distally A_comb_of_tubercles_sometimes_fused_in_the_base_or_forming_a_widening;
+{ 92 Leg_IV,_femur,_distal_prolateral_set_of_long_hooks_forming_a_comb absent present;
+{ 93 Leg_IV,_femur,_curvature_(in_dorsal_view) Straight_or_substraight Curved curved_in_distal_third;
+{ 94 Leg_IV,_metatarsus,_dimorphism Cylindrical,_long_in_both_sexes Short,_prysmatic_in_males;
+{ 95 Legs_III-IV,_tarsal_claws,_pectination_in_inner_side Absent_(smooth) Present_(pectinate);
+{ 96 Legs_III-IV,_tarsal_claws,_pectination_in_outter_also_in_outer_side Simple,_just_internal_row Double,_inner_and_external_rows;
+{ 97 Legs_I-III,_trochanters,_retrolateral_spine_(Taito) Absent Present,_either_in_I,_II,_III_or_in_I,_II present_only_in_Tr_III_(Prostygnus);
+{ 98 Legs_III-IV,_tarsi,_thickness Normal_size Very_incrassate;
+{ 99 Penis,_VP,_MS_A1_position extremely_basal_in_VP_(immediately_distal_to_podium),_contained_in_basal_quarter_of_VP contained_in_second_proximal_quarter_of_VP_(from_mid-length_to_proximal);
+{ 100 Penis,_VP,_MS_A,_number Extremely_reduced,_not_detectable One_pair Two_pairs;
+{ 101 Penis,_VP,_MS_A1,_length Short,_or_very_short,_reduced Long,_as_long_as_D1_or_C;
+{ 102 Penis,_VP,_MS_C3,_presence Absent Present;
+{ 103 Penis,_VP,_MS_Cs,_orientation pointing_basally pointing_distally;
+{ 104 Penis,_VP,_MS_Cs,_shape Curved,_flattened Straight_or_sub-straight,_cilindrical Very_short,_straight;
+{ 105 Penis,_VP,_MS_D1,_size_and_stoutness Small_and_thin Long_and_stout,_almost_as_a_MS_C;
+{ 106 Penis,_VP,_MS_D2,_position lateral,_in_the_distal_half lateral,_in_the_proximal_half;
+{ 107 Penis,_VP,_MS_D2,_size Reduced,_clearly_smaller_than_MS_D1 Almost_as_long_as_MS_D1_or_Cs;
+{ 108 Penis,_VP,_MS_B,_number A_single_pair Two_pairs;
+{ 109 Penis,_VP,_MS_SN,_supranumerary,_grouped_but_not_aligned_with_MS_C_(Roquettea) Absent Present;
+{ 110 Penis,_VP,_basic_shape Rectangular,_lateral_margins_sub-paralel_(Protus-like) T-shape,_distal_border_wider_than_basal,_membranous_region_of_MS_C_concave_(Rhaucus-like) Inverted_trapezium,_basal_portion_of_VP_wider_than_distal_portion_(Gryne_leprosa-like) pyriform_(Prostygnus-like);
+{ 111 Penis,_VP,_distal_border,_concavity Shallow Deep Convex entire,_without_concavity;
+{ 112 Penis,_VP,_latero-distal_corners,_width_(synap_Roquettea) Inflated,_wider_than_rest_of_the_VP As_wide_as_rest_of_ventral_plate;
+{ 113 Penis,_glans,_dorsal_process Absent Present;
+{ 114 Dorsal_process_of_glans,_shape Rounded,_thumb-like Very_short,_dome Slender_and_accuminate Short_and_cylindrical;
+{ 115 Penis,_VP,_length Short,_approx._1.5_times_VP_width Long,_lenght_two_times_of_VP_width;
+{ 116 Penis,_glans,_insertion_to_truncus_vs_VP Podium_undefined,_glans_arising_straight_from_truncus Podium_well-defined,_glans_rests_on_table;
+{ 117 Penis,_VP,_ventral_surface,_texture Entirely_glabrous Some_type_of_microsetae_present;
+{ 118 VP,_microsetae,_lateral_patches_of_cteniform_T4,_inner-outer_expansion restricted_to_outer_area,_closest_to_the_rim well_expanding_medially,_towards_the_center_of_VP_(as_in_Rhaucus_vulneratus) lateral_patches_indistinct,_extremely_reduced expanded_medially,_but_T4_gradually_replaced_by_simpler_microsetae_T1_(Guaporeius);
+{ 119 VP,_microsetae,_lateral_patches_of_cteniform_T4,_proximal-distal_expansion restricted_to_corners_of_VP expanding_proximally_to_occupy_the_whole_length_of_VP lateral_patches_indistinct,_extremely_reduced;
+{ 120 Penis,_VP,_basal_section_including_truncus,_texture Microsetae_not_invading_truncus Microsetae_gently_invading_the_truncus Microsetae_clearly_invading_truncus;
+{ 121 Penis,_VP,_midfield_of_microsetae_T1,_T2,_T3_or_T5 absent,_VP_middle_section_glabrous midfield_present;
+{ 122 Penis,_stylus,_tip,_dorsal_peak Absent Present;
+{ 123 Penis,_stylus,_wattle,_presence Absent Present;
+{ 124 Penis,_stylus,_wattle,_extension_in_ventral_part Going_to_the_base_of_stylus_(complete) From_the_middle_to_tip_of_stylus_(as_Sibambea) Restricted_to_distal_part_(as_Rhaucoides) Almost_absent_(as_Roquettea);
+{ 125 Penis,_stylus,_wattle_(when_complete),_shape Triangular,_wider_in_the_middle_(as_in_Vonones) Rectangular,_same_width_in_all_extension_(as_in_Bodunius_biocellatus) Triangular,_wider_in_the_apice_(as_in_Libitia);
+{ 126 Penis,_stylus,_wattle,_distal_part,_width Very_small,_<_1/3_VP_width Medium,_<_1/2_VP_width. Large,_>_1/2_VP_width;
+{ 127 Penis,_stylus,_stylar_barbs Absent Present;
+{ 128 Penis,_stylus,_wattle,_stylar_barbs,_disposition_in_ventral_part Not_reaching_the_ventral_margin_of_stylus+wattle Reaching_the_ventral_margin_of_stylus,_forming_ventral_peak;
+{ 129 Penis,_stylus,_wattle,_stylar_barbs,_disposition_in_dorsal_part Not_reaching_the_dorsal_margin_of_stylus Reaching_the_dorsal_margin_of_stylus;
+;
+
+
+ccode  + 0 2 6 38 72 80 83 - 1 3.5 7.37 39.71 73.79 81.82 84.129;
+
+
+;

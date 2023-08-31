@@ -1,0 +1,147 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.09.21'
+61 68
+
+&[num]
+Neotrigonia_margaritacea           1130--10-0000----------0-0101000010021000---001010000000000-0
+Carditamera_floridana              0000--10-0000----------0-0101000010021000---001010000000000-2
+Thyasira_trisinuata                0000--11-0000----------0-0101000010021000---00?010000-00000-0
+Pholadomya_candida                 11100010-01111000-----0000111001010021001---001012101010100-0
+Parilimya_fragilis                 ??100-10-01111000-----0020100-01110221001---010110000010100-0
+Parilimya_neozelanica              11?00-10-01111000-----0020100-01?10?2?001---0??112000?10100-0
+Dacosta_australis                  ??100-11103011011110010000101000010021001---001010000100?2100
+Stirpulina_ramosa                  ???00-11000011011110010000101000010021001---0??010000-10?0100
+Dianadema_multangularis            ?1100-1100301101111001000010100001002100?---0??0?0000-?0?0100
+Bryopa_aligamenta                  ???00-0--00011011110010000100-00010021001---0??010000??0?0100
+Brechites_attrahens                11100-11001001011110010000001010010021001---0010?0000110?0110
+Humphreyia_strangei                11100-1100100101111001000000101001002100?---0??010000110?0110
+Verpa_philippinensis               11?00-110?01?1011110010000000-10010021001---0??0?0000110?0110
+Foegia_novaezelandiae              11?00-110?1111011110010000000-10010021001---0??0?0000??0?0110
+Kendrickiana_veitchi               11?00-110?3011011110010000001000010021001---0??0?00001?0?0110
+Nipponoclava_gigantea              11?00-110?1111011110010000001010010021001---0??0?00001?0?0110
+Cleidothaerus_albidus              1100101121011000101--00000100-00010021001---00101?000110110-0
+Cuspidaria_cuspidata               222011111140101011210100301010001101201--0-0120102000000000-0
+Cuspidaria_morganae                22?0111111?0101011210100301010001101201--0-0120102000?00000-0
+Cuspidaria_glacialis               222011111140101011210100301010001101201--0-0120102000?00000-0
+Cardiomya_cleryana                 222011111140101011211100301010001101201--0-0120102000000000-1
+Cardiomya_costellata               222011111140101011211100301010001101201--0-012?10?000000000-0
+Bathyneaera_paleifera              22?00-111?40101011211100301010001101201--0-012010?000??0000-1
+Rhinoclama_halimera                ???011111?40101011210100301010001101201--0-012010?000??0000-0
+Bathyneaera_hadalis                22?00-111??0101011211100301010001101201--0-012010?000??0000-0
+Tropidomya_diagonalis              22?0111111?0101011211100301010001101201--0-01201??000??0000-1
+Halonympha_depressa                22?0121111?0101011210100301010001102001--0-012?10?000?00000-0
+Octoporia_octoporosa               22?00-111140101011210100301010001102001--0-0120102000??0000-0
+Protocuspidaria_atlantica          22?0111111?010101121010030101000110200010---1??102000?00000-0
+Multitentacula_composita           22?00-11114010101120010030101000110200010---1?010?000??0000-0
+Grippina_coronata                  2220121111001010112101003010100010----1--0-0120112010011?00-0
+Spheniopsis_brasiliensis           2220121111001010112101003010100010----1--0-0120112000011?00-0
+Poromya_granulata                  111010100000000011300100401010001102101--101120100000010100-0
+Cetomya_tornata                    111010100000000011300100401010001102101--2-?120100000?10100-0
+Lissomya_rotundula                 1110101000?0000011300100401010001102101--2-?1201??000?10100-0
+Dillema_frumarkernorum             111010100000000011100100401010001102101--11?1201??000?10100-2
+Cetoconcha_braziliensis            11100-10-010000011100100401010001102101--111120112000?10100-0
+Cetoconcha_spinosula               11100-10-010000011100100401010001102101--111120112000?10100-0
+Allogramma_formosa                 11100-110100000011300100401010001103-0010---120110000010100-0
+Lyonsiella_abyssicola              11100-11012000001130010010101000110110010---1?011?000010100-2
+Policordia_densicostata            ??100-11012000001130010010101000110110010---12011?000?10100-2
+Policordia_hispida                 ??100-11012000001130010010101000110110010---1?011?000?10100-2
+Bentholyonsia_teramachii           ?1100-11111110001110010000101002110020000---120112000100100-0
+Vertambitus_triangularis           ?1101011012000001130010010101000110120010---110110000010100-1
+Halicardia_philippinensis          1110101101?000001130-10010101000110120010---11011?001??0100-?
+Halicardia_nipponensis             1110101101?000001130-10010101000110120010---110110001??0100-1
+Spinosipella_deshayesiana          ??101011012000001130010010101000110120010---1?0110000?10100-1
+Trigonulina_ornata                 1110121101200000113001001010100010----010---110110000110100-0
+Euciroa_pacifica                   1110121111?0000011300100101010001103-0010---1???11000??0100-0
+Euciroa_eburnea                    1110121111?0000011300100101010001103-0010---1???1?000??0100-0
+Entodesma_navicula                 00000-11012110021110011000101000010021001---001010000010100-2
+Lyonsia_hyalina                    11100-11012110021210011000101000010021001---001010000010100-2
+Lyonsia_alvarezii                  11100-11012110021210011000101000010021001---001010000?10100-2
+Mytilimeria_nuttalli               00000-1101?110021110011000101000010021001---00?010000?10100-0
+Pandora_inaequivalvis              1100101100000000100-010001101100011021001---001011000110100-0
+Pandora_pinna                      1100101100000000100-010001101100011021001---001011000110100-0
+Frenamya_ceylanica                 1100101100000000100-010001101100011021001---001011000010100-0
+Myadora_striata                    1110111101011000101-000000101200010021001---001010000110100-0
+Myochama_anomioides                11101111010010000---0-0000101200010021001---001010000110110-0
+Offadesma_angasii                  11110-1111111000101-000000101000010021001---001010000?10100-0
+Periploma_margaritaceum            11110-1111111000101-000000101000010021001---001010000?10100-0
+Cochlodesma_praetenue              ??110-1111001000101-000000101000010021001---00?01?000110100-0
+Exolaternula_spengleri             11110-1111301101101-010100101000010021001---001010000010100-0
+Laternula_elliptica                11010-1110301101101-010100101000010021001---001010000110100-0
+Trigonothracia_jinxingae           22100-1111002000101-000000100-00010021001---001010000110100-0
+Thracia_meridionalis               22100-1110011000101-000000101000010021001---001010000110100-0
+Parvithracia_lukini                2210111111012000101-00000010100001002100?---00?01?000?10100-0
+Clistoconcha_insignis              22020-1111001101101-0?0000100-00010021001---001012000000?00-0
+
+;
+
+
+cnames
+{ 0 Microstructure_of_the_middle_shell_layer crossed-lamellar_aragonite nacreous fine-grained;
+{ 1 Microstructure_of_the_inner_shell_layer complex_crossed-lamellar_aragonite nacreous fine-grained;
+{ 2 Intraperiostracal_calcification absent present_in_the_form_of_granules_or_spikes present_in_form_of_micro-pits present_in_form_of_rounded_prismatic_bosses;
+{ 3 Umbonal_slit absent partial entire;
+{ 4 Secondary_teeth absent present;
+{ 5 Hinge_projection(s)_located below_the_umbones lateral_to_the_umbones in_both_positions;
+{ 6 Primary_ligament absent_in_the_adult_stage present_in_the_adult_stage;
+{ 7 Position_of_the_primary_ligament external internal;
+{ 8 Ligament_insertion simple_sunken sunken_between_chondrophore sunken_between_coiled_chondrophores;
+{ 9 Lithodesma absent_in_the_adult_stage present_in_the_adult_stage;
+{ 10 Arenophilic_gland_secretions absent present,_only_on_the_posterior_valve_surfaces present,_over_entire_valve_surfaces present,_only_over_the_siphons present,_both_on_the_posterior_surface_of_the_shell_valves_and_siphons;
+{ 11 Fourth_pallial_aperture absent_in_the_adult_stage present_in_the_adult_stage;
+{ 12 Pallial_sinus_(or_scar) absent present_but_does_not_extend_beyond_the_mid_dorsal-ventral_axis_of_the_shell present_and_extends_beyond_the_mid_dorso-ventral_axis_of_the_shell;
+{ 13 Siphonal_separation separated fused;
+{ 14 Siphonal_tissue_sheath absent present;
+{ 15 Siphons_covered_by_periostracum absent present,_covering_the_external_walls_of_the_siphons present,_covering_only_the_base_of_the_siphons;
+{ 16 Siphonal_tentacles absent present;
+{ 17 Tentacles_bordering_the_inhalant_and_exhalant_siphons around_the_siphonal_tips_only around_the_base_of_the_siphons_only around_both,_siphonal_tips_and_base;
+{ 18 Shape_of_the_siphonal_tentacles capitated tapered finger-shaped arborescent;
+{ 19 Tentacular_arrangement_4I_+_3E absent present;
+{ 20 Exhalant_inter-tentacular_margin_with_projections absent present;
+{ 21 Ciliary_sense_organs absent present;
+{ 22 Small-papillae_covering_the_external_walls_of_the_siphons: absent present;
+{ 23 Ectopic_siphonal_eyes absent present;
+{ 24 Morphology_of_the_inhalant_siphon long,_tube-shaped short,_cone-shaped Parilimya_type extensible,_funnel-shaped hood-like;
+{ 25 Discontinuous_(dotted)_pallial_line absent present;
+{ 26 Adductor_musculature absent_in_the_adult present_in_the_adult;
+{ 27 Highly_muscularized_pedal_gape absent present;
+{ 28 Pedal_retractor_muscles_(or_scar) absent present;
+{ 29 Posterior_pedal_retractor_muscle_(insertion_in_the_shell) dorsal_to_the_posterior_adductor_muscle ventral_to_the_posterior_adductor_muscle in_the_middle_of_posterior_adductor_muscle;
+{ 30 Pedal_disc absent present;
+{ 31 Hypertrophied_siphonal_retractors_(taenioid_muscles) absent present,_separated_from_the_ventral_mantle_margin present,_running_along_the_ventral_mantle_margin;
+{ 32 Mouth_opening_shape tube-shaped funnel-shaped;
+{ 33 Labial_palps absent present;
+{ 34 Position_of_labial_palps adjacent_to_the_mouth separated_from_the_mouth_by_long_proximal_oral_grooves;
+{ 35 Labial_palp_shape triangular_flaps_(typical_bivalve_plan) horn-shaped_(slightly_asymmetrical) cup-shaped modified_into_a_pouch_or_buccal_sac;
+{ 36 Size_of_posterior_labial_palps larger_than_anterior_pair smaller_than_anterior_pair equal_to_the_anterior_pair;
+{ 37 Sorting_ridges_on_the_surface_of_the_labial_palps absent present;
+{ 38 Gill_type ctenidia muscular_septum;
+{ 39 Ctenidial_alignment vertically_aligned horizontally_aligned;
+{ 40 Plication_of_ctenidia absent present;
+{ 41 Muscular_septum_perforated_by isolated_pores grouped__pores branchial_sieves;
+{ 42 Septal_grouped_pores_forming two_close-set_series_of_pores three_close-set_series_of_pores;
+{ 43 Haemocoelic_compensation_sac absent present;
+{ 44 Thick_muscularized_oesophagus absent present;
+{ 45 Cuticular_lining_into_the_gastric_chamber absent present,_thin_and_less-extensive present,_expanded;
+{ 46 Sorting_areas_into_the_gastric_chamber reduced multiple_and_grooved;
+{ 47 Stomach_with_a_thickened_muscular_envelope absent present;
+{ 48 Style_sac free conjoined_with_midgut;
+{ 49 Rectum_in_relation_to_heart passing_dorsal_to_the_heart passing_ventral_to_the_heart passing_through_the_heart;
+{ 50 Accessory_excretory_organ absent present;
+{ 51 Waste_storage_pouch absent present;
+{ 52 Opisthopodium absent present;
+{ 53 Inorganic_material_inside_the_statocyst_chambers only_one_statolith several_statoconia;
+{ 54 Gonad_type_(expression_of_sexuality) presence_of_testes_or_ovary_in_an_individual presence_of_testes_and_ovary_simultaneously_in_the_same_individual;
+{ 55 Fertilized_eggs_incubated_in_the_visceral_mass absent present;
+{ 56 Position_of_acrosomal_vesicle_(sperm_morphology) anterior,_seating_vertically_on_nuclear_apex posterior,_associated_with_the_midpiece;
+{ 57 Ability_to_cement_to_the_substratum absent present,_via_the_right_valve present,_via_the_left_valve;
+{ 58 Calcareous_adventitious_tube/crypt absent present;
+{ 59 Calcareous_adventitious_tube_secreted_by left_mantle_lobe_only both_mantle_lobes;
+{ 60 Postlarval_byssus absent present_as_a_single_byssal_thread present_as_more_than_one_byssal_threads;
+;
+
+
+ccode  - 0.60;
+
+
+;
