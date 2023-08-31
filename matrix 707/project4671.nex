@@ -1,0 +1,632 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-06-16 07.56.15 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=62;
+    TAXLABELS
+    		'Phosphatherium'
+		'Cornwallius sookensis'
+		'Prorastomus sirenoides'
+		'Pezosiren portelli'
+		'Sobrarbesiren cardieli'
+		'Ashokia antiqua'
+		'Protosiren fraasi'
+		'Protosiren smithae'
+		'Libysiren sickenbergi'
+		'Anomotherium langewieschei'
+		'Miosiren kocki'
+		'Potamosiren madgalenensis'
+		'Ribodon limbatus'
+		'Trichechus manatus latirostris'
+		'Trichechus senegalensis'
+		'Trichechus inunguis'
+		'Eotheriodes aegyptiacus'
+		'Eotheroides clavigerum'
+		'Eotheroides sandersi'
+		'Eotheroides lambondrano'
+		'Prototherium veronense'
+		'Prototherium ausetanum'
+		'Prototherium intermedium s.l.'
+		'Eosiren libyca'
+		'Eosiren imenti'
+		'Halitherium taulannense'
+		'Kaupitherium gruelli'
+		'Kaupitherium bronni'
+		'Lentiarenium cristolii'
+		'Priscosiren atlantica'
+		'Metaxytherium krahuletzi'
+		'Metaxytherium medium'
+		'Metaxytherium serresii'
+		'Metaxytherium subapenninum'
+		'Metaxytherium floridanum'
+		'Metaxytherium crataegense'
+		'Metaxytherium arctodites'
+		'Dusisiren reinharti'
+		'Dusisiren jordani'
+		'Dusisiren dewana'
+		'Hydrodamalis cuestae'
+		'Hydrodamalis gigas'
+		'Metaxytherium albifontanum'
+		'Caribosiren turneri'
+		'Crenatosiren olseni'
+		'Nanosiren sanchezi'
+		'Nanosiren garciae'
+		'Dugong dugon'
+		'Callistosiren boriquensis'
+		'Bharatisiren indica'
+		'Bharatisiren kachchhensis'
+		'Domningia sodhae'
+		'Kutchisiren cylindrica'
+		'Dioplotherium manigaulti'
+		'Dioplotherium allisoni'
+		'Culebratherium alemani'
+		'MPEG-63V d. cf. D. allisoni'
+		'ECOCHM-2491 diop. sp.'
+		'Xenosiren yucateca'
+		'Corystosiren varguezi'
+		'Rytiodus heali'
+		'Rytiodus capgrandi'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=83;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="0123456";
+	CHARLABELS
+		 [1] '3. Rostrum'
+		 [2] '6. Nasal process of Premaxilla'
+		 [3] '7. Nasal process of Premaxilla'
+		 [4] '8. External nares'
+		 [5] '9. Premaxilla'
+		 [6] '10. Premaxillary symphysis'
+		 [7] '11. Zygomatic-orbital bridge of maxilla'
+		 [8] '13. Infraorbital foramen'
+		 [9] '14. Zygomatic-orbital bridge of Maxilla'
+		 [10] '16. Palate'
+		 [11] '20. Infraorbital canal'
+		 [12] '21. Paranasal air sinuses'
+		 [13] '22. Zygomatic-orbital bridge of maxilla'
+		 [14] '23. Anterior palate ?'
+		 [15] '31. Nasals'
+		 [16] '36. Supraorbital process of frontal'
+		 [17] '37. Nasal incisure at posterior end of mesorostral fossa'
+		 [18] '42. Frontal roof'
+		 [19] '44. Supraorbital process of frontal'
+		 [20] '45. Frontal roof'
+		 [21] '51. Sagittal Crest'
+		 [22] '64. Supraoccipital'
+		 [23] '66. Exoccipitals'
+		 [24] '67. Supracondylar fossa of exoccipital'
+		 [25] '70. Dorsolateral border of exoccipital'
+		 [26] '72. Hypoglossal foramen'
+		 [27] '73. Postympanic process of squamosal'
+		 [28] '74. Sigmoid ridge of squamosal'
+		 [29] '76. Cranial portion of squamosal'
+		 [30] '77. Processus retroversus of squamosal'
+		 [31] '81. Outline of zygomatic process of squamosal'
+		 [32] '82. External auditory meatus of squamosal'
+		 [33] '84. Zygomatic process of squamosal'
+		 [34] '85. Ventral extremity of jugal'
+		 [35] '87. Preorbital process of jugal'
+		 [36] '88. Preorbital process of jugal'
+		 [37] '89. Zygomatic process of jugal'
+		 [38] '90. Ventral rim of orbit'
+		 [39] '91. Lacrimal'
+		 [40] '93. Lacrimal'
+		 [41] '97. Posterior border of palatine'
+		 [42] '99. Anterior border of palatine'
+		 [43] '101. Alisphenoid canal'
+		 [44] '102. Pterygoid fossa'
+		 [45] '103. Foramen ovale'
+		 [46] '105. Sphenopalatine region'
+		 [47] '115. Periotic'
+		 [48] '118. Mastoid portion of periotic'
+		 [49] '121. Mandibular symphysis'
+		 [50] '122. Ventral border of horizontal mandibular ramus'
+		 [51] '123. Accesory mental foramina'
+		 [52] '125. Posterior border of mandible'
+		 [53] '126. Anterior border of coronoid process'
+		 [54] '127. Mandibular dental capsule'
+		 [55] '128. Horizontal ramus of mandible'
+		 [56] '129. Ventral border of horizontal ramus of mandible'
+		 [57] '137. First upper incisor'
+		 [58] '139. First upper incisor'
+		 [59] '140. Depth of I1 alveolus'
+		 [60] '141. Cross section of I1 crown'
+		 [61] '142. First upper incisor'
+		 [62] '143. Second and third upper incisors, first through third lower incisors'
+		 [63] '144. Canines'
+		 [64] '145. Premolars 1-4'
+		 [65] '146. Permanent premolar 5'
+		 [66] '147. Molar 3'
+		 [67] '150. Supernumerary molars'
+		 [68] '151. Cheek teeth'
+		 [69] '155. Postcanine dental formula'
+		 [70] '157. Permanent premolars'
+		 [71] '200. Cervical vertebrae'
+		 [72] '203. Tips of thoracic, lumbar and sacral neural spines'
+		 [73] '204. Lumbar vertebrae'
+		 [74] '205. Sacrum'
+		 [75] '206. Anterior caudal vertebrae'
+		 [76] '207. Posterior caudal vertebrae'
+		 [77] '213. Bicipital groove of humerus'
+		 [78] '215. Pubis'
+		 [79] '217. Femur'
+		 [80] '218. Third trochanter of femur'
+		 [81] '220. Tibia'
+		 [82] '221. Humerus'
+		 [83] '222. Deltoid process of humerus'
+	;
+	STATELABELS
+		1
+		'Premaxillae do not form an elongated rostrum'
+		'rostrum elongated but small relative to cranium ?'
+		'rostrum enlarged ?'
+		,
+		2
+		'thin and tapering at posterior end, overlapping frontal and/or nasal'
+		'tapering but thickened at posterior end, with long overlap of frontal and/or nasal'
+		'Broadened and bulbous at posterior end, having more or less vertical, transverse butt joint surface in contact with frontal and/or nasal'
+		,
+		3
+		'Long ?'
+		'Very short'
+		,
+		4
+		'not retracted'
+		'retracted and enlarged, reaching to or beyond the level of the anterior margin of orbit'
+		,
+		5
+		'short, does not contact frontal'
+		'long, contacts frontal'
+		'long, contact with frontal nearly lost, premaxilla abuts mainly against nasal instead'
+		,
+		6
+		'not laterally compressed to form a middorsal ridge'
+		'laterally compressed, bearing a middorsal ridge anteriorly with its posterior end upraised to form a boss in lateral view'
+		'laterally compressed but without a boss, posterior end being dorsally flattened instead'
+		,
+		7
+		'nearly level with palate'
+		'elevated above palate, with its ventral surface lying >1 cm above the alveolar margin'
+		,
+		8
+		'small ?'
+		'large ?'
+		'very large ?'
+		,
+		9
+		'long anteroposteriorly ?'
+		'shortened ?'
+		'shortened and transformed into a transverse vertical wall'
+		,
+		10
+		'thin or incomplete at level of penultimate cheek tooth'
+		'> 1 cm thick at level of penultimate tooth'
+		,
+		11
+		'not obstructed'
+		'partly obstructed by a transverse bony ridge'
+		,
+		12
+		'present ?'
+		'absent'
+		,
+		13
+		'anterior edge thin and sharp, posterior edge thick and more or less rounded'
+		'both edges thin and sharp'
+		'both edges thick & rounded'
+		,
+		14
+		'very narrow relative to posterior palate including teeth and ? to rostral masticating surface'
+		'almost as wide as posterior palata and rostral masticating surface'
+		,
+		15
+		'meet in midline'
+		'separated in midline by frontals and/or an incisure or separated and fused with frontals'
+		,
+		16
+		'well developed, dorsoventrally thin overall ? with prominent, dorsoventrally flattened posterolateral corner'
+		'dorsoventrally thickened, with posterolateral corner only moderately or weakly developed'
+		'reduced, rounded, lacking posterolateral corner'
+		'dorsoventrally thickened ?, with dorsal surface inclined strongly ventrolaterad and with posterolateral corner strongly developed and more or less recurved'
+		,
+		17
+		'absent or small ?'
+		'deep and narrow ?'
+		'comparably deep but broad, with the anterior margin displaying a median convexity'
+		,
+		18
+		'convex, more or less flat, or moderately concave between temporal crest ?'
+		'deeply concave or depressed overal ? between temporal crests, but not sloping ventrad anteriorly'
+		'deeply concave or depressed, and sloping steadily ventrad to anterior margin'
+		,
+		19
+		'not divided'
+		'divided by one or more distinct, deep dorsoventral grooves indenting its lateral margin'
+		,
+		20
+		'bear no knoblike bosses'
+		'bears bilateral pair of knoblike bosses, more or less cylindrical in shape and directed anterad; or at least a distinct longitudinal ridge or swelling medial and parallel to, and distinct from, each temporal crest'
+		,
+		21
+		'present'
+		'absent'
+		,
+		22
+		'wider in dorsal half than at ventral extremities of lateral borders'
+		'wider ventrally than dorsally, or equally wide throughout'
+		,
+		23
+		'meet in a suture dorsal to foramen magnum'
+		'do not meet in a suture'
+		,
+		24
+		'absent'
+		'distinct, but shallow, directly dorsal to condyle'
+		'deep and extending across entire width of occipital condyle'
+		'reduced and located dorsomedial to condyle, or lost'
+		,
+		25
+		'thin and sharp ?'
+		'Thicker, rounded, and more or less smooth ?'
+		'thickened with smoothly rounded posterior edge and ? a flat lateral surface ca. 1-2.5 cm wide ?, but not otherwise forming a posteriorly-overhanging flange'
+		'ca. 2.5 cm wide, but with sharp, overhanging flange'
+		'overhanging the posterior face of exoccipital as a thick, rugose flange ca. 2.5-3.5 cm wide in adults'
+		'greatly thickened, forming broad, rugose, overhanging flange >3.5 cm wide'
+		,
+		26
+		'surrouded by bone'
+		'open ?, or absent'
+		,
+		27
+		'distinctly projects anteroventrally ? from the ventral squamosal border that intersects the paroccipital processes'
+		'less salient, ends nearly in line with the ventral squamosal border'
+		'elongated directly downwards'
+		,
+		28
+		'absent ?'
+		'present and prominent'
+		'weak or absent'
+		,
+		29
+		'does not extend to temporal crest'
+		'extends to temporal crest'
+		,
+		30
+		'absent'
+		'present, moderately inflected'
+		'present, not inflected'
+		'present, strongly inflected'
+		,
+		31
+		'gradually tapered and pointed anteriorly, with triangular anterior cross-section'
+		'regularly or irregularly rounded anteriorly, with non-triangular, sometimes inflated cross-section'
+		,
+		32
+		'narrow and slitlike ?'
+		'about as wide ? as high ?'
+		'very broad and shallow, wider anteroposteriorly than high'
+		,
+		33
+		'medial side not swollen, appears relatively flat or concave and inclined inward dorsally'
+		'medial side markedly swollen, inclined inward ventrally or forming a vertical wall'
+		,
+		34
+		'lies posterior to orbit'
+		'lies approximately under posterior edge of orbit, but forward of jugal"s postorbital process'
+		'lies ventral to orbit'
+		,
+		35
+		'does not contact premaxilla'
+		'contacts premaxilla'
+		,
+		36
+		'relatively flat and thin ?'
+		'thick and robust ?'
+		,
+		37
+		'as long as or longer than diameter or orbit'
+		'shorter than diameter of orbit'
+		,
+		38
+		'does not distinctively overhang lateral surface of jugal, where such a surface is present below the orbit'
+		'does distinctly overhang'
+		,
+		39
+		'with foramen ?'
+		'without foramen, but still large'
+		'vestigial or absent'
+		,
+		40
+		'does not contact premaxilla'
+		'contacts lateral surface of nasal process of premaxilla'
+		'inserted between frontal and posterior end of nasal process of premaxilla'
+		,
+		41
+		'not incised, merely shallowl concave'
+		'incised or deeply indented'
+		'very deeply incised, to as far forward as level of M1'
+		,
+		42
+		'extend to or anteriorly beyond the posterior edge of the zygomatic-orbital bridge'
+		'does not extend so far forward'
+		,
+		43
+		'present'
+		'absent'
+		,
+		44
+		'absent'
+		'present, extending above level of roof of internal nares'
+		'reduced, confined to below or above roof of internal nares'
+		,
+		45
+		'enclosed by bone'
+		'opened to form a notch or incisure'
+		,
+		46
+		'long with pterygoid processes not enlarged'
+		'short, with pterygoid process enlarged, thickened and downwardly projecting'
+		,
+		47
+		'fused to alisphenoid'
+		'not fused with any other skull bone, set in close fitting socket in squamosal, but contacting alisphenoid'
+		'not in contact with alisphenoid'
+		,
+		48
+		'not exposed on outside of skull'
+		'exposed only via fenestra in dorsal occiput'
+		,
+		49
+		'dorsoventrally compressed, with transverse incisor rows'
+		'laterally compressed, long, with parallel incisor rows and a narrow masticating surface scarcely wider than the two rows of functional or nonfunctional tooth alveoli it bears'
+		'wider, with rows of alveoli separated by a concavity broader than one alveolus'
+		'broad, more or less rectangular, without functional alveoli'
+		'broad, with exception of abrubtly narrowed anterior part'
+		,
+		50
+		'straight or only slightly concave'
+		'moderately concave, sharply downturned anteriorly'
+		'moderately and evenly concave'
+		'strongly concave'
+		,
+		51
+		'present, in addition to and usually posterior to the large principal foramen'
+		'absent'
+		,
+		52
+		'descends ventrally or posteroventrally from condyle without marked interruption or abrupt change in direction'
+		'bears a steplike process ? below condyle'
+		'has no distinct processus angularis superior but does have broadly convex outline beginning well below condyle'
+		,
+		53
+		'approximately vetical'
+		'extends slightly anterior to base of process'
+		'extends very far anterior to base'
+		,
+		54
+		'completely enclosed by bone of mandible'
+		'exposed posteroventrally'
+		'absent'
+		,
+		55
+		'slender ?'
+		'broad dorsoventrally ?'
+		,
+		56
+		'tangent to angle'
+		'not tangent to angle'
+		,
+		57
+		'enamel crown distinct from root'
+		'enamel extends entire length of tusk'
+		,
+		58
+		'present'
+		'vestigial or absent'
+		,
+		59
+		'much less than half of the premaxillary symphysis'
+		'about half the length of the symphysis'
+		'much greater than half the length of the symphysis'
+		,
+		60
+		'suboval or subelliptical'
+		'lens-shaped, with sharp anterior and posterior edges'
+		'lozengue-shaped'
+		'broad and extremely flattened mediolaterally'
+		,
+		61
+		'with enamel on all sides, forming complete enamel crown'
+		'with enamel mainly on medial side'
+		,
+		62
+		'present, at least in part'
+		'all absent'
+		,
+		63
+		'double-rooted'
+		'single-rooted'
+		'absent'
+		,
+		64
+		'all present'
+		'some absent ?'
+		'all absent ?'
+		,
+		65
+		'present'
+		'absent'
+		,
+		66
+		'with crown longer than or equal to that of M2'
+		'smaller than M2'
+		'with reduced circular crown'
+		'no molar identifiable as M3, all molars subequal'
+		,
+		67
+		'absent'
+		'present and replenished indefinitely by horizontal replacement'
+		,
+		68
+		'present in adult'
+		'present in juvenile only'
+		'absent'
+		,
+		69
+		'P4, M3'
+		'P5, M3, or inferred to be secontarily reduced by loss of premolars'
+		,
+		70
+		'some double- or triple-rooted'
+		'all single-rooted'
+		'all absent'
+		,
+		71
+		'7 in number'
+		'6 in number'
+		,
+		72
+		'Do not bear pronounced transverse flanges'
+		'Do bear pronounce transverse flanges'
+		,
+		73
+		'4 in number'
+		'3 in number'
+		,
+		74
+		'Includes more than one vertebra'
+		'Includes only one vertebra'
+		'No vertebra is identifiable as a sacral by having a distinct attachment to the innominate bone'
+		,
+		75
+		'Transverse process small, pierced dorsoventrally by a foramen'
+		'Transverse process elongate, not pierced by a foramen'
+		,
+		76
+		'Taper continuously in breadth posterad'
+		'Show transverse narrowing in peduncle region, then broadening ? then tapering to tip of tail'
+		,
+		77
+		'Large, tubercles well separated'
+		'Small, tubercles largely united'
+		'Vestigial or absent, tubercles completely united'
+		,
+		78
+		'Arclike, symphysis present'
+		'Pronglike, symphysis present but very short'
+		'Pronglike or indistinct, symphysis absent'
+		,
+		79
+		'Present'
+		'Reduced or absent'
+		,
+		80
+		'Present'
+		'Absent'
+		,
+		81
+		'Present'
+		'Absent'
+		,
+		82
+		'Slender'
+		'Robust'
+		,
+		83
+		'Low blunt rugosity'
+		'Prominent, sharply recurved and pointed'
+		'Reduced or lost'
+		
+	;
+	MATRIX
+	'Phosphatherium'		                          00000010000??10000000?0000??00?0?00000?00000000000000?0000000000100000?????????????
+	'Cornwallius sookensis'		                   00000000000?0100000000100?10000?0000001000?00000000?0000?000?011100000?????????????
+	'Prorastomus sirenoides'		                  100111100?01000000000000001100000000?0000001000110000000?000?000000010?????????????
+	'Pezosiren portelli'		                      1001111?0??1??0000000000000000010????????00?0?1?1101?000001000100000100100000000011
+	'Sobrarbesiren cardieli'		                  20?111100001000000001?0?1?01110000000000?00111?1?????????0010010000011?0?0??0000?1?
+	'Ashokia antiqua'		                         ?0011?1?00010000000010020011000200000011??000111???????????????0??001??????????????
+	'Protosiren fraasi'		                       100111000001??0000001??100110010000000??000011112111110000000010000011?????????????
+	'Protosiren smithae'		                      10011100000100100000101110120010000000??000011?121111101?020?01000001100?1??0101000
+	'Libysiren sickenbergi'		                   10?1210100010100000010001011011000000012??001111210?1100?00??0100?0011?0???????????
+	'Anomotherium langewieschei'		              ??????????????0000001?021?0110?20?????????1111113112?100?????1211?0011?????????????
+	'Miosiren kocki'		                          100111010101000100001102102110020200002000111111????????10200121120011001??????????
+	'Potamosiren madgalenensis'		               ??????1?00??????????????????????????????????????320??100?????122100012?????????????
+	'Ribodon limbatus'		                        ??????1?010?0???????????????????????????????????320?110??????122131012?????????????
+	'Trichechus manatus latirostris'		          10011111010101100000110011011012100000201111111132022101?10??1221310121012102211112
+	'Trichechus senegalensis'		                 10011111010101100000110011011012100000201111111132022101?10??1221310121012102211112
+	'Trichechus inunguis'		                     10011111010101100000110131011012100000201111111132022100?10??1221310121012102211112
+	'Eotheriodes aegyptiacus'		                 ?001110?0001?00000001001100111000?0???000?111?11110???0??????010100011?????????????
+	'Eotheroides clavigerum'		                  200111010?0100000000100?10?1110101000010?01111?11102110?0000001010001100?11?02???00
+	'Eotheroides sandersi'		                    200111?10?0100000000100?10021101010000110011?111110??????000?010100011?0011?0211100
+	'Eotheroides lambondrano'		                 1001110?0?01000000001???????110?01000011?0?1?1???????????000?010100011?????????????
+	'Prototherium veronense'		                  1001111?00???000000010001??11101000000?01?1?11???201000000010010100011?????????????
+	'Prototherium ausetanum'		                  1001110??0??00?0?00011011?0?110?00?0000?001111????????????????10100011?????????????
+	'Prototherium intermedium s.l.'		           2001110?00???000000010011???110?000000???011?????1021100001??010100011?????????????
+	'Eosiren libyca'		                          20011?0?00???000000010021??111?10000001??01?1?1??1011100000??010100011?????????????
+	'Eosiren imenti'		                          2001101100???00000001002???111?10000001??01?1?1??1011100000??010100011?????????????
+	'Halitherium taulannense'		                 200111?100010000000010021001110100000001101111111102110000100010100011?????????????
+	'Kaupitherium gruelli'		                    2001111100010000000010021001110101000001101111111102110100100121100011001?11?211101
+	'Kaupitherium bronni'		                     ?00111010001000000001002100111010100000010111111110211010010012110001100111??21??0?
+	'Lentiarenium cristolii'		                  ?0?1??0?0001??1000001002?00111010?????????1111?133021111?????121100011?0????0??????
+	'Priscosiren atlantica'		                   20011101000100100000100200011101020000111011111133121111?000?122100012?0111????????
+	'Metaxytherium krahuletzi'		                20011111000100110000110220011101010000111011111143121111000001221000120011??0211111
+	'Metaxytherium medium'		                    2001111100010011000011122001110102000011101111114312111100000122100012?????????????
+	'Metaxytherium serresii'		                  20011111000100110000111320011101020000111111111143121111001001221000120011??0211111
+	'Metaxytherium subapenninum'		              200111120001001100001113200111010210001111111111431211110020012210001200111?0????11
+	'Metaxytherium floridanum'		                20011111000100110000111220011101020000111011111143121111000001221000120011110211111
+	'Metaxytherium crataegense'		               20011111000100110000111220011101020000111011111143121111000001221000120011??0211111
+	'Metaxytherium arctodites'		                20011101000110110000111220011101020000112011111143121111000001221000120011110211111
+	'Dusisiren reinharti'		                     ?001?11?00011??10000111??00111010?????????11111132?21????10??122100012?0????0????11
+	'Dusisiren jordani'		                       200111110001?0110000111340011201021000201011111132121101?10??1221000120011??0211111
+	'Dusisiren dewana'		                        2001111100011011000011104002120102?000??101111?1321?1101?10??1221?0012?0????02???1?
+	'Hydrodamalis cuestae'		                    20011112100121110000111340021201021000201011111132121101?10??1221?0112?????????????
+	'Hydrodamalis gigas'		                      20011112100101120000111350021201021000201011111132120201?10??1221?02120011110211111
+	'Metaxytherium albifontanum'		              20011111000100110000111220011101010000111011111143?21111000001221000120011110211111
+	'Caribosiren turneri'		                     200111010001001000001?????0111010?000?1110111111?????????10??122100012?????????????
+	'Crenatosiren olseni'		                     2001110100010011100010021001110101000111?0111111431211110010012210001200111?0?11101
+	'Nanosiren sanchezi'		                      2011?10?1001001?11?111121101130101?001???0????21???????100000122100012?????????????
+	'Nanosiren garciae'		                       2??1?10?1001001?11?111121101130101?001???01211214312111??00??1221?0012?0????0????01
+	'Dugong dugon'		                            20011102110100112111111210011301021101121011111143121111102011221000120011110111111
+	'Callistosiren boriquensis'		               210111010001001012001002100111010201001210111111????????10221122100012?1111????????
+	'Bharatisiren indica'		                     2101110100010013101010020001110102011112201111?1???211???020?122100012?????????????
+	'Bharatisiren kachchhensis'		               2101120100110010121011020?011?0102010112201111?1????????1020?122100012?????????????
+	'Domningia sodhae'		                        2201110100010013120010021?01111102010111201211?143121?11?021?122100012?????????????
+	'Kutchisiren cylindrica'		                  21011101000100111200110??0?111?10201?11020121111430??11?10221122100012?????????????
+	'Dioplotherium manigaulti'		                22011101001100131201100220??1???0201111120121111????????10220122100012?????????????
+	'Dioplotherium allisoni'		                  220112020??100131110100?2001110102011111101211?14302111110221122100012?????????????
+	'Culebratherium alemani'		                  22111202000100131210100230011101020101111011?1?143021?0110221122100012?????????????
+	'MPEG-63V d. cf. D. allisoni'		             220112010011001011101002100111010201011??01211114302111110221122100012?????????????
+	'ECOCHM-2491 diop. sp.'		                   2201120?00010013111010121001110112011111??121111????????10221122100012?????????????
+	'Xenosiren yucateca'		                      ?2?1????2111??1312011????????11?02?111??????????????????10?3112?100012?????????????
+	'Corystosiren varguezi'		                   2?1111?????1?01321011?011?011?0?0201001??????111????????10231122100012?????????????
+	'Rytiodus heali'		                          22012102000100111200101?10??110?020101122011?111?31?111?10231122100012?????????????
+	'Rytiodus capgrandi'		                      ?1111??10??1??1112101?0?1??1110?020?01?????????1????????10231122100012?????????????
+    ;
+    ENDBLOCK;
+
+          BEGIN NOTES;
+      
+      [Attribute comments]
+            ENDBLOCK;
+            BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 83;
+      ENDBLOCK;
+      BEGIN LABELS;
+ CHARGROUPLABEL Skull COLOR = ? ; CHARGROUPLABEL Mandible COLOR = ? ; CHARGROUPLABEL Dental COLOR = ? ; CHARGROUPLABEL Postcranium COLOR = ? ; 
+ENDBLOCK;
+BEGIN MESQUITE;
+ MESQUITESCRIPTVERSION 2; TITLE AUTO; tell ProjectCoordinator; timeSaved 1527893157623; getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa; tell It; setID 0 518623758958089816; tell It; setDefaultOrder 0 3 199 8 4 99 9 12 10 40 81 13 14 16 17 18 93 19 20 21 24 25 26 27 32 114 28 29 33 68 115 116 117 38 116 69 118 42 75 44 75 47 115 76 152 155 156 152 53 81 139 140 141 144 145 62 63 57 138 137 131 96; attachments ; endTell; endTell; getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters; tell It; setID 0 8971980870935082480; tell It; setDefaultOrder 0 2 19 3 4 61 6 7 95 98 116 11 19 13 14 138 151 151 152 153 20 92 153 23 24 153 26 27 28 156 31 32 33 37 35 153 154 45 39 40 153 42 104 154 106 107 47 50 48 154 155 156 53 54 156 157 158 114 159 160 161 162 163 64 65 119 67 68 69 165 70 71 72 73 74 75 76 77 78 79 80 81 82; attachments ; endTell; mqVersion 331; checksumv 0 3 1334091171 null getNumChars 83 numChars 83 getNumTaxa 62 numTaxa 62 short true bits 63 states 63 sumSquaresStatesOnly 24607.0 sumSquares 24607.0 longCompressibleToShort false usingShortMatrix true NumFiles 1 NumMatrices 1; mqVersion; endTell; getWindow; tell It; suppress; setResourcesState false false 176; setPopoutState 297; setExplanationSize 0; setAnnotationSize 0; setFontIncAnnot 0; setFontIncExp 0; setSize 1832 777; setLocation 0 23; setFont SanSerif; setFontSize 10; getToolPalette; tell It; endTell; desuppress; endTell; getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa; tell It; showTaxa #518623758958089816 #mesquite.lists.TaxonList.TaxonList; tell It; setTaxa #518623758958089816; getWindow; tell It; useTargetValue off; setTargetValue ; newAssistant #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition; newAssistant #mesquite.lists.DefaultTaxaOrder.DefaultTaxaOrder; setExplanationSize 30; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 1656 705; setLocation 0 23; setFont SanSerif; setFontSize 10; getToolPalette; tell It; endTell; endTell; showWindow; getEmployee #mesquite.lists.ColorTaxon.ColorTaxon; tell It; setColor Red; removeColor off; endTell; getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel; tell It; togglePanel off; endTell; endTell; endTell; getEmployee #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord; tell It; makeTreeWindow #518623758958089816 #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker; tell It; suppressEPCResponse; setTreeSource #mesquite.trees.StoredTrees.StoredTrees; tell It; setTreeBlock 2; setTreeBlockID 01638ef3be4c2; toggleUseWeights off; endTell; setAssignedID 1427.1527111732622.9143785448395906440; getTreeWindow; tell It; setExplanationSize 30; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 1656 705; setLocation 0 23; setFont SanSerif; setFontSize 10; getToolPalette; tell It; endTell; setActive; getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator; tell It; suppress; setTreeDrawer #mesquite.trees.SquareLineTree.SquareLineTree; tell It; setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard; tell It; branchLengthsToggle off; toggleScale on; toggleBroadScale off; toggleCenter on; toggleEven on; setFixedTaxonDistance 0; endTell; setEdgeWidth 4; showEdgeLines on; orientUp; endTell; setBackground White; setBranchColor Black; showNodeNumbers off; showBranchColors on; labelBranchLengths off; centerBrLenLabels on; showBrLensUnspecified on; showBrLenLabelsOnTerminals on; setBrLenLabelColor 0 0 255; setNumBrLenDecimals 6; desuppress; getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames; tell It; setColor Black; toggleColorPartition off; toggleColorAssigned on; toggleShadePartition off; toggleShowFootnotes on; toggleNodeLabels on; toggleCenterNodeNames off; toggleShowNames on; namesAngle ?; endTell; endTell; setTreeNumber 1; setDrawingSizeMode 0; toggleLegendFloat on; scale 0; toggleTextOnTree off; getInfoPanel; tell It; btspOpen true; apOpen false; endTell; toggleInfoPanel on; togglePrintName on; showWindow; newAssistant #mesquite.ancstates.TraceCharacterHistory.TraceCharacterHistory; tell It; suspend ; setDisplayMode #mesquite.ancstates.ShadeStatesOnTree.ShadeStatesOnTree; tell It; toggleLabels off; togglePredictions off; toggleGray off; endTell; setHistorySource #mesquite.ancstates.RecAncestralStates.RecAncestralStates; tell It; getCharacterSource #mesquite.charMatrices.CharSrcCoordObed.CharSrcCoordObed; tell It; setCharacterSource #mesquite.charMatrices.StoredCharacters.StoredCharacters; tell It; setDataSet #8971980870935082480; endTell; endTell; setMethod #mesquite.parsimony.ParsAncestralStates.ParsAncestralStates; tell It; setModelSource #mesquite.parsimony.CurrentParsModels.CurrentParsModels; toggleMPRsMode off; endTell; toggleShowSelectedOnly off; endTell; setCharacter 44; setMapping 1; toggleShowLegend on; setColorMode 0; toggleWeights on; setInitialOffsetX 772; setInitialOffsetY -254; setLegendWidth 601; setLegendHeight 177; resume ; endTell; endTell; desuppressEPCResponse; getEmployee #mesquite.trees.ColorBranches.ColorBranches; tell It; setColor Red; removeColor off; endTell; getEmployee #mesquite.ornamental.BranchNotes.BranchNotes; tell It; setAlwaysOn off; endTell; getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition; tell It; colorByPartition off; endTell; getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles; tell It; setOn on; toggleShow consensusFrequency; toggleShow posteriorProbability; toggleShow bootstrapFrequency; toggleShow consensusFrequency; toggleShow posteriorProbability; toggleShow bootstrapFrequency; setDigits 4; setThreshold ?; writeAsPercentage off; toggleCentred off; toggleHorizontal on; toggleWhiteEdges on; toggleShowOnTerminals on; setFontSize 10; setOffset 0 0; endTell; getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings; tell It; setOn on; toggleCentred on; toggleHorizontal on; setFontSize 10; setOffset 0 0; toggleShowOnTerminals on; endTell; getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues; tell It; newValue #mesquite.trees.TreeValueUsingMatrix.TreeValueUsingMatrix; tell It; getEmployee #mesquite.parsimony.TreelengthForMatrix.TreelengthForMatrix; tell It; getEmployee #mesquite.parsimony.ParsCharSteps.ParsCharSteps; tell It; setModelSource #mesquite.parsimony.CurrentParsModels.CurrentParsModels; endTell; endTell; getEmployee #mesquite.charMatrices.CharMatrixCoordIndep.CharMatrixCoordIndep; tell It; setCharacterSource #mesquite.charMatrices.StoredMatrices.StoredMatrices; tell It; setDataSet #8971980870935082480; endTell; endTell; endTell; panelOpen true; endTell; endTell; endTell; getEmployee #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord; tell It; showDataWindow #8971980870935082480 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker; tell It; getWindow; tell It; getTable; tell It; rowNamesWidth 152; endTell; setExplanationSize 50; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 1656 685; setLocation 0 23; setFont SanSerif; setFontSize 10; getToolPalette; tell It; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam; endTell; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam; colorCells #mesquite.charMatrices.ColorByState.ColorByState; tell It; setStateLimit 9; toggleUniformMaximum on; endTell; colorRowNames #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor; colorColumnNames #mesquite.charMatrices.CharGroupColor.CharGroupColor; colorText #mesquite.charMatrices.NoColor.NoColor; setBackground White; toggleShowNames off; toggleShowTaxonNames on; toggleTight off; toggleThinRows off; toggleShowChanges on; toggleSeparateLines off; toggleShowStates on; toggleAutoWCharNames on; toggleAutoTaxonNames off; toggleShowDefaultCharNames off; toggleConstrainCW on; toggleBirdsEye off; toggleShowPaleGrid off; toggleShowPaleCellColors off; toggleShowPaleExcluded off; togglePaleInapplicable on; toggleShowBoldCellText off; toggleAllowAutosize on; toggleColorsPanel off; toggleDiagonal on; setDiagonalHeight 80; toggleLinkedScrolling on; toggleScrollLinkedTables off; endTell; showWindow; getWindow; tell It; forceAutosize; endTell; getEmployee #mesquite.charMatrices.AlterData.AlterData; tell It; toggleBySubmenus off; endTell; getEmployee #mesquite.charMatrices.ColorCells.ColorCells; tell It; setColor Red; removeColor off; endTell; getEmployee #mesquite.categ.StateNamesEditor.StateNamesEditor; tell It; makeWindow; tell It; getTable; tell It; rowNamesWidth 358; endTell; setExplanationSize 30; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 1656 705; setLocation 0 23; setFont SanSerif; setFontSize 10; getToolPalette; tell It; setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam; endTell; rowsAreCharacters on; toggleConstrainChar off; toggleConstrainCharNum 3; togglePanel off; toggleSummaryPanel off; endTell; showWindow; endTell; getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip; tell It; showStrip off; endTell; getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel; tell It; togglePanel off; endTell; getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip; tell It; showStrip off; endTell; getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector; tell It; autotabOff; endTell; getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip; tell It; showStrip off; endTell; getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor; tell It; panelOpen true; endTell; endTell; endTell; getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters; tell It; showCharacters #8971980870935082480 #mesquite.lists.CharacterList.CharacterList; tell It; setData 0; getWindow; tell It; useTargetValue off; setTargetValue ; newAssistant #mesquite.lists.DefaultCharOrder.DefaultCharOrder; newAssistant #mesquite.lists.CharListInclusion.CharListInclusion; newAssistant #mesquite.lists.CharListPartition.CharListPartition; newAssistant #mesquite.stochchar.CharListProbModels.CharListProbModels; newAssistant #mesquite.parsimony.CharListParsModels.CharListParsModels; newAssistant #mesquite.lists.CharacterStats.CharacterStats; tell It; toggleSelectedOnly off; endTell; newAssistant #mesquite.lists.CharListWeights.CharListWeights; getTable; tell It; columnWidth 0 86; columnWidth 1 75; columnWidth 2 69; endTell; setExplanationSize 30; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 1656 705; setLocation 0 23; setFont SanSerif; setFontSize 10; getToolPalette; tell It; setTool mesquite.lists.CharacterList.CharacterListWindow.arrow; endTell; endTell; showWindow; getEmployee #mesquite.lists.CharListAnnotPanel.CharListAnnotPanel; tell It; togglePanel off; endTell; endTell; endTell; endTell; 
+ENDBLOCK;
+BEGIN MESQUITECHARMODELS;
+ ProbModelSet * UNTITLED = 'Mk1 ?': 1 - 83; 
+ENDBLOCK;
+BEGIN SETS;
+ CHARPARTITION * UNTITLED = Skull : 1 - 48, Mandible : 49 - 56, Dental : 57 - 70, Postcranium : 71 - 83; 
+ENDBLOCK;
+BEGIN TREES;
+ENDBLOCK;
+BEGIN TREES;
+ENDBLOCK;

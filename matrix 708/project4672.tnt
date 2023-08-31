@@ -1,0 +1,67 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.39.10'
+27 22
+
+&[num]
+Kulbeckia                            ?0?00010100000010-001001001
+Phenacodus                           ?0?0?111100000000-0????????
+Meniscotherium                       ?0?00011100000000-0????????
+Hyopsodus                            ?0001011100000000-001101001
+Pleuraspidotherium                   ?0?00111100000010-0111?????
+Arctocyon                            ?0?00111100000000-011??1???
+Orycteropus                          00001111100000010-011011001
+Megalohyrax                          ?0?????0????????1-?????????
+Procavia                             20000110000000011-000100000
+Arsinoitherium                       ??011000000100101-000000000
+Phosphatherium                       ?0?0?110000000001-?00??????
+Numidotherium                        110000010?0100101-0000?10??
+Moeritherium                         ?10110?00?01???01-0001?????
+Elephantoidea                        1101?010000100?11-000000000
+Chambi_sirenian                      ??1?0010001000001-00?111111
+Prorastomus                          001010000011001020100010111
+Eosiren                              00?1?0000?1010?121?10??????
+Eotheroides                          00?1?0?001101??120?10??????
+Protosirenidae_n.gen._n.sp.          ???1?0000?10?1-120?10??????
+Protosiren                           00?1?000011011-12??10??????
+Dugong                               0011?00001101011201100?0101
+Trichechus                           00111000011011-120110010111
+
+;
+
+
+cnames
+{ 0 Morphology_of_the_bulla_(Benoit_et_al.,_2012) ring-like_ectotympanic ossified_ectotympanic_bulla ossified_petrosal_bulla;
+{ 1 Morphology_of_the_external_auditory_meatus_(Court,_1990) ventrally_opened enclosed_within_the_squamosal;
+{ 2 Pachysteosclerosis_of_the_pars_petrosa_and_the_tegmen_tympani absent present;
+{ 3 Merging_of_the_fenestra_cochlea_and_the_canaliculus_cochleae_(Court_,_1990) absent present;
+{ 4 Shape_of_the_fenestra_vestibuli oval,_stapedial_ratio_nearly_equaling_or_exceeding_1.7 rounded,_stapedial_ratio_equaling_or_being_inferior_to_1.6;
+{ 5 Stylomastoid_foramen opened_ventrally,_forms_a_simple_notch_on_the_petrosal ventrally_bridged_by_the_caudal_tympanic_process_and_the_tympanohyal_process,_forms_a_distinct_foramen_on_the_petrosal;
+{ 6 Hiatus_fallopi absent,_with_a_fallopian_notch_instead present;
+{ 7 Transpromontorial_sulcus absent present;
+{ 8 Stapedial_sulcus_or_evidence_for_a_stapedial_artery absent present;
+{ 9 Stapedial_muscle_fossa distinctly_round_or_oval_fossa_on_the_ventral_aspect_of_the_petrosal unclear_boundaries_of_the_fossa;
+{ 10 Shape_of_the_tegmen_tympani undifferenciated reniform;
+{ 11 Tegmen_process absent present;
+{ 12 Epitympanic_recess small large_and_deeply_excavating_the_epitympanic_recess;
+{ 13 Commissura_suprafacialis_(Sagne,_2001) thick thin_or_absent;
+{ 14 Pseudotympanic_foramen absent present;
+{ 15 Epitympanic_wing absent present;
+{ 16 Mastoid_apophysis_(Novacek_and_Wyss,_1986) develloped reduced_or_absent squared_mastoid_apophysis;
+{ 17 Processus_fonticulus absent present;
+{ 18 Pachyosteosclerosis_of_the_mastoid_apophysis absent,_the_mastoid_being_filled_with_cancellous_cells present;
+{ 19 Crista_falciformis thin thick,_widely_separating_the_acoustic_foramina;
+{ 20 Subarcuate_fossa absent_or_reduced Deep;
+{ 21 Shape_of_the_cochlear_spiral planispiral,_cochlear_aspect_ratio_not_exceeding_0.65 conical,_cochlear_aspect_ratio_nearly_equals_or_exceeds_0.70;
+{ 22 Volume_of_the_cochlear_canal_with_respect_to_that_of_the_bony_vestibule smaller as_large_or_larger;
+{ 23 Secondary_common_crus absent present;
+{ 24 Semicircular_canals_size unequal roughly_similar;
+{ 25 Radius_of_the_lateral_canal the_lateral_canal_is_smaller_than_the_anterior_and/or_the_posterior_canal the_lateral_canal_is_larger_than_the_anterior_and_the_posterior_canal;
+{ 26 Shape_of_the_cross-section_of_the_anterior_and_posterior_semicircular_canal flatened circular;
+;
+
+
+ccode  - 0.26;
+
+
+;
