@@ -1,0 +1,84 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.21.01'
+42 24
+
+&[num]
+Leptostrophia                00000013100111101115121130010000010-0-0000
+Brachyprion                  020100010--0--0--0-110000-000010010-0-0000
+Castellaroina                000000010--0--0--0-3100010010011010-0-0001
+Chynistrophia                000000010--1101010-5100130110000210-0-0010
+Eocymostrophia               00000002100101111111101120010010010-110011
+Eomegastrophia               000000000--0--1010-0200010000011210-0-0001
+Eostropheodonta              000000000--0--1010-020000-000001210-0-0001
+Erinostrophia                101010001001001111122000100000100111110010
+Gamphalosia                  ???????3???????????5100130010000030-100001
+Gibberostrophia              101100020--1101010-4100130110000010-0-0010
+Mesoleptostrophia            101210010--110101114121130110000?10-0-0000
+Nervostrophia                ???????3???????????5121130110000010-0-0001
+Nervostrophiella             10-0--030--110101115121130110000010-0-0001
+Palaeoleptostrophia          000000010--0--1010-020000-000010210-0-0001
+Protoleptostrophia           00-0--030--1101010-5100020010000210-0-0001
+Protomegastrophia            000000000--100111112100120110010010-0-0011
+Pseudoleptostrophia          000000020--101100115121130010000030-0-0000
+Rotundostrophia              000000130--1101010-510002000100021120-0001
+Timanostrophia               10-0--030--110111115121130110000010-0-0001
+Tuvaechonetes                01-2---0101100101113100030000?00010-0-0010
+Tuvaestrophia                01-2---20--1110--0-?100030000?00000-0-1110
+Velostrophia                 000000010--1101010-4100020010000110-0-0010
+Viodostrophia                000000010--1110--0-0100020000010210-0-0001
+Rafinesquina                 221100101001001010-011000-000100110-0-0001
+
+;
+
+
+cnames
+{ 0 Shape_of_the_lateral_process_lobes slender columnar tabular;
+{ 1 Direction_the_lateral_Lobes_of_the_cardinal_process_point ventral posterior anterior;
+{ 2 Spatial_relationship_between_cardianl_process_lobe_and_the_socket_ridge slender_cardianl_process_lobe_forms_an_Angle_(<90¡ã)_with_Socket_Ridge cardianl_process_lobe_lies_on_Socket_Ridge;
+{ 3 Spatial_relationship_between_cardianl_process_lobe_and_hinge_line cardianl_process_lobe_is_mostly_or_completely_within_the_hinge_line cardianl_process_lobe_is_on_the_hinge_line cardianl_process_lobe_is_mostly_or_completely_outside_the_hinge_line;
+{ 4 The_relative_size_of_cardianl_process_lobe_and_the_socket_ridge the_length_of_socket_ridge_is_less_than_the_length_of_two_cardianl_process_lobe the_length_of_socket_ridge_is_greater_than_the_length_of_two_cardianl_process_lobe;
+{ 5 Curvature_of_the_socket_ridge straight curved;
+{ 6 Dorsal_Subperipheral_Rim absent present;
+{ 7 Muscle_bounding_pustles/tubercles absent_or_weak medium coarse very_coarse;
+{ 8 Transmuscle_ridges absent present;
+{ 9 Angle_of_the_transmuscle_ridge_from_the_midline narrow_(roughly_20_degree) wide_(roughly_40_degrees);
+{ 10 Fusion_of_the_transmuscle_ridge_to_the_cardinalia imperfect,_resulting_in_the_ridge_slowly_effacing_as_it_approaches_the_cardinalia perfect,_ridge_runs_directly_into_the_cardinalia_forming_an_anderidia;
+{ 11 Dorsal_posterior_muscle_bounding_ridges_originating_from_the_distal_end_of_the_socket_ridge,_curving_inwards_towards_the_center_of_the_shell absent present;
+{ 12 Relief_of_dorsal_posterior_muscle_bounding_ridges weakly_raised_above_surrounding_shell highly_vaulated;
+{ 13 Continuity_of_the_muscle_bounding_ridges connect_to_the_median_ridge_or_a_transmuslce_ridge_forming_enclosed_muscle_pits do_not_completely_connect_and_instead_only_form_a_partial_boundary_of_the_muscle_scar;
+{ 14 Crural_Median_Ridge absent present;
+{ 15 Bifurcation_of_the_median_ridge_at_the_center_of_the_valve_into_two_septae absent present;
+{ 16 Extent_of_the_median_ridge reduced_to_a_small_nub_restricted_to_the_posterior extends_prominantly_to_approximately_1/4_the_length_of_the_valve;
+{ 17 Dorsal_median_septum absent_or_strongly_effaced present;
+{ 18 Fusion_of_the_dorsal_median_septum_and_the_crural_median_ridge expressed_as_separate_structures partially_fused_to_give_the_appearance_of_a_single_ridge_that_is_gently_effaced_medially;
+{ 19 Denculation_on_hingeline absent small_number nearly_1/3 nearly_1/2 nearly_2/3 nearly_entirely;
+{ 20 Ventral_muscle_field_shape suboval_(far_longer_than_wide,_forming_rounded_often_subrectangular_shapes) wedge_shapes_(subtriangular_fan_that_dramatically_expands_outwards_from_the_anterior) there_are_hardly_any_signs_of_muscle_field;
+{ 21 Ventral_muslce_field_extension restricted_to_the_posterior-posteriomedial_section_of_the_valve extend_to_nearly_the_middle_of_the_valve extend_across_the_valve,_approaching_the_edges_of_the_valve;
+{ 22 Prominent_radiating_ridges_through_the_ventral_muscle_field absent present;
+{ 23 Adductor_and_diductor_muscles muscle_scars_poorly_distinguished_or_fused_together_in_the_muscle_field both_can_be_identified;
+{ 24 Ventral_muscel_field_bounding_ridges absent weak medium strong;
+{ 25 Structure_of_the_ventral_muscle_bounding_ridge thin_ridge_covering_lateral_sections_of_the_muscle_scars a_thick,_elevated_structure_that_surrounds_or_nearly_surrounds_the_entire_muscle_scars;
+{ 26 An_inward_curve_on_the_anterior_part_of_the_muscle_field absent present;
+{ 27 Ventral_muscle_field_dividing_ridge weakly_defined_or_effaced strongly_defined;
+{ 28 Ventral_subperipheral_rim absent present;
+{ 29 Teeth absent present;
+{ 30 Denticular_plate absent present;
+{ 31 Dental_Plates absent present;
+{ 32 Composition_of_nothorydial_plates ventral_plates_dramatically_larger_than_dorsal dorsal_dramatically_larger_than_ventral plates_roughly_equal_in_size;
+{ 33 Vavle_profile biconvex concavo-convex_to_plano-convex convexo-concave_to_convexo-plane resupinate;
+{ 34 Geniculation_of_the_valves absent present;
+{ 35 Valve_expressing_geniculation dorsal ventral both;
+{ 36 Concentric_ornamentation_of_the_external_shell_(Rugation) absent present;
+{ 37 Extent_of_concentric_ornamentation_of_the_external_shell_(Rugation) restricted_to_the_posterior_portion_of_the_valve the_entire_valve;
+{ 38 Vental_sulcus_on_external_shell absent present;
+{ 39 Dorsal_fold_on_external_shell absent present;
+{ 40 Extention_of_the_shell_hinge_line_outwards,_forming_dogeared_protrusions absent present;
+{ 41 Radial_ornamentation costae_and_costellae_roughly_similar_in_size_(equal) costae_large_and_bound_sectors_of_fine_costellae_(unequal);
+;
+
+
+ccode  - 0.41;
+
+
+;

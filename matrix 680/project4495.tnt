@@ -1,0 +1,101 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.19.34'
+61 22
+
+&[num]
+Bradypus                             001100-00011000-1221010101--?010110-21100021-----0?--?00-0000
+Nematherium                          100000?0??????????????????????????1????0?????????????????????
+Glossotherium                        1101000011110000-2021001?012000000211101-120211011100?000101-
+Catonyx                              1001000000110000000210-100120000002121001121201001?0??0001?00
+Hapalops                             000000-00000000?0-0?00000000001000100010001020000000?00000000
+Megalonyx                            100000-01?1000100?0?0001?0001010000-0000000?20100000??00-0000
+Eucholoeops                          000000???????????101?0???0?01?1?0???????????100000????00?0?00
+Planops                              00100101????????????1???0000010?0020111010???????????????00??
+Eremotherium_laurillardi             101101-11011100--22--111?01220-??12111111021??20111???0000000
+Megatherium_americanum               201101-10011100112212101001220-0012111111021212011100?2100000
+Mionothropus                         0?000100001011000-001001?000100???????????????????????00000??
+Nothotherium                         000001-010110000000010010000101000100110001110100210100000000
+Nothrotheriops                       000001-010110000000110010003100000100110001110100211100000000
+Thalassocnus_antiquus                101001?1000100011110111111110001?1211111102?011111?1?01101001
+Thalassocnus_natans                  11101101010100011?111111?111001111211111102101111111011101001
+Thalassocnus_littoralis              1110211101110011111111111111011111211111102111111112022111111
+Thalassocnus_carolomartini           11103121011101111111111111110111112111111021111111?2?22111211
+Thalassocnus_yaucensis               111031210?11012111121011?1110111?110111110?1211111120?2110211
+Analcimorphus                        ?????????????????????????000??1?000???????002?0000???????00??
+Schismotherium                       ??00????????000???0??0?0??-????????????00????????????????0?00
+Pelecydon                            0000???????????????????????00?1?00?????0???02?0010???????0?00
+Thalassocnus_sp._JUY-P-0180          ????1101001100211212111??????????????????????????????????????
+
+;
+
+
+cnames
+{ 0 Humerus_ratio_of_greatest_proximodistal_length high_greater_than_4 intermediate_between_3_and_4 low_lower_than_3;
+{ 1 Humerus_brachiocephalicus_crest absent_or_weakly_developed well_developed;
+{ 2 Humerus_medial_epicondyle angular_and_positioned_proximally rounded_and_positioned_distally;
+{ 3 Humerus_entepicondylar_foramen present absent;
+{ 4 Radius_development_of_pronator_ridge_on_proximal_quarter_of_diaphysis absent weak intermediate strong;
+{ 5 Radius_bicipital_tuberosity_orientation projecting_mainly_posteriorly projecting_mainly_medially;
+{ 6 Radius_shape_of_extensor_carpi_radialis_groove_in_lateral_view strongly_asymmetrical_anteroposteriorly_not_elongated_anteroposteriorly_and_deep_proximally weakly_asymmetrical_anteroposteriorly_weakly_elongated_anteroposteriorly_and_deep_proximally symmetrical_anteroposteriorly_strongly_elongated_anteroposteriorly_and_shallow_proximally;
+{ 7 Radius_extension_of_laterodistal_process weak_proximal_to_level_of_styloid_process strong_almost_at_the_level_or_reaching_level_of_styloid_process;
+{ 8 Scaphoid_laterodistal_corner_in_dorsal_view not_elongated elongated;
+{ 9 Lunar_general_proportions_ratio_of_mediolateral longer_than_wide_ratio_less_than_1 wider_than_long_ratio_greater_than__1;
+{ 10 Lunar_distal_extension_of_facet_for_radius_on_dorsal_side reaches_distal_edge_of_the_bone reaches_only_the_midlength_of_the_bone;
+{ 11 Lunar_contact_with_unciform absent present;
+{ 12 Cuneiform_proximal_articular_facet well_developed_mediolaterally reduced_laterally_or_absent;
+{ 13 Cuneiform_mediodistal_extension_in_dorsal_view weak strong_mediodistal_process_tapering_distally;
+{ 14 Cuneiform_facet_for_Mc_V absent_and_no_fossa_in_situ present absent_and_fossa_in_situ;
+{ 15 Magnum_contact_with_Mc_II absent_or_minute well_developed_thanks_to_the_proximolateral_process_of_Mc_II_that_overlaps_Mc_III_proximally;
+{ 16 Metacarpals_II__III__and_IV__facets_of_contact_with_adjacent_metacarpals weakly_extended_distally well_extended_distally;
+{ 17 Trapezium?Mc_I_complex_reduction,_ratio_of_proximodistal_length_to_dorsopalmar_depth weak_shaft_well_developed_ratio_greater_than_3 intermediate_shaft_almost_absent_2_less_than_ratio_greater_than__3 whole_complex_vestigial_ratio_around_1_or_below;
+{ 18 Manus__digit_I__number_of_phalanges two one none;
+{ 19 Mc_II_proximodistal_length_to_dorsopalmar_depth_ratio Mc_II_elongate Mc_II_intermediate Mc_II_stout;
+{ 20 Manus__digit_II__ungual_phalanx__shape_of_crosssection_of_ungual_process triangular semicircular dorsopalmarly_flattened;
+{ 21 Manus__digit_III__proximal_and_intermediate_phalanges free coossified;
+{ 22 Manus__digit_IV__ungual_phalanx_in_dorsal_view rectilinear curved_medially;
+{ 23 Manus__digit_V__ungual present absent;
+{ 24 Pelvis__acetabulum__pubic_cornu as_elevated_as_ischiatic_cornu below_level_of_ischiatic_cornu;
+{ 25 Femur_general_proportions mediolaterally_wide mediolaterally_narrow;
+{ 26 Femur_fovea_capitis_position_on_the_articular_surface entirely_included_within_it partly_excluded_from_it;
+{ 27 Femur_third_trochanter isolated_close_to_midshaft joins_only_the_greater_trochanter joins_both_the_greater_trochanter_and_the_lateral_condyle joins_lateral_epicondyle_only;
+{ 28 Femur_distal_articular_surfaces patellar_trochlea_and_both_condylar_surfaces_confluent patellar_trochlea_isolated_or_only_abuts_the_condylar_surfaces patellar_trochlea_confluent_with_the_lateral_condylar_surface_only;
+{ 29 Femur_deep_notch_for_medial_cruciate_ligament absent present;
+{ 30 Femur_medial_trochlear_ridge radio_greater_than__0,25 radio_less_than_0,25;
+{ 31 Patella_general_shape_in_anterior_view roughly_quadrangular teardrop_shape;
+{ 32 Tibia_proximodistal_length_compared_to_that_of_femur short__roughly_70?80%_of_femur_or_lower long_roughly_90%_of_femur;
+{ 33 Tibia_proximal_epiphysis_location_of_anterior_border_of_lateral_facet posterior_to_medial_facet level_with_medial_facet;
+{ 34 Astragalo_separation_of_distinct_odontoid_process poor intermediate strong;
+{ 35 Astragalo_angle_formed_by_discoid_and_odontoid_facets_in_distal_view highly_obtuse roughly_at_right_angles_to_one_another;
+{ 36 Astragalo_orientation_of_navicular_process faces_laterodistally__navicular_facet_visible_in_fibular_view faces_directly_distad_navicular_facet_not_visible_in_fibular_view faces_mediodistally_navicular_facet_not_visible_in_fibular_view;
+{ 37 Astragalo_position_of_process_for_navicular_in_distal_view median_at_the_level_of_the_junction_of_the_odontoid_and_discoid_facets medial__at_the_level_of_the_odontoid_process;
+{ 38 Astragalo_distance_between_ectal_facet_and_lateral_trochlea_in_fibular_view long short;
+{ 39 Calcaneo__tuber_calcis,_distal_development_of_proximal_processes weak strong;
+{ 40 Calcaneo_sustentacular_facet_and_cuboid_surface separated widely_confluent;
+{ 41 Calcaneo_oblique_crest_on_plantar_side absent present;
+{ 42 Mt_I_and_digit_I_size metacarpal_and_digit_strong intermediate metacarpal_and_digit_weak;
+{ 43 Pes__digit_III__proximal_and_intermediate_phalanges free coossified;
+{ 44 Mt_IV_ratio_of_proximodistal_length_to_mediolateral_width Mt_IV_elongate intermediate Mt_IV_short;
+{ 45 Mt_IV__facets_for_cuboid_and_Mt_III isolated_or_barely_in_contact broadly_contiguous;
+{ 46 Mt_V_angle_formed_by_facets_for_cuboid_and_Mt_IV roughly_right_angled obtuse almost_flat;
+{ 47 Mt_V_orientation_of_articular_facets_for_the_cuboid_and_Mt_IV medial mediodorsal;
+{ 48 Mt_Vlateral_processlateral_process well_developed_laterally weak_or_absent;
+{ 49 Metatarsals__position_relative_to_one_another_when_pes_is_articulated metatarsals_arrayed_mediolaterally stacked_partly_dorsoventrally full_dorsoventral_stacking;
+{ 50 Number_of_thoracic_vertebrae 18_or_more fewer_than_18;
+{ 51 Caudal_inclination_of_spinous_process__angle_between_its_cranial_edge_and_a_dorsoventral_axis weak intermediate strong;
+{ 52 Haemal_arches_shape_of_most_cranial_elements Y__shaped X__shaped;
+{ 53 Rib_compactness_for_a_given_section,_the_ratio_of_surface_occupied_by_bone_to_the_whole_sectional_area below_0.8 between_0.8_and_0.9 above_0.9;
+{ 54 Ratio_of_maximum_visible_length_of_premaxilla_to_maximum_length_of_skull low_premaxilla_short intermediate high_premaxilla_elongate;
+{ 55 Premaxillae__anterior_processes_widened_at_their_anterior_tip absent present;
+{ 56 Angulation_formed_by_the_narial_opening_in_lateral_view lateral_narial_margin_forms_either_right_or_obtuse_angle_with_dorsal_edge_of_premaxilla lateral_edge_of_the_narial_opening_forms_a_smooth_continuous_sigmoid_curvature_with_dorsal_edge_of_premaxilla;
+{ 57 Attachment_of_base_of_jugal_to_skull dorsal_to_second_molariform_M2_or_more_anterior dorsal_to_M3;
+{ 58 Posterior_margin_of_pterygoids_thickened_and_expanded_mediolaterally absent weak strong;
+{ 59 Shape_of_anterior_margin_of_mandibular_symphysis_in_dorsal_view tapered_and_narrow transversely_expanded_and_spatulate;
+{ 60 Internal_trough_of_spout_of_mandible reaches_anterior_edge_of_spout does_not_reach_anterior_edge_of_spout;
+;
+
+
+ccode  - 0.60;
+
+
+;

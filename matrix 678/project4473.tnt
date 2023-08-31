@@ -1,0 +1,142 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.18.43'
+87 37
+
+&[num]
+Trachinocephalus_myops                                 000300000011000000000100000100010?0001?200210110000000020000000000001100000100000000000
+Apateodus_spp.                                         ?000000??010100000001000?0??1110010000000020000020001003000100010?????????????0????????
+Apateopholis_spp.                                      0011?00??0?00001?1?000111??011000100010000001000201001?11101011100100001101110000?01000
+Apuliadercetis_spp.                                    2110100??000011000001?0?013100100100111200010000200000110010000?00001111001210000101310
+Aspidopleurus_spp.                                     0003100??01000011000000111?11011000001100011111000000??11001001?10101001111210000000000
+Atolvorator_longipectoralis                            00000??0???110001100101000201100010?0100100000102000100100000010010110010011000??001000
+Benthesikyme_spp.                                      2?10?00??01?0000?0101?0??1??11??010001130??1?0???0??????????????????1??100????0?01?13?0
+Brazilodercetis_longirostris                           ?112?00?0010000000001?1??130001011000112011110000000000400100000?????111???????????132?
+Candelarhynchus_padillai                               ?110???01?1??1?0000001000?-1??001110011001001??0201001020010000?0???1010??0210?????1000
+Caudadercetis_bannikovi                                2110?00??00???0001??1?1????1?0100?00???2?0210000200000?10?0000??0?001111?0001?011111000
+Cimolichthys_spp.                                      0002100?100000010000010110?111010010000010200010210001?10001011??000?0010?1?10?0?101220
+Cyranichthys_ornatissimus                              1112?????010000000001?0??1??????0100?0100??100?????????1001000?0?????01?????11?????1120
+Dercetis_spp.                                          2111000??110000000001?0??12111?00100111200111010201001?1000000000?001011000011000101320
+Dercetoides_venator                                    2111????1000?1010100101??1?000100100?11300101010210000?30000010010001111000010000111310
+Enchodus_spp.                                          0003?2????????0????00??????11?10?????00010010?1110?010?11001011000111?0100121??100?1001
+Eurypholis_spp.                                        0001121?101000011100000111211011001111100020000001011?111101111000111001000000000001111
+Halec_spp.                                             0001000?101000010100001??0?11111001001021011001001000??11001010100111001001010000000000
+Hastichthys_gracilis                                   2110?0010001001100001?00?111111011100110010010102010000100100000?000111100?010010111310
+Hastichthys_totonacus                                  211000010001001100001?0001111??01110011001001010001000?10010000?0000111100001000011131?
+Hemisaurida_hakelensis                                 0000000?1?10?10????000???1?011110000010310111000200001?20100000000111001001210000001000
+Ichthyotringa_spp.                                     11100001?0?00010?0000?000??111?001000100?0200010?01001?10001000100111001001000000000000
+Nardodercetis_vanderwallei                             2110000??00?000101?00????1?000?01100?100010010002000000???1?00?00000111100110??00011310
+Nardorex_zorzini                                       ?00210011110001000010?01?1311???00001013000000001010000001100010001?100000100001???1000
+Ophidercetis_italiensis                                2110?21?0010000000001?0??12111?00100111200210010100000030000000000001?11000201010??1120
+Pelargorhynchus_dercetiformis                          1113?????000000101101?1??1?11???0010011000201000?1?00??1?000?010??0??011??1?11?0???0220
+Palaeolycus_dreginensis                                1002?21?1??0?10??1??1?1????110??00010010?0010010111010??10010110?0001?01001200010??1001
+Parenchodus_longipterygius                             0003?2?1?010110111001010?1?011?10010100300210011211010111001011011100100101011010101001
+Rharbichthys_ferox                                     0002?21?0010?000?1100?0????1?1100100110000210000001010010000010000110?00001210001001410
+Rhynchodercetis_spp.                                   2110000?0001001101001?1??1?010101100011001001000000001?1000000000000111?000211000111310
+Saurorhamphus_judeaensis                               1111?00?1010000111001?0111211?100011?01300000010011111111101111000101001000200010000111
+Serrilepis_spp.                                        00030000?010100100001?11100111?00110?10310101010?11010111001011110111001001010100100000
+Phylactocephalus_microlepis                            000100001000000????0011????11?010010010210111000210000?11001010000111001111010000000000
+Unicachichthys_multidentata                            0003100?????0???1?1?0????1?11???001?10121001001121?010?11101011??0111?00001210000101001
+Vegrandichthys_coitecus                                0111?01??0?0000101???1?????0?0100011001000010010011010?11001?11??0????0???0200?????1111
+Veridagon_avendanoi                                    0002?0??0?????00???????????1?0??00?1001310210001011010?11001?11??0101?00101200010101211
+Yarbrudichthys_striatus                                00110101???0000????01010???000?10100?1?000000000?11010?1111?001100100?01001211100101000
+Spinascutichthys_pankowskiae_gen._et_sp._nov.          111001?11?2100?101100101110110101100001300100001001001020111101?1?10?0????00001101?1?11
+
+;
+
+
+cnames
+{ 0 Body_length slightly_elongate_[less_than_or_equal_to_1:10] elongate_[from_1:11_to_1:15] very_elongate_[higher_than_1:15];
+{ 1 Head_heigh deep low;
+{ 2 Snout_length short long;
+{ 3 Dermal_pattern_on_skull_roof smooth only_tubercles only_ridges tubercles_+_ridges;
+{ 4 Vomerine_teeth absent present;
+{ 5 Number_of_teeth_on_dermopalatine two_or_more none single;
+{ 6 Dermopalatine_length twice_or_more_times_longer_than_its_tooth equal-sized_or_shorter_than_its_tooth;
+{ 7 Antorbital present absent;
+{ 8 Nasal present absent;
+{ 9 Anterior_extremity_of_mesethmoid acute bifid;
+{ 10 Posterior_extremity_of_mesethmoid bifid acute straight;
+{ 11 Autosphenotic_spine straight posteriorly_curved;
+{ 12 Suture_between_frontals slightly_sinuous markedly_sinuous;
+{ 13 Posterior_border_of_frontal behind_the_autosphenotic_spine at_the_level_of_the_autosphenotic_spine;
+{ 14 Shape_of_the_post-orbital_border concave convex;
+{ 15 Parietal_length long_[length_equal_or_larger_than_its_height] short_[higher_than_long];
+{ 16 Supraorbital_sensory_canal_in_the_skull_roof covered exposed;
+{ 17 Supraoccipital_bone not_separating_parietals separating_parietals;
+{ 18 Supraoccipital_crest present absent;
+{ 19 Supraoccipital_with_two_well-delimited_regions absent present;
+{ 20 Extension_of_pterotic not_projecting_backwards_beyond_the_level_of_occiput projecting_beyond_the_occiput;
+{ 21 Dilatator_fossa unroofed roofed;
+{ 22 Exposition_of_the_post-temporal_fossa roofed unroofed;
+{ 23 Orbitosphenoid present absent;
+{ 24 Basisphenoid present absent;
+{ 25 Supraorbital present absent;
+{ 26 Lachrymal_shape subtriangular suboval trapezoidal rod-shaped;
+{ 27 Position_of_the_mandibular_suspensorium inclined vertical;
+{ 28 Ectopterygoid toothless toothed;
+{ 29 Endopterygoid toothless toothed;
+{ 30 Placement_of_articular_facet_for_the_hyomandibula posteroventral ventral;
+{ 31 Number_of_articular_facet_for_the_hyomandibula one_facet two_facets;
+{ 32 Premaxilla toothed toothless;
+{ 33 Posterior_extension_of_the_premaxilla reaching_the_orbit not_reaching_the_orbit;
+{ 34 Dermal_pattern_on_premaxilla smooth ornamented;
+{ 35 Fenestra_in_the_premaxilla absent present;
+{ 36 Ascending_process_of_the_premaxilla absent present;
+{ 37 Maxilla toothless toothed;
+{ 38 Placement_of_the_maxilla over_the_premaxilla behind_the_premaxilla;
+{ 39 Teeth_on_upper_jaw only_straight absent curved_+_straight only_curved;
+{ 40 Supramaxilla absent present;
+{ 41 Mandible_length equal_to_the_snout shorter_than_the_snout;
+{ 42 Teeth_on_mandible only_straight only_curved curved_+_straight;
+{ 43 Teeth_size_on_upper_jaw absent_or_with_same_height with_different_height;
+{ 44 Teeth_size_on_mandible different_height equal_height;
+{ 45 Rows_of_teeth_on_upper_jaw single two_or_more;
+{ 46 Rows_of_teeth_on_mandible single two_or_more;
+{ 47 Anteroventral_prongs_on_dentary absent present;
+{ 48 Mandibular_sensory_canal enclosed_by_bone partially_open open;
+{ 49 Mandibular_dermal_pattern smooth ornamented;
+{ 50 Flange_on_anguloarticular present absent;
+{ 51 Quadrate-mandibular_articulation exposed hidden;
+{ 52 Articular_facet_for_the_quadrate shallow deep;
+{ 53 Retroarticular_process present absent;
+{ 54 Ornamentation_in_the_infraorbital_bones smooth ornamented;
+{ 55 Preopercle L-shaped triangular crescent-shaped rod-shaped pipe-shaped;
+{ 56 Preopercular_dermal_pattern smooth ornamented;
+{ 57 Posteroventral_spine_in_the_preopercle absent_or_reduced well-developed;
+{ 58 Dimension_of_the_opercle deeper_than_long longer_than_deep;
+{ 59 Opercle_crest absent present;
+{ 60 Spine_on_posterior_border_of_the_opercle absent present;
+{ 61 Opercular_and_subopercular_dermal_pattern smooth ornamented;
+{ 62 Interopercle present absent;
+{ 63 Mesocoracoid absent present;
+{ 64 Scapula_and_coracoid individualized co-ossified;
+{ 65 Supraneurals present absent;
+{ 66 Total_number_of_vertebrae more_than_50 equal_or_minus_than_50;
+{ 67 Number_of_caudal_vertebrae more_than_20 equal_or_minus_than_20;
+{ 68 Ribs extending_to_the_pelvic_fin_origin surpassing_the_pelvic_fin_origin;
+{ 69 Transverse_processes one_pair two_pairs;
+{ 70 Neural_spines well-developed_[their_length_surpassing_the_length_of_vertebral_centrum] very_reduced_[their_length_equal_or_less_than_half_of_the_length_of_vertebral_centrum];
+{ 71 Neural_spines_bifid_in_the_abdominal_region present absent;
+{ 72 Distribution_of_epipleurals extending_to_more_than_a_half_of_the_body up_to_half_of_the_body;
+{ 73 Distribution_of_epineurals extending_to_more_than_a_half_of_the_body up_to_half_of_the_body;
+{ 74 Position_of_the_pectoral_fin high_[last_fin-ray_placed_at_the_level_of_the_ventral_border_of_the_opercle_or_a_little_above] low_[last_fin-ray_placed_below];
+{ 75 Orientation_of_the_pectoral_fin_base vertical horizontal inclined;
+{ 76 Origin_of_the_pelvic_fin anterior_to_dorsal_fin opposite_or_posterior_to_the_dorsal_fin;
+{ 77 Dorsal_fin_length short_[lesser_than_20_rays] long_[more_than_20_rays];
+{ 78 Shape_of_the_first_proximal_pterygiophore_of_the_dorsal_fin different_from_the_remnants all_equal_in_shape;
+{ 79 Anal_fin_length short_[up_to_15_rays] long_[more_than_15_rays];
+{ 80 Anal_fin_edge not_serrated serrated;
+{ 81 Fusion_of_hypurals free fused;
+{ 82 Contact_between_hypurals_2-3 free with_convoluted_suture;
+{ 83 Body_scales present absent;
+{ 84 Flank_scutes absent triangular cordiform tripartite rectangular;
+{ 85 Number_of_rows_of_scutes_on_flanks absent single two_or_more;
+{ 86 Middorsal_scutes absent present;
+;
+
+
+ccode  - 0.86;
+
+
+;

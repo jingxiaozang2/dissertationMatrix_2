@@ -1,0 +1,129 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.19.59'
+83 28
+
+&[num]
+Protorothyris_spp.                         00000000000000000000000000000000000000000000000000000000000000000000000000000?000??
+Paleothyris_acadiana                       000000000100000001000000201000001000000000010?00000000000???00000000000000000000000
+Thuringothyris_mahlendorffae               00000010110001010100000010000000000000000100000000000000????0001001000??0000??10100
+Euconcordia_cunninghami                    0001011111000110??000000101001000?0?000001010?000000?0000???0?01000001000??????????
+Opisthodontosaurus_carrolli                0???111?????00100?001???10????????0?0200011000?????1?000110100030000301001?0??110??
+Romeria_prima                              00111010000?0011000011000?000100?01?0???0100000??0?1?0000???0011000001010?0?1?1?1??
+Romeria_texana                             001110??000?0011000001001?00010010100?00010?0?00?0?100000???0011000001010??????????
+Reiszorhinus_olsoni                        10111010000?0110010000001011011111?????????????000?1?000?11?0011000011010??????????
+Protocaptorhinus_pricei                    00111011000101110?0010101001010110???10?010?0??00011?0000???10110000110?011?00111??
+Rhiodenticulatus_heatoni                   0011101111010110110000??1?0101?1?0?101000100000?00?1000001???0010000010101?1??111??
+Saurorictus_australis                      00?1111?010?0100110012220001012?00???????1?????0?????0????????11000001010??????????
+Rhodotheratus_parvus                       00011110010001001100122210010121101000001?01010?0011000001011012010111010111???????
+Captorhinus_magnus                         001111110012011011010?10100?01?2???102100?00100000??0001010?2011000011110111??111??
+Captorhinus_kierani                        10101111000?011011010?10110101221?1002100100100000110001?10?1011100001?10??????????
+Captorhinus_aguti                          00111111000201101101001010010112101102100100100000110001010020111001211111111111111
+Captorhinus_laticeps                       00111111000200101101001010010112101102101010010000011000101001011000011110111111111
+Labidosauriscus_richardi                   001111110?0?010????1????10?????2??110210021010?????1?0011100?012000011010??????????
+Labidosaurus_spp.                          11111110001111101101011011010112111101100110200111110111111110110010121101111211111
+Captorhinikos_valensis                     1????1????????????????????????????????000??????????????????????120123??2211????????
+Captorhinikos_chozaensis                   1011111?0?0??0??????????10??????????01100??0????11?1?1111???111120123?0221?111101?1
+Labidosaurikos_meachami                    1111111000111110111111111101111211110111111021011111011110111112211332122??????????
+Kahneria_seltina                           1???????????1??11101?????1??????????????21?????????1?1?010?????110123?1??1?0??1????
+Moradisaurus_grandis                       1?1?101?1???11001102???111??11?1??1111111210211110?111111111111220033212221???1?1?1
+Rothianiscus_spp.                          111?10???????1????12???111?????1??111?112210?????????111????111311123?122211????1??
+Gansurhinus_qingtoushanensis               1?1?1?????????????????????????????????????1?????????1??????????320123???2211???1???
+Tramuntanasaurus_tiai                      10??1110001?1110110011??110111?11??????12????????????1111?0121?221123111211?1?111?0
+Balearosaurus_bombardensis                 1??????????????????????????????????????????????????????????????????????????????????
+Moradisaurinae_indet._Son_Bunyola          1????????????1??????????????????????????????????????????????????????3???2??????????
+
+;
+
+
+cnames
+{ 0 Adult/mature_skull_length <5_cm_anteroposteriorly_in_mature_specimens >5_cm_anteroposteriorly_in_mature_specimens;
+{ 1 Snout_width broad,_>=35%_of_skull_length relatively_narrower,_<=25%_of_skull_length;
+{ 2 Premaxilla1 ventral_margin_straight ventral_margin_flexed_and_aligned_anteroventrally_in_lateral_view;
+{ 3 Premaxilla2 alary_process_absent alary_process_present_on_posterodorsal_process;
+{ 4 Maxilla1 relatively_straight posterior_end_flexed_laterally;
+{ 5 Maxilla2 posterior-most_tooth_positioned_at_level_of_posterior_margin_of_orbit positioned_more_anteriorly;
+{ 6 Lacrimal suture_with_jugal_small suture_with_jugal_well_developed;
+{ 7 Nasolacrimal_suture straight interdigitating;
+{ 8 Antorbital/cheek_region mainly_formed_by_lacrimal_and_prefrontal mostly_formed_by_lacrimal_due_to_a_strong_dorsal_expansion_of_the_bone;
+{ 9 Prefontal anterior_process_short_and_broad,_approximately_equal_to_the_posterodorsal_process_in_anteroposterior_length long_and_narrow,_approximately_2X_the_anteroposterior_length_of_the_posterodorsal_process;
+{ 10 Frontal anterior_process_short_<55%_total_frontal_sagittal_length long_anterior_process,_~60%_total_frontal_sagittal_length;
+{ 11 Jugal1 alary_process_is_absent alary_process_is_present,_positioned_no_higher_than_the_midpoint_of_the_suborbital_process_of_the_jugal_and_is_distinct_from_the_orbital_margin alary_process_is_present_and_positioned_dorsally_on_the_medial_surface_of_the_jugal,_flush_with_the_orbital_margin;
+{ 12 Jugal2 subtemporal_process_dorsoventrally_low_(<=25%_of_skull_height_through_orbital_midpoint) subtemporal_process_dorsoventrally_deep_(>=40%_of_skull_height_through_orbital_midpoint);
+{ 13 Jugal3 anterior_extent_does_not_reach_beyond_anterior_orbital_margin anterior_extent_reaches_beyond_anterior_orbital_margin;
+{ 14 Jugal4 postorbital_extent_shorter_than_remaining_anterior_extent equal_or_longer;
+{ 15 Quadratojugal1 anteroposteriorly_elongate,_subrectangular_in_shape relatively_shorter,_almost_square_in_shape;
+{ 16 Quadratojugal2 acuminate/convex_upward square-tipped_anteriorly;
+{ 17 Quadratojugal3 expanded_dorsally posteriorly_straight_or_decreasing_in_height;
+{ 18 Quadratojugal4 maximum_height_approximately_equal_to_1/3_the_height_of_squamosal_or_less nearly_equal_to_1/2_of_squamosal_height_or_greater;
+{ 19 Postorbital_cheek mostly_straight/little_lateral_convexity convex/expanded_laterally greatly_expanded_laterally;
+{ 20 Parietal distinct_anterolateral_process_present_that_partially_separates_postfrontal_and_postorbital does_not_project_strongly_between_postfrontal_and_postorbital;
+{ 21 Supratemporal1 separation_from_the_postparietal solid_fusion_with_the_postparietal absent;
+{ 22 Supratemporal2 obliquely_oriented_into_anteromedial_direction,_thereby_lying_within_a_facet_of_parietal positioned_mediolaterally_at_posterior_edge_of_parietal absent;
+{ 23 Supratemporal3 small,_slender_element large,_contributing_to_skull_table absent;
+{ 24 Parietal_foramen positioned_at_midpoint_of_interparietal_suture positioned_anterior_to_midpoint_of_interparietal_suture posterior_to_midpoint_of_inter_parietal_suture;
+{ 25 Sculpturing skull_surface_relatively_smooth,_with_only_small_honeycombing_pits_or_grooves with_pits_and_grooves_with_notably_larger,_randomly_positioned_pits_on_posterior_skull_table;
+{ 26 Postparietal1 contacts_mate_dorsally_only,_postparietals_separated_slightly_on_ventral_side_by_dorsal_aspect_of_supraocciptal contacts_mate_fully_along_dorsalventral_thickness;
+{ 27 Postparietal2 flat_in_parasagittal_section concave_in_parasagittal_section;
+{ 28 Postparietal3 majority_of_postparietal_on_occipital_surface_and_unsculptured majority_of_postparietal_on_dorsal_skull_surface_and_sculptured;
+{ 29 Postparietal4 transversely_short_with_tabular_present transversely_elongate_with_tabular_absent;
+{ 30 Supratemporal4 no_contact_with_postparietal contact_with_postparietal absent;
+{ 31 Occipital_margin_of_skull_table embayed_bilaterally straight single_medial_embayment;
+{ 32 Tabular present,_resulting_in_transversely_short_postparietal absent,_resulting_in_transversely_elongate_postparietals;
+{ 33 Supratemporal_horn absent present;
+{ 34 Vomer denticulate edentulous;
+{ 35 Vomer/pterygoid_contact extensive_(>=50%_median_border_of_vomer) short_(<=33%_median_border_of_vomer);
+{ 36 Palatine denticulate edentulous;
+{ 37 Jugal/ectopterygoid ectopterygoid_present_and_alary_process_absent ectopterygoid_absent_and_alary_process_present,_but_no_higher_than_midpoint_of_suborbital_process_of_jugal_and_distinct_from_orbital_margin ectopterygoid_absent_and_alary_process_present_and_positioned_dorsally_on_medial_surface_of_the_jugal,_flush_with_orbital_margin;
+{ 38 Pterygoid1 transverse_flange_broad-based_and_distinctly_angular_in_ventral_view narrow_and_tongue-like_in_ventral_view;
+{ 39 Dentition_on_palatal_ramus_of_pterygoid present greatly_reduced_or_absent;
+{ 40 Pterygoid2 transverse_flange_dentition_consists_of_shagreen_of_denticles at_least_one_row_of_functional_teeth absent;
+{ 41 Suborbital_foramen absent present present_and_anteroposteriorly_elongate;
+{ 42 Parasphenoid1 deep_ventral_groove_absent_between_cristae_ventrolateralis deep_ventral_groove_between_cristae_ventrolateralis_present;
+{ 43 Parasphenoid2 denticulate edentulous;
+{ 44 Cultriform_process extends_anteriorly extends_anterodorsally_at_an_angle_of_~15_degrees_to_the_horizontal_plane extends_anterodorsally_at_an_angle_>45_degrees_to_basal_plane;
+{ 45 Parasphenoid3 posterolateral_wing_narrow,_meets_narrow_head_of_stapes wing_broad,_meets_large_head_of_stapes,_in_an_elongate,_nearly_parasagittal_suture;
+{ 46 Opistothic paroccipital_process_long,_extending_near_to_medial_edge_of_squamosal process_short,_extending_only_slightly_beyond_body_of_opisthotic;
+{ 47 Supraoccipital1 in_lateral_view_slopes_anterodorsally vertical;
+{ 48 Supraoccipital2 lateral_ascending_process_accounts_for_<=50%_of_height_of_supraoccipital accounts_for_>=2/3_of_height_of_supraoccipital;
+{ 49 Occipital_condyle at_level_of_quadrate_condyles_in_ventral_view immediately_anterior_to_quadrate_condyles_in_ventral_view;
+{ 50 Paroccipital_process short_(<=1/2_length_of_stapedial_columella) long_and_'rod-like'_(>=1/2_length_of_stapedial_columella);
+{ 51 Stapes distal_process_short elongate;
+{ 52 Exoccipital lateral_process_on_dorsal_ramus_absent present;
+{ 53 Mandibular_ramus_shape ventrally_relatively_straight ventrally_sigmoidal_shaped;
+{ 54 Mandibular_ramus_size <=8%_of_total_jaw_length >=14%_of_total_jaw_length;
+{ 55 Posterior_mandibular_ramus rectilinear_(broadly_expanded) acuminate_(pointed);
+{ 56 Lateral_shelf_of_mandibular_ramus absent_below_coronoid_process present_below_coronoid_process;
+{ 57 Coronoid_anterior_process short long;
+{ 58 Meckelian_foramen small_(<9%_of_lower_jaw) anteroposterior_length_>=14%_of_lower_jaw;
+{ 59 Coronoid_process slender_and_does_not_form_wall_of_adductor_fossa deep_and_forms_dorsal-most_third_of_lateral_wall_of_adductor_fossa;
+{ 60 Retroarticular_process absent present,_short,_and_broader_transversely_than_long present,_slender,_more_elongate_anteroposteriorly_than_broad;
+{ 61 Dentary1 lingual_shelf_absent present;
+{ 62 Premaxillary_dentition first_tooth_small_relative_to_maxillary_caniniform subequal_to_maxillary_caniniform;
+{ 63 Maxillary_dentition1 tooth_stations_number_30_teeth_or_more number_18?26_teeth number_14?17_teeth number_13_or_fewer_teeth;
+{ 64 Maxillary_dentition2 none <40 >=40;
+{ 65 Maxilla3 double_row_of_teeth_extends_far_anteriorly_on_tooth_row_absent present;
+{ 66 Maxillary_caniniform_teeth present absent;
+{ 67 Number_of_tooth_rows_in_upper_jaw one 2-4 5 >=6;
+{ 68 Marginal_dentition3 'cheek'_teeth_recurved chisel-shaped bulbous_and_ogival bulbous_at_base_and_conical_above;
+{ 69 Dentary_teeth isodont caniniform_region_present_mesially single_caniniform_tooth_present_mesially_with_caniniform_region_absent;
+{ 70 Dentary2 first_tooth_oriented_mainly_vertically first_tooth_leans_strongly_rostrally;
+{ 71 Anterior_dentary_teeth teeth_uniformly_small multiple_enlarged_teeth_present_anteriorly single_enlarged_tooth_present_anteriorly;
+{ 72 Dental_tooth_wear absent present,_modest present,_saddle-shaped;
+{ 73 Dorsal_neural_arches narrow lateral_expansion_present exaggerated_lateral_expansion_with_swelling_present;
+{ 74 Neural_spines_of_dorsal_vertebrae height_or_shape_alternation_absent present;
+{ 75 Anterior_dorsal_centra not_strongly_ventrolaterally_constricted strongly_ventrolaterally_constricted;
+{ 76 Sacral_ribs both_ribs_of_roughly_equal_size first_sacral_rib_larger_than_second;
+{ 77 Ilium iliac_blade_narrow_dorsally broader_than_neck_dorsally approximately_twice_length_of_iliac_neck;
+{ 78 Stylo-_and_zeugopodium shaft_slender_and_heads_only_moderately_expanded shaft_massive_and_with_proximal_and_distal_heads_significantly_expanded,_resulting_in_an_overall_stout_impression;
+{ 79 Humerus supinator_process_present,_parallel_to_shaft supinator_process_absent;
+{ 80 Manus_and_pes elements_long_and_slender elements_short_and_broad;
+{ 81 First_metacarpal less_than_half_the_length_of_4th_metacarpal more_than_1/2_the_length_of_4th_metacarpal;
+{ 82 Fourth_metatarsal more_than_1/2_the_length_of_tibia less_than_1/2_the_length_of_tibia;
+;
+
+
+ccode  - 0.82;
+
+
+;

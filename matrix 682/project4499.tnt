@@ -1,0 +1,249 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.20.33'
+96 66
+
+&[cont]
+Stenoterommata_sp                     0.862-0.0 0.171-0.0
+Prorachias_sp                         0.268-0.0 ?
+Diplura_sp                            0.268-0.0 ?
+Paratropis_sp_1                       0.6-0.0 0.565-0.0
+Paratropis_sp_2                       0.584-0.0 0.553-0.0
+Melloina_santuario                    0.686-0.0 0.638-0.0
+Cyphonisia_obesa                      0.187-0.0 0.078-0.0
+Stropheus_austeni                     ? ?
+Barychelus_badius                     ? ?
+Rhianodes_atratus                     0.197-0.0 0.078-0.0
+Monodontium_bukittimah                0.096-0.0 0.047-0.0
+Zophorame_gallonae                    0.768-0.0 0.469-0.0
+Trittame_gracilis                     0.768-0.0 ?
+Barycheloides_alluviophilus           0.187-0.0 ?
+Sason_robustum                        0.125-0.0 0.086-0.0
+Neodiplothele_fluminensis             ? ?
+Cosmopelma_ceplac                     0.46-0.0 ?
+Psalmopoeus_cambridgei                0.957-0.0 0.789-0.0
+Tapinauchenius_plumipes               0.862-0.0 0.735-0.0
+Avicularia_avicularia                 0.864-0.0 0.691-0.0
+Lasiodora_sp                          1.0-0.0 0.781-0.0
+Heteroscodra_maculata                 0.857-0.0 0.541-0.0
+Pelinobius_muticus                    0.94-0.0 0.975-0.0
+Poecilotheria_sp                      0.934-0.0 0.971-0.0
+Cyriopagopus_minax                    0.832-0.0 0.691-0.0
+Pterinochilus_sp                      0.984-0.0 0.444-0.0
+Coremiocnemis_obscura                 0.977-0.0 0.961-0.0
+Guyruita_atlantica                    0.747-0.0 0.829-0.0
+Guyruita_cerrado                      0.953-0.0 1.0-0.0
+Sickius_longibulbi                    0.848-0.0 0.746-0.0
+Dolichothele_mottai                   0.349-0.0 0.125-0.0
+Dolichothele_exillis                  0.246-0.0 0.009-0.0
+Ischnocolus_valentinus                0.779-0.0 0.444-0.0
+Schismatothele_benedettii             0.757-0.0 0.933-0.0
+Catumiri_parvum                       0.478-0.0 ?
+Catumiri_chicaoi                      0.453-0.0 ?
+Holothele_longipes                    0.96-0.0 0.811-0.0
+Chaetopaelma_olivaceum                0.768-0.0 0.55-0.0
+Nesiergus_insulanus                   0.679-0.0 0.522-0.0
+Euthycaelus_colonicus                 0.97-0.0 0.915-0.0
+Neoholothele_incei                    0.964-0.0 0.927-0.0
+Reichlingia_annae                     0.736-0.0 0.626-0.0
+Psalistops_melanopygius               0.719-0.0 0.392-0.0
+Psalistops_colombianus                0.641-0.0 0.277-0.0
+Cyrtogrammomma_monticola              0.478-0.0 0.125-0.0
+Cyrtogrammomma_raveni                 0.641-0.0 0.235-0.0
+Cyrtogrammomma_sp                     0.641-0.0 0.401-0.0
+Trichopelma_nitidum                   0.0-1.002 0.0-1.002
+Trichopelma_coenobita                 0.555-0.0 0.326-0.0
+Trichopelma_steini                    0.613-0.0 0.252-0.0
+Trichopelma_affine                    0.744-0.0 0.508-0.0
+Trichopelma_cubanum                   0.0-1.002 0.0-1.002
+Trichopelma_maculatum                 0.77-0.0 0.502-0.0
+Trichopelma_banksia                   0.664-0.0 0.376-0.0
+Trichopelma_insulanum                 0.739-0.0 0.436-0.0
+Trichopelma_fulvus                    0.609-0.0 0.345-0.0
+Trichopelma_laselva                   0.76-0.0 0.492-0.0
+Trichopelma_huffi                     0.802-0.0 0.492-0.0
+Trichopelma_gabrieli                  0.724-0.0 0.415-0.0
+Trichopelma_tostoi                    0.0-1.002 0.0-1.002
+Trichopelma_goloboffi                 0.699-0.0 0.338-0.0
+Trichopelma_juventud                  0.85-0.0 0.423-0.0
+Trichopelma_laurae                    0.0-1.002 0.0-1.002
+Trichopelma_bimini                    0.752-0.0 0.458-0.0
+Trichopelma_loui                      0.706-0.0 0.338-0.0
+Trichopelma_platnick                  0.679-0.0 0.513-0.0
+
+
+&[num]
+Stenoterommata_sp                    0010010100000?00002121?00001000000000000000110?012330010000??201101202020121201?????002?001120
+Prorachias_sp                        0011020100011000002011?00001000000000000000110?112330020102??111100101010100100?????002?000000
+Diplura_sp                           0010000000100?00000112?00001100100000000000000?112330011010101010102222201024321????102?002000
+Paratropis_sp_1                      1120100000011201001?00?10000100001101000000000?10111000??????110100000000110100?????002?002001
+Paratropis_sp_2                      1120100000011201001100?10001100001101000000000?10111000??????110100000000110100?????002?012001
+Melloina_santuario                   0111000000011100000100?00001100001001000000001100022110??????110??1001110100003101??002?113001
+Cyphonisia_obesa                     0112010000010?00002121?01001000000000000000010?00205012000110102111000001100000?????002?002000
+Stropheus_austeni                    1112020000010?00002111?01001000000000000010110?0004401200011011211100000012132300100002?001100
+Barychelus_badius                    1112020??0010000002121?0?0000000000000?0??0000?0000?112?00110???????0?0?012010???????????????0
+Rhianodes_atratus                    11120100?0010?00002121?01001000000000000000001000223012?0011021111?00000012000310000002?001110
+Monodontium_bukittimah               01110100?0010?00000121?0?000000000000000000000?002330111011??0?????0000000????310000002?001010
+Zophorame_gallonae                   11120200?0011001000120?01000000000000000000110?00224111?0101?10111?00000010010310000002?001210
+Trittame_gracilis                    11120200?0000?00000121?01001000000000000001110?00000?11?0111020100?00000020??0310000002?001000
+Barycheloides_alluviophilus          11120200?0010?00002121?01001000000000000000010?00024?12?0011020211?0000001211021??00002?001210
+Sason_robustum                       0102000110000?00002114?010010100000301000000010002110120001101021110000011024021????002?001000
+Neodiplothele_fluminensis            0011020110000?00002121?000000000000001010000010000001110102101010002020211213001????002?000020
+Cosmopelma_ceplac                    0000020110000?10110124?000010100000001010000010000001110102001011010000011213101????002?000020
+Psalmopoeus_cambridgei               0110000000101100002112?00001100010010000000001100022113000100302010000000111223100000010003000
+Tapinauchenius_plumipes              0110000000001100002110?00001100010010000000001100022113000110302110000000110123100000010003000
+Avicularia_avicularia                0111000000001100002110?001011000000200000000011000001130001003020100000001200041????0010003000
+Lasiodora_sp                         0011000000201100002110?0001110000000000000000110002211200010020201000000012003320010000?000110
+Heteroscodra_maculata                3110000000001100002111?00001100010020000000001100002113000100302010000000120000?????0010001100
+Pelinobius_muticus                   1011000000201100000010?00001100000010000000001100000112000100202010000000121200?????0010002000
+Poecilotheria_sp                     0011000001101100002112?000011000000200000000011000501130001003020100000000???30?????0010000210
+Cyriopagopus_minax                   0011001001001100002010?000011000000000000000011000001120001102020100000000???340????000?001210
+Pterinochilus_sp                     0011001000001100002115?000011000000000000000011000001120001002020100000001200321????0010002000
+Coremiocnemis_obscura                1110000100111100000010?00001100000010000000001101000?12000110202110000110121220?????0010001000
+Guyruita_atlantica                   0110000000011100000110?00001100000000000000001100000112000110101110000000122523201100010102000
+Guyruita_cerrado                     0110000000011100000112?00001100000000000000001100000112000110201110000000122523201100010102000
+Sickius_longibulbi                   0011000010011100000110?00001100000000000000001100000112000010201110000000?????3201101010103100
+Dolichothele_mottai                  0011000000001100000120?00001100000000000000001100000112000100201010000000122503000000010101010
+Dolichothele_exillis                 0011000000001100000120?00001100000000000000001100000112000100202010000000102403000000010103000
+Ischnocolus_valentinus               0010000110001000000120?00001100000000000100001200003112101111211110000100122500?????0010002000
+Schismatothele_benedettii            0110000000011000000112?000011000000000100000011000001120010102011100010101???33100000010000210
+Catumiri_parvum                      0011000000011000002120?00001100000000000000001200004112101110101111000000100103101000010003000
+Catumiri_chicaoi                     0011000000011000000122?00001100000000000000001200004111101110102111000000120103101000010003000
+Holothele_longipes                   0111000100011100000110?0000110000000000000000110002211200111021211100111010130310000002?102000
+Chaetopaelma_olivaceum               00110000000?1000002010?00001100000000000000001100000?12?0011021211?0000001112031001100???03000
+Nesiergus_insulanus                  00110000000?1000000111?00001100000000000000001100000?12?0111020?1??0000001210031001100???02000
+Euthycaelus_colonicus                0110000000011000000110?0000110000000001000000110002211200011020211?0001101???33101100010?00210
+Neoholothele_incei                   0110000000011000000112?0000110000000000000000110002211200011020211?000110100023100?000???02000
+Reichlingia_annae                    1110010010011000000112?000011010000000000000011000001121011102011111010100???33100000020001110
+Psalistops_melanopygius              0111010010011000000112?00001101000000000000001100003112101110211??100000011240301000002?002000
+Psalistops_colombianus               0111010?10011000000112?000011010000000?0?0000110000?1111010?????????0?0?011000???????????????0
+Cyrtogrammomma_monticola             0112010?10011000000120?0?0010000000000?0?0000110004?112000110??1????0?1?0?????0?????0011??3000
+Cyrtogrammomma_raveni                0112010?1001100000011??000010100000000?0?0000110004?112010200???????0?1?110240???????????????0
+Cyrtogrammomma_sp                    00100201?0011000000112?0?00100?000000000000001100043111?0101?111???0000111200001????10??10?000
+Trichopelma_nitidum                  21?1210110011000000113101001000000000?0000???1100??3?1???????1111110?0?10?????3100100111202000
+Trichopelma_coenobita                0111210110011000000113101001000000000000000001100022112000110202111000010110103111000011102000
+Trichopelma_steini                   0111210?100110000001132010010000000000?0?0000110004?112000110???????0?0?012120???????????????0
+Trichopelma_affine                   0111210?100110000001130010010000000000?0?0000110004?112000110???????0?1?011250???????????????0
+Trichopelma_cubanum                  21?1210110011000000113101001000000000?0000???1100??0?1???????20211?0?0?10?????31100000???02000
+Trichopelma_maculatum                0111210110011000000113101001000000000000000001100000112000110102111001110111343100000011202000
+Trichopelma_banksia                  2111210?1001100000011??010010000000000?0?0000110000?1120001?0???????0???011014???????0???????0
+Trichopelma_insulanum                0111210110011000000113201001000000000000000001100043112100110101111000110110143110100011202000
+Trichopelma_fulvus                   0111210110011000000113101001000000000000000001100043112000110102111000110111243110000011201000
+Trichopelma_laselva                  0111210?100110000001131010010000000000?0?0000110004?112000110???????0?1?012000???????????????0
+Trichopelma_huffi                    0111210110011000000113101001000000000000000001100043112000110102111000110112443100000011202000
+Trichopelma_gabrieli                 0111210?1001100000011??010010000000000?0?0000110004?112000110???????1?1?011014???????????????0
+Trichopelma_tostoi                   01?1210110011000000113101001000000000?00000001100??3?1???????1021110?1?10?????3100000011202000
+Trichopelma_goloboffi                0111210?100110000001131010010000000000?0?0000110000?112000110???????0?1?012000???????????????0
+Trichopelma_juventud                 01112101100110000001131010010000000000000000011000041120101011020110111100???33110000011100110
+Trichopelma_laurae                   01?1210110011000000113101001000000000?00000001100??0?1???????2020110?0?10?????3100000011201000
+Trichopelma_bimini                   0111210?100110000001132010010000000000?0?0000110000?112000210???????0?0?00???3???????????????0
+Trichopelma_loui                     0111210110011000000113301001000000000000000001100000112000110102111000110112543110000011202000
+Trichopelma_platnick                 0111210?100110000001133010010000000000?0?0000110000?111000110???????0?1?012134???????????????0
+
+;
+
+
+cnames
+{ 0 Number_of_Maxillary_cuspules;
+{ 1 Number_of_Labial_cuspules;
+{ 2 Fovea_shape straight,_slightly_procurved_or_slightly_recurved procurved recurved pit-like;
+{ 3 Clypeus present,_wide absent_or_narrow;
+{ 4 Tubercle_height_in_females absent_or_low high very_high;
+{ 5 Anterior_eye_row straight_or_slightly_procurved procurved strongly_procurved;
+{ 6 Cheliceral_teeth_rows single double one_line_and_a_small_one;
+{ 7 Rastellum slender_setae with_thick_long_setae with_short_stout_setae;
+{ 8 Scopula_on_retrolateral_face_of_chelicerae absent present;
+{ 9 Intercheliceral_intumescence_in_males absent present;
+{ 10 Lighter_color_on_the_prolateral_maxilla_edge absent present;
+{ 11 Spiniform_setae_on_lower_prolateral_face_of_maxillae absent present;
+{ 12 Lyra normal_setae modified_setae_on_maxilla modified_setae_on_coxae_I_and_II;
+{ 13 Maxillary_heel absent_or_nearly_indistinct distinct;
+{ 14 Frontal_lobe absent_or_nearly_indistinct distinct;
+{ 15 Frontal_lobe_length less_than_half_of_maxillae_width about_half_of_maxillae_width 3/4_or_more_of_maxillae_width;
+{ 16 Spiky_cuspules_on_maxillae_of_females absent present;
+{ 17 Maxillary_cuspules limited_to_corner spread_to_frontal_lobe;
+{ 18 Maxillary_cuspules_-_2 limited_to_anterior_corner spread_to_heel;
+{ 19 Coxae_I_and_II lacking_cuspules with_cuspules;
+{ 20 Sternum,_shape width_and_length_subequal wider_than_long longer_than_wide;
+{ 21 Sigilla,_posterior,_position more_than_one_diameter_from_sternum_margin less_or_close_to_one_diameter_from_sternum_margin;
+{ 22 Labium,_shape quadrate trapezoid ellipsoid;
+{ 23 Pattern uniform mottled striped 18-spot converging herringbone;
+{ 24 18-spot_pattern unconnected partially_connected connected merged;
+{ 25 Abdominal_tubercles absent present scales;
+{ 26 Book_lung_combs absent present;
+{ 27 Urticating_setae_type_II absent present;
+{ 28 Urticating_setae_type_III absent present;
+{ 29 PMS absent present;
+{ 30 PLS,_distal_article short,_triangular_or_domed digitiform;
+{ 31 Apical_PLS_article lacking_a_band with_a_band;
+{ 32 PLS,_apical_segment not_incrassate incrassate;
+{ 33 PLS_size regular elongate;
+{ 34 Setae_on_metatarsi_and_tibiae_I-IV,_length,_males same_length longer_setae_projecting_laterally;
+{ 35 Cuticle lacking_encrusted_soil_particles encrusted_with_soil;
+{ 36 Tibia_I_of_females regular thickened;
+{ 37 Spine_density_on_metatarsi_III_and_IV high reduced absent spines_on_palp_and_legs_I-II,_absent_on_legs_III_and_IV;
+{ 38 Tarsi_of_legs,_spines absent with_spines;
+{ 39 Female_palp,_spines spines_absent_or_not_forming_a_pattern with_symmetrical_v2-2-2;
+{ 40 Male_palp_tibia,_spines lacking_retrolateral_megaspine_comb with_retrolateral_megaspine_comb;
+{ 41 Metatarsi_I_and_II_in_females,_spines lacking_long_curved_spines with_curved_long_spines;
+{ 42 Male_tibia_I,_spine_club lacking_spine_club with_spine_club;
+{ 43 Female_tibia_III,_spines lacking_spine_brush with_spine_brush;
+{ 44 Legs_I_and_II_of_females,_preening_combs absent present;
+{ 45 Legs_III_of_females,_preening_combs absent present;
+{ 46 Leg_IV_of_females,_preening_combs absent present;
+{ 47 Tarsi,_clavate_trichobothria absent present;
+{ 48 Tarsal_clavate_trichobothria,_distribution concentrated_in_middle distributed_in_two_lines in_short_median_line;
+{ 49 IRC_on_tarsus_I,_male_and_female absent present;
+{ 50 IRC_on_tarsus_IV,_male_and_female absent present;
+{ 51 STC_on_female_palp,_teeth bare with_one_tooth with_several_teeth;
+{ 52 STC_on_female_legs,_teeth bare with_one_tooth with_two_or_more_teeth with_double_row_of_several_teeth with_more_than_2_teeth_laterally_on_outer_edge with_large_tooth_with_very_tiny_teeth_on_it;
+{ 53 STC_on_male_legs,_teeth bare with_one_tooth with_two_or_more_teeth with_double_row_of_several_teeth with_more_than_2_teeth_laterally_on_outer_edge with_more_than_2_teeth_laterally_on_inner_edge;
+{ 54 Female_palp,_tufts absent present;
+{ 55 Legs,_claw_tufts absent present;
+{ 56 Palp,_legs_I_and_II_of_females,_scopula absent sparse dense spatulate;
+{ 57 Scopula,_shape_on_tarsus_of_palp_of_females full divided_by_row_of_setae;
+{ 58 Scopula,_distribution_on_female_palp only_on_tarsus on_tarsus_and_tibia;
+{ 59 Scopula_shape_on_female_tarsi_I full divided_by_a_row_of_setae;
+{ 60 Scopula,_distribution_on_female_leg_I on_tarsus_and_part_of_metatarsus on_tarsus_and_metatarsus on_tarsus,_metatarsus_and_tibia;
+{ 61 Scopula_area,_shape_on_female_leg_IV full divided_by_a_row_of_setae;
+{ 62 Scopula,_distribution_on_female_leg_IV on_tarsus on_tarsus_and_metatarsus;
+{ 63 Palp,_legs_I_and_II_on_male,_scopula absent sparse dense spatulate;
+{ 64 Scopula_area,_shape_on_male_leg_I full divided_by_a_row_of_setae;
+{ 65 Scopula,_distribution_on_male_leg_I on_tarsus on_tarsus_and_part_of_metatarsus on_tarsus_and_metatarsus;
+{ 66 Scopula,_shape_on_male_leg_IV full divided_by_a_row_of_setae;
+{ 67 Scopula,_distribution_on_male_leg_IV on_tarsus on_tarsus_and_part_of_metatarsus;
+{ 68 Metatarsi_and_tarsi_I_of_males regular discolored;
+{ 69 Tarsi_I_of_males integral cracked pseudosegmented;
+{ 70 Tarsus_III_of_females integral cracked pseudosegmented;
+{ 71 Tarsus_III_of_males integral cracked pseudosegmented;
+{ 72 Tarsus_IV_of_females integral cracked pseudosegmented;
+{ 73 Tarsus_IV_of_males integral cracked pseudosegmented;
+{ 74 Leg,_color uniform banded;
+{ 75 Spermatheca one two 2_+_2;
+{ 76 Spermathecae,_main_stalk thin thick_tapering thick;
+{ 77 Spermathecae,_lobes lacking_lobes two_lobes several_lobes;
+{ 78 Spermathecae_lobes,_shape no_constriction one_rounded_lobe two_subequal_rounded_lobes two_distinct_rounded_lobes more_than_two_rounded_lobes_only_on_the_tip_of_the_main_stalk more_than_two_rounded_lobes_laterally_throughout_the_main_stalk;
+{ 79 Spermathecae,_color uniformly_slightly_chitinized,_pale stalk_heavily_chitinized,_dark lobes_heavily_chitinized,_dark all_spermathecae_heavily_chitinized,_uniformly_dark base_weakly_chitinized,_distal_area_and_lobes_strongly_chitinized;
+{ 80 Male_tibial_apophysis absent single_thin single_thick_with_spine_on_its_tip with_two_lobes single_with_spiniform_setae_on_its_tip;
+{ 81 Tibial_apophysis,_placement prolateral proventral ventral;
+{ 82 Dual_tibial_apophysis,_distance_between_lobes close far;
+{ 83 Dual_tibial_apophysis,_direction convergent straight;
+{ 84 Dual_tibial_apophysis_base,_fusion_of_lobes not_fused fused;
+{ 85 Tibial_apophysis_apex,_spine_row absent present;
+{ 86 Metatarsus_I_of_male,_apophysis lacking_apophysis bearing_a_ventral_apophysis;
+{ 87 Metatarsus_I_of_male,_bulge absent present;
+{ 88 )_Cymbium_shape rounded triangular quadrate;
+{ 89 Triangular_cymbium_apex not_elongate elongate,_conical_in_dorsal_view;
+{ 90 Cymbium,_incision lacking_an_incision with_weak_incision long;
+{ 91 Cymbium,_spines absent present;
+{ 92 Embolus,_length very_short short long very_long;
+{ 93 Embolus,_thickness thin thick very_thick;
+{ 94 Embolus,_keels lacking_keels with_keels with_ridges_or_vanes;
+{ 95 tegument pubescent glabrous;
+;
+
+
+ccode  - 0.95;
+
+
+;

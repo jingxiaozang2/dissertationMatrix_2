@@ -1,0 +1,116 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.19.09'
+75 23
+
+&[num]
+Simpsonotus_praecursor                         000?0000011000200100000000000000000002-1000000000000000000-00?00?0?????????
+Notostylops_murinus                            00001011000010000000000000000000100012-10?0110000000000000011100000000?????
+Oldfieldthomasia_debilitata                    0001010100010310000000000001000000010011010110100100000010000101001????????
+Notopithecus_adapinus                          000001010001030000000000000000001001001102201001000000000000110100100000000
+Federicoanaya_sallaensis                       101101011001030110011110111011211122101101110000000001000000101110100111111
+Brucemacfaddenia_boliviensis                   10110101100101011101111120101121012?1011011110101100010000001??1?01??1?????
+Santiagorothia_chiliensis                      001101011001010?000111002011102010011011021100010000010000001001101????????
+Eopachyrukhos_pliciferus                       0010?????????????????????0101?2010???????1011000000001000000?????01?1??????
+Argyrohyrax_proavus                            1111110110010301110111012011102011110011010111101100011201001001?01????????
+Progaleopithecus_tournoueri                    101????????????????111112110111001021001012101001100111220001??2?01????????
+Archaeophylus_patrius                          1011??011????1?11111111021111110111???????01110000001111?0111??1??1????????
+Cochilius_volvens                              10211101010102011101111121101120121111100111101011000111010020021111?1?1??0
+Interatherium_robustum                         102111110100122111011111211010100211110011011010110001111100200211101101110
+Miocochilius_anamopodus                        112110010000021111011110111010111111101112011000000111112101100210100101101
+Miocochilius_federicoi                         112??????????0200000011011101010121?????????????????????????1??0???????????
+Protypotherium_australe                        102111010001032001001110111010100102101101111000000011121100100211000101111
+Protypotherium_endiadys                        112111010?01002001001110111010101110101111111000000011122110111100010??????
+Protypotherium_colloncurensis                  112??????????211110011101110113111201001010110000000111221000?12?10???1111?
+Protypotherium_sinclairi                       112???????????????????????????????????1??101100101?011120100???????????????
+Protypotherium_distinctum                      112?????????0????1?0111011101021112????????????????????????????????????????
+Protypotherium_minutum                         112?????????0????1?0111011121131112?????????????????11121???1??1???????????
+Caenophilus_tripartitus                        112????10?111020000011101???????????101101011000?011??????????????1????????
+Protypotherium_sp_nov_(UATF-V-000861)          112??????????????0101110111211211?1?????????????????11120110???????????????
+
+;
+
+
+cnames
+{ 0 Cement absent present;
+{ 1 Enamel_around_crown continuous interrupted;
+{ 2 Cheek_teeth brachydont hypsodont hypselodont;
+{ 3 Order_of_eruption_P/p4_versus_M/m3 P/p4_erupt_before_M/m3 P/p4_erupt_after_M/m3_(milk_molar_are_retained_until_after_eruption_of_the_third_molar);
+{ 4 I1_development subequal_or_slightly_different_in_size_from_I2 larger_than_other_incisors;
+{ 5 I1_section oval labiolingually_compressed;
+{ 6 Upper_canine_size similar_to_all_incisors absent_or_reduced_respect_to_incisors;
+{ 7 I2_section oval_in_cross_section labiolingually_compressed;
+{ 8 I2–C_labial_sulcus absent present;
+{ 9 I3_shape incisiviform caniniform;
+{ 10 C_labially_placed absent present;
+{ 11 C_section oval labiolingually_compressed;
+{ 12 Diastema_between_C_and_P1 absent present;
+{ 13 Overlap_of_P1 not_overlapped overlapped_only_by_C overlapped_only_by_P2 overlapped_by_C_and_P2;
+{ 14 P1_shape caniniform premolariform different_from_canine_and_P2;
+{ 15 P1_parastyle absent present;
+{ 16 P2–3_size low_length/width_ratio_(squared) high_length/width_ratio_(triangular/subtriangular);
+{ 17 Ectoloph_on_P2–4 less_folded much_folded;
+{ 18 P3_length P3_≤_P4 P3_>_P4;
+{ 19 P4_size DLL≥DMD_(squared) DLL<DMD_(rectangular);
+{ 20 P3–4_parastyle_sulcus shallow deep;
+{ 21 P3–4_mesial_cingulum present absent;
+{ 22 P3–4_distal_cingulum present absent;
+{ 23 P3–4_shape premolariform molariform;
+{ 24 Sulcus_on_P3–4 absent mesial lingual;
+{ 25 M1–2_distal_cingulum present absent;
+{ 26 M1–3_mesial_cingulum present absent;
+{ 27 Hypocone/protocone_on_M1–2 roughly_equally_developed hypocone_more_developed_than_protocone_and_lingually_protruding protocone_more_developed_than_hypocone_and_lingually_protruding;
+{ 28 M1–2_size DLL>DMD_or_equidimentional DLL<DMD;
+{ 29 Relation_on_the_upper_molar_size nearly_equally_sized decrease_from_M1_to_M3;
+{ 30 Lingual_sulcus_on_M1–2 no_sulcus a_single_and_vertical_sulcus a_bifurcated_sulcus_forming_a_tiny_middle_lobe a_single_and_mesially_oriented_sulcus;
+{ 31 M1–3_shape rectangular/squared trapezoidal;
+{ 32 Parastyle_on_M1–2 present_and_deep_sulcus moderated/little_evident;
+{ 33 Upper_molars_fossettes long-lived short-lived absent;
+{ 34 Upper_cheek_teeth_imbrication absent moderately strong;
+{ 35 i1_groove absent a_lingual_shallow_groove bifid;
+{ 36 i1–2_implantation not_procumbent procumbent;
+{ 37 i3_size i3>i2 i3£i2 variable_present;
+{ 38 i3_shape conical flattened;
+{ 39 Lower_canine_size absent_or_c≤i c>i;
+{ 40 Spaces_among_i3,_c_and_p1 absent present;
+{ 41 p1_shape vestigial_or_absent caniniform_(no_talonid_differentiated) premolariform_(talonid_insinuated);
+{ 42 Overlap_of_p1 not_overlapped overlapped_by_c overlapped_by_c_and_p2;
+{ 43 Mesial_cingulid_on_p2–3 present absent;
+{ 44 Talonid_of_p2 very_small_or_absent well_differentiated;
+{ 45 Labiodistally_well-developed_protoconid_in_p2 absent present;
+{ 46 Talonid/trigonid_on_p3 talonid_<_trigonid talonid_≥_trigonid;
+{ 47 Postmetacristid_on_p3–4 absent present;
+{ 48 p4_shape not_molarized molarized;
+{ 49 Enlargement_of_the_talonid_in_relation_to_the_trigonid_of_p4 absent present;
+{ 50 Accessory_mesial_lobe_in_the_trigonid_of_p2–4_have absent present;
+{ 51 Diastema_between_p1_and_p2 absent present;
+{ 52 Talonid_shape_of_m1–2 sub-circular triangular;
+{ 53 Ectoflexid_on_m1–2 does_not_reach_the_base_of_the_crown reaches_the_base_of_the_crown;
+{ 54 Lingual_sulci_on_m1–2 trilobed,_with_two_lingual_grooves bilobed,_with_a_trigonid–talonid_groove;
+{ 55 Trigonid_shape_of_lower_molars quadrangular triangular P-shaped;
+{ 56 Hypoflexid_on_m3 absent moderately_accentuated deep;
+{ 57 Trigonid-talonid_contact_in_lower_molars well-defined_isthmus very_short;
+{ 58 Concave_lingual_face_of_talonid_on_m1–2 absent present;
+{ 59 Trigonid-talonid_length_ratio_on_m1–2 almost_equal talonid_longer_than_trigonid;
+{ 60 Descending_process_of_the_maxilla absent small_or_moderately_developed very_prominent;
+{ 61 Maxilla_extended_dorsally_over_the_orbit absent present;
+{ 62 Antorbital_foramen above_premolars above_molars;
+{ 63 Root_of_the_zygomatic_arch narrow,_not_expanded moderately_expanded well_expanded;
+{ 64 Sliver_of_frontal_anteriorly_projected absent present;
+{ 65 Height_of_the_mandibular_horizontal_ramus approximately_constant,_gradually_increasing_forward increase_forward,_the_m2_level_is_at_least_twice_as_high_as_at_the_incisor_level;
+{ 66 Mandibular_labial_foramen_in_adults behind_p4_level before_p4_level;
+{ 67 Supratrochlear_foramen_of_humerus absent present;
+{ 68 Entepicondylar_foramen_of_humerus present absent;
+{ 69 Astragalar_foramen present absent;
+{ 70 Calcaneum_neck_length neck_shorter_than_the_body neck_approximately_similar_or_longer_than_the_body;
+{ 71 Peroneal_tubercle_on_the_calcaneum present absent;
+{ 72 Orientation_of_the_fibular_facet_on_the_calcaneum oblique proximodistal;
+{ 73 Cuboid_facet_of_the_calcaneum slightly_concave_and_no_so_inclined moderately_concave_and_deeply_inclined;
+{ 74 Calcaneum-navicular_contact absent present_("reverse_alternating_tarsus"_sensu_Cifelli_1993);
+;
+
+
+ccode  - 0.74;
+
+
+;

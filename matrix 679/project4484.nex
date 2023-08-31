@@ -1,0 +1,464 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-30 10.57.08 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=23;
+    TAXLABELS
+    		'Simpsonotus praecursor'
+		'Notostylops murinus'
+		'Oldfieldthomasia debilitata'
+		'Notopithecus adapinus'
+		'Federicoanaya sallaensis'
+		'Brucemacfaddenia boliviensis'
+		'Santiagorothia chiliensis'
+		'Eopachyrukhos pliciferus'
+		'Argyrohyrax proavus'
+		'Progaleopithecus tournoueri'
+		'Archaeophylus patrius'
+		'Cochilius volvens'
+		'Interatherium robustum'
+		'Miocochilius anamopodus'
+		'Miocochilius federicoi'
+		'Protypotherium australe'
+		'Protypotherium endiadys'
+		'Protypotherium colloncurensis'
+		'Protypotherium sinclairi'
+		'Protypotherium distinctum'
+		'Protypotherium minutum'
+		'Caenophilus tripartitus'
+		'Protypotherium sp nov ?'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=75;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'Cement'
+		 [2] 'Enamel around crown'
+		 [3] 'Cheek teeth'
+		 [4] 'Order of eruption P/p4 versus M/m3'
+		 [5] 'I1 development'
+		 [6] 'I1 section'
+		 [7] 'Upper canine size'
+		 [8] 'I2 section'
+		 [9] 'I2–C labial sulcus'
+		 [10] 'I3 shape'
+		 [11] 'C labially placed'
+		 [12] 'C section'
+		 [13] 'Diastema between C and P1'
+		 [14] 'Overlap of P1'
+		 [15] 'P1 shape'
+		 [16] 'P1 parastyle'
+		 [17] 'P2–3 size'
+		 [18] 'Ectoloph on P2–4'
+		 [19] 'P3 length'
+		 [20] 'P4 size'
+		 [21] 'P3–4 parastyle sulcus'
+		 [22] 'P3–4 mesial cingulum'
+		 [23] 'P3–4 distal cingulum'
+		 [24] 'P3–4 shape'
+		 [25] 'Sulcus on P3–4'
+		 [26] 'M1–2 distal cingulum'
+		 [27] 'M1–3 mesial cingulum'
+		 [28] 'Hypocone/protocone on M1–2'
+		 [29] 'M1–2 size'
+		 [30] 'Relation on the upper molar size'
+		 [31] 'Lingual sulcus on M1–2'
+		 [32] 'M1–3 shape'
+		 [33] 'Parastyle on M1–2'
+		 [34] 'Upper molars fossettes'
+		 [35] 'Upper cheek teeth imbrication'
+		 [36] 'i1 groove'
+		 [37] 'i1–2 implantation'
+		 [38] 'i3 size'
+		 [39] 'i3 shape'
+		 [40] 'Lower canine size'
+		 [41] 'Spaces among i3, c and p1'
+		 [42] 'p1 shape'
+		 [43] 'Overlap of p1'
+		 [44] 'Mesial cingulid on p2–3'
+		 [45] 'Talonid of p2'
+		 [46] 'Labiodistally well-developed protoconid in p2'
+		 [47] 'Talonid/trigonid on p3'
+		 [48] 'Postmetacristid on p3–4'
+		 [49] 'p4 shape'
+		 [50] 'Enlargement of the talonid in relation to the trigonid of p4'
+		 [51] 'Accessory mesial lobe in the trigonid of p2–4 have'
+		 [52] 'Diastema between p1 and p2'
+		 [53] 'Talonid shape of m1–2'
+		 [54] 'Ectoflexid on m1–2'
+		 [55] 'Lingual sulci on m1–2'
+		 [56] 'Trigonid shape of lower molars'
+		 [57] 'Hypoflexid on m3'
+		 [58] 'Trigonid-talonid contact in lower molars'
+		 [59] 'Concave lingual face of talonid on m1–2'
+		 [60] 'Trigonid-talonid length ratio on m1–2'
+		 [61] 'Descending process of the maxilla'
+		 [62] 'Maxilla extended dorsally over the orbit'
+		 [63] 'Antorbital foramen'
+		 [64] 'Root of the zygomatic arch'
+		 [65] 'Sliver of frontal anteriorly projected'
+		 [66] 'Height of the mandibular horizontal ramus'
+		 [67] 'Mandibular labial foramen in adults'
+		 [68] 'Supratrochlear foramen of humerus'
+		 [69] 'Entepicondylar foramen of humerus'
+		 [70] 'Astragalar foramen'
+		 [71] 'Calcaneum neck length'
+		 [72] 'Peroneal tubercle on the calcaneum'
+		 [73] 'Orientation of the fibular facet on the calcaneum'
+		 [74] 'Cuboid facet of the calcaneum'
+		 [75] 'Calcaneum-navicular contact'
+	;
+	STATELABELS
+		1
+		'absent'
+		'present'
+		,
+		2
+		'continuous'
+		'interrupted'
+		,
+		3
+		'brachydont'
+		'hypsodont'
+		'hypselodont'
+		,
+		4
+		'P/p4 erupt before M/m3'
+		'P/p4 erupt after M/m3 ?'
+		,
+		5
+		'subequal or slightly different in size from I2'
+		'larger than other incisors'
+		,
+		6
+		'oval'
+		'labiolingually compressed'
+		,
+		7
+		'similar to all incisors'
+		'absent or reduced respect to incisors'
+		,
+		8
+		'oval in cross section'
+		'labiolingually compressed'
+		,
+		9
+		'absent'
+		'present'
+		,
+		10
+		'incisiviform'
+		'caniniform'
+		,
+		11
+		'absent'
+		'present'
+		,
+		12
+		'oval'
+		'labiolingually compressed'
+		,
+		13
+		'absent'
+		'present'
+		,
+		14
+		'not overlapped'
+		'overlapped only by C'
+		'overlapped only by P2'
+		'overlapped by C and P2'
+		,
+		15
+		'caniniform'
+		'premolariform'
+		'different from canine and P2'
+		,
+		16
+		'absent'
+		'present'
+		,
+		17
+		'low length/width ratio ?'
+		'high length/width ratio ?'
+		,
+		18
+		'less folded'
+		'much folded'
+		,
+		19
+		'P3 ≤ P4'
+		'P3 > P4'
+		,
+		20
+		'DLL≥DMD ?'
+		'DLL<DMD ?'
+		,
+		21
+		'shallow'
+		'deep'
+		,
+		22
+		'present'
+		'absent'
+		,
+		23
+		'present'
+		'absent'
+		,
+		24
+		'premolariform'
+		'molariform'
+		,
+		25
+		'absent'
+		'mesial'
+		'lingual'
+		,
+		26
+		'present'
+		'absent'
+		,
+		27
+		'present'
+		'absent'
+		,
+		28
+		'roughly equally developed'
+		'hypocone more developed than protocone and lingually protruding'
+		'protocone more developed than hypocone and lingually protruding'
+		,
+		29
+		'DLL>DMD or equidimentional'
+		'DLL<DMD'
+		,
+		30
+		'nearly equally sized'
+		'decrease from M1 to M3'
+		,
+		31
+		'no sulcus'
+		'a single and vertical sulcus'
+		'a bifurcated sulcus forming a tiny middle lobe'
+		'a single and mesially oriented sulcus'
+		,
+		32
+		'rectangular/squared'
+		'trapezoidal'
+		,
+		33
+		'present and deep sulcus'
+		'moderated/little evident'
+		,
+		34
+		'long-lived'
+		'short-lived'
+		'absent'
+		,
+		35
+		'absent'
+		'moderately'
+		'strong'
+		,
+		36
+		'absent'
+		'a lingual shallow groove'
+		'bifid'
+		,
+		37
+		'not procumbent'
+		'procumbent'
+		,
+		38
+		'i3>i2'
+		'i3£i2'
+		'variable present'
+		,
+		39
+		'conical'
+		'flattened'
+		,
+		40
+		'absent or c≤i'
+		'c>i'
+		,
+		41
+		'absent'
+		'present'
+		,
+		42
+		'vestigial or absent'
+		'caniniform ?'
+		'premolariform ?'
+		,
+		43
+		'not overlapped'
+		'overlapped by c'
+		'overlapped by c and p2'
+		,
+		44
+		'present'
+		'absent'
+		,
+		45
+		'very small or absent'
+		'well differentiated'
+		,
+		46
+		'absent'
+		'present'
+		,
+		47
+		'talonid < trigonid'
+		'talonid ≥ trigonid'
+		,
+		48
+		'absent'
+		'present'
+		,
+		49
+		'not molarized'
+		'molarized'
+		,
+		50
+		'absent'
+		'present'
+		,
+		51
+		'absent'
+		'present'
+		,
+		52
+		'absent'
+		'present'
+		,
+		53
+		'sub-circular'
+		'triangular'
+		,
+		54
+		'does not reach the base of the crown'
+		'reaches the base of the crown'
+		,
+		55
+		'trilobed, with two lingual grooves'
+		'bilobed, with a trigonid–talonid groove'
+		,
+		56
+		'quadrangular'
+		'triangular'
+		'P-shaped'
+		,
+		57
+		'absent'
+		'moderately accentuated'
+		'deep'
+		,
+		58
+		'well-defined isthmus'
+		'very short'
+		,
+		59
+		'absent'
+		'present'
+		,
+		60
+		'almost equal'
+		'talonid longer than trigonid'
+		,
+		61
+		'absent'
+		'small or moderately developed'
+		'very prominent'
+		,
+		62
+		'absent'
+		'present'
+		,
+		63
+		'above premolars'
+		'above molars'
+		,
+		64
+		'narrow, not expanded'
+		'moderately expanded'
+		'well expanded'
+		,
+		65
+		'absent'
+		'present'
+		,
+		66
+		'approximately constant, gradually increasing forward'
+		'increase forward, the m2 level is at least twice as high as at the incisor level'
+		,
+		67
+		'behind p4 level'
+		'before p4 level'
+		,
+		68
+		'absent'
+		'present'
+		,
+		69
+		'present'
+		'absent'
+		,
+		70
+		'present'
+		'absent'
+		,
+		71
+		'neck shorter than the body'
+		'neck approximately similar or longer than the body'
+		,
+		72
+		'present'
+		'absent'
+		,
+		73
+		'oblique'
+		'proximodistal'
+		,
+		74
+		'slightly concave and no so inclined'
+		'moderately concave and deeply inclined'
+		,
+		75
+		'absent'
+		'present ?'
+		
+	;
+	MATRIX
+	'Simpsonotus praecursor'		                         000?0000011000200100000000000000000002-1000000000000000000-00?00?0?????????
+	'Notostylops murinus'		                            00001011000010000000000000000000100012-10?0110000000000000011100000000?????
+	'Oldfieldthomasia debilitata'		                    0001010100010310000000000001000000010011010110100100000010000101001????????
+	'Notopithecus adapinus'		                          000001010001030000000000000000001001001102201001000000000000110100100000000
+	'Federicoanaya sallaensis'		                       101101011001030110011110111011211122101101110000000001000000101110100111111
+	'Brucemacfaddenia boliviensis'		                   10110101100101011101111120101121012?1011011110101100010000001??1?01??1?????
+	'Santiagorothia chiliensis'		                      001101011001010?000111002011102010011011021100010000010000001001101????????
+	'Eopachyrukhos pliciferus'		                       0010?????????????????????0101?2010???????1011000000001000000?????01?1??????
+	'Argyrohyrax proavus'		                            1111110110010301110111012011102011110011010111101100011201001001?01????????
+	'Progaleopithecus tournoueri'		                    101????????????????111112110111001021001012101001100111220001??2?01????????
+	'Archaeophylus patrius'		                          1011??011????1?11111111021111110111???????01110000001111?0111??1??1????????
+	'Cochilius volvens'		                              10211101010102011101111121101120121111100111101011000111010020021111?1?1??0
+	'Interatherium robustum'		                         102111110100122111011111211010100211110011011010110001111100200211101101110
+	'Miocochilius anamopodus'		                        112110010000021111011110111010111111101112011000000111112101100210100101101
+	'Miocochilius federicoi'		                         112??????????0200000011011101010121?????????????????????????1??0???????????
+	'Protypotherium australe'		                        102111010001032001001110111010100102101101111000000011121100100211000101111
+	'Protypotherium endiadys'		                        112111010?01002001001110111010101110101111111000000011122110111100010??????
+	'Protypotherium colloncurensis'		                  112??????????211110011101110113111201001010110000000111221000?12?10???1111?
+	'Protypotherium sinclairi'		                       112???????????????????????????????????1??101100101?011120100???????????????
+	'Protypotherium distinctum'		                      112?????????0????1?0111011101021112????????????????????????????????????????
+	'Protypotherium minutum'		                         112?????????0????1?0111011121131112?????????????????11121???1??1???????????
+	'Caenophilus tripartitus'		                        112????10?111020000011101???????????101101011000?011??????????????1????????
+	'Protypotherium sp nov ?'		          112??????????????0101110111211211?1?????????????????11120110???????????????
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 75;
+      ENDBLOCK;
+      
