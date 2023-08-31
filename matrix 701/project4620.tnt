@@ -1,0 +1,74 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.34.16'
+37 19
+
+&[num]
+Huaridelphis            00011011001111011111121000???0?1011??
+MUSM603                 ??011011001??10?11111??0?0102001?????
+Notocetus               0001101100111101111112100011001100111
+Squalodelphis           00012111001?110?110112100011001100???
+Medocinia               ??012111011?1101110????????????1?????
+USNM475596              ??0???110111110?110????????????10????
+Phocageneus             ???????????????????11210001100110?1??
+Platanista              0011100110111102110201001110100111011
+MUSM1611                ???????????????????2010011???????????
+Zarchachis              10111001111111011102000100101001110??
+Pomatodelphis           10111001111111011102000100101001110??
+Eurhinodelphis          11101000001000100000000000001101?10??
+Xiphiacetus             11101001?010000000?00000000011?101000
+Ziphiodelphis           11101001001000100000000000001101010??
+Waipatia                00001000000000000000000000000000000??
+Squalodon               10000000000000000000000000000000000??
+Zygorhiza               0000000000000000000000000000000000000
+Allodelphis             101001000010?101100????????????1?1???
+Zarhinocetus            101001010010?100100?000000???0?1?1???
+
+;
+
+
+cnames
+{ 0 Rostrum_elongation short,_ratio_between_rostrum_length_and_condylobasal_length_<0.70 elongated,_ratio_>0.70;
+{ 1 Apex_of_the_rostrum_constituted_by_the_only_premaxillae_on_more_than_10%_of_its_total_length_and_lacking_alveoli absent present;
+{ 2 Lateral_rostral_suture_between_premaxilla_and_maxilla_deeply_grooved no yes;
+{ 3 Marked_asymmetry_of_the_premaxillae_on_the_rostrum,_at_some_distance_anterior_to_the_premaxillary_foramina,_with_the_right_premaxilla_distinctly_narrower_than_the_left_in_dorsal_view absent present;
+{ 4 Widening_of_the_premaxillae_at_the_rostrum_base narrow_premaxillae,_ratio_between_the_width_of_the_rostrum_and_the_transverse_width_of_the_premaxillae_at_the_antorbital_notch_<0.60 wide_premaxillae,_ratio_between_0.60_and_0.75 extremely_wide_premaxillae_nearly_reaching_the_lateral_margin_of_the_rostrum,_ratio_>0.75;
+{ 5 Dorsal_opening_of_the_mesorostral_groove_anterior_to_the_rostrum_base narrower_than_the_premaxilla wider_than_the_premaxilla;
+{ 6 Deep,_‘V’-shaped,_left_antorbital_notch,_related_to_an_anteriorly_pointed_antorbital_process no yes;
+{ 7 Elevated_antorbital_region,_distinctly_higher_than_the_dorsal_margin_of_the_rostrum_base_in_lateral_view no yes;
+{ 8 Distinct_dorsal_crest_in_the_antorbital-supraorbital_region no yes;
+{ 9 Thickening_of_the_antorbital_process_of_the_frontal absent,_ratio_between_the_height_of_the_antorbital_process_of_the_frontal,_measured_in_lateral_view_perpendicular_to_the_maxillary-frontal_suture_above_the_orbit,_and_the_vertical_distance_from_the_lower_margin_of_the_occipital_condyles_to_the_vertex_of_t present,_ratio_>0.30;
+{ 10 Widening_of_the_cranium cranium_roughly_as_long_as_wide_or_longer_than_wide_with_ratio_between_cranium_length_(longitudinal,_from_occipital_condyles_to_level_of_antorbital_notches)_and_postorbital_width_>0.90 cranium_distinctly_shorter_than_wide_with_ratio_<0.90;
+{ 11 Posterior_infraorbital_foramen(ina)_along_the_vertex_more_medial_than_the_lateral-most_margin_of_the_premaxilla_in_the_cranium no yes;
+{ 12 Deep_fossa_in_the_frontal_on_orbit_roof,_at_the_level_of_the_frontal_groove no yes;
+{ 13 Vertex_distinctly_shifted_to_the_left_compared_with_the_sagittal_plane_of_the_skull no yes;
+{ 14 Transverse_premaxillary_crest_on_the_vertex absent present;
+{ 15 Ventral_exposure_of_the_palatine palatine_widely_exposed_anterior_to_the_pterygoid palatine_only_exposed_laterally_to_the_lateral_lamina_of_the_pterygoid palatine_completely_covered_by_the_pterygoid;
+{ 16 Hamular_fossa_of_the_pterygoid_sinus small,_not_reaching_anteriorly_the_level_of_the_antorbital_notch wide,_extending_anteriorly_on_the_palatal_surface_of_the_rostrum;
+{ 17 Thickening_of_the_zygomatic_process_of_the_squamosal absent,_ratio_between_the_maximum_distance_from_the_anteroventral_margin_of_the_zygomatic_process_to_the_posterodorsal_margin,_in_lateral_view,_and_the_vertical_distance_from_the_lower_margin_of_the_occipital_condyles_to_the_vertex_of_the_skull_<0.35 present,_ratio_>0.35;
+{ 18 Circle-shaped_dorsal_outline_of_the_zygomatic_process_of_the_squamosal_in_lateral_view no yes;
+{ 19 Articular_rim_on_the_lateral_surface_of_the_periotic absent present present_and_hook-like;
+{ 20 Pars_cochlearis_of_the_periotic_square-shaped_in_ventral_view no yes;
+{ 21 Aperture_of_the_cochlear_aqueduct_of_the_periotic small very_small large_and_thin-edged;
+{ 22 Aperture_of_the_cochlear_aqueduct_of_the_periotic_-_2 faces_mediodorsally faces_dorsally;
+{ 23 Transverse_thickening_of_the_anterior_process_of_the_periotic no yes;
+{ 24 Internal_auditory_meatus_of_the_periotic_oval,_with_the_dorsal_opening_for_the_facial_canal_lateral_to_the_spiral_cribriform_tract no yes;
+{ 25 Separate_ossicle_at_the_apex_of_the_anterior_process_of_the_periotic no yes;
+{ 26 Elongated_anterior_spine_on_the_tympanic_bulla,_associated_to_a_marked_anterolateral_convexity no yes;
+{ 27 Ventral_groove_of_the_tympanic_affecting_the_whole_length_of_the_bone,_including_the_anterior_spine no yes;
+{ 28 Extent_of_the_inner_and_outer_posterior_prominences_of_the_tympanic both_prominences_with_approximately_the_same_posterior_extent outer_posterior_prominence_posteriorly_longer_than_the_inner_posterior_prominence outer_posterior_prominence_posteriorly_shorter_than_the_inner_posterior_prominence;
+{ 29 Dorsal_margin_of_the_involucrum_of_the_tympanic_cut_by_a_median_indentation,_in_medial_view absent present;
+{ 30 Apical_extension_of_the_manubrium_of_the_malleus no yes;
+{ 31 Loss_of_double-rooted_posterior_teeth no yes;
+{ 32 Retention_of_accessory_denticles_on_posterior_teeth yes no;
+{ 33 Tooth_count_per_upper_or_lower_row <25 >25;
+{ 34 Strong_development_of_the_dorsal_transverse_process_of_the_atlas_and_extreme_reduction_of_its_ventral_process no yes;
+{ 35 Great_reduction_of_coracoid_process_of_the_scapula no yes;
+{ 36 Great_reduction_or_loss_of_supraspinatus_fossa,_with_acromion_located_on_anterior_edge_of_scapula no yes;
+;
+
+
+ccode  - 0.36;
+
+
+;

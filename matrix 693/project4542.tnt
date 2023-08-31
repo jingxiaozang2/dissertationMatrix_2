@@ -1,0 +1,65 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.26.25'
+27 20
+
+&[num]
+Gogonasus_andrewsae                   ??0000?0?00000000?000000000
+Spodichthys_buetleri                  ????0?000000?0??0?0010????0
+Cabonnichthys_burnsi                  1101011121111110101010?2122
+Edenopteron_keithcrooki               ???1101121??1?1?101101?21?2
+Eusthenopteron_foordi                 000000001111000000101000100
+Eusthenopteron_jenkinsi               ????????1?1100??00?01010?0?
+Eusthenopteron_wenjukowi              ??0001010?1?00??00?010???0?
+Heddleichthys_dalgleisiensis          ?1000?1121110000101010?0100
+Hyneria_lindae                        1??11111211100?010?10102020
+Langlieria_radiatus                   ??????11?????0??10?000????1
+Langlieria_smalingi                   ????1?11????10??1????00???1
+Langlieria_socqueti                   ??????1121??10??1110?01??00
+Mandageria_fairfaxi                   1111111121110111101010?2021
+Notorhizodon_mackelveyi               ?????????11100??1??0?0???00
+Platycephalichthys_bischoffi          ??11?1?10?0100??10?01??010?
+Tinirau_clackae                       000????11001000?111010?200?
+Tristichopterus_alatus                0000000010000000011001?0100
+Eusthenodon_bourdoni                  ??010111????10??1??1?0120?0
+Eusthenodon_wangsjoi                  ??111111111111??11111011020
+Eusthenodon_legannihanne              ??111011211110??1????0121?2
+
+;
+
+
+cnames
+{ 0 'Epichordal radials in caudal fin (Ahlberg and Johanson, 1997; character 13)' absent present;
+{ 1 'Shape of caudal fin (Ahlberg and Johanson, 1997; modified from character 14)' asymmetrical symmetrical;
+{ 2 'Relationship of jugal to orbit (Ahlberg and Johanson, 1997; character 4)' contributes_to_orbital_margin excluded_from_orbital_margin;
+{ 3 'Relationship of postorbital to orbit (Ahlberg and Johanson, 1997; character 3)' contributes_to_orbital_margin excluded_from_orbital_margin;
+{ 4 'Contact between posterior supraorbital and intertemporal (Ahlberg and Johanson, 1997; character 1)' present absent;
+{ 5 'Shape of posterior supraorbital (Ahlberg and Johanson, 1998; modified from character 58)' caudal_process_subequal_in_length_or_shorter_than_orbital_margin_of_the_posterior_supraorbital caudal_process_much_longer_than_orbital_margin_of_the_posterior_supraorbital;
+{ 6 'Shape of pineal area (Ahlberg and Johanson, 1997; modified from character 5)' round_or_oval kite-_or_drop-shaped;
+{ 7 'Location of pineal foramen (Ahlberg and Johanson, 1997; modified from character 6)' level_with_or_rostral_to_caudal_margin_of_orbits well_caudal_to_orbits;
+{ 8 'Premaxillary dentition (Ahlberg and Johanson, 1997; modified from character 7)' homodont_(morphotype_A_of_Borgen_and_Nakrem,_2016) teeth_closest_to_symphysis_gradually_increase_in_size_(morphotype_B) single,_greatly_enlarged_premaxillary_fang_(morphotypes_C_and_D);
+{ 9 'Number of fang positions on ectopterygoid (Ahlberg and Johanson, 1998, character 17; character states redefined by Clément et al., 2009; character 10)' one two;
+{ 10 'Number of fang positions on third coronoid (Ahlberg and Johanson, 1998, character 13; character states redefined by Clément et al., 2009; character 11)' one two;
+{ 11 'Coronoid proportions (Ahlberg and Johanson, 1998; character 8; character states redefined by Clément et al., 2009; character 12)' third_coronoid_similar_in_length_to_second_coronoid third_coronoid_significantly_longer_than_second_coronoid;
+{ 12 'Marginal dentition on dentary reaches lower jaw symphysis (Ahlberg and Johanson, 1998; modified from character 11)' yes no;
+{ 13 'Vertical blade-like lamina labial to coronoid fang on first coronoid (Clément et al., 2009; character 14)' present absent;
+{ 14 'Accessory vomers (Clément et al., 2009; character 16)' absent present;
+{ 15 'Marginal tooth row lateral to dermopalatine fang (Clément et al., 2009; slightly modified from character 19)' present absent;
+{ 16 Dentary_fang_pair_(Ahlberg_and_Johanson,_1997,_character_11) absent present;
+{ 17 Lateral_margin_of_caudal_process_of_vomer_(Snitting,_2008,_appendix_2,_modified_from_character_22) distinct_corner_present straight_or_slightly_concave;
+{ 18 Extratemporal_in_a_postspiracular_position_(Ahlberg_and_Johanson,_1997,_modified_from_character_12) no yes;
+{ 19 Denticulated_field_of_parasphenoid_(Snitting,_2008,_appendix_2,_character_25) stands_proud_of_body_of_parasphenoid,_supported_rostrally_by_midline_keel recessed_into_body_of_parasphenoid;
+{ 20 Width/length_ratio_of_vomers_+_parasphenoid_(character_21,_Olive_et_al.,_2020) equal_to_or_more_than_0.5 less_than_0.5;
+{ 21 Width/length_ratio_of_parietal_(character_22,_Olive_et_al.,_2020) less_than_0.5 equal_to_or_more_than_0.5;
+{ 22 Maxilla_overlap_onto_squamosal_(character_23,_Olive_et_al.,_2020) present absent;
+{ 23 Maximum_height_of_maxilla,_articulated_specimen_in_dermal_view_(character_24,_Olive_et_al.,_2020) at_squamosal?jugal_junction at_lacrimal-jugal_junction both_positions_equal_height;
+{ 24 Portion_of_lacrimal_that_is_rostral_to_orbit_(character_25,_Olive_et_al.,_2020) half_or_more less_than_half;
+{ 25 Marginal_coronoid_tooth_row_(character_26,_Olive_et_al.,_2020) present_on_coronoids_1_to_3 present_only_on_coronoids_2_and_3 present_only_on_coronoid_3;
+{ 26 Scale_ornament_(character_27,_Downs_and_Daeschler,_2022) incised_grooves_absent incised_grooves_present,_adjacent_grooves_separated_by_a_space_approximately_equal_to_width_of_groove incised_grooves_present,_adjacent_grooves_separated_by_a_space_much_greater_than_width_of_groove;
+;
+
+
+ccode  - 0.26;
+
+
+;

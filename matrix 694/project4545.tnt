@@ -1,0 +1,75 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.26.51'
+31 26
+
+&[num]
+Kayentachelys                               0000001001000000010001000?0??00
+Bashuchelys_youngi                          0?010??1???0010000110000??0????
+Bzigongensis                                ?0?100?110000100001100001000??0
+Chuannanchelys_dashanpuensis                000000100?011201001101101?0???0
+Protoxinjiangchelys_salis                   1?0000100?01121100110110??0???0
+Baenoides_cf.                               ?0?10000100112111111011???0???0
+Xinjiangchelys_latimarginalis               ?001011010011211111101211001??0
+Tienfuchelys_chungkingensis                 ??110?101?01121111001110??0???0
+Tienfuchelys_tzuyangensis                   00110??01?01121111111111100???0
+Xinjiangchelys_junggarensis_merged          0?010??0?11112111111012?10011?0
+Tianshanensis                               11000110?11112111111012110010?0
+Annemys_levensis                            1101100001111211111101211101?10
+Annemys_latiens                             010110001111121111110?21??01?10
+Pzigongensis                                10110?101001121111??11201101??0
+Annemys_sp                                  ??011??00011121111??01????011??
+Xinjiangchelys_wusu                         ??01?11011111211111101201001110
+Brodiechelys_brodiei                        110101100101121?011101??1010??0
+Brodiechelys_royoi                          110101000?011210011101111?10??0
+Xinjiangchelys_radiplicatoides              00?111101?111211111101111001?00
+Xinjiangchelys_chowi                        ?10011100?1???1?????????10000?0
+Xinjiangchelys_qiguensis                    ?000111000111211110001111?000?0
+Phunoichelys                                ?0010110??01121?0010?11?1?0???0
+Kalasinemys                                 0?110?????1?12111111??2???0??10
+Shartegemys                                 11000110011112111100?1201?00??0
+Yanduchelys_cf                              ?0?10000??0???1?11110??0??0???0
+Larachelus_morla                            ?1?1?000?11112100110011?22?1???
+
+;
+
+
+cnames
+{ 0 Anterior_neurals 6>4 4<6;
+{ 1 Midline_contact_of_costals_7_and/or_8 absent present;
+{ 2 vertebral_1 wider_than_nuchal_or_as_wide_as_nuchal narrower_than_nuchal;
+{ 3 Width/length_ratio_of_vertebral_3 more_than_1.7 less_than_1.7;
+{ 4 Vertebrals_2_and_3_narrower_than_vertebral_1 no yes;
+{ 5 Position_of_sulcus_between_vertebrals_3_and_4 on_neural_6 on_neural_5;
+{ 6 Sulcus_between_vertebrals_3_and_4 V-shaped straight;
+{ 7 Vertebral_4_wider_than_vertebrals_1-3 no state_not_defined_by_author;
+{ 8 Vertebral_5_narrower_than_vertebral_1 yes no;
+{ 9 Vertebral_5_overlaps_peripheral_10 yes no;
+{ 10 Plastron/carapace_connection sutural ligamentous;
+{ 11 Epiplastra_with_long_midline_contact no yes;
+{ 12 Posterolateral_process_of_epiplastron absent present;
+{ 13 Entoplastron With_strong_projection_completely_separating_epiplastra With_strong_projection_which_partially_separates_epiplastra without_strong_anterior_projection;
+{ 14 Mesoplastra present absent;
+{ 15 Overlapping_of_entoplastron_by_intergulars strong weak_or_absent;
+{ 16 Position_of_middle_part_of_the_humeropectoral_sulcus anterior_to_the_base_of_the_lobe about_the_base_of_the_lobe;
+{ 17 Pectoral_significantly_longer_than_abdominal_(more_than_two_times) yes no;
+{ 18 Anals_overlap_on_or_touch_hypoplastra no yes;
+{ 19 Omega-shaped_projection_of_anals absent present;
+{ 20 Number_of_inframarginals four_pairs three_pairs;
+{ 21 Gular_and_intergular_projections present absent;
+{ 22 Shape_of_entoplastron leaf-shaped_with_serrated_posterolateral_margins diamond-shaped oval;
+{ 23 Midline_sulcus straight sinuous;
+{ 24 Number_of_neurals more_than_8 8 7;
+{ 25 Number_of_suprapygals 2 3 state_not_defined_by_author;
+{ 26 Vertebral_2_is_the_widest no yes;
+{ 27 Marginals_12_extend_on_to_suprapygal no yes;
+{ 28 Cervical_vertebrae_short no state_not_defined_by_author;
+{ 29 Intertrabecular_fossa absent present;
+{ 30 Vertebral_1_extends_onto_peripherals_2 state_not_defined_by_author;
+;
+
+
+ccode  - 0.30;
+
+
+;

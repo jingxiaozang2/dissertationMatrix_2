@@ -1,0 +1,216 @@
+nstates num 10;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.25.58'
+95 50
+
+&[cont]
+Calliostoma_conulus                      0.53-0.6 30.0-0.0 0.32-0.0 63.0-0.0 120.0-0.0 ? 12.0-0.0 25.0-26.0 25.0-26.0 25.0-26.0
+Calliostoma_zizyphinum                   0.52-0.54 23.0-0.0 0.31-0.0 60.0-64.0 125.0-0.0 ? 26.0-0.0 26.0-0.0 26.0-0.0 26.0-0.0
+Turcica_monilifera                       0.8-9.0 40.3-0.0 0.31-0.0 67.0-0.0 160.0-0.0 ? 62.0-0.0 76.0-0.0 76.0-0.0 76.0-0.0
+Ginebis_argenteonitens                   0.9-0.0 60.1-0.0 0.36-0.0 71.0-0.0 135.0-0.0 ? 16.0-0.0 90.0-0.0 ? 90.0-0.0
+Seguenzia_formosa                        0.3-0.4 4.8-0.0 0.38-0.0 57.0-0.0 99.0-0.0 ? 29.0-0.0 ? ? ?
+Eucycloidea_bianor                       0.2-0.0 9.0-0.0 0.42-0.0 55.0-0.0 110.0-0.0 ? 30.0-0.0 28.0-30.0 28.0-30.0 28.0-30.0
+Eucycloscala_binodosa                    0.22-0.0 14.0-0.0 0.36-0.0 40.0-0.0 126.0-0.0 0.97-0.0 45.0-0.0 10.0-0.0 10.0-0.0 ?
+Eunemopsis_epaphus                       0.2-0.0 6.0-0.0 0.51-0.0 50.0-0.0 97.0-0.0 0.55-0.0 50.0-0.0 13.0-0.0 13.0-0.0 ?
+Eucyclus_julia                           ? 42.0-0.0 0.48-0.0 31.0-0.0 56.0-0.0 ? ? ? ? ?
+Amberleya_bathonica                      ? 35.0-0.0 0.43-0.0 40.0-0.0 83.0-0.0 ? ? 17.0-0.0 ? 17.0-0.0
+Amberleya_spinigera                      ? 76.0-0.0 0.37-0.0 55.0-58.0 80.0-0.0 ? ? ? ? 16.0-0.0
+Ambercyclus_orbignyanus                  ? 48.9-0.0 0.35-0.0 50.0-0.0 ? ? ? 15.0-0.0 ? 15.0-0.0
+Ambercyclus_isabelensis                  ? 20.4-0.0 0.36-0.0 64.0-81.0 ? ? 32.0-0.0 21.0-0.0 ? 21.0-0.0
+Ambercyclus_espinosus                    ? 20.6-0.0 0.34-0.0 77.0-0.0 ? ? 25.0-0.0 15.0-0.0 ? 15.0-0.0
+Calliotropis_antarchais                  0.54-0.57 10.5-0.0 0.3-0.0 65.0-0.0 102.0-0.0 ? 23.0-0.0 26.0-0.0 ? 26.0-0.0
+Calliotropis_biarmata                    0.27-0.33 10.8-0.0 0.34-0.0 70.0-0.0 135.0-0.0 ? 45.0-0.0 18.0-0.0 ? 17.0-0.0
+Calliotropis_vierowiensis                ? 10.5-0.0 0.31-0.0 72.0-0.0 144.0-0.0 ? 31.0-0.0 ? ? ?
+Calliotropis_subdisjuncta                ? 10.0-0.0 0.26-0.0 78.0-0.0 130.0-0.0 ? 40.0-0.0 18.0-0.0 ? 18.0-0.0
+Calliotropis_keideli                     ? 16.0-0.0 0.4-0.0 78.0-0.0 115.0-0.0 ? 29.0-0.0 15.0-0.0 ? 22.0-0.0
+Calliotropis_cf_keideli                  ? 13.4-0.0 0.42-0.0 70.0-0.0 134.0-0.0 ? 23.0-0.0 15.0-0.0 ? 21.0-0.0
+Calliotropis_iranica                     ? 6.7-0.0 0.34-0.0 73.0-0.0 133.0-0.0 ? 44.0-0.0 16.0-0.0 16.0-0.0 16.0-0.0
+Calliotropis_naybandensis                ? 12.3-0.0 0.4-0.0 53.0-0.0 117.0-0.0 ? 32.0-0.0 19.0-0.0 19.0-0.0 19.0-0.0
+Calliotropis_aliabadensis                ? 9.2-0.0 0.4-0.0 57.0-0.0 135.0-0.0 ? 18.0-0.0 20.0-0.0 20.0-0.0 20.0-0.0
+Calliotropis_arenosa                     0.27-0.0 3.4-0.0 0.35-0.0 89.0-0.0 126.0-0.0 0.1-0.0 40.0-0.0 16.0-0.0 ? 17.0-0.0
+Calliotropis_ligosta                     0.73-0.0 7.4-0.0 0.28-0.0 51.0-0.0 100.0-0.0 ? 20.0-0.0 22.0-0.0 ? 21.0-0.0
+Calliotropis_microglyptophorus           0.31-0.0 9.5-0.0 0.4-0.0 64.0-0.0 120.0-0.0 ? 39.0-0.0 22.0-0.0 ? 22.0-0.0
+Calliotropis_conoeides                   0.4-0.0 31.5-0.0 0.35-0.0 57.0-0.0 113.0-0.0 ? 48.0-0.0 20.0-0.0 ? 20.0-0.0
+Calliotropis_helix                       0.3-0.4 19.8-0.0 0.31-0.0 67.0-0.0 132.0-0.0 3.8-0.0 38.0-0.0 20.0-0.0 ? 20.0-0.0
+Calliotropis_chalkeie                    0.25-0.3 6.5-0.0 0.35-0.0 65.0-0.0 132.0-0.0 1.25-0.0 47.0-0.0 15.0-0.0 15.0-0.0 15.0-0.0
+Calliotropis_acherontis                  0.18-0.0 5.2-0.0 0.38-0.0 76.0-0.0 110.0-0.0 1.43-0.0 33.0-0.0 15.0-0.0 ? 19.0-0.0
+Calliotropis_echidnoides                 0.15-0.18 4.8-0.0 0.31-0.0 73.0-0.0 122.0-0.0 0.7-0.0 38.0-0.0 12.0-15.0 ? 12.0-15.0
+Calliotropis_derbiosa                    0.2-0.0 22.3-0.0 0.28-0.0 78.0-0.0 132.0-0.0 7.2-0.0 64.0-0.0 45.0-0.0 50.0-0.0 58.0-0.0
+Calliotropis_micraulax                   0.2-0.0 20.5-0.0 0.28-0.0 77.0-0.0 112.0-0.0 5.9-0.0 48.0-0.0 25.0-0.0 26.0-0.0 76.0-0.0
+Calliotropis_dicrous                     0.4-0.0 10.2-0.0 0.26-0.0 73.0-0.0 101.0-0.0 3.5-0.0 61.0-0.0 20.0-0.0 ? 37.0-0.0
+Calliotropis_denticulus                  0.4-0.45 7.4-0.0 0.24-0.0 104.0-0.0 125.0-0.0 4.0-0.0 50.0-0.0 32.0-0.0 ? 42.0-0.0
+Calliotropis_pelseeneri                  ? 12.1-0.0 0.33-0.0 81.0-0.0 136.0-0.0 ? 15.0-0.0 52.0-0.0 ? 52.0-0.0
+Calliotropis_oros                        0.25-0.0 5.4-0.0 0.25-0.0 102.0-0.0 118.0-0.0 1.5-0.0 69.0-0.0 26.0-0.0 ? 46.0-0.0
+Calliotropis_cycloeides                  0.2-0.25 5.0-0.0 0.24-0.0 85.0-0.0 139.0-0.0 1.6-0.0 48.0-0.0 37.0-0.0 37.0-0.0 22.0-0.0
+Calliotropis_eucheloides                 ? 8.5-0.0 0.23-0.0 96.0-0.0 129.0-0.0 3.3-0.0 74.0-0.0 19.0-48.0 19.0-48.0 19.0-48.0
+Calliotropis_elephas                     0.35-0.0 8.3-0.0 0.21-0.0 98.0-0.0 139.0-0.0 4.2-0.0 52.0-0.0 20.0-0.0 23.0-0.0 57.0-0.0
+Calliotropis_cooperculum                 0.35-0.0 5.0-0.0 0.22-0.0 92.0-0.0 119.0-0.0 2.6-0.0 60.0-0.0 20.0-0.0 ? 29.0-0.0
+Calliotropis_nomismasimilis              0.28-0.3 5.2-0.0 0.2-0.0 130.0-0.0 129.0-0.0 2.7-0.0 64.0-0.0 21.0-0.0 ? 22.0-0.0
+Calliotropis_ceciliae                    ? 17.5-0.0 0.29-0.0 74.0-0.0 128.0-0.0 1.2-0.0 55.0-0.0 24.0-0.0 ? 37.0-0.0
+Calliotropis_ottoi                       0.3-0.42 10.0-0.0 0.22-0.0 85.0-0.0 113.0-0.0 1.5-0.0 53.0-0.0 18.0-0.0 ? 23.0-0.0
+Calliotropis_stegos                      ? 5.0-0.0 0.22-0.0 106.0-0.0 130.0-0.0 1.88-0.0 46.0-0.0 21.0-0.0 ? 35.0-0.0
+Calliotropis_excelsior                   0.1-0.0 24.4-0.0 0.34-0.0 65.0-0.0 123.0-0.0 5.8-0.0 40.0-0.0 90.0-0.0 ? 93.0-0.0
+Calliotropis_enantioserrata              0.11-0.0 29.6-0.0 0.34-0.0 64.0-0.0 135.0-0.0 ? 42.0-0.0 48.0-0.0 ? 44.0-0.0
+Calliotropis_andamanensis                ? 25.0-0.0 0.28-0.0 82.0-0.0 131.0-0.0 5.86-0.0 52.0-0.0 27.0-0.0 ? 40.0-0.0
+Calliotropis_bukabukaensis               ? 15.9-0.0 0.35-0.0 69.0-0.0 120.0-0.0 5.1-0.0 75.0-0.0 26.0-0.0 ? 25.0-0.0
+Calliotropis_antarctica                  0.35-0.0 6.13-0.0 0.23-0.0 108.0-0.0 114.0-0.0 1.02-1.05 25.0-0.0 35.0-0.0 42.0-0.0 43.0-0.0
+
+
+&[num]
+Calliostoma_conulus                     30010006300??1011?000115010222200001000205?000??????0?????0????0????0030?3???0??00000
+Calliostoma_zizyphinum                  30010006300??1011?000115010222200001101255500100001111002?11122111000030?????0??00000
+Turcica_monilifera                      00110105100??01000110115211101000001111255500100010111012011120111000000222110??00000
+Ginebis_argenteonitens                  00100015100??0100000021511022210000111013100010121010?????10120110000010231110??00000
+Seguenzia_formosa                       20010015100??11000101115001101000001111242000100021010000110101110002330?????0??01210
+Eucycloidea_bianor                      01100117000??0101??002150111010000001101311001010200100120101100????0000222110??01220
+Eucycloscala_binodosa                   21000117001100101?1002130111110000001101300001001200101020110110????111012?1110000000
+Eunemopsis_epaphus                      01000118101100101?1002150111110000001101311001001200101020?10110????111012?1110000000
+Eucyclus_julia                          ?1102118000??0101?0102150112222000211100100000??????0?????110?10????2330?????0??01220
+Amberleya_bathonica                     ???0[01]015000??0101?00020001021100000111122000010122000?????101000????0000232110??00000
+Amberleya_spinigera                     ???0[01]014000??0101?0002000102222000011112100000??????0?????101?00????2110?32110??00000
+Ambercyclus_orbignyanus                 ???0[02]016000??0101?00011511100110000111013000010120000?????10120110001110131110??00000
+Ambercyclus_isabelensis                 ???0[02]015000??0101?00011411100101[12]01111013110010020000?????10120110000110131110??00000
+Ambercyclus_espinosus                   ???0[02]015000??0101?00011311111100000111013000010120000?????10120110001110131110??00000
+Calliotropis_antarchais                 0001[01]115110??0000102011401021200001111013112010121000?????1[01]100111000000132110??01120
+Calliotropis_biarmata                   21000015000??0001?00011411100000001011013000010022000?????101201010000001311110000000
+Calliotropis_vierowiensis               ???00014000??0001?00011411100000001011013000010022000?????101201010000001311110001220
+Calliotropis_subdisjuncta               2100[01]014000??0101?00011411100000001011013000010022000?????101201010000001311110000000
+Calliotropis_keideli                    ???0[02]015000??0101?02011401020210001011013100010122000?????101201001000100311120000000
+Calliotropis_cf_keideli                 ???0201400?????0??0?0????1020210001011013210010122000?????101001001000001311020001220
+Calliotropis_iranica                    ???0[02]01?000??0101?0001141111110000101101423201010000111120100?01000000002221020101210
+Calliotropis_naybandensis               ???02014000??0101?0001131111110000101101423201011000101020100?01001000101111120001221
+Calliotropis_aliabadensis               ???0[02]014000??0101?0001141111110000101101423201010000111120100?01000000001111110001210
+Calliotropis_arenosa                    20000115001100100011011311111000001011013332010022000?????101001000000001311021101210
+Calliotropis_ligosta                    0110[01]114000??0001?02010001101110001111123100010122000?????101001010001101321121001220
+Calliotropis_microglyptophorus          0001001[56]100??0100100011411021200001111013112010121000?????101000????0000132110??01120
+Calliotropis_conoeides                  00000017100??0100101011411100100001111013100010121000?????10100100001120131100??00000
+Calliotropis_helix                      [01]001[01]017001100101?01011411102110001011013330110121020?????101201010001101320021000000
+Calliotropis_chalkeie                   0000101500110010010001141111110000101101433001011100101010101001000012201120011001220
+Calliotropis_acherontis                 00002015001100100000011401111100001011013332010022000?????101100????0000131110??00000
+Calliotropis_echidnoides                10011015001110100012001311110000001011013330010120000?????101201000000001310111000000
+Calliotropis_derbiosa                   [01]001[02]01[67]10101110000000151110000110001101433011010000101120101101000000101220011001210
+Calliotropis_micraulax                  [01]001[01]01[67]101011101?0001151110000110001101433011010000101120101101000000100220011000000
+Calliotropis_dicrous                    00012015101011001?00011411102010000011013320010120000?????11120111000110031100??10000
+Calliotropis_denticulus                 00013014101110001?00001511110101101011123320010020000?????101201010001100311010001120
+Calliotropis_pelseeneri                 ???10015100??0100001011511100000001011013330010122000?????101001000000001311011001120
+Calliotropis_oros                       1001[01]014101010000000001511110101101011123320010020000?????101201010001100311010001220
+Calliotropis_cycloeides                 1001[01]01510111100000000151111110110101101433001000200100020101101100001110120110010000
+Calliotropis_eucheloides                [01]002[01]11510111010001000151110010111001112433001011002100010101201000000100220021011220
+Calliotropis_elephas                    [01]0024015101110101?0100151111211000101101333001000200100010101101????12200111021000000
+Calliotropis_cooperculum                10024114101110100100001511111100001011013330010022000?????101101110012200310021001120
+Calliotropis_nomismasimilis             [01]002[24]114101101000010011511112110001011123330110022000?????100201000111100321011010000
+Calliotropis_ceciliae                   ???10015101110100001011511102010001011013330010022000?????101001000011001311011001120
+Calliotropis_ottoi                      00020115101100100000001411112010001011013331010022000?????101001000012200311021000000
+Calliotropis_stegos                     [01]0021014101101001?00001511112010001011013330110022000?????101101010011100311021010000
+Calliotropis_excelsior                  [01]0010017101100100000011411112010000011013330210021020?????101200????11100330021010000
+Calliotropis_enantioserrata             [01]0010017100??0100000011411102010001011013330210021020?????101200????11100330021010000
+Calliotropis_andamanensis               ???10017101010110000011401102010000011013330110021020?????101201000011100310020010000
+Calliotropis_bukabukaensis              ???2001[56]10101010001?011301102010001011013330110122000?????101000????00000321010000000
+Calliotropis_antarctica                 ???21013101110101?0001151111211100101101333001000200101010101100????10000111021000000
+
+;
+
+
+cnames
+{ 0 Protoconch_width;
+{ 1 Maximum_height_of_adult_teleoconch;
+{ 2 HW_ratio;
+{ 3 Apical_angle;
+{ 4 Basal_angle;
+{ 5 Umbilical_width;
+{ 6 Apertural_inclination;
+{ 7 Number_of_nodes_on_P1;
+{ 8 Number_of_nodes_on_P2;
+{ 9 Number_of_nodes_on_P3;
+{ 10 Protoconch_sculpture Smooth Glassy Microgranular Honeycomb_pattern;
+{ 11 Protoconch_morphology Bulbous Depressed;
+{ 12 Number_of_protoconch_whorls 1 1.5;
+{ 13 Spire_height_on_adult_teleoconch High_spire Moderately_high Depressed;
+{ 14 General_shape_of_adult_teleoconch Conical Cyrtoconoidal Coeloconoidal Apical_coeloconoidal_to_basal_cyrtoconoidal Slightly_cyrtoconoidal;
+{ 15 Sutures Not_incised Incised;
+{ 16 Thickened_line_running_through_the_suture Present Absent;
+{ 17 Number_of_whorls_on_adult_teleoconch 1 2 3 4 5 6 7 8 9 More_than_9;
+{ 18 Shape_of_the_whorls_on_adult_teleoconch Convex Sligthly_convex Concave Straight;
+{ 19 Inclination_of_the_columella Straight Not_straight;
+{ 20 Presence_of_umbilicus Absent Present;
+{ 21 Umbilicus_morphology Funnel_shaped Not_funnel_shaped;
+{ 22 Umbilicus_depth Shallow Deep;
+{ 23 Aperture_morphology Circular Rectangular;
+{ 24 Outer_lip_angle Present Absent;
+{ 25 Peristome_morphology Not_descending Descending;
+{ 26 Collumellar_callus Present Absent;
+{ 27 Morphology_of_the_columellar_callus Reflected Not_reflected;
+{ 28 Columellar_denticle Absent Present;
+{ 29 Outer_lip_ornamentation Absent Partially_indented Completely_indented;
+{ 30 Deep_sinus_in_the_apical_portion_of_outer_lip Absent Present;
+{ 31 Basal_morphology Flattened Convex Strongly_convex;
+{ 32 Basal_sculpture Smooth With_spiral_ribs;
+{ 33 Number_of_spiral_ribs_on_base Zero One Two Three Four More_than_four;
+{ 34 Presence_of_nodes/spines_on_basal_spiral_ribs Sculpture_absent Nodes Spines;
+{ 35 Inclination_of_axial_sculpture_on_adult_teleoconch Sigmoidal Slightly_curved_and_prosocline;
+{ 36 Axial_ribs_on_first_teleoconch_whorl Absent Present;
+{ 37 Thickness_of_axial_ribs_on_first_teleoconch_whorl Thin Thickened Absent_in_the_first_whorl;
+{ 38 Thickness_of_axial_ribs_on_adult_teleococh_whorls Thin Thickened Without_axial_ribs_on_adult_teleoconch;
+{ 39 Distance_between_axial_ribs_on_first_whorl Close_to_each_other Separated_to_each_other Axial_ribs_absent_on_first_whorl;
+{ 40 Presence_of_primary_axial_ribs_between_P1_and_P3_on_adult_teleoconch Present Absent Without_axial_ribs;
+{ 41 Presence_of_visible_growth_lines_(collabral_ornamentation)_on_adult_teleoconch Absent Present;
+{ 42 Orientation_of_growth_lines Not_visible Prosocline Orthocline;
+{ 43 Presence_of_very_fine_striae_parallel_to_growth_lines Not_conspicuous Present;
+{ 44 Development_of_growth_lines_on_second_whorl Equals_to_first_whorl Stronger Weaker;
+{ 45 Presence_of_spiral_ribs_on_juvenile_teleoconch Without_spiral_ribs With_spiral_ribs;
+{ 46 Presence_of_spiral_ribs_on_adult_teleoconch Without_spiral_ribs With_spiral_ribs;
+{ 47 Morphology_of_spiral_ribs_on_adult_teleoconch Grooved Protruding;
+{ 48 Peripheral_carina_on_adult_teleoconch Present Absent;
+{ 49 Developement_of_peripheral_carina_on_adult_teleoconch Acute Weak Peripheral_carina_absent;
+{ 50 Number_of_primary_spiral_P_ribs_on_adult_teleoconch Absent One Two Three Four More_than_four;
+{ 51 Width_of_interspaces_between_primary_spiral_ribs_on_juvenile_teleoconch 3x_broader_than_ribs 2.5x_broader_than_ribs 2.5_to_2x_broader_than_ribs 2x_broader_than_ribs 2_to_1x_broader_than_ribs 1.5x_or_less_broader_than_ribs;
+{ 52 Width_of_interspaces_between_primary_spiral_ribs_on_adult_teleoconch 3x_broader_than_ribs 2.5x_broader_than_ribs 2.5_to_2x_broader_than_ribs 2x_broader_than_ribs 2_to_1x_broader_than_ribs 1.5x_or_less_broader_than_ribs;
+{ 53 Cancellated_appearence_given_by_spiral_and_axial_ribs Absent Present_only_on_first_whorls Present_in_whole_teleoconch;
+{ 54 Pagoda_appearence_given_by_protruding_whorld_between_p1_and_p3 Absent Weakly_developed Strongly_developed;
+{ 55 Presence_of_P1 Absent Present;
+{ 56 Position_of_primary_spiral_rib_P1 Adapical Abapical;
+{ 57 Relation_between_p1_and_p3 Equals Weaker;
+{ 58 Relation_between_p1_and_p2 Equals Weaker p2_absent;
+{ 59 Emergence_of_p1 Al_principio_de_la_primera_vuelta Al_final_de_la_primera_vuelta Al_principio_de_la_segunda_vuelta;
+{ 60 Presence_of_nodes_on_p1 Present Absent only_on_juvenile_whorls;
+{ 61 Presence_of_axial_ribs_intersecting_p1 Present Absent Limited_to_the_first_whorls;
+{ 62 Presence_of_P2 Absent Present;
+{ 63 Position_of_P2_respect_to_periphery Peripheral Not_peripheral;
+{ 64 Position_of_p2_respect_to_whorl_surface abapical medial/abapical;
+{ 65 Relation_between_p2_and_p3 Equals Weaker;
+{ 66 Emergence_of_p2 Before_p1 After_p1 At_the_same_time_of_p1;
+{ 67 Presence_of_nodes_on_p2 Present Absent only_on_juvenile_whorls;
+{ 68 Presence_of_P3 Absent Present;
+{ 69 Position_of_p3_respect_to_periphery Peripheral Not_peripheral;
+{ 70 Position_of_p3_respect_to_whorl_surface abapical medial/abapical;
+{ 71 Emergence_of_p3 Before_p1 After_p1 At_the_same_time_of_p1;
+{ 72 Presence_of_nodes_on_p3 Present Absent only_on_juvenile_whorls;
+{ 73 Presence_of_P4 Absent Present;
+{ 74 Position_of_p4_respect_to_periphery Peripheral_on_last_whorl Not_peripheral;
+{ 75 Position_of_P4_respect_to_whorl_surface abapical medial/abapical;
+{ 76 Emergence_of_p4 At_the_beginning_of_the_second-last_whorl At_the_end_of_the_second-last_whorl;
+{ 77 Thickened_p4_forming_a_varicose_vein Absent Present;
+{ 78 Morphology_of_the_nodes_on_first_whorl Rounded Spine-like Without_nodes;
+{ 79 Morphology_of_the_nodes_on_second_whorl Rounded Spine-like Spines Without_nodes;
+{ 80 Morphology_of_the_nodes_from_the_third_whorl Rounded Spine-like Spines Without_nodes;
+{ 81 Tubular_nodes_on_last_whorl Absent Present;
+{ 82 Orientation_of_nodes_on_p1_on_adult_teleoconch Adapically Angle_of_45º Vertically;
+{ 83 Orientation_of_nodes_on_p2_on_adult_on_adult_teleoconch Adapically Angle_of_45º Vertically Without_p2;
+{ 84 Orientation_of_nodes_on_p3_on_adult_teleoconch Adapically Angle_of_45º Vertically Abapically;
+{ 85 Distance_between_nodes__on_adult_teleoconch Close_to_each_other Separated_to_each_other;
+{ 86 Width_of_nodes__on_adult_teleoconch Narrow Broad;
+{ 87 Sutural_shelf Absent Slightly_developed Well_developed;
+{ 88 Sutural_shelf_morphology Inclined Nearly_horizontal;
+{ 89 Sutural_shelf_width Small Large;
+{ 90 Radial_micro-sculpture_adjacent_to_suture Absent Present;
+{ 91 Presence_of_secondary_spiral_ribs Absent Present;
+{ 92 Number_of_secondary_spiral_ribs_on_adult_teleoconch Secondary_spiral_ribs_absent With_1_secondary_spiral_ribs With_more_than_one_secondary_spiral_ribs;
+{ 93 Development_of_secondary_spiral_ribs Absent Smooth Visibles;
+{ 94 Presence_of_tertiary_spiral_ribs Absent Present;
+;
+
+
+ccode  + 0.9 12.13 17 27 33 39 50.52 59 85.86 93.94 - 10.11 14.16 18.26 28.32 34.38 40.49 53.58 60.84 87.92;
+
+
+;

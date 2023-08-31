@@ -1,0 +1,195 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.36.49'
+92 41
+
+&[cont]
+Didolodus_multicuspis                    ? ? ? ? 0.348-0.0 0.375-0.0 ? 0.354-0.0
+Adiantoides_leali                        ? ? ? ? 0.49-0.0 ? ? 0.08-0.0
+Protolipterna_ellipsodontoides           ? ? ? ? ? ? ? ?
+Anisolambda                              ? ? ? ? ? ? ? 0.303-0.0
+Protheosodon_coniferus                   ? ? ? ? ? ? ? 0.463-0.0
+Lambdaconus_suinus                       ? ? ? ? 0.182-0.0 ? ? 0.297-0.0
+Lambdaconus_lacerum                      ? ? ? ? 0.585-0.0 ? ? 0.246-0.0
+Prolicaphrium_specillatum                ? 1.0-0.0 1.0-0.0 0.706-0.0 0.319-0.0 0.351-0.0 ? 0.566-0.0
+Mesolicaphrium_sanalfonensis             ? ? ? ? ? ? ? 0.411-0.0
+Paramacrauchenia_scamnata                ? ? ? ? ? ? ? 0.337-0.0
+Tetramerorhinus_lucarius                 0.485-0.0 0.149-0.0 0.172-0.0 0.165-0.0 0.205-0.0 0.268-0.0 0.453-0.0 0.377-0.0
+Tetramerorhinus_cingulatum               0.231-0.0 0.835-0.0 0.632-0.0 0.487-0.0 0.273-0.0 0.078-0.0 0.487-0.0 0.446-0.0
+Tetramerorhinus_mixtum                   ? 0.249-0.0 0.192-0.0 0.488-0.0 0.653-0.0 0.56-0.0 0.346-0.0 0.486-0.0
+Tetramerorhinus_prosistens               ? ? ? ? 0.369-0.0 ? ? 0.417-0.0
+Thoatherium_minusculum                   0.516-0.0 0.273-0.0 0.06-0.0 0.241-0.0 0.324-0.0 0.126-0.0 0.561-0.0 0.309-0.0
+Diadiaphorus_majusculus                  0.284-0.0 ? ? ? 0.292-0.0 0.582-0.0 ? 0.486-0.0
+Anisolophus_australis                    0.46-0.0 0.611-0.0 0.615-0.0 0.593-0.0 0.444-0.0 ? 0.754-0.0 0.349-0.0
+Anisolophus_floweri                      ? ? ? ? 0.047-0.0 0.536-0.0 ? 0.434-0.0
+Anisolophus_minusculus                   ? ? ? ? 0.262-0.0 0.2-0.0 ? 0.469-0.0
+Picturotherium_migueli                   ? ? ? ? ? ? ? 0.309-0.0
+Villarroelia_totoyoi                     ? ? ? ? ? ? ? 0.549-0.0
+Brachytherium_cuspidatum                 ? ? ? ? 0.355-0.0 0.834-0.0 ? 0.486-0.0
+Neobrachytherium_ameghinoi               ? ? ? ? 0.357-0.0 ? ? 0.537-0.0
+Neobrachytherium_intermedium             ? 0.158-0.0 0.147-0.0 ? ? ? ? 0.526-0.0
+Neobrachytherium_morenoi                 ? ? ? ? ? ? ? 0.531-0.0
+Neobrachytherium_ullumense               ? ? ? ? ? ? ? ?
+Thoatheriopsis_mendocensis               ? ? ? ? ? ? ? ?
+Proterotherium_cervioides                ? ? ? ? ? ? ? ?
+Epitherium_laternarium                   1.0-0.0 ? ? ? 1.0-0.0 ? 0.883-0.0 0.406-0.0
+Diplasiotherium_robustum                 ? ? ? ? ? ? ? 1.0-0.0
+Eoauchenia_primitiva                     ? 0.463-0.0 0.9-0.0 1.0-0.0 ? ? ? ?
+Neolicaphrium_recens                     ? ? ? ? 0.197-0.0 ? 0.662-0.0 0.469-0.0
+Megadolodus_molariformis                 ? ? ? ? ? ? ? 0.64-0.0
+Neodolodus_colombianus                   ? ? ? ? ? ? ? 0.149-0.0
+Diplasiotherium_pampa                    ? ? ? ? ? ? ? 0.606-0.0
+Paranisolambda_prodromus                 ? ? ? ? ? ? ? 0.177-0.0
+Olisanophus_riorosarioensis              ? ? ? ? 0.298-0.0 0.378-0.0 ? 0.414-0.0
+Olisanophus_akilachuta                   ? ? ? ? ? ? ? 0.477-0.0
+Tetramerorhinus_fleaglei                 ? ? ? ? ? ? ? ?
+Promylophis_cifelii                      ? ? ? ? ? ? ? 0.293-0.0
+Uruguayodon_alius                        ? ? ? ? 0.604-0.0 0.991-0.0 ? 0.477-0.0
+
+
+&[num]
+Didolodus_multicuspis                   ?00?0????00??0000000000000000000000000000000000000000?0000?000000000000000000000000?
+Adiantoides_leali                       01?000000000011?00??100?101?0?10???12?0??00????????0??0111000010000011?00011?10??00?
+Protolipterna_ellipsodontoides          ????0??????110?????????00001?000?00011100001110011000?0000?000000?100001000001000000
+Anisolambda                             ?????????????1?1001111001110?0001041322110000000?110????????????0??002000000?000020?
+Protheosodon_coniferus                  02?????00??001111011101010100?012?113?100?11?0?011?00110121201011120111?111110000110
+Lambdaconus_suinus                      ????2??10??011?1????1100111?0?000??132211011000011001??????????10120210010002020020?
+Lambdaconus_lacerum                     ?????1???11??1?11?11111?111000100011332011110000?1?12??1121201110120210000001100010?
+Prolicaphrium_specillatum               ?1?10?111110111120111120111300022041331111?111?00100212002020101012021?011111130011?
+Mesolicaphrium_sanalfonensis            ????1??????011?1101111?11110?002200103?00111?200?1102??1?21301010120211011110100010?
+Paramacrauchenia_scamnata               ????1????????111?01110?01110?00020213321100??011?0101??102120111010121?00000?120020?
+Tetramerorhinus_lucarius                1011111111101111211?1121111?0001204132000111110001?021?102030111112012001011203101?1
+Tetramerorhinus_cingulatum              1111111111101111211011?1111300012041320000?111000110200102030111112012?0?11120?0020?
+Tetramerorhinus_mixtum                  10?1111?1110?111?11111111113000120413200011111000110210002030100?12012001?1120200201
+Tetramerorhinus_prosistens              ?????1111????1?1?010112111101001204?32000000220001102???020301011120110011112020010?
+Thoatherium_minusculum                  1101?111?110111111101111111202012031332000?11111010011010203011111211230111120411201
+Diadiaphorus_majusculus                 111111111110?11121101121111?020120313300022?1100011021?10203011111201230111120411201
+Anisolophus_australis                   101??11111101111101111101113000220413310011112000?002200020301001120210011111120010?
+Anisolophus_floweri                     ????11111110?1?11011111011100002204132?001110000011022000203010101202100111111000111
+Anisolophus_minusculus                  ???????1111011111???111?111?0??????1???00011????11002?000203010101202100?0?12100011?
+Picturotherium_migueli                  ?????????????11101111101111000022021321001110000?1102??????????????0210000110130010?
+Villarroelia_totoyoi                    ??????????10111111111111111000022041330000112200?110200102030101?1?021?0??1?21000111
+Brachytherium_cuspidatum                ????1????????111111?11?11110?0012001330110011100111022210203011111201?201111212?110?
+Neobrachytherium_ameghinoi              ?????????????1???????????????1012??132211000??00?1100??????????011202120111121?1010?
+Neobrachytherium_intermedium            1101111??110111101101101111100012021332?1000000101002?2?0203????11202200?11121211201
+Neobrachytherium_morenoi                1?????1??11??1????????01111?01012??13?20?00???00???????102031111112?12000?1????0????
+Neobrachytherium_ullumense              1????????????111????11?1111?00012??133?01000???1?0101??????????1?0??21?01111?021110?
+Thoatheriopsis_mendocensis              ?????????????11121101121?????0012001330110001100?1102???????????????????????????????
+Proterotherium_cervioides               ?????????????1????????211110100020012?21100?1100????????????????????????????????????
+Epitherium_laternarium                  ?1?1?11??11??1110???110?111?00012?2133101011?00000101???0203?1???12112200111?02102??
+Diplasiotherium_robustum                ???????11??0?1?????????????????????????????????????????10213?1110121?1?01111?10?111?
+Eoauchenia_primitiva                    111??11??11??1113?1?113?111?0201203133201????0?10010???????????????????????????????1
+Neolicaphrium_recens                    ???1?11??11??111??1?11?1111?10012011332111110000?0102???02030111112112101000?021120?
+Megadolodus_molariformis                ??????0?00?1?0?1001100000003000000401?11?0000000?0?0???00212???101102001000001200001
+Neodolodus_colombianus                  ?????11??11??1110011101010130000004101100111000010102???02???10110202111111111000101
+Diplasiotherium_pampa                   ?????????????1??????????????????????????????????????????02130101012?111011112001110?
+Paranisolambda_prodromus                ?????????????1???????????????002204133?00?00?1?0?1102???????????????02000000?000010?
+Olisanophus_riorosarioensis             ????1????????1?1111???1????0?00220012?00?1121100?1?00?0?02?3???11120210011002130010?
+Olisanophus_akilachuta                  ?????????????1?11?0??????????002200133000?11?2?0??100??????????101202100000?2?000???
+Tetramerorhinus_fleaglei                ?????????????112?01111111113000220413200000?1100?1102???12030111112?110111??2120010?
+Promylophis_cifelii                     ?????????????1???????????????10202513?00?11???00????????????????????2100000000000101
+Uruguayodon_alius                       ????0????????1??????????????????????????????????????2211202?1??112112?01111?0??112??
+
+;
+
+
+cnames
+{ 0 Distance_from_anterior_edge_of_orbit_to_tip_of_rostrum/distance_from_anterior_edge_of_orbit_to_posterior_edge_of_cranium;
+{ 1 Dorsoventral_height_of_rostrum_(measured_perpendicular_to_plane_of_tooth_row)_at_distal_border_of_P1/M1_mesiodistal_length.;
+{ 2 Dorsoventral_height_of_orbit/M1_mesiodistal_length.;
+{ 3 Width_of_palate_between_right_and_left_M1/M1_mesiodistal_length.;
+{ 4 Mandibular_height_(measured_perpendicular_to_ventral_edge_of_mandible)_at_posterior_edge_of_m1/m1_length.;
+{ 5 Mandibular_height_(measured_perpendicular_to_ventral_edge_of_mandible)_at_distal_edge_of_m3/height_at_distal_edge_of_p2.;
+{ 6 Length_of_upper_incisor?P1_diastema/M1_mesiodistal_length.;
+{ 7 Mesiodistal_length_of_m1_(mm).;
+{ 8 Orbit Open Closed;
+{ 9 Anterior_edge_of_orbit_directly_over P4 M1 M2;
+{ 10 Posterior_edge_of_infraorbital_foramen_directly_dorsal_of P4 P3;
+{ 11 Lateral_edges_of_premaxillae convergent parallel;
+{ 12 Posteriormost_point_of_symphysis_at_level_of p3 p2 p1;
+{ 13 Number_of_upper_incisors three one;
+{ 14 Upper_incisor(s) small_and_incisiform hypertrophied_and_tusk-like;
+{ 15 Number_of_lower_incisors three two;
+{ 16 External_(distal-most)_lower_incisor_relative_to_other_incisors subequal significantly_larger_than_internal_(mesial)_incisor(s);
+{ 17 Upper_canine present absent;
+{ 18 Diastema_between_P1_and_next-most_mesial_tooth absent present;
+{ 19 Lower_canine incisiform tusk-like absent;
+{ 20 Diastema_between_c_and_p1 absent present;
+{ 21 Cheek_teeth bunodont bunoselenodont;
+{ 22 P2_protocone absent present;
+{ 23 P3_paracone_and_metacone incipient_on_each_other broadly_spaced state_undefined_by_author;
+{ 24 P3_mesiolingual_cingulum not_connected_to_protocone_and_not_forming_basin connected_to_protocone_forming_basin extends_past_protocone absent;
+{ 25 P3_hypocone absent present;
+{ 26 P3_paraconule absent present;
+{ 27 P3_metaconule absent present;
+{ 28 P3_parastyle absent present;
+{ 29 P3_mesostyle absent present;
+{ 30 P4_mesiolingual_cingulum not_connected_to_protocone_and_not_forming_basin connected_to_protocone_forming_basin extends_past_protocone absent;
+{ 31 P4_hypocone absent present;
+{ 32 P4_paratyle absent present;
+{ 33 P4_mesostyle absent present;
+{ 34 P4_metastyle absent present;
+{ 35 P4_metaconule oined_to_protocone_by_crest joined_to_hypocone_by_crest absent isolated;
+{ 36 M1/P4_linguolabial_width subequal_(ratio_<_or_=_1.15) M1_wider_(>_1.15);
+{ 37 M1-2_metaconule_1: cuspate absent forming_labiolingual_crest;
+{ 38 M1-2_hypocone present absent;
+{ 39 M1-2_paracone_and_metacone_''folds''_(ridges_between_labial_styles) strong absent weak;
+{ 40 M1-2_paracone_and_metacone_concavities both_weak paracone_concavity_well-developed both_well-developed;
+{ 41 M1-2_metaconule_2: more_mesial_than_hypocone at_same_level_as_hypocone absent;
+{ 42 M1-2_metaconule_3: joined_to_protocone joined_to_hypocone joined_to_crest_uniting_hypo-_and_protocone joined_to_metacone isolated absent;
+{ 43 M1-2_parastyle_and_mesostyle absent present;
+{ 44 Relative_development_of_styles_in_M1?2 mesostyle_more_developed neither_developed parastyle_more_developed equally_developed;
+{ 45 Relative_development_of_styles_in_M3 either_style_developed mesostyle_more_developed equally_developed parastyle_more_developed;
+{ 46 M1?2_protocone_and_hypocone not_directly_connected connected_by_weak_crest_containing_small_sulcus connected_by_complete_crest;
+{ 47 M1?2_labial_cingula present absent;
+{ 48 M3_labial_cingulum present absent;
+{ 49 M1_mesiolingual_cingulum not_connected_to_protocone_and_not_forming_basin connected_to_protocone reaches_lingual_sulcus;
+{ 50 M2_mesiolingual_cingulum not_connected_to_protocone_and_not_forming_basin connected_to_protocone reaches_lingual_sulcus;
+{ 51 M3_mesiolingual_cingulum not_connected_to_protocone_and_not_forming_basin connected_to_protocone reaches_lingual_sulcus;
+{ 52 M1_metaconule_position closer_to_hypocone equidistant closer_to_protocone;
+{ 53 M2_metaconule_position closer_to_hypocone equidistant closer_to_protocone;
+{ 54 M1_metacone directly_distal_of_protocone positioned_more_labially_than_protocone;
+{ 55 M2_metacone directly_distal_of_protocone positioned_more_labially_than_protocone;
+{ 56 M2/M3_coronal_area larger_(>_or_=_1.15) subequal_in_size_(<_1.15);
+{ 57 M3_hypocone present absent;
+{ 58 M3_metastyle absent present;
+{ 59 M3_distal_cingulum present absent;
+{ 60 M3_metaconule connected_to_protocone_by_crest absent not_connected_to_protocone;
+{ 61 Ratio_of_p2/p1_mesiodistal_length p2/p1_<_or_=_1.25 p2/p1_>_or_=_1.45 1.25_<_p2/p1_<_1.45;
+{ 62 p1-2_implantation no_diastema diastema_between_teeth imbricated;
+{ 63 p2_metaconid absent present;
+{ 64 p3_labial_cingulid absent present state_undefined_by_author;
+{ 65 p3_talonid_basin absent simple_crest crescentic_loph;
+{ 66 p3_trigonid_basin mesiodistally_longer_than_talonid_basin same_length_as_talonid_basin state_undefined_by_author;
+{ 67 p3_hypoconid absent lingual_of_protoconid directly_distal_of_protoconid labial_of_protoconid;
+{ 68 p3_hypconulid absent present;
+{ 69 p3_paraconid_and_metaconid absent present;
+{ 70 p3_entoconid absent_or_weak well-developed;
+{ 71 p4_entoconid absent_or_weak well-developed;
+{ 72 p4_labial_cingulid absent present;
+{ 73 p4_trigonid_basin mesiodistally_longer_than_talonid_basin same_length_as_talonid_basin state_undefined_by_author;
+{ 74 p4_hypoconid lingual_of_protoconid directly_distal_of_protoconid labial_of_protoconid;
+{ 75 m2/m1_mesiodistal_length subequal_(ratio_is_<_or_=_1.15) m2_larger_(>_1.15);
+{ 76 Position_of_paraconid_on_m1-2 directly_lingual_of_protoconid mesial_of_protoconid absent;
+{ 77 Paralophid_on_m1-2 absent terminates_near_midline developed_and_reaching_lingual_edge_of_tooth;
+{ 78 Entoconid_on_m1-2 as_large_as_hypoconulid larger_than_hypoconulid smaller_than_hypoconulid absent;
+{ 79 m1-3_cristids_obliquae connected_to_metaconid connected_to_metalophid;
+{ 80 m1-2_labial_cingulids absent present;
+{ 81 m3_labial_cingulid absent present;
+{ 82 m1-2_lingual_cingulids absent present;
+{ 83 m3_lingual_cingulid absent present;
+{ 84 Hypsodonty_index HI_<_0.85) 0.85_<_HI_<_1.00 HI_>_1.00;
+{ 85 m3_paraconid present absent;
+{ 86 m3_entoconid isolated connected_to_hypolophid connected_by_crest_to_hypoconulid connected_by_crest_to_hypolophulid absent;
+{ 87 m1-2_hypoconulid_position not_on_lingual_border_of_tooth on_lingual_border_of_tooth;
+{ 88 m3_hypoconulid_position not_on_lingual_border_of_tooth on_lingual_border_of_tooth;
+{ 89 m3_paralophid absent terminates_near_midline reaches_lingual_edge_of_tooth;
+{ 90 m3_metaconid conical mesiodistally_extended;
+{ 91 Manus/pes Functionally_tridactyl functionally_or_truly_monodactyl,_as_shown_by_reduced_second_and/or_fourth_metapodials;
+;
+
+
+ccode  - 0.91;
+
+
+;

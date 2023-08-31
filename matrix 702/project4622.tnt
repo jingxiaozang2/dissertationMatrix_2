@@ -1,0 +1,45 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.34.44'
+16 11
+
+&[num]
+Prokennalestes                  0000000000000000
+Cimolestes                      0000000000000000
+Deccanolestes_hislopi           0000001100111???
+Deccanolestes_robustus          0000001100111???
+Afrodon_chleuhi                 0000001100011000
+Bustylus_germanicus             ?000011111111111
+Afrodon_gheerbranti             0000001100111000
+Bustylus_cernaysi               1101111111111111
+Bustylus_marandati              1100111111111111
+Bustylus_folieae                1100111111111111
+Adapisoriculus_minimus          1111111022111212
+
+;
+
+
+cnames
+{ 0 mesostyle absent present;
+{ 1 postparaconule_crest marked faint;
+{ 2 centrocrista straight dilambdodont;
+{ 3 stylar_cusps crestiform cuspate;
+{ 4 m2_ectoflexus deep_and_asymmetrical deep_and_symmetrical;
+{ 5 M2_size_of_parastylar_lobe_versus_metastylar_lobe parastylar_lobe_more_or_equally_projecting_labially_than_metastylar_lobe parastylar_lobe_less_projecting_labially_than_metastylar_lobe;
+{ 6 paracone_size markedly_larger_than_metacone slightly_larger_or_similarly_sized;
+{ 7 paracone_and_metacone_shape much_higher_than_long slightly_higher_than_long;
+{ 8 m1,2_hypoconid_size similar_to_the_entoconid slightly_larger_than_the_entoconid much_larger_than_the_entoconid;
+{ 9 hypoconulid_place median slightly_closer_to_the_entoconid very_close_to_the_entoconid;
+{ 10 talonid_width narrower_than_trigonid equally_wide;
+{ 11 trigonid_length compressed_antero-posteriorly_and_much_shorter_than_the_talonid trigonid_about_as_long_as_the_talonid;
+{ 12 trigonid_height more_than_twice_de_height_of_the_talonid trigonid_less_than_twice_the_height_of_the_talonid;
+{ 13 p4_metaconid absent_or_present_only_as_a_slight_bulge_on_the_side_of_the_protoconid well_differentiated_but_smaller_than_the_protoconid size_similar_to_that_of_the_protoconid;
+{ 14 talonid_of_p4 with_one_cuspid two_cuspids;
+{ 15 size_of_p4_paraconid very_small,_barely_present_as_individual_cuspid small_but_forming_a_distinct_cuspid almost_as_large_as_m1_paraconid;
+;
+
+
+ccode  - 0.15;
+
+
+;

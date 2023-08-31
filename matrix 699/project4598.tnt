@@ -1,0 +1,195 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.33.23'
+103 74
+
+&[num]
+Epactoides_sp_SM2013                 0001001011111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_frontalis                 1001001000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_helenae                   1011001010111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_incertus                  0001000000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_mahaboi                   1001001010111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_major                     1001001000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_masoalae                  1011000000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_perrieri                  1001000000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_rahagai                   0001001000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_semiaeneus                1001000000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_viridicollis              1001000000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_tiinae                    1001001000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_spinicollis               1001001000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_mangabeensis              1011001011111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_madecassus                1011001000111000001100011000000000010010111000000000100011010001000000000101010010100101010110001000100
+Epactoides_sp_1_MTM2009              ????00????1110000011000110000000000100101110000000001000110100010000000001010100101???01010110001000100
+Epactoides_sp_3_MTM2009              ????00????1110000011000110000000000100101110000000001000110100010000000001010100101???01010110001000100
+Epactoides_sp_AleMAZ7301             ????00????1110000011000110000000000100101110000000001000110100010000000001010100101???01010110001000100
+Epactoides_sp_BMNH669891             ????00????1110000011000110000000000100101110000000001000110100010000000001010100101???01010110001000100
+Epactoides_sp_BMNH669910             ????00????1110000011000110000000000100101110000000001000110100010000000001010100101???01010110001000100
+Epactoides_sp_BMNH669960             ????00????1110000011000110000000000100101110000000001000110100010000000001010100101???01010110001000100
+Epactoides_olsoufieffi               0011001000111000001100011000000000010010111000000000100011010001000000000101010010111101010110001000100
+Epactoides_hanskii                   ????00????1110000011000110000000000100101110000000001000110100010000000001010100101???01010110001000100
+Epactoides_giganteus                 ?01???0000????????????????????????0100101110000000001000110100010000000001010100???????1010110001000100
+Ochicanthon_vazdemelloi              0110000101111000001000010100000000010010111000000000100011010001000000000101010010111001000110001000100
+Ochicanthon_edmonsi                  0100000101111000001000010100000000010010111000000000100011010001000000000101010010111001000110001000100
+Ochicanthon_neglectus                0100??0101????????????????????????0100101110000000001000110100010000000001010100???????1000110001000100
+Ochicanthon_woroae                   0100000101111000001000010100000000010010111000000000100011010001000000000101010010111001000110001000100
+Ochicanthon_cripticus                0100000101111000001000010100000000010010111000000000100011010001000000000101010010111001000110001000100
+Ochicanthon_hanski                   0110000101111000001000010100000000010010111000000000100011010001000000000101010010111001000110001000100
+Ochicanthon_masumotoi                0100000101111000001000010100000000010010111000000000100011010001000000000101010010111001000110001000100
+Hybosorus_illigeri                   000000000000100000000000000?00000000?00?0000000000000000000000000000000000000000110000000?0010000000000
+Aphodius_erraticus                   0000000000001000000000000001000000001001000000000000000000000000000000000000000011000000010010000000000
+Aphodius_fimetarius                  0000000000001000000000000001000000001001000000000000000000000000000000000000000011000000010010000000000
+Byrrhidium_convexum                  000000000001011000000000000010010001001000000100------------0100110010010101010010100011000010001000000
+Byrrhidium_namaquensis               000000000001011000000000000010010001001000000100------------0100110010010101010010100011000010001000000
+Copris_amyntor                       0000000000111000001000010100010000001010000000010000000000110010000000100101001010100000000010001000000
+Copris_sp_sp45                       0000000000111000001000010100010000001010000000010000000000110010000000100101001010100000000010001000000
+Copris_tripartitus                   0000000000111000001000010100010000001010000000010000000000110010000000100101001010100000000010001000000
+Coptorhina_klugii                    0000000000010001000011000000000100001001000100001110000000010000000000001001010100100000000011101000000
+Coptorhina_nitidipennis              0000000000010001000011000000000100001001000100001110000000010000000000001001010100100000000011101000000
+Coptorhina_sp_dgi1                   0000000000010001000011000000000100001001000100001110000000010000000000001001010100100000000011101000000
+Delopleurus_pullus                   0000000000010001000011000000000101001001000100001110000000011000000000001001010100100000000011101000000
+Dicranocara_deschodti                000000000001011000000000000010010001001000000100------------0100110010010101010010100011000010001000000
+Eurysternus_angustulus               0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Eurysternus_caribaeus                0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Eurysternus_foedus                   0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Eurysternus_hamaticollis             0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Eurysternus_inflexus                 0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Eurysternus_plebejus                 0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Eurysternus_sp_BMNH669090            0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Eurysternus_sp_sp198                 0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Eurysternus_sp_sp199                 0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Eurysternus_velutinus                0000000000111000011000010100010000100100000000000000101000010001001100000100100010100001100000011000000
+Frankenbergerius_armatus             0000000000010001000010100000000100001001000100001101000000010000000000001001010100100001000011001000010
+Neosisyphus_confrater                0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Neosisyphus_fortuitus                0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Neosisyphus_mirabilis                0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Neosisyphus_sp_SM2012                0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Neosisyphus_sp_sp92                  0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Onthophagus_vinctus                  0000010000111000001000010100011010100100000000000000110100010001000000000111000010100000000010001100000
+Digitonthophagus_diabolicus          0000010000111000001000010100011010100100000000000000110100010001000000000111000010100000000010001100000
+Hyalonthophagus_alcyon               0000010000111000001000010100011010100100000000000000110100010001000000000111000010100000000010001100000
+Paraphytus_sp_sp157                  000000000001010000000000000000000000100100000010------------0000000001000001010000100001000010001001011
+Sarophorus_costatus                  0000000000001000000000000000000000001001000100001101000000010000000000001001010000100001000011001000000
+Sarophorus_tuberculatus              0000000000001000000000000000000000001001000100001101000000010000000000001001010000100001000011001000000
+Sisyphus_crispatus                   0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Sisyphus_faciculatus                 0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Sisyphus_gazanus                     0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Sisyphus_schaefferi                  0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Sisyphus_sp_sp91                     0000000000111000101000011010010000100100000010000000110000010001000000000100100110100001000010001000000
+Odontoloma_sp_1_HKW2010              000010000001100000100000000000010001001011000000------------0000000000000101010000100001001010001010010
+Odontoloma_sp_sp40                   000010000001100000100000000000010001001011000000------------0000000000000101010000100001001010001010010
+Odontoloma_sp_sp43                   000010000001100000100000000000010001001011000000------------0000000000000101010000100001001010001010010
+
+;
+
+
+cnames
+{ 0 [1]_Phallobase,_basal_area_dorsally with_one_tubercle_on_each_side with_single_median_tubercle_or_swell,_sometimes_depressed_basally;
+{ 1 [2]_Phallobase,_general_shape_(dorsal_view) cylindrical,_symmetrical_(i.e._sides_of_phallobase_positioned_parallel_to_each_other)_or_sometimes_feebly_subsymmetrical asymmetrical,_left_basal_corner_of_phallobase_distinctly_skewed_toward_right_corner;
+{ 2 [3]_Phallobase,_ground_plan_of_ventral_part ventral_portion_reduced_presenting_large_phallobase_opening_starting_at_apical_margin_and_continually_enlarging_toward_base,_sclerotization_of_ventral_portion_(if_present_laterally)_subtle,_translucent ventral_part_present,_distinctly_sclerotized,_opening_small_usually_occupying_only_basal_area_of_phallobase,_sometimes_opening_extends_apically_but_never_occupies_entire_ventral_portion_whose_sclerotization_is_always_distinct;
+{ 3 [4]_Phallobase,_rectangular_notch_of_basal_margin,_presence_(rear_view) absent present;
+{ 4 [5]_Parameres,_ventral_membranes:_symmetrical_(0),_asymmetrical_(1) symmetrical asymmetrical;
+{ 5 [6]_Parameres,_sclerotization_of_ventral_membranes,_ventral_view:_equally_sclerotized_(0),_unequally_sclerotized_(1) equally_sclerotized unequally_sclerotized;
+{ 6 [7]_Parameres,_basal_notch,_ventral_view:_absent_(0),_present_(1) absent present;
+{ 7 [8]_Parameres,_distinctly_acute_apically_(Dicranocara_-_Byrrhidium_ground_plan) absent present;
+{ 8 [9]_Parameres,_simple,_tiny,_apically_acute_(Nebulasilvius,_Endroedyolus,_Odontoloma_ground_plan) absent present;
+{ 9 [10]_Parameres_shortened,_basolateral_plate_projected absent present;
+{ 10 [11]_Axial_sclerite_more_or_less_aciculiform,_simple_without_complex_additional_lobes absent present;
+{ 11 [12]_Axial_sclerite_presence absent present;
+{ 12 [13]_Axial_sclerite_and_aedeagal_sac,_ground_plan_(Frankenbergerius,_Coptorhina,_Paraphytus,_Dicranocara,_Endroedyolus_ground_plan) axial_sclerite_processed_in_several_lobes_and_occupying_basal_part_of_aedeagal_sac,_basal_part_of_aedeagal_sac_possess_either_solely_A_or_A_and_BSc_sclerites axial_sclerite_differently_shaped_i.e._simple,_without_multiple_lobes,_normally_cylindrical_or_axial_sclerite_absent;
+{ 13 [14]_Axial_sclerite,_central_spur-shaped_lobe_extends_from_median_area_of_surrounding_lobe_(Endroedyolus,_Dicranocara_and_Paraphytus_ground_plan) absent present;
+{ 14 [15]_Axial_sclerite,_central_lobe_short,_surrounding_lobe_more_or_less_triangular_(Dicranocara-Byrrhidium_ground_plan) absent present;
+{ 15 '[16] Axial sclerite, occupies most of basal area of sac; structurally complex; consists of central spur-like sclerite surrounded by multiple lobes; SA sclerites absent (Frankenbergerius ? Coptorhina ground plan)' absent present;
+{ 16 [17]_Axial_sclerite,__bi-_or_trifurcated absent present;
+{ 17 [18]_Axial_sclerite,_tip_with_sclerotized_process_extending_inferiorly absent present;
+{ 18 [19]_SA_sclerite absent present;
+{ 19 [20]_SA_and_A_sclerites_fused_together_(Epactoides_ground_plan) absent present;
+{ 20 [21]_FLP_star_presence absent present;
+{ 21 [22]_FLP_star_large,_roughly_c-shaped absent present;
+{ 22 [23]_FLP_star_small,_slightly_bent_right absent present;
+{ 23 [24]_SRP_presence absent present;
+{ 24 [25]_SRP_ring-shaped absent_(SRP_differently_shaped:_without_any_trace_of_ring-shaped_structure,_or_absent) present,_or_at_least_ring-shape_partly_formed_by_poorly_visible_membrane;
+{ 25 [26]_SRP_semicircular_or_straight_(not_ring-shaped) absent present;
+{ 26 '[27] SRP sclerite represents flat lamella located along right side of aedeagal sack; SRP bears small ring structure apically (Epirinus - Neosisyphus ground plan)' absent present;
+{ 27 [28]_Spiculum_gastrale,_basal_sclerites absent_or_very_weakly_sclerotized distinctly_present;
+{ 28 [29]_Spiculum_gastrale,_basal_margin_with_narrow_process_apically_(Dicranocara-Byrrhidium_ground_plan) absent present;
+{ 29 [30]_FLP_sclerite(s),_presence absent present;
+{ 30 [31]_FLP_sclerite,_located_in_front_of_SA_and_A_sclerites_and_composed_of_three_distinct_lobes absent present;
+{ 31 [32]_BSc_sclerite,_semicircularly_shaped,_presence absent present;
+{ 32 [33]_LC_well_developed_and_composed_of_superior_and_inferior_lobes absent present;
+{ 33 [34]_Elytron,_tubercles_on_the_basal_margin_of_interstriae:_absent_(0),_present_(1) absent present;
+{ 34 [35]_Elytron_with_8_distinctly_visible_striae absent present;
+{ 35 [36]_Elytron_with_9_distinctly_visible_striae absent present;
+{ 36 [37]_Elytron_with_10_distinctly_visible_striae absent present;
+{ 37 [38]_Elytron_with_8_stria_and/or_traces_of_striation_8 absent present;
+{ 38 [39]_Elytron_with_9_stria_and/or_traces_of_striation absent present;
+{ 39 [40]_Elytron_with_10_stria_and/or_traces_of_striation absent present;
+{ 40 [41]_Elytron,_1st_elytral_carina absent present;
+{ 41 [42]_Elytron,_internal_margin_of_1st_elytral_carina_adjoins_7th_stria absent present;
+{ 42 [43]_Elytron,_1st_elytral_carina,_number_of_ridges one two;
+{ 43 [44]_Elytron_notched_laterally_by_protrusion_of_metepisternum_(Frankenbergerius_?_Delopleurus) absent present;
+{ 44 [45]_Elytron,_last_stria_(9th_or_8th)_visible_only_preapically absent present;
+{ 45 [46]_Epipleuron,_size relatively_narrow large;
+{ 46 [47]_Epipleuron,_slightly_protruded_downward_submedially absent present;
+{ 47 [48]_Elytron,_out_of_two_last_striae_(8th_and_9th_or_9th_and_10th),_inner_one_extends_from_apex_to_median_portion_of_elytra,_and_closely_located_to_(merged_with)_outer_one_extending_from_apex_to_base absent present;
+{ 48 '[49] Wing, RA4 significantly longer than RP1; RP1 arcuate, not parallel to RA4' absent present;
+{ 49 '[50] Wing, MPa largely extends toward junction of Cu and MP1+2, and consists of two distinct halves; of them anterior significantly wider than posterior one' absent present;
+{ 50 [51]_Wing,_AA4_widened_along_posterior_margin absent present;
+{ 51 [52]_Wing,_Cu_widened_along_posterior_margin absent present;
+{ 52 [53]_Wing,_RP1_with_posterior_sclerite absent present;
+{ 53 [54]_Wing,_RP1_with_wide_posterior_sclerite absent present;
+{ 54 [55]_Wing,_RP1_with_small_anterior_sclerite_basally absent present;
+{ 55 [56]_Wing,_RA3_with_posterior_sclerite_extending_toward_RA4_or_even_merging_with_it absent present;
+{ 56 [57]_Wing,_RP1_posterior_sclerite_approaches_RP1_basally,_almost_fusing_with_it_(Ochicanthon,_Epactoides_ground_plan) absent present;
+{ 57 [58]_Wing,_junction_of_RA3_and_RP1_forms_round_notch_(Ochicanthon_-_Epactoides_ground_plan) absent present;
+{ 58 [59]_Wing,_apical_area_bears_sclerite_located_posteriorly_of_RP1 absent present;
+{ 59 [60]_Wing,_MPa_vein_presence either_absent_or_very_weakly_developed distinctly_present;
+{ 60 [61]_Galea,_dorsal_part_covered_with_big_spurs absent present;
+{ 61 '[62] Galea and lacinia very closely located to each other; galea strongly sclerotized, hook-like' absent present;
+{ 62 [63]_Galea_basal_sclerite,_small,_more_or_less_round absent present;
+{ 63 [64]_Galea,_basal_sclerite_longitudinally_elongate absent present;
+{ 64 [65]_Maxilla,_stipital_sclerite_II,_groove_on_anterior_outer_margin absent present;
+{ 65 '[66] Glossal flap ?-shaped, bending inward; its tip covered with big blunt spurs' absent present;
+{ 66 [67]_Glossal_flap_triangularly_enlarged_frontally,_haired absent present;
+{ 67 [68]_Hypopharyngeal_suspensorium,_lateral_labial_sclerite absent present;
+{ 68 '[69] Epipharynx, anterior third entirely sclerotized; its anterior margin tuberculated' absent present;
+{ 69 [70]_Epipharynx,_anterior_margin_slightly_processed_frontally_and_blunt_medially absent present;
+{ 70 '[71] Epipharynx, anterior margin blunt, with small medial notch; anterior angles slightly rounded' absent present;
+{ 71 [72]_Mandibles,_incisor_lobe mandibles_with_largely_extended_membranous_incisor_lobes membranous_incisor_lobes_of_mandibles_distinctly_reduced;
+{ 72 [73]_Gula,_ventral_surface_with_longitudinal_groove absent present;
+{ 73 [74]_Gula,_internal_structure gular_ridges_invaginated_only_posteriorly,_forming_longitudinal_lamella_(dorsal_process_of_tentorium) gular_ridges_invaginated_almost_along_entire_area_of_gula_forming_a_sclerotized_roof_over_gula_with_dorsal_process_of_tentorium_posteriorly;
+{ 74 [75]_Antennal_club,_cavity_on_anterior_surface_of_1st_and_2nd_segments absent present;
+{ 75 [76]_Hypomera,_anterior_ridge_stretches_toward_lateral_margin_of_hypomera absent present;
+{ 76 [77]_Hypomera,_anterior_ridge_stretches_to_anterior_angles_of_pronotum absent present;
+{ 77 [78]_Hypomera,_anterior_portion_depressed absent present;
+{ 78 [79]_Hypomera,_posterior_longitudinal_ridge absent present;
+{ 79 [80]_Pronotum,_internal_surface_of_basal_margin_with_medial_carina absent present;
+{ 80 [81]_Prothorax,_double_lateral_margin_of_pronotum:_absent_(0),_present_(1) absent present;
+{ 81 [82]_Prothorax,_notch_on_pronotal_posterior_angles,_dorsal_view:_normal_(0),_notched_(1) normal notched;
+{ 82 '[83] Prothorax, pronotal posterolateral ridge, dorsolateral view: absent (0), present (1);' absent present;
+{ 83 [84]_Legs,_procoxal_ridge,_ventral_view:_shorter_than_half_the_length_of_the_procoxa_(0),_exceeding_half_the_length_of_procoxa_(1) shorter_than_half_the_length_of_the_procoxa exceeding_half_the_length_of_proco;
+{ 84 [85]_Legs,_procoxal_plate,_anterior_view:_simple_(0),_distally_with_a_callus_like_border_(1) simple distally_with_a_callus_like_border;
+{ 85 [86]_Legs,_anteromedial_procoxal_spur,_ventral_view:_absent_(0),_present_(1) absent present;
+{ 86 '[87] Legs, metafemurs with ridge slightly below the superior margin, ventral view: absent (0), present (1);' absent present;
+{ 87 [88]_Prothorax,_basisternal_furca absent present;
+{ 88 [89]_Prosternum,_sternellum_remarkably_enlarged absent present;
+{ 89 [90]_Prosternum,_coxal_depressions_widened,_closely_approaching_lateral_margin_of_pronotum absent present;
+{ 90 [91]_Proleg_with_trochantofemoral_pit absent present;
+{ 91 [92]_Protibia,_internal_apical_angle_processed_and_bears_lamella-like_setae absent present;
+{ 92 [93]_Protibia,_apical_spur absent/invisible present/visible;
+{ 93 [94]_Metepisternum_widened_(lateral_view)_cut_into_elytron_by_notching_it absent present;
+{ 94 [95]_Metepisternum,_lateral_surface,_apical_suture absent present;
+{ 95 [96]_Mesoscutellum,_visible_from_above_in_undissected_specimen absent present;
+{ 96 [97]_Abdomen_general_structure abdomen_soft,_sternites_separated_from_each_other_by_membrane,_1st_sternite_well_developed_laterally abdomen_strongly_sclerotized,_sternites_tightly_attached_to_each_other_lacking_membranous_interconnection,_1st_sternite_small;
+{ 97 [98]_Abdomen,_7th_sternite_distinctly_squeezed_along_midline_only_in_male_while_more_or_less_normally_developed_in_female absent present;
+{ 98 [99]_Abdomen,_7th_sternite_grooved_basally absent present;
+{ 99 [100]_Abdomen,_sternites_3-6_fused_along_midline absent present;
+{ 100 [101]_Pygidium_distinctly_swollen absent present;
+{ 101 [102]_Pygidium_with_grooved_line(s)_and/or_ring absent present;
+{ 102 [103]_Pygidium,_medial_pit absent present;
+;
+
+
+ccode  - 0.102;
+
+
+;
