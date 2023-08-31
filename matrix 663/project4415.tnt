@@ -1,0 +1,133 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.07.42'
+87 28
+
+&[num]
+Benthosuchus              200001010210101110011110110001000010000-0020000101011001010000111212120101111100201-001
+Watsonisuchus             20000?1-1??0?011010111?0??0001000010000-0021000101?1000101000011121212020011?100201-011
+Rhineceps                 2000011-2000101110011110100100000000000-002000000000000001002000121101010010-000001-000
+Australerpeton            2000110110?00011100111?0100100000000000-0?2010000110010100001011121011020010-??0201-012
+Peltobatrachus            0012????3--?????10010??0?00010100000100-0?100001???00??00?100????????10301111????00000?
+Xenobrachyops             1110101-0111?100201001?1-0--2100111110013?01010201002121?111210000001002000101?0210-201
+Bothriceps                1010001-???10111000101?0000011001111101???0?210201012?111?1120???????00201010????10-10?
+Keratobrachyops           1010101-000111112011010001001100121110012?010002010121111?1121001000100201010110100-?00
+Lapillopsis               0011011-3--01011010101000100010101111010?010010101010010011000010000110201111?112001102
+Trematosaurus             2100110100101011201001100100010011111000111000000111101101001011111010010011010??0?-?02
+Lydekkerina               0010001-11?0101100010-00010001010110100-0011?000011010010110000111010101011111000010012
+Luzocephalus              200100000000001110010110?00001000010101-0?110000010001?10?0000???1111000011????????????
+Chomatobatrachus          000000001110201100110010?00001001110101-1?000000011011110000000012121202010????????????
+Laidleria                 200110000011111101010111-0--211011111111010102100??021?00?1130??1200000?0101?????00-???
+Uruyiella                 1?01????1???????2??00?11----210?00??01?00?1????0???0??0001????0112???????11????????????
+Rhytidosteus              21010101?0110100?0???1?????????????0????????????1?????????????????????1????11????01????
+Boreopelta                ?1?1??????????????000???0???11?0?11?1?110?0??011???0??1101?????01????00?110????????????
+Deltasaurus               ?101001-0011111110010110000011?0011?10101?0??1110101?20100112?01000000031011?00?000?010
+Arcadia                   11110?1-000111112001011000001101001010101?0?0011????11??001?2?01121?????101111000010010
+Peltostega                01?10???????????1?000??00000110011111?101?0?1011???01??10???????1????002100????????????
+Pneumatostega             ?101??1-1001?01120?0?1????????????????????0???????????????????????????????1??10?0?????0
+Derwentia                 111?001-10011??02001011000001100111010100?002000010101?1001120????11?003101????????????
+Nanolania                 010?011-1??11111000101?001001101121110101?002210???0??110111?????????202010????????????
+Sangaia                   01110?1-2010?0112000011000101111011110013?0?0010???01???01???????????002101????????????
+Mahavisaurus              01110?1-00?1????00010??0001011?0??????????0????????????????????????????????11?100010?10
+Indobrachyops             01110?1-0000??1010?100?0????1100011?1?????0???11???11??10?1????????????31?1????????????
+Trucheosaurus             1101001-???11111101001?1----2110???????????????????????????????????????????????????????
+Rewana                    1111??1-??????????????????????0????0?0?01?0???1??10?11110?11220112110?????1????????????
+
+;
+
+
+cnames
+{ 0 Skull_table_character_1 Orbits_located_about_halfway_along_the_skull_length orbits_located_in_front_of_the_midlength_of_the_skull orbits_located_behind_midlength_of_the_skull;
+{ 1 Skull_table_character_2 Interorbital_distance_less_than_50%_of_the_width_of_the_skull_atmidorbital_level interorbital_distance_greater_than_50%_of_the_width_of_the_skull_at_midor-_bital_level_(1);
+{ 2 Skull_table_character_3 Skull_margins_straight,_or_slightly_concave slightly_convex;
+{ 3 Skull_table_character_4 Sculpture_of_the_dorsal_skull_roof_forms_a_normal_ridge-grooved_pattern_without_pustules_or_nodules_on_the_junctions spider-web_pattern_with_pustules_or_nodules_on_the_junctions_of_crests_and_ridges_(Cosgriff_&_Zawiskie_1979) only_pustules_are_present;
+{ 4 Skull_table_character_5 Nares_not_close_to_skull_midline_(distance_between_nares_twice_width_of_one_naris,_or_greater) nares_close_to_skull_midline_(distance_between_nares_approximates_width_of_one_naris);
+{ 5 Skull_table_character_6 Nares_rounded narrow_and_elongated;
+{ 6 Skull_table_character_7 Presence_of_snout_formed_by_an_anterior_expansion_of_the_premaxilla_present Presence_of_snout_formed_by_an_anterior_expansion_of_the_premaxilla_absent;
+{ 7 Skull_table_character_8 Snoutmargins_continually_converging_towards_the_tip tip_of_snout_expanded_so_that_the_snout_margins_run_parallel,_or_are_concave_before_the_tip;
+{ 8 Skull_table_character_9 Sensory_sulci_well_developed_(e.g._deeply_incised) present_but_poorly_developed_(e.g._shallow) deeply_incised_between_orbit_and_nostril_only sensory_sulci_absent;
+{ 9 Skull_table_character_10 Infraorbital_sulcus_straight_or_gently_curved infra-orbital_sulcus_with_a_step-like_flexure_between_the_orbit_and_the_naris flexure_Z_shaped;
+{ 10 Skull_table_character_11 Supraorbital_sensory_sulcus_widely_separated_from_infraorbital_sulcus runs_closely_parallel_to_infraorbital_sulcus_between_naris_and_orbit;
+{ 11 Skull_table_character_12 Lacrimal_bone_present absent;
+{ 12 Skull_table_character_13 Contact_between_premaxilla_and_nasal_anterior_to_the_nares at_level_of_the_nares posterior_to_the_nares;
+{ 13 Skull_table_character_14 Jugal_extends_anterior_to_orbital_margin anterior_end_of_jugal_about_level_with_or_posterior_to_anterior_orbital_margin;
+{ 14 Skull_table_character_15 Maxilla_in_the_orbital_margin maxilla_not_in_the_orbital_margin;
+{ 15 Skull_table_character_16 Prefrontal_and_jugal_not_in_contact prefrontal_and_jugal_form_a_suture;
+{ 16 Skull_table_character_17 Parietalfrontal_contact_anterior_to_the_posterior_orbitalmargin at_the_level_of_the_posterior_orbital_margin behind_the_posterior_orbital_margin;
+{ 17 Skull_table_character_18 Pre-_and_post-frontals_form_a_suture pre-_and_post-frontals_fail_to_contact_so_that_the_frontal_contributes_to_the_orbital_margin;
+{ 18 Skull_table_character_19 Postparietal_pair_less_than_four_times_wider,_trans-_versely_than_anteroposteriorly_long greater_than_four_times_wider_than_long;
+{ 19 Skull_table_character_20 Postorbital_elongated postorbital_quadrangular_or_rounded_but_not_anteroposteriorly_elongated;
+{ 20 Skull_table_character_21 Straight_or_concave_posterior_squamosal_margin_in_dorsal_view convex_and_overhanging_squamosal_margin_(falciform_crest);
+{ 21 Skull_table_character_22 Maxilla_and_nasal_not_in_contact maxilla_and_nasal_forming_a_suture;
+{ 22 Skull_table_character_23 Maxilla_and_quadratojugal_forma_suture maxilla_and_quadratojugal_do_not_contact_at_all;
+{ 23 Skull_table_character_24 Tabulars_are_well_developed_rectangular_to_triangular_bones tabulars_reduced_to_thin_slivers_lying_against_the_posterior_margin_of_the_skull_roof;
+{ 24 Skull_table_character_25 Tabular_horn_not_supported_from_underneath tabular_horn_supported;
+{ 25 Skull_table_character_26 Tabular_horns_end_in_the_same_level_or_anterior_to_the_posterolateral_corners_of_the_skull_roof tabular_horns_extend_posteriorly_to_the_posterolateral_corners_of_the_skull_roof;
+{ 26 Skull_table_character_27 Tabular_horns_composed_exclusively_of_the_tabular squamosal_participates_on_the_tabular_horns;
+{ 27 Skull_table_character_28 Tabular_hornwithout_a_thin_ventrally_projecting_crest_of_bone ventrally_projected_crest_of_bone_present_in_tabular_horn;
+{ 28 Skull_table_character_29 Otic_notch_deep otic_notch_is_a_wide_shallow_embayment otic_notch_absent;
+{ 29 Skull_table_character_30 Squamosal_and_tabular_separated_by_the_supratemporal squamosal-tabular_suture_present_on_the_dorsal_skull_roof;
+{ 30 Skull_table_character_31 Post_quadratojugal_process_of_the_skull_roof_absent Post_quadratojugal_process_of_the_skull_roof_present;
+{ 31 Skull_table_character_32 Post_postparietal_process_of_the_skull_roof_absent Post_postparietal_process_of_the_skull_roof_present;
+{ 32 Occiput_character_33 Exoccipital_condyles_not_projected_beyond_the_posterior_margin_of_the_skull_table exoccipital_condyles_projectedwell_beyond_the_posterior_margin_of_the_skull_table;
+{ 33 Occiput_character_34 Quadrate_condyles_behind_the_occipital_condyles in_the_same_transverse_line_as_the_occipital_condyles anterior_to_the_occipital_condyles;
+{ 34 Occiput_character_35 Bilobed_occipital_condylewith_reduced_basioccipital_contribution double_occipital_condyles_with_no_basioccipital_contribution;
+{ 35 Occiput_character_36 Exoccipital_condyls_elliptical,_facing_posteromedially more_rounded,_facing_posteriorly,_held_on_short_stalk;
+{ 36 Occiput_character_37 Squamosal-quadratojugal_trough_absent present;
+{ 37 Occiput_character_38 Quadratojugal_forms_a_simple_corner_with_the_quadrate_in_occipital_view a_sulcus_present_on_the_quadratojugal,_lateral_to_the_quadrate_condyles,_so_that_the_quadratojugal_forms_an_overhang_in_occip-_ital_view_(1);
+{ 38 Occiput_character_39 Ascending_ramus_of_the_pterygoid_contacts_the_squamosal ascending_ramus_does_not_contact_the_squamosal,_creating_an_upper_palatoquadrate_fissur;
+{ 39 Occiput_character_40 Ascending_ramus_of_the_pterygoid_thickened_by_an_ascending_column_positioned_towards_its_medial_edge column_absent;
+{ 40 Occiput_character_41 Ascending_ramus_of_the_pterygoid_forms_a_continuous_curve_with_the_posterior_edge_of_the_quadrate_ramus ascending_ramus_of_the_pterygoid_arises_from_the_dorsal_surface_as_a_shallow,_uncurved_lamina ascending_ramus_of_the_pterygoid_arises_from_the_dorsal_surface_as_a_gently_concave_lamina_which_is_also_curved_posteriorly_in_vertical_section ascending_ramus_of_the_pterygoid_arises_from_the_dorsal_surface_as_a_gently_concave_lamina;
+{ 41 Occiput_character_42 Foramen_passing_though_the_stapes stapedial_foramen_absent;
+{ 42 Occiput_character_43 Posterior_face_of_quadrate_ramus_of_the_pterygoid_without_an_oblique_ridge a_low_rounded_oblique_ridge_present oblique_ridge_is_a_large_sharp_edged_crest;
+{ 43 Occiput_character_44 Occipital_face_of_the_quadrate_without_a_dorsal_process quadrate_with_a_dorsal_process;
+{ 44 Occiput_character_45 Paraquadrate_foramen_present_on_occipital_portion_of_quadratojugal present_on_posteroventrolateral_ornamented_portion_of_quadratojugal absent;
+{ 45 Occiput_character_46 Post_temporal_fenestramarkedlywider_than_deep about_as_wide_as_deep_as_or_deeper_than_wide post_temporal_fenestrae_reduced_to_small_foramina_or_entirely_closed;
+{ 46 Occiput_character_47 Pterygoid_quadrate_ramus_evenly_curved_from_the_horizontal_to_the_vertical_plane_throughout_its_length horizontally_oriented_proximally_and_vertically_oriented_distally_so_it_appears_twisted;
+{ 47 Occiput_character_48 Quadrate_ramus_of_the_pterygoid_level_with_palate quadrate_ramus_slightly_downturned quadrate_ramus_strongly_downturned;
+{ 48 Palate_character_49 Choana_round_or_oval slit-like;
+{ 49 Palate_character_50 Anterior_palatal_fossa_not_perforated anterior_palatal_fossa_perforated_to_form_an_anterior_palatal_vacuity;
+{ 50 Palate_character_51 Single_anterior_palatal_fossa anterior_palatal_fossae_paired_divided_by_a_median_ridge;
+{ 51 Palate_character_52 Posterior_margin_of_palate_curved almost_straight;
+{ 52 Palate_character_53 Quadrate_condyles_double_and_markedly_screw-_shaped_with_the_medial_condyle_extended_anteriorly quadrate_condyle_double_and_triangular,_the_apex_of_the_triangle_lateral quadrate_condyle_double_with_two_parts_subequal_in_size;
+{ 53 Palate_character_54 Maxilla_forming_most_of_the_lateral_border_of_choanae lateral_processes_of_vomer_and_palatine_approach_one_another_so_as_to_reduce_the_maxillary_contribution vomer-palatine_suture_lateral_to_the_choanae_excludes_maxilla_entirely;
+{ 54 Palate_character_55 Palatine_ramus_of_the_pterygoid_meets_palatine_on_the_lateral_margin_of_interpterygoid_vacuity pterygoid_retracted_so_ectopterygoid_is_exposed_in_the_interpterygoid_vacuity_and_contributes_to_strut_between_interpterygoid_and_subtemporal_vacuities pterygoid_markedly_retracted_so_ectopterygoid_makes_a_large_contribution_to_strut_between_interpterygoid_and_subtemporal_vacuities_(2);
+{ 55 Palate_character_56 Palatine_ramus_of_the_pterygoid_bears_a_posterolateral_flang flange_absent;
+{ 56 Palate_character_57 Lateral_margin_of_the_pterygoid,_bordering_the_subtemporal_vacuity_concave lateral_margin_of_the_pterygoid_straight_in_ventral_view;
+{ 57 Palate_character_58 Posterior_edge_of_the_ectopterygoid_contributes_to_the_anterior_margin_of_the_subtemporal_fossa posterior_end_of_the_ectopterygoid_separated_from_the_subtemporal_fossa_by_an_alar_process_of_the_jugal;
+{ 58 Palate_character_59 Width_of_interpterygoid_vacuity_pair_less_than_90%_of_the_length width_of_pair_greater_than_90%_of_the_length;
+{ 59 Palate_character_60 Width_of_the_cultriform_process_of_the_parasphenoid_at_its_midpoint_less_than_10%_of_the_length_of_the_process_(using_the_anterior_and_posterior_ends_of_the_interpterygoid_vacuities_as_the_length_of_the_cultri-_form_process) width_of_cultriform_process_more_than_10%_of_its_length;
+{ 60 Palate_character_61 Ventral_surface_of_the_cultriformprocess_narrow_and_rounded gently_convex flat_ventral_surface_and_unexpanded_anteriorly flat_and_expanded_anteriorly_between_the_vomers ventral_surface_of_the_cultriform_process_flat_with_a_median_keel;
+{ 61 Palate_character_62 Vomerine_depression_or_foramen_just_anterior_to_cultriform_process_of_the_parasphenoid_absent present present_as_a_vacuity;
+{ 62 Palate_character_63 Posteromedial_corner_of_the_palatine_simple,_not_extending_posterior_to_the_most_anterior_ectoptery-_goid_tooth elongate_posteromedial_process_of_the_palatine_extending_posterior_to_the_most_anterior_ectopterygoid_tooth;
+{ 63 Palate_character_64 Ectopterygoid_with_enlarged_tusks_at_its_anterior_end ectopterygoid_tusks_absent;
+{ 64 Palate_character_65 Ectopterygoid_with_only_one_or_two_teeth ectopterygoid_with_a_tooth_row_of_more_than_three_teeth;
+{ 65 Palate_character_66 Absence_of_a_tooth_row_behind_the_palatine_tusks four_to_six_palatine_teeth more_than_seven_palatine_teeth;
+{ 66 Palate_character_67 Medial_margin_of_the_choana_without_teeth medial_margin_of_the_choana_with_a_row_of_teeth;
+{ 67 Palate_character_68 Vomers_without_a_rowof_teeth_between_the_vomerine_fangs a_straight_tooth_row_running_transversely_between_the_vomerine_fangs transverse_vomerine_tooth_row_V_shaped;
+{ 68 Palate_character_69 Vomers_with_a_field_of_denticles vomers_without_a_field_of_denticles;
+{ 69 Palate_character_70 Posterior_end_of_the_ventral_surface_of_the_parasphenoid_plate_without_sharp_rimmed_depressions rounded_widely_separated_depressions_(pockets)_at_the_posterior_end_of_the_ventral_surface_of_the_parasphenoid_plate_with_sharp_anterior_rims_(muscu-_lar_crests) depressions_transversely_widened_so_that_themuscular_crests_approach_each_other_forming_transverse_ridges;
+{ 70 Palate_character_71 Exoccipital_and_pterygoid_not_in_contact_or_contact_not_visible_ventrally exoccipital-pterygoid_suture_visible_in_ventral_view;
+{ 71 Palate_character_72 Round_patch_of_denticles_on_the_parasphenoid_at_the_base_of_the_cultriform_process parasphenoid_denticle_field_enlarged_to_a_transverse_belt_extend-_ing_between_the_pterygoid-parasphenoid_articula-_tions parasphenoid_denticles_absent parasphenoid_and_cultriform_process_with_denticle_fiel;
+{ 72 Palate_character_73 Parasphenoid_plate_subrectangular_without_lateral_wings parasphenoid_plate_expanded_transversely_creating_lateral_wings;
+{ 73 Palate_character_74 Pterygoids_without_ornament ventral_surface_of_the_pterygoids_with_ornament;
+{ 74 Palate_character_75 Pterygoids_without_denticles pterygoids_with_denticles;
+{ 75 Mandible_character_76 No_extension_of_the_mandible_behind_the_glenoid_fossa postglenoid_area_(PGA)_on_the_mandible;
+{ 76 Mandible_character_77 No_arcadian_groove_at_the_posterior_end_of_the_mandible arcadian_groove_present;
+{ 77 Mandible_character_78 Prearticular_extending_anteriorly,_at_least_as_far_as_the_level_of_the_midpoint_of_the_middle_coronoid_(0), prearticular_not_extending_anterior_to_the_level_of_the_suture_of_the_middle_and_posterior_coronoids;
+{ 78 Mandible_character_79 Posterior_meckelian_foramen_bordered_by_the_prearticular,_postsplenial_and_the_angular posterior_meckelian_foramen_bordered_by_the_prearticular_and_postsplenial_exclusively;
+{ 79 Mandible_character_80 Parasymphysial_teeth_(includes_parasymphysial_tusks)_behind_the_marginal_tooth_row parasymphysial_teeth_absent;
+{ 80 Mandible_character_81 All_three_coronoids_with_field_of_small_denticles field_of_denticles_restricted_to_the_posterior_coronoid coronoids_without_any_denticle_field;
+{ 81 Mandible_character_82 Prearticular_not_extending_posterior_to_the_level_of_the_glenoid prearticular_extending_posterior_to_the_glenoid,_covering_themedial_face_of_the_articular;
+{ 82 Mandible_character_83 Mandibular_sulcus_shallow_or_absent_at_its_posterior_end mandibular_sulcus_deeply_incised_at_its_posterior_end;
+{ 83 Mandible_character_84 Postglenoid_process_(if_present)_on_the_posterior_end_of_the_mandible_no_longer_than_the_arcadian_process postglenoid_process_much_longer_than_the_arca-_dian_process;
+{ 84 Mandible_character_85 Chordatympanic_foramen_located_on_the_suture_between_the_articular_and_the_prearticular chordatympanic_foramen_located_on_the_prearticular_alone chordatympanic_foramen_absent;
+{ 85 Mandible_character_86 Mandible_without_a_hamate_process tall_hamate_process_projecting_dorsally_immediately_in_front_of_the_anteromedial_corner_of_the_glenoid_of_the_mandible;
+{ 86 Mandible_character_87 Coronoid_bones_without_teeth_other_than_denticles posterior_coronoid_with_a_row_of_teeth all_coronoids_with_a_continuous_tooth_row;
+;
+
+
+ccode  - 0.8 10.86 + 9;
+
+
+;

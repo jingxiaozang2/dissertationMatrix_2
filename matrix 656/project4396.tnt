@@ -1,0 +1,85 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.03.55'
+48 19
+
+&[num]
+Tinodon_bellus                       0010?000100000?00?000000000000000000000000000100
+Spalacotherium_tricuspidens          0?10000000?0002100000000000110000000001000000000
+Paurodon_valens                      000??001011101?10010000001100001110011010000?011
+Henkelotherium_guimarotae            ???011?101?10111001000000111??11110011?10?1?0011
+Drescheratherium_acutum              ???01?????????1100100000011?????????????????????
+Anthracolestes_sergei                ??1???0?????????????????????1011011021011001?0??
+Amblotherium_pusillum                1?01?10101?101?2?0101100?11211111110211110111011
+Amblotherium_gracile                 1?1??1?1011101?200101100011211111110211110111011
+Achyrodon_nanus                      1?11211111?1013210101?0011121?11111121011011?111
+Phascolestes_mustelulus              00012121111111321010110011121?111111210111110111
+Laolestes_eminens                    11110111011101321?111110011211111111210110110011
+Dryolestes_priscus                   ???1?1?101210132111111010112111111112101101100?1
+Dryolestes_leiriensis                111101110121013211111101011211111111210110110011
+Krebsotherium_lusitanicum            111111110111013211111110011211111111210110110011
+Guimarotodus_inflatus                111??111012101?????????????211111111210110110?11
+Crusafontia_cuencana                 101??121111111?210101100111211111110211111110111
+Hercynodon_germanicus                ???????????????210101100111?1?111110?1111???????
+Beckumia_tenera                      ???????????????211101100011?1?11111??11?1???????
+Balve_mandible                       ??1??11????????????????????211???1???1??10110111
+
+;
+
+
+cnames
+{ 0 Lower_canine,_distal_cusp_or_short_labial_cingulid absent present;
+{ 1 Lower_canine,_lingual_cingulid absent present;
+{ 2 Lower_canine,_number_of_roots one two;
+{ 3 Ultimate_upper_premolar similar_in_length_or_shorter_and_narrower_than_M1 robust,_about_twice_longer_and_similar_in_width_with_M1;
+{ 4 Ultimate_upper_premolar,_cingulum complete_around_the_crown only_labial_cingulum no_cingulum;
+{ 5 Lower_premolars,_number three_or_less four;
+{ 6 Lower_premolars,_relative_size gradual_increase_in_size_posteriorly p2_smaller_than_p1_and_p3 p1-2_similar_in_size_and_distinctly_smaller_than_p3-4;
+{ 7 Lower_premolars,_anterior_accessory_cusp present absent;
+{ 8 Lower_premolars,_lingual_cingulid continuous incomplete_or_absent;
+{ 9 Ultimate_lower_premolar,_size_relative_to_first_molar lower_or_subequal taller;
+{ 10 Ultimate_lower_premolar,_W/L_ratio 0.50_or_less between_0.51_and_0.70 0.71_or_greater;
+{ 11 Ultimate_lower_premolar,_mesial_edge straight convex;
+{ 12 Ultimate_lower_premolar,_distinct_distal_cingulid_cusp_d absent present;
+{ 13 Ultimate_lower_premolar_cusp_c_(between_main_cusp_a_and_cingulid_cusp_d) present absent;
+{ 14 Upper_molars,_number three_or_less five six seven_or_eight;
+{ 15 Upper_molar_shape_(calculated_on_widest_molar_in_series_when_possible) as_long_as_wide,_or_longer_(L/W_>_0.99) wider_than_long_(0.75_<_L/W_<_0.99) much_wider_than_long_(L/W_<_0.75);
+{ 16 Upper_molars,_labial_cingulum present absent;
+{ 17 Upper_molars,_ectoflexus present absent;
+{ 18 Upper_molars,_cusp_B present absent;
+{ 19 Upper_molars,_preparacrista_recurved_distally_towards_large_centrtal_stylocone absent present;
+{ 20 Upper_molars,_stylocone,_size_relative_to_metacone_(or_paracone,_if_metacone_absent) smaller subequal_or_larger;
+{ 21 Upper_molars,_median_cusp absent present;
+{ 22 Upper_molars,_median_crest_between_stylocone_and_paracone absent present;
+{ 23 Upper_molars,_crest_between_stylocone_and_metacone absent present;
+{ 24 Upper_molars,_metacone large,_with_convex_mesial_side small,_crest-like_or_absent;
+{ 25 Upper_molars,_lingual_cingulum present absent;
+{ 26 Upper_molars,_number_of_roots two three;
+{ 27 Lower_molars,_number five_or_less six-seven eight-nine;
+{ 28 Lower_molars,_unilateral_hypsodonty absent present;
+{ 29 Lower_molars,_length_to_width_ratio_(L/W) more_than_1.1 1.1_or_less;
+{ 30 Lower_molars,_metaconid_to_protoconid_height less_than_40% more_than_40%;
+{ 31 Lower_molars,_paracristid_and_protocristid,_lowest_point approximately_at_the_same_level distinctly_higher_on_protocristid;
+{ 32 Lower_molars,_protocristid_orientation oblique transverse;
+{ 33 Lower_molars,_paraconid,_direction almost_vertical,_parallel_to_protoconid mesiodorsally_directed,_deviated_from_protoconid;
+{ 34 Lower_molars,_paraconid,_size_relative_to_metaconid subequal about_twice_shorter;
+{ 35 Lower_molars,_metaconid pointed blunt,_or_chisel-like,_or_bifid;
+{ 36 Lower_molars,_talonid absent_or_cingulid_cusp_d heel-like shelf-like;
+{ 37 Lower_molars,_lingual_cingulid present absent;
+{ 38 Lower_molars,_labial_cingulid absent_or_incomplete complete;
+{ 39 Lower_molars,_extensive_wear_in_hypoflexid_(facet_3) absent present;
+{ 40 Lower_molars,_roots equal distal_root_much_smaller_and_lingually_placed;
+{ 41 Anterior_end_of_dentary_upturned_dorsally_so_the_incisors_placed_above_the_level_of_molars absent present;
+{ 42 Height_of_mandibular_ramus_between_canine_and_last_molariform sub-uniform becomes_higher_posteriorly;
+{ 43 Dentary,_height_of_labial_alveolar_border_relative_to_the_lingual_border at_least_80% less_than_80%;
+{ 44 Coronoid_process anteroposteriorly_broad narrow,_separated_from_condylar_process_by_deep_mandibular_notch;
+{ 45 Angle_of_coronoid_process_to_toothrow 135-115_grad 95-115_grad;
+{ 46 Pterygoid_crest present,_reaching_dentary_condyle present,_extending_to_base_of_angular_process absent;
+{ 47 Angular_process absent present;
+;
+
+
+ccode  - 0.47;
+
+
+;

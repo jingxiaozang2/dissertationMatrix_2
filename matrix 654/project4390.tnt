@@ -1,0 +1,154 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.01.33'
+109 27
+
+&[num]
+Apsaravis                  ????????????????????0?????????00??????0??1??0?????????0000??0001?000000000?0000000000??????????????????????00
+Hesperornis                00?1?0?000000000011000?0101?010000100?01?0??0001??002011000000000?0??00200000000000000?????????????????????00
+Ichthyornis                00?0?0?0000000000??000??001??000001???0100??00010?0???01?000?0000000000?0000000000000??????????????????????00
+Rheidae                    1001000010000000000000000100000000000?00111100100000101000??011?0?0??00?11000000001101000?00100???11400000000
+Apterygidae                100100001000000000?000001100000000000100111100111010101000??001?0?0??00?1000000000010100000000000101200000000
+Tinamidae                  1001000010000000000000000000000000000100111100100000111000000101011000040000100000110100010000000000100000000
+Galliformes                100000000001100001010101012000110010100011001100?110111?010001010111100311011001101100000000000000101?0000000
+Anhimidae                  10100?00010110110111010101100011011010001100110000101010110000000111100411011001001100000?00??0?0????10000000
+Anatidae                   10200000010110010101010101100011011010001100110000101010110001000111100?11011001001001100110000?0?0?210000000
+Threskiornithidae          1001000001111110010200010100001010000000110000101011111010000000011110131101100100110000?00010001000100010000
+Phaethontidae              10000100000011000102000111101010000001001100001011102010110100000111101101011001001100110?00?1???????00010000
+Fregatidae                 1101000100001111010200110110101000000101110000101110000010020100111110120101101110111001111111000100501110000
+Phalacrocoracidae          110101110100111011020011111111110001010111000010100020001011010101011013110111?110111011111001000?00201110000
+Anhingidae                 1001001101001111110200111111001100010?0111010010000120001011010101011003110111111111101111100?000?00201110000
+Sulidae                    1001011101001011110200??1111111110010101110100101001200011110101111110?31101111111111011111001000000101110000
+Pelecanidae                1101010101101101011200110110201000000000110?0010000121?0001300011111101311011?01111100110?1??11???0??01111100
+Scopidae                   11010000011011110112001101000010100000101100001011002010111001001111101211011001111100001000?11???0??00110000
+Balaenicipitidae           1101010101101111011200110100001010000000110000100101101011120000111110131101100111110000000011100010100111100
+Ardeidae                   100000000?001110010200010110001?1000000011000010010120101100010001111012110110011?1110001000111?0110100?11000
+Ciconiidae                 10000?0001111110011200?1010000111000001011000010001?101010010?00111110131101100100110000000011?0100010001?100
+Procellariidae             1101100000001110010010110110?110100000001100001011?0101110001000?101010201111001??100110001100010100400010000
+Diomedeidae                1101100000001110010210111110101010000000110000101110101010001000111101021111100100110110001100010101400010010
+Pelagornis                 20?1?1010000100001010001001?001000100?0110??00011?10?010??01100000?1000???0?100100100????????????????1?????11
+Dromornithidae             10?0?101?1?1110?01010001011?000101101?001100100000?020100??0011?0?10000??10?100000110100???????????????0???00
+Sylviornithidae            10?0?1000??110010101000101??001100100?001100100011???1?0?1???000??11?0????0?100110?100?????????????????????00
+Protodontopteryx           21?1???0???????????????????????????????1????00?1??????????01100001?1000??10?10?????????????????????????????10
+Dasornis                   20?1?1010000100001010001001?001000100?0110??0001???????????11000?0?1000???0?100111110??????????????????????11
+
+;
+
+
+cnames
+{ 0 Teeth present absent "pseudoteeth"_present;
+{ 1 Upper_beak,_praemaxilla_with_sharply_hooked_tip no yes;
+{ 2 Upper_beak,_lamellae_for_filter_feeding absent vestigial well_developed;
+{ 3 Upper_beak,_marked_furrow_rostral_of_nasal_opening absent present;
+{ 4 Rhamphotheca_forming_tubular_external_nostrils no yes;
+{ 5 Skull,_distinct_nasofrontal_hinge absent present;
+{ 6 Os_suprajugale absent present;
+{ 7 External_narial_openings_greatly_reduced_or_completely_absent no yes;
+{ 8 Os_mesethmoidale_reaching_rostrally_markedly_beyond_nasofrontal_hinge no yes;
+{ 9 Ossa_maxillaria,_processus_maxillopalatini_fused_along_their_midline,_i.e.,_palate_desmognathous no yes;
+{ 10 Ossa_maxillaria,_processus_maxillopalatini_greatly_enlarged,_inflated,_and_spongy no yes;
+{ 11 Os_lacrimale,_well_developed_processus_orbitalis_which_touches_or_nearly_touches_the_jugal_bar yes no;
+{ 12 Articulatio_pterygopalatina_sliding_on_rostrum_parasphenoidale no yes;
+{ 13 Os_palatinum,_crista_ventralis absent present;
+{ 14 Os_palatinum,_pars_lateralis absent_or_very_small present_and_well_developed;
+{ 15 Ossa_palatina_fused_along_midline no yes;
+{ 16 Both_ossa_palatina_forming_a_flat_plate_with_virtually_no_dorsoventral_extension no yes;
+{ 17 Os_palatinum_and_os_pterygoideum_fused yes no;
+{ 18 Os_pterygoideum_very_short,_measuring_as_much_or_less_than_maximum_width_of_processus_mandibularis_of_quadratum no yes;
+{ 19 Basipterygoid_articulation_in_adulthood present,_not_as_follows present,_rostropterygoid_articulation_with_large_and_ovoid_articular_facet_for_pterygoid absent;
+{ 20 Os_frontale,_dorsal_surface_with_marked_depressions_for_supraorbital_salt_glands absent present;
+{ 21 'Cranium, basiparasphenoid plate inflated, rounded, broad, and meeting the parasphenoid rostrum at a very acute angle; ostia canalis carotici et opthalmici externi situated in a well marked depression' no yes;
+{ 22 Tubae_auditivae_completely_ossified_ventrally yes no_(lateral_osseous_wall_lacking);
+{ 23 Tubae_auditivae paired_and_lateral paired_and_close_to/adjacent_on_cranial_midline_or_single_rostral_opening_(tuba_auditiva_communis);
+{ 24 Marked_processus_parasphenoidales_mediales absent present;
+{ 25 Fronto-parietal_suture_in_adult_birds open_or_incompletely_ossified closed;
+{ 26 Processus_zygomaticus present,_variably_developed absent_or_vestigial as_before,_but_ossified_aponeurosis_zygomatica_present;
+{ 27 Number_of_scleral_ossicles 14_or_more 12_or_13;
+{ 28 Recessus_tympanicus_dorsalis not_as_follows greatly_enlarged_and_situated_rostrally_to_the_articular_facets_of_the_quadrate enlarged_and_situated_laterally_to_the_articular_facets_of_the_quadrate;
+{ 29 Fossae_temporales_very_marked_and_extending_to_midline_of_cranium no yes;
+{ 30 Quadratum,_processus_oticus,_two_well-separated_heads_for_articulation_with_os_squamosum_and_os_prooticum absent present;
+{ 31 Quadratum,_processus_oticus,_eminentia_articularis absent present;
+{ 32 Quadratum,_condylus_medialis,_marked,_rostrally_or_laterally_projecting,_concave_articular_surface absent present;
+{ 33 Quadratum,_condylus_lateralis_with_large_and_caudally_prominent_facies_articularis_quadratojugalis_caudalis no yes;
+{ 34 Quadratum,_condylus_caudalis present absent;
+{ 35 Quadratum,_processus_orbitalis_greatly_reduced_in_size no yes;
+{ 36 Quadratum,_processus_orbitalis,_well-developed_crista_orbitalis absent present;
+{ 37 Apparatus_hyobranchialis,_os_urohyale present,_rod-shaped vestigial_or_absent;
+{ 38 Mandible,_ventral_portion_of_rami_mandibulae_caudal_of_pars_symphysialis_medially_inflected,_so_that_mandible_forms_a_deep_trough no yes;
+{ 39 Mandible_of_adult_birds_with_intraramal_hinge_between_os_spleniale_and_os_angulare absent present;
+{ 40 Mandible,_os_coronoideum present absent;
+{ 41 Mandible,_ossified_symphysis_mandibulae absent present;
+{ 42 Mandible,_two_marked_grooves_on_ventral_surface_of_symphysis absent present;
+{ 43 Mandible,_dorsal_surface_of_symphysis_essentially_flat no yes;
+{ 44 Mandible,_strongly_elongated,_blade-like_processus_retroarticularis absent present;
+{ 45 Mandible,_processus_medialis,_long,_narrow,_and_dorsally-oriented no yes;
+{ 46 Mandible,_cotylae_of_caudal_end_very_shallow,_without_caudomedial_and_lateral_walls_and_separated_by_rostrocaudally_oriented_crista_intercotylaris yes no;
+{ 47 Mandible,_marked_neurovascular_furrow_along_lateral_surfaces absent present;
+{ 48 Axis,_foramina_transversaria present absent;
+{ 49 Axis,_processus_costales present absent;
+{ 50 Third_cervical_vertebra,_osseous_bridge_from_processus_transversus_to_processus_articularis_caudalis absent present;
+{ 51 8th-11th_cervical_vertebrae processus carotici ankylozed along midline;
+{ 52 Number_of_praesacral_vertebrae_(all_vertebrae_cranial_to_synsacrum) 19 20-22 23_or_more;
+{ 53 Several_thoracic_vertebrae_fused_into_a_notarium no yes;
+{ 54 Thoracic_vertebrae at_least_part_of_series_platycoelous_or_opisthocoelous,_i.e.,_with_subround,_central_articular_surfaces_that_lack_the_dorsoventral_compression_and_saddle-shaped_articular_surface_seen_in_heterocoelous_vertebrae series_completely_heterocoelous_,This_character_was_scored_as_unknown_for_Pelecanidae,_in_which_the_caudalmost_thoracic_vertebrae_are_fused;
+{ 55 Caudalmost_praesacral_vertebrae_with_deep_lateral_excavations no yes;
+{ 56 Posterior_caudal_vertebrae_with_well-developed_processus_haemales no yes;
+{ 57 Pygostyle,_corpus_perforated_at_caudoventral_end yes no;
+{ 58 Furcula,_extremitas_omalis_with_strongly_developed,_laterally_protruding_facies_articularis_acrocoracoidea no yes;
+{ 59 Furcula,_apophysis_furculae not_as_follows abutting_with_an_articular_facet_on_the_apex_carinae_of_the_sternum fused_with_the_apex_carinae_of_the_sternum_(Balaenicipitidae_and_Fregatidae) fused_with_the_apex_carinae_of_the_sternum_(Pelecanidae);
+{ 60 Coracoid,_extremitas_sternalis,_processus_lateralis_greatly_elongated no yes;
+{ 61 Coracoid,_foramen_nervi_supracoracoidei present absent;
+{ 62 Coracoid_and_scapula_fused_to_form_scapulocoracoid no yes;
+{ 63 Scapula,_acromion_very_long_and_markedly_cranially_projecting no yes;
+{ 64 Sternum,_facies_visceralis_with_numerous_pneumatic_foramina_along_midline_and_lateral_margins no yes;
+{ 65 Humerus,_crista_deltopectoralis_cranially_deflected no yes;
+{ 66 Humerus,_pneumatic_foramina_at_bottom_of_pneumotricipital_fossa,_or_corresponding_area_in_taxa_without_such_fossa absent present;
+{ 67 Humerus,_fossa_musculi_brachialis_absent_or_very_indistinct yes no;
+{ 68 Humerus,_well-developed_sulcus_scapulotricipitalis absent present;
+{ 69 Humerus_with_very_large_processus_supracondylaris_dorsalis no yes;
+{ 70 Ulna,_distinctly_exceeding_humerus_in_length no yes;
+{ 71 Pelvis,_number_of_vertebrae_ankylozed_in_synsacrum 9-10 11-12 13-14 15-16 17-18;
+{ 72 Pelvis,_cristae_iliacae_dorsales_largely_or_completely_fused_with_crista_spinosa_of_synsacrum,_thus_forming_a_closed_canalis_iliosynsacralis no yes;
+{ 73 Pelvis,_foramen_ilioischiadicum_caudally_closed no yes;
+{ 74 Tibiotarsus,_cristae_cnemiales_greatly_enlarged_and_markedly_protruding_proximally no yes;
+{ 75 Tibiotarsus,_ascending_process_of_astragalus_fusing_to_calcaneum_during_ontogenetic_development no yes;
+{ 76 Tibiotarsus,_distal_end,_ossified_pons_supratendineus absent present;
+{ 77 Tibiotarsus,_distal_end_medially_inflected,_condylus_medialis_protruding_farther_distally_than_condylus_lateralis no yes;
+{ 78 Tarsometatarsus not_as_follows very_short_and_stocky,_ratio_distal_width:length_more_than_0.3;
+{ 79 Tarsometatarsus,_hypotarsus_with_well-developed_cristae/sulci no yes;
+{ 80 Tarsometatarsus,_hypotarsus,_tendon_of_musculus_flexor_digitorum_longus_enclosed_in_bony_canal no yes;
+{ 81 Tarsometatarsus,_hypotarsus,_tendon_of_musculus_flexor_hallucis_longus_enclosed_in_bony_canal no yes;
+{ 82 Tarsometatarsus,_canalis_interosseus_distalis absent present;
+{ 83 Tarsometatarsus,_trochlea_metatarsi_II_plantarly_deflected_and_distal_end_reaching_much_less_far_distally_than_distal_end_of_trochlea_metatarsi_IV yes no;
+{ 84 Tarsometatarsus,_trochlea_metatarsi_II_distinctly_longer_than_trochlea_metatarsi_IV,_reaching_as_far_distally_as_trochlea_metatarsi_III no yes;
+{ 85 Hallux not_as_follows greatly_reduced_(proximal_phalanx_very_short,_measuring_less_than_half_of_the_length_of_the_proximal_phalanx_of_third_toe)_or_completely_absent;
+{ 86 Three_anterior_toes_connected_by_web_over_their_entire_length no yes;
+{ 87 Hallux_included_in_webbed_foot no yes;
+{ 88 Claw_of_third_toe_distinctly_pectinate_on_its_medial_side no yes;
+{ 89 Musculus_femorotibialis_externus,_distal_head present absent;
+{ 90 Musculus_flexor_cruris_lateralis,_pars_accessoria present absent;
+{ 91 Musculus_flexor_cruris_lateralis,_pars_pelvica present absent;
+{ 92 Musculus_caudofemoralis,_pars_caudalis present absent_or_poorly_developed;
+{ 93 Musculus_caudofemoralis,_pars_pelvica present absent;
+{ 94 Musculus_ambiens present absent;
+{ 95 Musculus_ambiens,_extent_of_origin limited_to_tuberculum_praeacetabulare extending_from_tuberculum_praeacetabulare_to_pubis one_origin_tuberculum_praeacetabulare_and_one_from_pubis;
+{ 96 Musculus_gastrocnemius,_fourth_head absent present;
+{ 97 Musculus_flexor_perforans_et_perforatus_digiti_III,_vinculum present absent;
+{ 98 Musculus_flexor_perforans_et_perforatus_digiti_II,_origin_from_ansa_iliofibularis no yes;
+{ 99 Musculus_flexor_hallucis_longus,_tendon_to_hallux present weak_or_absent;
+{ 100 Musculus_flexor_hallucis_longus_and_musculus_flexor_digitorum_longus,_type_of_arrangement_(indicated_by_different_numbers) 0 1 2 3 4 5;
+{ 101 Impressio_musculi_adductoris_mandibulae_externus,_pars_coronoidea_in_medial_position no yes;
+{ 102 Large_and_naked_gular_pouch absent present;
+{ 103 Eggshell not_as_follows covered_with_layer_of_microglobular_material_of_amorphous_calcium_carbonate;
+{ 104 Phallus present absent;
+{ 105 Neck_in_flight_("underwater_flight"_in_penguins,_respectively) stretched_out retracted_and_resting_on_back;
+{ 106 Syrinx,_musculus_tracheolateralis_("intrinsic_muscles") present absent_or_reduced_to_a_narrow_ligament_(in_Balaenicipitidae);
+{ 107 Coracoid,_extremitas_sternalis_notched,_forming_an_articulation_facet_in_the_medial_portion_of_the_bone,_which_is_laterally_bordered_by_a_marked_step no yes;
+{ 108 Humerus_very_long_and_extremely_slender_with_very_small_proximal_and_distal_ends no yes;
+;
+
+
+ccode  - 0.108;
+
+
+;

@@ -1,0 +1,34 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 18.08.30'
+9 7
+
+&[num]
+Cordaites_(and_early_conifers)          000?00?0?
+Trichopitys                             10?0?0000
+Karkenia                                111010?00
+Toretzia                                111101100
+Umaltolepis                             111101101
+Yimaia                                  111101000
+Ginkgo                                  111101010
+
+;
+
+
+cnames
+{ 0 Axillary_ovulate_shoots_single absent present;
+{ 1 Dwarf_shoots absent present;
+{ 2 Ovule_flesh_with_resin_bodies absent present;
+{ 3 Ovules_few_and_large absent present;
+{ 4 Outer_cuticle_of_integument_thin absent present;
+{ 5 Nucellus_largely_fused_with_integument absent present;
+{ 6 Leaf_entire absent present;
+{ 7 Collar absent present;
+{ 8 Bracts_greatly_reduced_Umaltolepis absent present;
+;
+
+
+ccode  - 0.8;
+
+
+;
