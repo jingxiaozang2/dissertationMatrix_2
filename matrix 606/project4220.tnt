@@ -1,0 +1,113 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.53.04'
+48 47
+
+&[num]
+Mongoloraphidia_harmandi                       000110200010000000020--0000000000000---000001010
+Agulla_arizonica                               00000010001000000002000--------0100----110001010
+Xanthostigma_gobicola                          00011020001000000002000000000000000----001001010
+Amurinocellia_sinensis                         011101-11101011----01100000002011001---010010011
+Amurinocellia_calida                           012111-11101011----01100000002011001---010010011
+Amurinocellia_sinica                           012111-11101011----01100000002011001---010010011
+Fibla_hesperica                                01200001110100000011-10110000101000001000000110-
+Fibla_maclachlani                              01200001110000000011-10110000101000001001000010-
+Fibla_pasiphae                                 01200001110100000011-10110000101000011011100100-
+Fibla_peyerimhoffi                             01200001110000000011-10110000101000001000000100-
+Indianoinocellia_mayana                        111101-1110000010001-101100001111000---10000000-
+Indianoinocellia_pilicornis                    11-101-1110000010001-101100001101000---10000000-
+Inocellia_bhutana                              011111-1110201010001-1010010010010000100????????
+Inocellia_bilobata                             011?11-1110110010131-1010020010110000100????????
+Inocellia_biprocessus                          011111-1110010011021-101010001011011---000001111
+Inocellia_cheni                                011001-1110200010021-101001001011000010001001111
+Inocellia_cornuta                              011011-1110110011001-101002001011000010010001111
+Inocellia_crassicornis                         01?111-1110010011001-101010001011001---010001111
+Inocellia_digitiformis                         011?01-1110010011001-101012001011001---010000111
+Inocellia_elegans                              012111-1110210010021-101001001011001011001000111
+Inocellia_fujiana                              011101-1110010011021-101012001011001---010001111
+Inocellia_fulvostigmata_fulvostigmata          012001-1110110010021-10100200101100001001000110-
+Inocellia_fulvostigmata_nigrostigmata          01?0?1-1110110010021-10100200101100001001000110-
+Inocellia_hainanica                            011111-1110200010021-10100100101100101000000010-
+Inocellia_hamata                               011111-1110110010131-111002101011001010010000111
+Inocellia_indica                               011111-1110211010021-111001001011000010010000111
+Inocellia_japonica                             01?1?1-1110010011021-101010001011010---010001111
+Inocellia_longispina                           011?11-1110110010001-1010020010110000100????????
+Inocellia_nigra                                011?11-1110010011021-101010001011000---0????????
+Inocellia_obtusangularis                       011?11-1110110010131-1010010010110000100????????
+Inocellia_occidentalis                         011?11-1110010011021-101012001011000---0????????
+Inocellia_rara                                 011?11-1110100010131-1110021010110010100????????
+Inocellia_shinohara                            011?11-1110010011001-101012001011000---0????????
+Inocellia_aspouckorum                          011111-1110100010001-111002101011001010000001111
+Inocellia_striata                              011011-1110110010131-10100200101100001000000110-
+Inocellia_taiwana                              012111-1110010011021-101010001011000---001001111
+Inocellia_tibetana                             011111-1110110010001-10100200101100001001100010-
+Inocellia_yunnanica                            011111-1110210010001-101001001011001010001001111
+Negha_inflata                                  01?111-1110000000001-10110000100000000010010000-
+Negha_longicornis                              01?111-1110000000001-10110000100000000010010000-
+Negha_meridionalis                             01?111-1110000000001-10110000100000000010010100-
+Parainocellia_bicolor                          012111-11100101----00101002012011001---00000010-
+Parainocellia_braueri                          0120?1-11100101----00101002002011000---00000010-
+Epinocellia_burmana                            011111-11101101----00111001001011100---01100110-
+Parainocellia_ressli                           012111-11100001----00101002012011000---00000110-
+Epinocellia_weii                               011011-11101101----00111001001011100---010101111
+Sininocellia_gigantos                          01100001110000011021-101100001011000111000000011
+
+;
+
+
+cnames
+{ 0 Flagellum_of_antennae_in_male With_inconspicuous_hairs With_conspicuously_long_hairs;
+{ 1 Ocelli Three_ocelli_present Absent;
+{ 2 Vertex Distinctly_narrowed_posteriad Not_narrowed_posteriad Slightly_widened_posteriad;
+{ 3 Head_coloration_in_female Black_with_yellow_pattern Mostly_black;
+{ 4 Pronotum_color Black_but_with_yellow_pattern Mostly_black;
+{ 5 MA_vein_in_hind_wing Present Absent;
+{ 6 MA_vein_in_hind_wing_-_2 Longitudinal Oblique Crossvein-like,_vertical_with_stem_of_MP;
+{ 7 Pterostigma_color_in_male Yellow_or_at_least_partially_yellow Brown;
+{ 8 Spiraculum_8 Free Surrounded_by_tergum_8;
+{ 9 Ring_formed_by_tergum_and_sternum_9 Straight Angled;
+{ 10 Ring_formed_by_tergum_and_sternum_9_-_2 With_lateral_sclerotized_ridge Without_lateral_sclerotized_ridge;
+{ 11 Gonocoxite_9 Only_slightly_extending_beyond_ectoproct Extending_beyond_ectoproct_maximally_with_its_distal_third Extending_beyond_ectoproct_with_its_distal_half;
+{ 12 Bristle_tuft_on_inner_portion_of_gonocoxite_9: Absent present;
+{ 13 Gonocoxite_9_posteroventrally_with_an_additional_lobe Absent Present;
+{ 14 Gonostylus_9 Present Absent;
+{ 15 Gonostylus_9_-_2 Present_at_tip_of_gonocoxite_9 Present_on_subapical_portion_of_gonocoxite_9;
+{ 16 Gonostylus_9_-_3 Distally_without_bristle_tuft Distally_with_a_bristle_tuft;
+{ 17 Gonostylus_9_-_4 Lacking_minute_dentations Bearing_many_minute_dentations;
+{ 18 Shape_of_gonostylus_9 Slenderly_digitiform_with_spinous_or_unguiform_apex Broadly_sac-like Broadly_domed_or_tubercular Complex,_generally_thickly_coniform_and_sometimes_bilobed;
+{ 19 Shape_of_gonapophyses_9 As_a_pair_of_hook-like_sclerites As_a_pair_of_foliate_sclerites Modified_into_a_major_ventral_sclerite_(=_hypovalva);
+{ 20 Direction_of_gonapophyses_9 Longitudinal,_not_crossed Crossed;
+{ 21 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_10 Present_as_paired_sclerites Present_as_an_unpaired_sclerite;
+{ 22 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_10_-_2 Without_a_conspicuously_long_median_projection With_a_conspicuously_long_median_projection;
+{ 23 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_11 Feebly_developed Shield-like;
+{ 24 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_11_with_ventral_projections Absent Present;
+{ 25 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_11_in_lateral_view Not_or_feebly_produced_posterodorsally Distinctly_produced_posterodorsally;
+{ 26 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_11_-_2 Without_median_projections Medially_domed With_a_pair_of_median_projections;
+{ 27 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_11_-_3 Without_a_pair_of_small_denticulate_processes_on_ventral_margin_in_caudal_view With_a_pair_of_small_denticulate_processes_on_ventral_margin_in_caudal_view;
+{ 28 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_11_-_4 With_median_projections_not_vertically_directed_ventrad_in_lateral_view With_median_projections_vertically_directed_ventrad_in_lateral_view;
+{ 29 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_11_-_5 With_height_at_least_three_times_as_long_as_wide_in_caudal_view With_height_as_long_as_or_slightly_longer_than_wide With_wide_nearly_twice_as_long_as_height;
+{ 30 Complex_of_gonocoxites_+_gonapophyses_+_gonostyli_11_-_6 Without_a_separated_ventral_structure With_a_separated_ventral_structure;
+{ 31 Endophallus Without_groups_of_bristles With_groups_of_bristles;
+{ 32 Endophallus_-_2 With_many_minute_teeth_at_least_on_lateral_portions Without_minute_teeth;
+{ 33 Endophallus_-_3 Without_a_scabrous_region_on_dorsoproximal_portion With_a_scabrous_region_on_dorsoproximal_portion;
+{ 34 Endophallus_-_4 Proximally_without_any_process_dorsolaterally Proximally_with_a_pair_of_processes_dorsolaterally;
+{ 35 Endophallus_-_5 With_one_pair_of_bristle_tufts With_two_pairs_of_bristle_tufts;
+{ 36 Shape_of_serratulum Hemispheric,_wider_than_long Elongate,_longer_than_wide;
+{ 37 Serratulum Paired Unpaired;
+{ 38 Serratulum_-_2 With_small_teeth Without_teeth;
+{ 39 Ectoproct_in_lateral_view Shorter_than_tergum_9 As_long_as_or_longer_than_tergum_9;
+{ 40 Incision_on_posterior_margin_of_sternum_7 Absent Present;
+{ 41 Posterior_margin_of_sternum_7 Convex Not_convex;
+{ 42 Tergum_8 Laterally_undivided With_ventral_part_separated;
+{ 43 Tergum_8_ventrocaudally Without_a_robust_lobe With_a_robust_lobe;
+{ 44 Tergum_8_anteriorly Straight Convex;
+{ 45 Fused_gonocoxites_8 Compact_but_not_sclerotized With_sclerotized_differentiations;
+{ 46 Complex_of_bursa_copulatrix Completely_membranous With_sclerotized_atrium_bursae;
+{ 47 Sclerotized_plates_of_atrium_bursae Paired Unpaired;
+;
+
+
+ccode  - 0.47;
+
+
+;

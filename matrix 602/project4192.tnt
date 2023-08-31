@@ -1,0 +1,164 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.50.57'
+104 42
+
+&[num]
+Chimaeridae                        000000-0-01000?-0000-0021?0?-00001?00000000001?0???01000000000000010000000000-000??00000000000000?000000
+Hexanchidae                        000000-0-00010?-0000-00?1000-00000000000000001100-?0000000000000000???0000000-000?000000000100000?000000
+Heterodontus                       000011-0-000100-0000-0020--0-000100000000000-1100--000000000000000000000?000?-00-4000?00000?0000??000000
+Squalus                            000011-0-0?0100-0?????020--0-00000?0?000000??1100--0000?00000000000???0?000??-00-4000?000000000???000000
+Raja                               11112100-00011100001000110011000000000000100011120100011100100102110110000000200000100000100123010011001
+Bathyraja                          11112100-00011100000-00111011000000000000100011120100011100100102110110000000200000100000100123010011001
+Torpedo                            11112100-000000-0000-0020--0-00101?1??0001100011010010000000001010000?000101020014001000110101300?1021?0
+Hypnos                             11112100-000000-0000-0020--0-00101?1??0001100011010010?000000010100???000101020014000000110101300?1021?0
+Narcine                            11112110-000000-0000-0021000-00101?1??00000000110100100000000010100100010111020014002000110101300?1021?0
+Narke                              11112110-000000-0000-0021100-00101?1??0000000010010010000000001010010?0101110100?4002000110101300?1021?0
+Temera                             11112110-000000-0000-0020--0-00111?1??0000000010010010000000001010010?0101110?0014002000110101300?1021?0
+Platyrhina                         11112110-000100-000110021100-100000000000000011111000010110000101010000000011211?11010000011221012011020
+Platyrhina_bolcensis               ?1?12110-?0010??????????1100-1?0?0?000????0????????00??011000010?00???0???????10?1???00000?122??0??????0
+Platyrhinoidis                     11112110-000100-000110021100-100000000000100011111000010110000101000000000011011011010000011221012011020
+Tingitanius                        ?1?12110-??0100-????????1??0-?0000000000010?????11000?11?11?0??0??1??????????211011??000001?????1???????
+Tethybatis                         ?1?12??0-??010??????????11?0-??00??0???0??0?????11?00???1?000010101???0????????0?1???00000?122??0??????0
+Kimmerobatis                       ?1010100-??010??????????1??1?00010?000?0010????0???000?000000010001?000?????00000?00?001000100??1??????0
+Asterodermus                       ?1?10100-?00100-????????101100?0?0?000000?0??110???000?01000001000??????????00000?000001000100??1??????0
+Spathobatis                        ?1110100-?10100-??????02101100?010?000000?0??110???0?0?000000010001?0?0?????00000?000001000100??0??????0
+Belemnobatis                       ?1110100-?10100-??????021011?0?0?00000000?0??111???0?0?0000000100010??0?????00000?000001000100??1??????0
+Pristis                            11112100-000100-000100021010-00000000000010001111010001100010010101???0000010200011001000001000002011010
+Rhynchobatus                       11112100-000100-000100021011000000000000000001111000001100010011?01???0000000110011010000001000010011000
+Glaucostegus                       11112100-000100-000?-00210110000000000000000?1111000001100010010101???0?0???01000110100000010??01?0?10?0
+Rhina                              11112100-000100-0000-00210110000000000000000011110?000110001001??01???0000000110011010000001000010011000
+Rhinobatos                         11112100-000100-0001000210110000000000000000011110000011100100101010000000000100011010000001010012011000
+Trygonorrhina                      11112100-000100-0001100210110000000000000?00011110000011110100101010000000001100021010000001123010011000
+Zapteryx                           11112100-000100-0001100210110000000000000100011110000011100100101010000000001100021010000001121012011000
+Aptychotrema                       11112100-000100-00011?0210110000000000000?0??1111000001110010010101???000000120002101000000101?01?0?10?0
+Zanobatus                          11112120-000100-000110020--0-000000000000001011110000013121110111001200000010200030030000001221012011020
+Platyrhina_egertoni                ?1?1?1?0-?0010??????????0?-0-0?0???????????????????0???31??1101110????0???????00?????00?000122??1??????0
+Urolophus                          11112120-001000-1000-11?0?-0-001000210000101111130010012131000111001200001010200030030000000223011001021
+Urobatis                           11112120-10100??1010-11?0?-0-00100020000010101113001011213100011100120000101020003003000000022311?001021
+Urotygon                           11112120-101000-1010-11?0?-0-001000200000101001130010112131000111001200001010200030030000000223111001021
+Gymnura                            11112120-011000-1100-11?0?-0-00100020000010001113001001312101111100120100?010200030030000000223001001020
+Myliobatis                         11112121001100111200-11?0?-0-001001201111101100130010113121011121001201010010200030030000000223003001030
+Aetobatus                          11112121001100111200-11?0?-0-00100121111110110013001011312101112100120101?010200030030000000223003001030
+Rhinoptera                         11112121101100111200-11?0?-0-011101211111101100130010113121010121001201011010200030030000000223003001030
+Mobula                             11112121101100?-1200-11?0--0-01110121110110010013001011311101012100???101?01020003003000000022300?001030
+Ptychotrygon_sp                    ?1110100-???100-??????011000-0?01?????000?0??111???0??1000000010?0????0?????0?000????010000100??????????
+Sclerorhynchus_atavus              ?111?100-?0?100-??????011000-0?000?1??000?0??111?0?000100000001010????0?????0?000?0??1100?0100??1??????0
+Libanopristis_hiram                ?111?100-?00100-????????1000-0?010?10000010??11?20?000100000001010????0?????0?00000??110000100?????????0
+Asflapristis_chistadentis          ?1110100-???100-????????1????0?010?10000010??11??010001000000???????????????02?00?0??0100???????1???????
+
+;
+
+
+cnames
+{ 0 Upper_eyelid present absent;
+{ 1 Palatoquadrate articulates_with_neurocranium does_not_articulate_with_neurocranium;
+{ 2 Pseudohyal absent present;
+{ 3 Last_ceratobranchial free_of_scapulocoracoid articulates_with_scapulocoracoid;
+{ 4 Calcified_suprascapulae absent present_and_independent suprascapular_antimeres_fused_medially;
+{ 5 Antorbital_cartilage absent present;
+{ 6 Antorbital_cartilage_-_2 form_a form_b form_c;
+{ 7 Cephalic_lobes absent present;
+{ 8 Cephalic_lobes_if_separated_from_pectoral_fin form_a_(single) form_b_(two_lobes);
+{ 9 Spiracular_tentacle absent present;
+{ 10 Radial_cartilages_in_cauda_fin present absent;
+{ 11 Serrated_tail_sting absent present;
+{ 12 Placoid_scales absent present;
+{ 13 Malar_and_alar_thornes absent present;
+{ 14 Osteodentine absent present;
+{ 15 Osteodentine_if_present present_in_roots_of_large_teeth_only widespread_occurrence_in_tooth_roots;
+{ 16 Infraorbital_loop_of_suborbital_and_infraorbital_canals absent present;
+{ 17 Subpleural_loop_of_the_hyomandibular_canal broad_rounded loop_forms_a_lateral_hook lateral_aspect_of_subpleural_loop_are_nearly_parallel;
+{ 18 Lateral_tubes_of_subpleural_loop unbranched branched;
+{ 19 Abdominal_canal_on_coracoid_bar absent present;
+{ 20 Abdominal_canal_on_coracoid_bar_-_2 cephalic_lateral_line_forms_abdominal_canal_on_coracoid_bar Canals_are_represented_by_pores;
+{ 21 Scapular_loops_of_scapular_canals absent present;
+{ 22 Hypobranchials well_developed reduced;
+{ 23 Second_hypo_basibranchial_connection form_a form_b form_c;
+{ 24 Rostral_cartilages absent present;
+{ 25 Rostral_cartilages_-_2 reach_the_tip_of_the_snout fail_to_reach_the_tip_of_the_snout;
+{ 26 Rostral_node expanded_laterally not_expanded_laterally;
+{ 27 Rostral_appendices absent present;
+{ 28 Rostral_appendices_-_2 form_a form_b;
+{ 29 Rostral_process absent present;
+{ 30 Dorsolateral_components_of_the_lateral_line absent present;
+{ 31 Nasal_capsules laterally_expanded ventrolaterally_expanded;
+{ 32 Preorbital_process present absent;
+{ 33 Supraorbital_crest present absent;
+{ 34 Anterior_preorbital_foramen dorsally_located anterior_located;
+{ 35 Postorbital_process narrow_in_otic_region reduced_absent broad_and_shelf-like;
+{ 36 Postorbital_process_-_2 separated_from_triangular_process fused_with_triangular_process;
+{ 37 Postorbital_process_-_3 projects_laterally projects_ventrolaterally;
+{ 38 Antimeres_of_upper_and_lower_jaws separated fused;
+{ 39 Meckel"s_cartilage not_expanded_laterally expanded_medially;
+{ 40 Winglike_process_on_Meckel"s_cartilage absent present;
+{ 41 Labial_cartilages present absent;
+{ 42 Medial_section_of_hyomandibula narrow expanded;
+{ 43 Hyomandibula-Meckelian_ligament absent present;
+{ 44 Small_cartilages_associated_with_hyomandibular-Meckelian_ligament absent present;
+{ 45 Basihyal absent present;
+{ 46 First_hypobranchial absent present;
+{ 47 Ceratohyal fully_developed reduced;
+{ 48 Suprascapula-axial_skeleton free_of_vertebral_column articulates_with_vertebral_column fused_medially_to_synarcual fused_medially_and_laterally_to_synarcual absent;
+{ 49 Orientation_of_lateral_stays dorsally_directed laterally_directed_(Torpediniformes,_and_Platyrhinidae);
+{ 50 Ventral_occipital_articulation synarcual_lip_fitted_into_notch_in_basicranium synarcual_lip_rest_in_foramen_magnum;
+{ 51 Second_synarcual absent present;
+{ 52 Scapular_process short long;
+{ 53 Scapular_process_-_2 without_fossa with_fossa;
+{ 54 Scapulocoracoid_condyles not_horizontal horizontal;
+{ 55 Mesocondyle equidistant Scapulocoracoid_is_elongated_between_the_mesocondyle_and_metacondyle Scapulocoracoid_is_elongated_between_the_procondyle_and_the_mesocondyle replaced_by_a_ridge;
+{ 56 Anterior_extension_of_propterygium pectoral_propterygium_fail_to_reach_anterior_margin_of_disc extend_to_near_the_anterior_margin_of_the_disc;
+{ 57 Distal_extent_of_proximal_propterygium posterior_to_mouth between_mouth_and_antorbital_cartilage reaches_antorbital_cartilage reaches_nasal_capsule;
+{ 58 Proximal_section_of_propterygium does_not_surpass_the_procondyle extend_behind_procondyle;
+{ 59 Pectoral_fin_radials articulate_to_pterygia some_articulate_directly_with_scapulocoracoid;
+{ 60 Mesopterygium present absent;
+{ 61 Pectoral_fin_radials_-_2 not_expanded_distally some_pectoral_fin_radials_expanded_distally;
+{ 62 Paired_fin_rays aplesodic plesodic;
+{ 63 Puboischiadic_bar plate_like puboischiadic_bar_of_the_pelvic_girdle_is_narrow_and_moderately_to_strongly_arched_without_distinct_lateral_process narrow_and_strongly_arched_with_a_triangular_medial_prepelvic_process narrow_and_moderately_arched_with_a_bar_like_medial_prepelvic_process;
+{ 64 First_pelvic_radial band_like slightly_expanded_distally,_articulating_with_several_segments_in_a_parallel_fashion rod-like_and_articulates_with_a_single_radial_segment_in_a_series rod-like_and_articulates_with_a_several_radial_segment_in_a_series;
+{ 65 Pelvic_girdle_condyles close_together separated;
+{ 66 Clasper_length short long;
+{ 67 Dorsal_margin_claspers_cartilages lacks_medial_flange possesses_medial_flange;
+{ 68 Ventral_terminal_cartilages simple ventral_terminal_cartilages_are_free_distally_and_forms_components_sentinel_or_is_fused_with_ventral_marginal_cartilages ventral_terminal_cartilages_folded_ventrally_along_its_long_axis_to_form_a_convex_flange;
+{ 69 Ventral_terminal_cartilages_-_2 attached_over_length_to_axial_cartilages free_of_axial;
+{ 70 Caudal_vertebrae Diplospondylus fused;
+{ 71 Ligamentous_sling_on_Meckel"s_cartilage absent present;
+{ 72 Depressor_mandibularis present absent;
+{ 73 Spiracularis undivided divided;
+{ 74 Coracobranchialis consists_of_three_to_five_components single_component;
+{ 75 Coracohyomandibularis2 Single_origin separate_origins;
+{ 76 Arcualia_dorsalis absent present;
+{ 77 Vertebra_centrum_in_the_synarcual present_the_entire_length reaching_rostral_to_suprascapula reaching_caudal_to_suprascapulas;
+{ 78 Nasal_capsule_margin Straight horn_like_process;
+{ 79 Parallel_rows_of_enlarge_denticles absent present;
+{ 80 Ventral_scapula fused separate;
+{ 81 Suprascapula-scapula_articulatiob curved crenate/long crenate/_short ball_socket straight;
+{ 82 Differentiated_lateral_uvulae_on_teeth absent present;
+{ 83 Articulation_of_2nd_hypobranchial_with_ceratobranchial present absent;
+{ 84 Hypobranchial_shape straight_and_segmented loop_or_horseshoe bilateral_fused_plate median_fused_plate;
+{ 85 Rostral_dermal_denticles absent present;
+{ 86 Proximal_pectoral_elements_expanded_distally_and_paddle-like absent present;
+{ 87 Propterygium-Mesopterygium form_(a) form_(b);
+{ 88 Branchial_electric_organs absent present;
+{ 89 Lateral_prepelvic_process absent present;
+{ 90 Postpelvic_processes absent present;
+{ 91 ribs absent present;
+{ 92 Extent_of_Distal_Propterygium not_reaching_nasal_capsules reaching_nasal_capsules beyond_nasal_capsules;
+{ 93 Extent_of_Pectoral_Radials not_reaching_nasal_capsules reaching_nasal_capsules beyond_nasal_capsules;
+{ 94 Anterior_nasal_lobe: poorly_developed Lobe_is_moderately_expanded_medially_to_cover_most_of_the_medial_half_of_the_naris_and_extends_medially_onto_the_internarial_space extends_medially_to_join_its_antimere_and_forms_a_nasal_curtain_that_falls_short_of_the_mouth nasal_curtain_that_extends_to_or_just_anterior_to_the_mouth;
+{ 95 Spiracular_tenticle absent present;
+{ 96 Enlarged_placoid_scales_(thorns) absent present;
+{ 97 Pulp_cavity_in_tooth_roots large broad_and_elongate small absent;
+{ 98 Cephalic_lateral_line_canals_on_ventral_surface present absent;
+{ 99 jugal_arch absent present;
+{ 100 Intermandibularis present absent modified;
+{ 101 coracohyoideus present absent;
+{ 102 coracohyoides_if_present parallel_to_body_axis short diagonal fused;
+{ 103 radial_calcification crustal catenated;
+;
+
+
+ccode  - 0.103;
+
+
+;

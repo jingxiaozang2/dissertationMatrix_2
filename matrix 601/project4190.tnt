@@ -1,0 +1,157 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.49.47'
+89 50
+
+&[num]
+Neoscolecithrix_japonicus            00100010001110000010010000010001101100000110000000000001111111110010001000000010012010100
+Thoxancalanus_spinatus               00000010001110101010000000000001000000001111100000000001111111110000000000000010?????????
+Aetideopsis_minor                    01000010001010100000?01100011001000000001110000000000112000000222010000000000011002100000
+Aetideus_acutus                      0100001000100000000000100001100110110000110000000000011200000002201001101001001100?120100
+Azygokeras_columbiae                 01200012100000000000001000110001101000000100000110000112000000022010101000000011010100000
+Batheuchaeta_anomala                 01200010001000000000?01110010001100000001100000000000112000000222010001000000011002101010
+Bradyetes_pacificus                  01200012100000000000100000011101111000000000000000000112000000002001000000000011002100000
+Bradyidius_capax                     01000010100000000000000000010001101000000010000000000112000000002010001000000011002100000
+Chiridiella_kuniae                   01200010101000000000?01100011111111110110010000000000112000000222010001010110011002101000
+Chiridius_gracilis                   01200010001000000000?011000110011000000011100000000001120000000020100010000000110??110100
+Chirundina_streetsii                 01100010001000000000000000010001100000000100000000000112000000222010000000110011000101010
+Chirundinella_magna                  0110001?000000000?00?01110011001101000001110000000000112000000002010001000000011???001010
+Comantenna_recurvata                 01200012100000000000?01110111001111100000000000111111112000000222001000100000010000100000
+Crassantenna_comosa                  01200012100000000000100100011111111000000000000000000112000000222001110000000011?????????
+Euchirella_rostrata                  01100010001000000000?01111111101111100111100000000000112000000002010011000110001002101010
+Farrania_frigida                     01200012100000000000001100110001101000000000000000000112000000222010001000000010000100000
+Gaetanus_minutus                     01100010001000000000000000011001100000000000000000000112000000222010001000000001011101010
+Jaschnovia_brevis                    01200010000000000000100000111001100000000010000100000112000000222010001010000011???101000
+Lutamator_paradiseus                 01200012100000000000101100011101110000000000000110000112000000022000000000000011000110100
+Mesocomantenna_spinosa               01210012100000000000?11110111001111100110100000111000112000000222001000000000011?????????
+Paivella_inaciae                     01010010001101000000000000111001101100000100000000000112000000222010001010010011000110100
+Parabradyidius_angelikae             01000012100000000000000000111001000000000100000000000112000000002010000000000010000100010
+Paracomantenna_goi                   01200012100000000000100000010001101000000000000000000112000000000001000000000010000110110
+Prolutamator_minor                   01200012100000000000100000010001111000000100000111000112000000002010000000000011?????????
+Pseudeuchaeta_arctica                01200012101000000000100000111101111000000100000000000112000000222001000000000011???100010
+Pseudochirella_obesa                 01100010001000000000000000010001100000000100000000000112000000000010001000000001012101010
+Pseudotharybis_polaris               01000012100000000100101000010001001000000100000000000112000000002010001000000010012100000
+Senecella_siberica                   01200010000000100000100000111001100000000010000100000112000000002010000010000011002101010
+Sursamucro_spinatus                  012?0012100000000000100000011001111000000000000000000112000000222010000000000010?????????
+Undeuchaeta_incisa                   01100010000000000000?01100011001100000000100000000000112000000222010001010110011002101010
+Valdiviella_insignis                 01000010001100010000?01110011001101000110100000111000112000000222010111000110011002101010
+Euchaeta_marina                      11101010001100101000?01111011101111111110100000111100112000000222010111010110011012101011
+Paraeuchaeta_norvegica               11101010001100101000?01110011101111111000000000000000112000000222010011000110011012101011
+Clausocalanus_brevipes               00210010001110101010010000000000000000000000000000000000000000222010001000001110110110110
+Ctenocalanus_citer                   00210010001110101010010000000000000000000000000000000000000000222010001000001110110110100
+Drepanopus_forcipatus                00200010001110111010010000000000000000000100000000000000000000222010011000000010110110110
+Microcalanus_pusillus                0021000?001110000010010000000000001?00000010000100000000000000222010001011000011110110100
+Peniculoides_secundus                00100010001110000010000000110001101110110111111111111102022000022010001000000010?????????
+Pseudocalanus_acuspes                00200010001110111010010000000000001100001100000000000000000000222010011000000011111110100
+Mesaiokeras_spitzbergensis           01110100001110111110010000000000001100111011100000000000000002222110001000000010002010110
+Frigocalanus_rauscherti              01100010001110100010?11111010001111100000111111111111100000000222010001000000010000010100
+Paracyclopia_naessi                  01100000002121111111010000011001101100001111100000000100000002222110001100000010000010100
+Pseudocyclopia_crassicornis          00100000011121111111011000111101111100101111100100000100000000222110001100000010110010100
+Stygocyclopia_balearica              00100010012111111110000000110001111110001111100111000000000000222010100100000010101010100
+Thompsonopia_muranoi                 00100011012111111111?11100010001111110001111100000000000000000002010000100000010012010100
+Miostephos_cubrobex                  01210010011110111110010000000000001100000100000000000000000000222010001010000010102010100
+Parastephos_occatum                  01210000001110111110010000000001001100000010000100000102000000222010001011000010002010110
+Speleohvarella_gamulini              01210100001111111110000000000000001100000000000100000000000002222010001010000010002010110
+Stephos_vivesi                       01210000011111111110010000000000001100001100000000000000000000222010001010000010102010110
+Spicipes_nanseni                     012????????????????0?11111011101101110111111111111111112?????????110111010110?10?????????
+
+;
+
+
+cnames
+{ 0 supralabrum_<presence> absent present;
+{ 1 female_rostral_filaments_<pres present absent;
+{ 2 female_anterior_head_margin_<t bifurcate single_extension not_produced;
+{ 3 female_seta_II_of_caudal_ramus present absent_or_minute;
+{ 4 female_caudal_ramus_seta_VII_< small highly_developed_as_appendicul;
+{ 5 female_caudal_ramus_seta_VII_i symmetrical asymmetrical;
+{ 6 female_caudal_rami_seta_VII_<i inserted_on_inner_border inserted_on_ventral_surface;
+{ 7 female_A1_ancestral_segment_I 3_setae 2_setae 1_seta;
+{ 8 female_A1_ancestral_segment_XX extends_short_of_end_of_A1 extends_well_beyond_end_of_A1;
+{ 9 female_antennule_ancestral_seg separate fused;
+{ 10 female_A1_ancestral_segment_12 with_2_setae with_1_seta with_0_setae;
+{ 11 female_A1_ancestral_segment_13 with_2_setae with_1_seta with_0_setae;
+{ 12 female_A1_ancestral_segment_15 with_2_setae with_1_seta with_0_setae;
+{ 13 female_A1_ancestral_segment_16 with_2_setae with_1_seta;
+{ 14 female_A1_ancestral_segment_17 with_2_setae with_1_seta;
+{ 15 female_A1_ancestral_segment_18 with_2_setae with_1_seta;
+{ 16 female_A1_ancestral_segment_19 with_2_setae with_1_seta;
+{ 17 female_A1_ancestral_segment_20 with_2_setae with_1_seta;
+{ 18 female_A1_ancestral_segment_21 with_2_setae with_1_seta;
+{ 19 female_A2_basis_and_endopod_se separate fused;
+{ 20 female_A2_exopod_segment_1_and separate fused;
+{ 21 female_A2_exopod_segments_4_an separate fused;
+{ 22 female_A2_exopod_segment_1_set present absent;
+{ 23 female_A2_exopod_segment_2_set present absent;
+{ 24 female_A2_exopod_segment_3_set present absent;
+{ 25 female_A2_exopod_segment_4_set present absent;
+{ 26 female_A2_exopod_segment_9_set present absent;
+{ 27 female_Mn_basis_seta_4_<presen present absent;
+{ 28 female_Mn_basis_seta_3_<presen present absent;
+{ 29 female_Mn_basis_seta_2_<presen present absent;
+{ 30 female_Mn_basis_seta_1_<presen present absent;
+{ 31 female_Mn_endopod_segment_1_se present absent;
+{ 32 female_Mn_endopod_segment_1_se_-_2 present absent;
+{ 33 female_Mn_endopod_segment_1_se_-_3 present absent;
+{ 34 female_Mx1_coxal_endite_seta_5 present absent;
+{ 35 female_Mx1_coxal_endite_seta_4 present absent;
+{ 36 female_Mx1_coxal_endite_seta_3 present absent;
+{ 37 female_Mx1_coxal_endite_seta_2 present absent;
+{ 38 female_Mx1_basal_endite_2_seta present absent;
+{ 39 female_Mx1_basal_endite_2_seta_-_2 present absent;
+{ 40 female_Mx1_arthrodial_membrane present absent;
+{ 41 female_Mx1_arthrodial_membrane_-_2 present absent;
+{ 42 female_Mx1_exopod_seta_11_<pre present absent;
+{ 43 female_Mx1_exopod_seta_10_<pre present absent;
+{ 44 female_Mx1_exopod_seta_9_<pres present absent;
+{ 45 female_Mx1_exopod_seta_8_<pres present absent;
+{ 46 female_Mx1_exopod_seta_7_<pres present absent;
+{ 47 female_Mx1_coxal_epipodite_set present absent;
+{ 48 female_Mx1_coxal_epipodite_set_-_2 present absent;
+{ 49 female_Mx1_coxal_epipodite_set_-_3 present absent;
+{ 50 female_Mx1_coxal_epipodite_set_-_4 present absent;
+{ 51 female_Mx1_coxal_epipodite_set_-_5 present absent;
+{ 52 female_Mx1_coxal_epipodite_set_-_6 present absent;
+{ 53 female_Mx2_praecoxal_endite_1 present absent;
+{ 54 female_Mx2_praecoxal_endite_1_-_2 present absent;
+{ 55 female_Mx2_basal_endite_seta_4 present_unmodified present,_modified absent;
+{ 56 female_Mx2_endopod_seta_1_<sta untransformed transformed;
+{ 57 female_Mx2_endopod_seta_2_<sta untransformed transformed absent;
+{ 58 female_Mx2_endopod_seta_3_<sta untransformed transformed absent;
+{ 59 female_Mx2_endopod_seta_4_<sta untransformed transformed;
+{ 60 female_Mx2_endopod_seta_5_<sta untransformed transformed;
+{ 61 female_Mx2_endopod_seta_6_<sta untransformed transformed absent;
+{ 62 female_Mx2_endopod_seta_7_<sta untrasformed transformed absent;
+{ 63 female_Mx2_endopod_seta_8_<sta untrasformed transformed absent;
+{ 64 female_Mx2_endopod_seta_9_<sta untransformed transformed absent;
+{ 65 female_Mxp_syncoxal_endite_3_s present absent;
+{ 66 female_Mxp_syncoxal_endite_4_s present absent;
+{ 67 female_Mxp_syncoxa_terminal_se absent present;
+{ 68 female_Mxp_endopod_segment_2_s present absent;
+{ 69 female_Mxp_endopod_segment_3_s present absent;
+{ 70 female_P1_basis_outer_border_s present absent;
+{ 71 female_P1_basis_inner_border_s present absent;
+{ 72 female_P1_exopod_segment_1_out present absent;
+{ 73 female_P1_endopod_with_<number 5_setae 4_setae;
+{ 74 female_P1_arthrodial_membrane present absent_or_partial;
+{ 75 female_P2_arthrodial_membrane present absent;
+{ 76 female_P2-3_basis_distoposteri absent present;
+{ 77 female_P4_coxa_inner_seta_<pre present absent;
+{ 78 female_P4_coxa_inner_proximal present absent;
+{ 79 female_P5_<presence> present absent;
+{ 80 male_A1_ancestral_segments_I_a separate fused;
+{ 81 male_geniculate_or_right_A1_an separate fused;
+{ 82 male_A1_ancestral_segments_XXI fused_on_one_side fused_on_both_sides separate_on_both_sides;
+{ 83 male_mouthparts_<development> same_as_female inner_parts_atrophied;
+{ 84 male_right_P5_<number_of_rami> biramous uniramous absent;
+{ 85 male_right_P5_basis_swollen_re absent present;
+{ 86 male_left_P5_<number_of_rami> biramous uniramous absent;
+{ 87 male_left_leg_5_exopod_segment absent present;
+{ 88 male_left_P5_exopod_segment_2 absent present;
+;
+
+
+ccode  - 0.88;
+
+
+;

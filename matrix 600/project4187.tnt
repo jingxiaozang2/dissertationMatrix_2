@@ -1,0 +1,35 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.49.12'
+7 10
+
+&[num]
+Castanopsis_rothwellii          0000010
+Fagus                           000-000
+Castanea                        110?101
+Castanea_pumila                 1101001
+Castanopsis_fissa               00?00?0
+Castanopsis                     01?0??0
+Chrysolepis                     0101201
+Lithocarpus_a                   001?020
+Lithocarpus_b                   0011020
+Notholithocarpus                0011021
+
+;
+
+
+cnames
+{ 0 Style_number three six;
+{ 1 Cupule_appendages scaly spinose;
+{ 2 Cupule_dehiscence valvate hemispheric_indehiscent;
+{ 3 Female_flowers_per_node solitary clustered;
+{ 4 Flowers_per_cupule one three more_than_three;
+{ 5 Valve_dehiscence complete partial none;
+{ 6 Inflorescence_sexuality unisexual unisexual_and_mixed;
+;
+
+
+ccode  - 0.6;
+
+
+;

@@ -1,0 +1,218 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.51.39'
+37 163
+
+&[num]
+Delaria                                    ?0?000000001???0?1000000000000000?0?0
+Anisopyge                                  000?00000001000001000000000000000?000
+Triproetus                                 000?00000000001100000000000000000?000
+Lonchodomas                                00001????01010010010101000?0000010010
+Remopleurides                              0010000010000101101000010000000100000
+Isotelus                                   0000000000100000000000100000000101000
+Asaphellus                                 0000000100000000000000100000000000010
+Shumardia                                  00001????000??110000000010?10001000?0
+Conophrys                                  10001????00000011000000000?1000000010
+Pseudoyuepingia                            000000000000??000001100000001000000?0
+Haniwoides                                 ?0?0000000100000?00010000100000110000
+Proceratopyge_(Sinoproceratopyge)          ?1?000000000??00?001000000000000000?0
+Proceratopyge                              0100000000000010100110010000100000010
+Cernuolimbus                               ??000000000?0000?0000000000000100?000
+Irvingella                                 1000001010000100100000000000000000010
+Teinistion                                 ?1?0001000000000?00000010001010100000
+Blackwelderia                              ?1?0001000000100?0000001?000100110000
+Parablackwelderia                          ?1?001110000?000?00000010001000100010
+Aphelaspis                                 0000000000000000100000000000000000000
+Parabolina_(Neoparabolina)                 1010000000100000100000010000000000010
+Mexicella                                  0000001000000000000000100000000000000
+Amecephalus                                0000001000000000?00100000000000000000
+Fuchouia                                   0000000010000110000100000000000000000
+Flexicalymene                              0000000000100000000100000000000100000
+Calyptaulax                                0000000000000011000100000000000111000
+Toxochasmops                               0000000000000011000100000000000111000
+Decoroproetus_Ordovician                   0000000000000010000000001000000000000
+Porterfieldia                              0000000100000000000000000000000001000
+Triarthrus                                 0010000100100100000000000000000001010
+Parabolinella_Cambrian                     0000000000000010000100000000001000010
+Parabolinella_Ordovician                   0000000100000010100100000000001000010
+Angelina                                   0000000100000000000100000000001000000
+Leptoplastides                             0000000100000000000000000000000000000
+Jujuyaspis                                 1000000100100000100000000000000011010
+Bienvillia                                 0000000000000000000000000000001100000
+Panderia                                   0000000000100000001000100000000000000
+Paradamesella                              1100001000100100100100010011000000010
+Paraacidaspis                              ?0?0000000000010010100000101100000000
+Palaeadotes                                1100000000100100100100010000010000010
+Zacanthoides                               0110000010001100100000010000000110010
+Kootenia                                   0100001000000000100000010000000000010
+Olenoides                                  0110001100100111101100010000000000010
+Liostracina                                0000001000001010000000000001100000010
+Dorypyge                                   ?1?000100000?001?01000010000000000010
+Maladioidella                              ?0?000000000?000000000000000001100010
+Housia                                     1000000000000000100000100000000100010
+Olenaspella                                0000000000000000000000000000000000000
+Dunderbergia                               1000000000000010100000000000000000000
+Mesonacis                                  10100000000001001000000?0010000100111
+Nevadia                                    0000000010000000100000000000100100111
+Olenellus                                  1010000000?00000100000000000100100111
+Esmeraldina                                0000000000000101000000000000000100110
+Redlichia                                  0010000010001110100000010000001100010
+Paradoxides                                1000000000100111100000000000000100010
+Bristolia                                  1000000000100100100000000000000100111
+Tretaspis                                  0000001101001011000000000000000001000
+Dionide                                    00001????00000110101100000?0001001000
+Stenopareia_Silurian                       000000100000--100010001000000001000-0
+Stenopareia_Ordovician                     000000100000--000010001000000000000-0
+Failleana                                  0000001000000011000000100000000000000
+Kosovopeltis                               0000000000010011000100000001000100000
+Ekwanoscutellum                            ?0?000100000?001?0000001?00000?100000
+Neolichas                                  ?0?000100001?011?00000011000000?0?000
+Glaphurina                                 0000000100100000100100000000000000000
+Glaphurus                                  0000001100000000110000000000000000000
+Apianurus                                  ?1?000100010??10110001010000000100010
+Ditomopyge_Carboniferous                   00000000000?00?100?000?01000000000000
+Ameura                                     00000000000?0?00?00000001000000000000
+Pudoproetus                                0000000000000??0?00000001000000000000
+Paladin                                    00000000000?0001000000001000000000000
+Brachymetopus                              00000000000000100?0000001000000100000
+Hesslerides                                00000000000000?1001000000000000000000
+Monodechenella                             0000000000000000000000001000000000000
+Pseudophillipsia                           000000000000000100100000100?000100000
+Linguaphillipsia                           0000000000000000000000001000000000000
+Leonaspis                                  11110000001010101100110100000000000?0
+Ceratocephala_Silurian                     11110111001?00001?1010010000010010010
+Exallaspis                                 1100001000010010110001010000000000010
+Kettneraspis                               1100000000000010110001010000000000010
+Odontopleura                               1111001000100001110011011000000000010
+Calymene                                   000000100000--000000000010000000000-0
+Dicranopeltis_Silurian                     0000001100100001100?00010000001000000
+Encrinurus                                 0010011000010011001?00001000000110010
+Acernaspis                                 0000000010000001100000010000000000010
+Sphaerexochus                              0000?0101000000100100001001?000000??0
+Diacalymene                                00000000000?0010000100000000000000000
+Bumastus                                   00000010100---11000-001000100000000-0
+Arctinurus                                 000000000001000110100001?000110000000
+Richterarges                               0000001000010011100000011000010000000
+Borealarges                                0100000000000010110010010000010000010
+Proetus                                    0000000000000000000000000000000000000
+Decoroproetus_Silurian                     0?00000000?00010000000001000000000000
+Otarion                                    0010010000000010000011010000000000010
+Gerastos_Silurian                          000000000000--10001000001000000000000
+Warburgella                                0000000000001?000100000010000???00000
+Scharyia                                   0000000010000000000000000000000010000
+Astroproetus                               0000000000000000000000001000000000000
+Belenopyge                                 11000000000?000010000001?000000000010
+Acanthopyge                                11000000000100001100000?0001010000010
+Ceratarges                                 0100011000011001100010010000010000010
+Terranovia                                 0000011000010011000000010000010100010
+Eldredgeops                                000000000000--01001000001000000000000
+Dipleura                                   000000000010--00000000000000000111000
+Phacops                                    000000000000--01001000001000000000000
+Viaphacops                                 0000001000000001001000001000000000000
+Gravicalymene                              000000100010--00000000001000000000000
+Basidechenella                             0000000010000000000000001000000000000
+Dechenella                                 0000000010000000000000001000000000000
+Gerastos_Devonian                          000000001000--00001000001000000000000
+Coniproetus                                000000000000--00000000001000000000000
+Crassiproetus                              000000000000--00000000001000000000000
+Rugulites                                  00000000?0010000000000001000000000000
+Tropidocoryphe                             000000000000001010000000?000001000000
+Acanthopyge_(Jasperia)                     00000000000?0011?010000?1001000100000
+Ceratocephala_Ordovician                   1100001100100010110001010000000100010
+Diacanthaspis                              1100001000100010110011010000000000010
+Primaspis                                  0100001000100010110001010000000000010
+Anacaenaspis                               0100000000001010110001011000000000010
+Selenopeltis                               0100001000101000110000001000000000010
+Ceraurinella                               0100000000100000100010010000000110000
+Ceraurus                                   0100001000000010100000010000000110010
+Cryptolithus                               00001????10010110000000000?0000101000
+Broeggerolithus                            00001????11000010000000000?0000101000
+Ampyx                                      00001????010?0010010100000?0000010010
+Skljarella                                 0000001100001011000000000000000000000
+Pyrimetopus                                000000000000?000000000000000000110000
+Torifera                                   ?0?0001100000010?0000000000100000000?
+Ketyna                                     ?0?000000000?000?00100000000101100010
+Clelandia                                  000010010010000?000000000000000101000
+Ptychoparella                              0000001000000100000000000000000100000
+Eokochaspis                                00?0001000000000000100000000100000000
+Amphilichas                                1100001?00110000111000011010100110010
+Allolichas                                 1100001000010101110000011001000000010
+Oryctocephalus                             0000001000?00100110000010000000000010
+Oryctocephalites                           0000001000000101110000010000000000000
+Cheilocephalus                             ?0?0000100?0??00?000000000000000000?0
+Lichas                                     ?1?0001000000001?100000010010001000?0
+Metopolichas                               1000001000110011111000011001100100010
+Dicranopeltis_Ordovician                   11000010001?0101111000011001000100010
+Hemiarges                                  1100001000000011111000011001000000010
+Bathyurus                                  0000000000001000000000001000000000000
+Bathyurus_(Raymondites)                    0000000000001101000010001000010000010
+Bolbocephalus                              ?0?0000000000001001000001000000000000
+Carolinites                                000000001010010?000000000001000100010
+Neoanomocarella                            ?0?000100000?000?001000000001000000?0
+Ptychaspis                                 ?0?0000000000000?00000000000010000000
+Prosaukia                                  ?0?000000000??00?000000000000001000?0
+Basilicus                                  0000000000000010000010000000000000000
+Nileus                                     000000001000--000000100000000000000-0
+Niobe_(Niobella)_Ordovician                ?0?000000000--00?000000000000000000-0
+Niobe_(Niobella)_Cambrian                  000000000000--000000000000???????????
+Bumastoides                                000000100000--000000001000000000000-0
+Illaenus                                   ?0?000100000--00?010001000000000000-0
+Thaleops                                   000000100000--100010001000000000000-0
+Lichas_(Dicranogmus)                       ?0?0000000000010011000010000010000000
+Miraspis                                   0000000000100001110001010000000100010
+Dalaspis                                   ?1?000000010?010?10001011000000000000
+Strigigenalis                              ?0?000100000?000000000001100000000000
+Telephina                                  1011001110100010100000001000010010000
+Punka                                      ?0?000000000?000000000001000000000000
+Benthamaspis                               ?0?000100000?010000000001000000000000
+Hystricurus                                ?0?000000000?010?00000001000000000000
+Ditomopyge_Permian                         0000000000000001001000001000000000000
+
+;
+
+
+cnames
+{ 0 Do_any_species_have_macropleural_spines_on_the_thorax no yes;
+{ 1 Do_any_species_have_macropleural_spines_on_the_pygidium No Yes;
+{ 2 Do_any_species_have_macroaxial_spines_in_the_thorax no yes;
+{ 3 Do_any_species_have_macroaxial_spines_on_the_pygidium no yes;
+{ 4 Do_any_species_lack_eyes no yes;
+{ 5 Do_any_species_have_stalked_eyes no yes;
+{ 6 Do_any_species_have_widely_set_eyes no yes;
+{ 7 Do_any_species_have_eyes_entirely_set_more_anteriorly_than_S2 no yes;
+{ 8 Do_any_species_have_exceptionally_large_eyes_(extending_most_of_length_of_glabella)? no yes;
+{ 9 Do_any_species_have_a_fringed_cephalon no yes;
+{ 10 Do_any_species_have_a_cephalic_margin_(=_shape_of_cephalon_along_the_margin)_that_is_not_smoothly_hemi-spherical no yes;
+{ 11 Do_any_species_have_a_significant_mismatch_between_the_number_of_pygidial_axial_rings_and_the_number_of_pygidial_(inter)pleural_furrows? no yes;
+{ 12 Do_any_species_have_genal_spines_longer_than_the_thorax no yes;
+{ 13 Do_any_species_have_an_intergenal_angle no yes;
+{ 14 Do_any_species_have_complex_surface_scuplture_on_dorsal_exoskeleton no yes;
+{ 15 Do_any_species_have_an_expanded_glabella_where_the_anterior_portion_is_wider_than_the_occipital_ring no yes;
+{ 16 Do_any_species_have_thoracic_pleural_spines no yes;
+{ 17 Do_any_species_have_complex_glabellar_lobation no yes;
+{ 18 Do_any_species_have_a_glabella_than_overhangs_the_anterior_margin_of_the_cephala no yes;
+{ 19 Do_any_species_have_a_bifurcating_S1_furrow no yes;
+{ 20 Do_any_species_have_glabellar_spines,_including_medial_tubercles no yes;
+{ 21 Do_any_species_have_lateral_marginal_spines_on_the_cephalon no yes;
+{ 22 Do_any_species_have_effaced_exoskeletons_(=_axial_lobe_not_well_defined) no yes;
+{ 23 Do_any_species_have_marginal_pygidial_spines no yes;
+{ 24 Do_any_species_have_distinct_pygidial_bands_(either_anterior_or_posterior) no yes;
+{ 25 Do_any_species_have_very_broad_exoskeletal_borders no yes;
+{ 26 In_any_species,_does_the_palpebral_lobe_or_eye_ridge_merge_with_the_glabella no yes;
+{ 27 Do_any_species_have_genal_lobes_adjacent_to_L1_(e.g.,_ala,_bacculae) no yes;
+{ 28 Do_any_species_have_preglabellar_structures_(e.g.,_plectrum,_preglabellar_boss) no yes;
+{ 29 Do_any_species_have_post-axial_structures_on_the_pygidium? no yes;
+{ 30 Do_any_species_have_complex_structures_at_the_anterior_part_of_the_cephalon_(e.g.,_furrow_pits_or_fenestrae)_ no yes;
+{ 31 Do_any_species_have_anything_but_a_semi-circular_pygidium no yes;
+{ 32 Do_any_species_have_a_sinuous_or_complex_dorsal_suture no yes;
+{ 33 Do_any_species_have_anterior_part_of_dorsal_suture_that_does_not_reach_anterior_border no yes;
+{ 34 Do_any_species_lack_a_dorsal_suture no yes;
+{ 35 Do_any_species_have_curved_spines no yes;
+{ 36 Do_any_species_have_a_thorax_divided_into_a_prothorax_and_opistothorax no yes;
+;
+
+
+ccode  - 0.36;
+
+
+;

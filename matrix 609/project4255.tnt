@@ -1,0 +1,148 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.16.51'
+106 24
+
+&[num]
+Euparkeria_capensis                   0000000000000?1?000000??0000000?00000000000000???0000000?000000?00000000000000000?00000?00??00000000000000
+Diandongosuchus_fuyuanensis           1110000010110?000101000?01?????00010???110?020????01011?10?0?01?0?00000101?1????0?????00??1?1021000?0?0000
+Wannia_scurriensis                    ???11?1110120?110???00?0??0011?????01?10101110100111???00??0001?00000?11020?0?0?000000??10??????????????00
+Parasuchus_hislopi                    2001000120120100110100010001??0100202020000121?0??01011031?0001?00000?001001120110100?11100111210100111000
+Parasuchus_bransoni                   200100000?1201010101000011112111?02010?0101110100001011030?0001?0??000001001000?10000?1?100??1??????0??000
+Parasuchus_angustifrons               ??01000121120100011100000001121????0?020011221100201011031?0001?000000111101200010100??110?????????????000
+Ebrachosuchus_neukami                 3?1100002012010001010010010111011020??20101131100201?1000100001?000000212300000010100?0111???1?????????001
+Brachysuchus_megalodon                11012?102?222?01101?001011??1101102010?2111241110221110010?11010010011200001220120101011010021??????01?100
+Angistorhinus_grandis                 1011211021222101101?00100101?11110201022001031110221110010?01010?1001100000122012?101???01?011????10011100
+Rutiodon_carolinensis                 20112010??222101111?101????????1102?10??00?12??1??1??11?1??12000??1?00100001???????0100?001??111111012?10?
+Protome_batalaria                     ?1?120??20?2?1???1??1??????????11000102?0??????1?000?10111?22100????00????0?????21??1?0?10?12???????????0?
+Pravusuchus_hortus                    11?1?0?02?2220120110111?10????121000102201?1110?1311?10111?22101????0000001111??211?100?10???2?????????10?
+Leptosuchus_crosbiensis               1111?0?02?22?01??1?1100????????2100?10???1????0???????0001?22001??1?00???0012??????0?00?100?22???1??0??00?
+Smilosuchus_adamanensis               1111???02?22211?01??111??0??2??2100?10???1???1110???1?0111?12100??1?00???001?0??2110000?1000?2????11112?0?
+Smilosuchus_gregorii                  1111011020222112?110111?????2??2100?11?2111231010??1??0111?121000?11002020011???2??0100?100012211110112101
+Machaeroprosopus_jablonskiae          ??11?0?0?0?2?1???1??22??????????????????0???????????110??2?101010???00??????0??0211??00?1??????????????000
+Machaeroprosopus_lottorum             1111211030222?0211112211001223?1102021201002311103110102?2?2210?103100?0201122112011110010?????????????102
+Machaeroporsopus_mccauleyi            1011211?20222012011022110???2?02100021?2?1021101021111?222021100011200?00311121?2?11110?10?022?????????00?
+Mystriosuchus_westphali               2011201020222012011121100112???21120212011022111002101020110010?1132002000110010????1??022???1?????????002
+Mystriosuchus_planirostris            3?1120103?2220121?11211001?????11020?12010131111002111?2?11?01??1?3200200011?01????01??02201211021000?0102
+Volcanosuchus_statisticae             ?1012010312211011111??101112120???211010201221000322120????????????????232?1???????01????????1????????????
+Colossosuchus_techniensis             ?112000100222101?1111010?001???21110112?20112?0013?30111011010120111102???012210101??111220012112111111211
+isir276                               ?111000?0?2221??011110101101??00?010102?0010?1????1?01013110101201111020?0012210201??11122???1?????????211
+isir271                               311100000?22210201111010?111??0010101020101031????130111011011120111002000?1201?001?111122???1?????????211
+
+;
+
+
+cnames
+{ 0 Length_of_snout_(pre-orbital_length/orbital_plus_postorbital_length) short,_<_1 moderate,_1−3 long,_3−3.5 very_long,_exceeds_3.5;
+{ 1 Shape_of_skull_in_posterior_view box-like,_where_width_across_squamosals_approximately_equals_the_width_across_ventral_edge_of_quadrates trapezoidal,_width_across_squamosal_less_than_width_across_the_ventral_edge_of_quadrate;
+{ 2 Transverse_width_of_the_rostrum_between_the_antorbital_fenestrae_in_dorsal_view narrow_or_subequal_to_interorbital_area ≥_1.5_times_the_interorbital_area;
+{ 3 Narial_openings directed_laterally directed_dorsally/_anterodorsally anterior_section_opens_forward,_posterior_upward;
+{ 4 Nares_elevated_on_a_dorsal_prominence absent present_along_the_posterior_narial_margin present_along_the_anterior_and_posterior_narial_margin;
+{ 5 Dorsal_rim_of_nares_in_lateral_view at_or_below_level_of_skull_roof above_level_of_skull_roof;
+{ 6 Internarial_septum above_the_level_of_the_lateral_borders_of_the_narial_rim below_or_at_the_level_of_the_narial_rim;
+{ 7 Posterolateral_margins_of_nares_swollen_and_rugose,_creating_a_distinct_narial_rim absent present;
+{ 8 Inter-narial_septum composed_of_equal_proportions_of_the_nasal_and_premaxilla composed_of_more_than_50%_by_premaxilla composed_of_equal_proportions_of_nasal_and_septomaxilla composed_of_more_than_50%_by_the_septomaxilla;
+{ 9 Postero-medial_margin_of_nares fused_along_mid-line unfused_along_mid-line;
+{ 10 Position_of_nares_with_respect_to_the_antorbital_fenestra_in_dorsal_view terminal non-terminal,_posterior_rim_of_nares_in_front_of_anterior_rim_of_antorbital_fenestra non-terminal,_posterior_rim_of_nares_behind_anterior_rim_of_antorbital_fenestra;
+{ 11 Position_of_nares_on_the_snout terminal non-terminal,_nares_placed_anteriorly_on_the_snout non-terminal,_nares_placed_posteriorly_on_the_snout;
+{ 12 Overlap_of_the_external_naris_by_the_antorbital_fenestra_in_lateral_view no_overlap overlaps_<50%_of_the_external_naris overlaps_≥50%_of_the_external_naris;
+{ 13 Interorbital-nasal_area flat concave;
+{ 14 Length_of_antorbital_fenestra Less_than_1.9_times_naris_length greater_than_or_equal_to_1.9_times_naris_length;
+{ 15 Extent_of_the_antorbital_fossa present_along_both_the_anterior_and_posterior_margins_of_the_antorbital_fenestra present_either_along_the_anterior_or_posterior_margin absent_along_both_the_anterior_and_posterior_borders_of_the_antorbital_fenestra;
+{ 16 Ventral_margin_of_antorbital_fenestra excludes_jugal includes_jugal;
+{ 17 Medial_margins_of_orbits flat_with_skull_roof raised_into_orbital_ridges;
+{ 18 Position_of_ventral_margin_of_orbit ventral_to_dorsal_margin_of_antorbital_fenestra dorsal_to_dorsal_margin_of_antorbital_fenestra;
+{ 19 Preorbital_depression absent present;
+{ 20 Parietal-squamosal_bar_with_respect_to_skull_roof at_the_same_level parietal_process_of_squamosal_below_the_level_of_skull_roof entire_parietal-squamosal_bar_below_the_level_of_skull_roof;
+{ 21 Visibility_of_supratemporal_fenestrae_in_dorsal_view visible_and_open_in_dorsal_view partially_visible mostly_covered/completely_closed_dorsally,_at_most_only_anteromedial_corners_of_supratemporal_fenestrae_visible_in_dorsal_view;
+{ 22 Anterior_extent_of_infratemporal_fenestra posterior_to_or_beneath_the_posterior_corner_of_the_orbit extended_anteriorly,_reaches_below_the_middle_or_anterior_half_of_the_orbit;
+{ 23 Size_of_quadrate_foramen_relative_to_size_of_the_quadrate large significantly_reduced;
+{ 24 Ventral_margin_of_infratemporal_fenestra shared_by_jugal-quadratojugal formed_exclusively_by_the_jugal;
+{ 25 Squamosal_forming_posterior_margin_of_infratemporal_fenestra ≤_50% >_50%;
+{ 26 Orientation_of_quadrate_foramen facing_posteriorly facing_posterolaterally;
+{ 27 Shape_of_quadrate_foramen dorsally-ventrally_elongated roughly_circular crescent_shaped;
+{ 28 Suborbital_fenestra large moderately_reduced greatly_reduced;
+{ 29 Shape_of_suborbital_fenestra roughly_triangular elongate_and_elliptical boomerang_or_reniform circular;
+{ 30 Shape_of_the_subtemporal_fenestra_(stfL_/_stfW) narrow_and_highly_elongate,_≥_2 wide_and_less_elongated,_<_2;
+{ 31 Rostral_crest absent,_rostrum_low,_broad_and_flat absent,_rostrum_low,_slender_and_essentially_tube-like_for_entire_length present;
+{ 32 Anterior_premaxillary_end in_anteroposterior_plane_of_posterior_rostrum downturned;
+{ 33 Premaxillary_crest absent present;
+{ 34 Premaxilla dorsoventrally_taller_than_mediolaterally_wide_for_the_majority_of_the_element dorsoventrally_shorter_and_mediolaterally_wide_for_majority_of_the_element approximately_the_same_height_as_width_and_tube-like;
+{ 35 Dorsal_surface_of_premaxilla_bearing_thread-like_ornamentation absent present;
+{ 36 Inter-premaxillary_fossa absent present,_broad_and_rounded present,_narrow_slit;
+{ 37 Alveolar_ridges visible_in_lateral_view not_visible_in_lateral_view;
+{ 38 Morphology_of_alveolar_ridges_on_premaxilla absent sharp rounded;
+{ 39 Suture_between_maxilla,_and_premaxilla_and_nasal slopes_anteroventrally slopes_posteroventrally dorsally_convex_lobe;
+{ 40 Lateral_surface_of_the_maxilla devoid_of_ornamentation sculpturing/foramina_present teardrop/thread-like_ornamentation_present;
+{ 41 Alveolar_rim_of_maxilla horizontal ventrally_strongly_convex;
+{ 42 Lateral_extent_of_maxilla_in_ventral_view alveolar_rim_laterally_convex_or_straight laterally_distinctly_concave;
+{ 43 Angle_of_ascending_maxillary_process_with_the_vertical_plane_(?) <_55° 55°_≤_α_<_70° 70°_≤_α_<_85° ≥_85°;
+{ 44 Angle_of_descending_maxillary_process_with_the_vertical_plane_(?) ≥_130° 130°_>_β_≥_115° 115°_>_β_≥_100° 100°_>_β_≥_85° <_85°;
+{ 45 Position_of_maxilla-jugal_suture_in_lateral_view posterior_to_antorbital_fenestra ventral_to_antorbital_fenestra;
+{ 46 Anterior_extent_of_septomaxilla anterior_to_anterior_tip_of_nasal posterior_to_or_at_level_with_anterior_tip_of_nasal;
+{ 47 Anterior_separation_of_the_septomaxillae separate_posterior_to_level_with_the_anterior_narial_border separate_distinctly_anterior_of_the_anterior_narial_border;
+{ 48 Lateral_extent_of_septomaxilla restricted_to_anterior_rim_of_naris contributes_to_the_lateral_rim_of_naris;
+{ 49 Ornamentation_on_dorsal_surface_of_septomaxilla absent present,_weakly_roughened present,_antero-posteriorly_oriented_grooves present_irregular_sculpturing;
+{ 50 Surface_of_nasals_surrounding_the_external_nares not_inflated inflated,_only_along_the_lateral_or_posterior_margin_of_the_nares inflated,_along_both_the_lateral_and_posterior_margin_of_the_nares;
+{ 51 Ornamentation_on_nasal absent comprising_ridges_and_grooves_along_with_pits teardrop_shaped coarse,_antero-posteriorly_compressed_band-like_ornamentation;
+{ 52 Nasofrontal_suture inter-digitating non-interdigitating;
+{ 53 Dorsal_surface_of_the_frontal smooth,_unornamented ornamented_in_the_form_of_rugosity_and_pits teardrop_shaped_ornamentation;
+{ 54 Broad_median_depression_on_dorsal_surface_of_frontals,_near_border_with_nasals absent present;
+{ 55 Sutural_articulation_of_squamosal_with_postorbital_in_dorsal_view slot-like,_posterior_process_of_postorbital_fits_into_slot_in_squamosal diagonal,_squamosal_forms_anteromedial_portion_of_postorbital-squamosal_bar_and_postorbital_forms_posterolateral_portion approximately_transverse;
+{ 56 Lateral_ridge_from_postorbital-squamosal_bar forms_a_shelf_overhanging_the_infratemporal_fenestra does_not_overhang_as_a_shelf_ continues_posteriorly_from_strong_ridge_on_lateral_edge_of_postorbital-squamosal_bar_as_two_separate_raised_ridges_on_lateral_surface_of_squamosal bifurcates_into_two_small_ridges_on_lateral_surface_of_squamosal;
+{ 57 Width_of_postorbital-squamosal_bar_relative_to_its_length_(Wpo-sq_/_Lpo-sq),_measured_in_dorsal_view ≥_6 >_6_–≥_4 <_4;
+{ 58 Cross-section_of_posterior_half_of_postorbital-squamosal_bar low,_dorsoventrally_compressed high,_triangular;
+{ 59 Length_of_posterior_process_of_squamosal absent_or_extremely_short,_posterior_edge_of_squamosal_does_not_extend_or_barely_extends_posteriorly_beyond_the_distal_end_of_the_paroccipital_process_of_the_opisthotic moderate,_posterior_process_of_squamosal_extends_posteriorly_beyond_opisthotic_process_of_squamosal long,_posterior_process_of_squamosal_extends_posteriorly_far_beyond_opisthotic_process_of_squamosal;
+{ 60 Morphology_of_the_posterior_process_of_the_squamosal_in_lateral_view dorsoventrally_compressed dorsoventrally_expanded greatly_dorsoventrally_expanded,_rounded_posteriorly;
+{ 61 Dorsal_edge_of_the_squamosal straight_and_narrow,_no_medial_expansion expanded_medially;
+{ 62 Dorsal_edge_of_the_squamosal_-_2 mediolaterally_flat ventral_depression_between_medial_and_lateral_edges_of_the_dorsal_edge_of_the_squamosal;
+{ 63 Ventral_margin_of_squamosal gently_sloping_anteroventrally_from_posterior_edge_of_posterior_process_to_opisthotic_process distinct_horizontal_ventral_edge_between_posterior_edge_of_posterior_process_and_opisthotic_process sloping_posteroventrally_from_the_posterior_end_of_the_posterior_process_to_the_opisthotic_process;
+{ 64 Lateral_flange_of_the_squamosal absent present;
+{ 65 Medial_extent_of_squamosal up_to_mid-length_of_the_parietal-squamosal_bar enters_base_of_supraoccipital_shelf_wedged_between_parietal_and_supraoccipital enters_rim_of_supraoccipital_shelf_dorsal_to_parietal;
+{ 66 Dorsal_edge_of_parietal-squamosal_bar horizontal gently_sloping_ventrally steeply_sloping_ventrally either_entirely_or_in_parts_vertical;
+{ 67 Depression_of_parietal-squamosal_bar absent moderate,_bar_depressed_for_15±25%_of_absolute_skull_height strong,_bar_depressed_for_>_25%_of_absolute_skull_height;
+{ 68 Path_of_parietal-squamosal_bars trending_straight_posteriorly_for_attachment_on_the_squamosals curved,_medially_convex_before_attaching_on_the_squamosals;
+{ 69 Parietal-squamosal_bars slender,_narrower_than_or_the_same_mediolateral_width_of_postorbital-squamosal_bars wide,_approximately_the_same_mediolateral_width_of_postorbital-squamosal_bars;
+{ 70 Angle_of_separation_of_the_parietal_prongs_/_squamosal_processes_of_the_parietal <_90° 90°−99° ≥_100°;
+{ 71 Ridge_on_lateral_surface_of_jugal absent present,_unornamented present,_ornamented_with_tubercles;
+{ 72 Ornamentation_on_the_lateral_surface_of_the_jugal absent discrete_row_of_anteroposteriorly_extending_nodes randomly_oriented_rugosity radiating_fine_thread-like_ridges;
+{ 73 Morphology_of_jugal_in_lateral_view flat subdivided_into_dorsolaterally_facing_and_laterally_facing_facets a_centrally-positioned_anteroposteriorly_extending_ridge ridge_running_towards_ventral_border_of_jugal;
+{ 74 Subsidiary_opisthotic_process_of_the_squamosal absent present;
+{ 75 Shape_of_quadratojugal L-shaped subtriangular;
+{ 76 Shape_of_distal_end_of_paroccipital_process straight,_distal_edge_is_dorsoventrally_oriented angled,_distal_edge_trends_ventrolaterally rounded,_distal_edge_is_curved_rather_than_straight pointed;
+{ 77 Lateral_border_of_the_posttemporal_fenestra formed_by_the_contact_of_the_parietal_process_of_the_squamosal_and_the_paroccipital_process_of_the_opisthotic formed_laterally_only_by_the_paroccipital_process formed_laterally_and_slightly_ventrally_by_process_of_squamosal_that_extends_onto_the_paroccipital_process;
+{ 78 Exoccipital_and_supraoccipital_shelf anteroposteriorly_short broad,_overhangs_foramen_magnum_and_occipital_condyle;
+{ 79 Supraoccipital enters_posttemporal_fenestra excluded_from_posttemporal_fenestra;
+{ 80 Anterior_border_of_parabasisphenoid_contribution_to_the_basitubera basitubera_separated_widely basitubera_separated_narrowly,_with_a_ridge_along_their_anterior_border basitubera_connected,_tubera_form_a_sharp_ridge_along_their_anterior_border;
+{ 81 Morphology_of_basioccipital_between_tubera concave_depression anteroposteriorly_oriented_ridge_on_the_midline;
+{ 82 Lateral_extent_of_basitubera_compared_to_lateral_extent_of_basipterygoid_processes_in_ventral_view lateral_extent_of_basitubera_even_with_lateral_extent_of_basipterygoid_processes lateral_extent_of_basitubera_more_laterally_expanded_compared_to_basipterygoid_processes;
+{ 83 Medial_edge_of_palatine_below_posterior_part_of_palatal_vault sloping_or_vertical horizontal_flange_may_restrict_the_opening_of_the_palatal_vault_significantly;
+{ 84 Anterior_extent_of_the_palatine tip_extends_anteriorly_beyond_the_posterior_rim_of_choana tip_extends_anteriorly_beyond_the_anterior_rim_of_choana;
+{ 85 Lateral_ridge_of_postorbital-squamosal_bar_continues_onto_the_posterior_process_of_squamosal absent present;
+{ 86 Mediolateral_expansion_of_posterior_process_of_squamosal tip_of_squamosal_tapers_strongly_posteriorly tip_of_squamosal_tapers_with_a_smooth_lateral_deflection_distally;
+{ 87 Outline_of_medial_rim_of_squamosal_along_supratemporal_fenestra_and_posterior_process sinuous angular straight curved;
+{ 88 Depth_and_shape_of_supraoccipital_shelf shallow,_longitudinal_axis_of_shelf_vertical deep,_axis_of_shelf_straight_and_horizontal deep,_axis_of_shelf_with_steep_slope_anteriorly_and_terminal_horizontal_deflection_of_shelf;
+{ 89 Post-temporal_fenestra moderately_wide_and_tall moderately_wide_and_compressed extremely_reduced_in_width_and_height_to_a_slit;
+{ 90 Shape_of_retroarticular_process_in_lateral_view distally_sharply_pointed_or_curved_into_a_posterodorsally_oriented_hook distally_rounded_or_blunt;
+{ 91 Relative_length_of_mandibular_symphysis_with_respect_to_the_length_of_the_post-symphyseal_region,_measured_in_the_anteroposterior_direction less_than_1.00,_short greater_than_or_equal_to_1.00,_long;
+{ 92 Shape_of_external_mandibular_fenestra_(emfL:_emfH) short,_emfL:emfH_<_4 moderately_elongated,_4_≤_emfL:emfH_<_6 greatly_elongated,_emfL:_emfH_≥_6;
+{ 93 Degree_of_heterodonty homodont bipartite_upper_dentition tripartite_upper_dentition;
+{ 94 Degree_of_curvature_of_posterior_margin_of_proximal_humeral_head_in_ventral_view degree_of_curvature_≥_160º 160º_<_degree_of_curvature_≥_130º degree_of_curvature_<_130º;
+{ 95 Degree_of_flaring_of_proximal_humeral_head_in_dorsal_view flaring_<_50º flaring_≥_50º;
+{ 96 Lateral_margin_of_ulna_in_anterior_view sigmoidal straight convex;
+{ 97 Concavity_of_anterior_margin_of_proximal_femoral_head gently_concave strongly_concave;
+{ 98 Vertebral_laminae absent present;
+{ 99 Number_of_sacral_vertebrae two three;
+{ 100 Orientation_of_postacetabular_process_of_the_ilium_in_lateral_view directed_posteriorly_or_downturned directed_posterodorsally;
+{ 101 Degree_of_concavity_of_anterior_margin_of_ilium_in_lateral_view degree_of_concavity_≥_100º 100º_>_degree_of_concavity_≥_50º degree_of_concavity_<_50º;
+{ 102 Paramedian_osteoderms elliptical/leaf_shaped_with_longitudinal_keel_along_the_length_of_the_osteoderm roughly_circular_with_a_posteriorly_placed_boss roughly_circular_with_a_centrally_placed_boss;
+{ 103 Dorsal_skull_margin_in_lateral_view_from_anterior_orbital_margin_to_posterior_end_of_the_posterior_squamosal_process_along_the_postorbital-squamosal_bar straight/nearly_straight_or_convex sigmoidal z-shaped;
+{ 104 Position_of_supratemporal_fenestra dorsally_facing dorsolaterally_facing;
+{ 105 Dorsal_margin_of_skull_in_occipital_view horizontal_or_nearly_horizontal distinctly_convex sigmoidal;
+;
+
+
+ccode  - 0.105;
+
+
+;

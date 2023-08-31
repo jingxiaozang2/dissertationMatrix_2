@@ -1,0 +1,124 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 17.16.22'
+93 13
+
+&[num]
+Aulorhynchidae                  001010000000111010000110100000101000100111110100100000000000101000011011000001100000111011121
+Scombridae                      ?000??10010010001001100000000000000000??00??010000000???????01??000?0000???0???00000?00?00010
+Trichiuridae                    00100?100?001000?101101000000001000100??0100010000000?0????00110000100000001????0000?00?0????
+Pegasidae                       0100000101001001001?1111110100000001101010110010001111001101010000011200000001111010010111120
+Dactylopteridae                 00001001010010011100011000000000?0?000?01?11000??0?000??110?0111?0?000000100011110?10001?0010
+Solenostomidae                  10100111111101011010101001111?1001001110??00000010011?100001000001011000100010011011011111120
+Syngnathidae                    10100110111?01011010101001111110011001100000101010111110110101011011100010011??11000111111120
+Aulostomidae                    0010010111110101000010101010101001001001?1001110101101100010101111101111110010011110011101111
+Fistulariidae                   00110101111100010000100010101?1001001001?1001010001101100010000001101011110010111110011101111
+Macrorhamphosidae               00101101111101010010101000101?110110100111011011010000000000000010100100001010110010111111121
+Centriscidae                    001001011111010100101011011010100110100111011011011000010000010110000210001010011110101110121
+Eekaulostomus_cuevasae          ?01???????????01???0?010???1111?0??01??11???????????????????????0010???1???01???0???????1????
+Protosyngnathus                 101?1?0?1????????00111?????11110???000??1?????????????????????0?????????00001??11?1???111????
+
+;
+
+
+cnames
+{ 0 Nasal present absent;
+{ 1 Lateral_ethmoid_medial_extent forms_medial_separation_between_orbits confined_to_anterior_edge_of_orbit;
+{ 2 Vomer_connection_to_lateral_ethmoid vomer_head_meets_lateral_ethmoids vomer_head_does_not_meet_lateral_ethmoid;
+{ 3 vomer_teeth present absent;
+{ 4 vomer_length shaft_extends_past_lateral_ethmoids shaft_ends_anterior_to_posterior_tips_of_lateral_ethmoids;
+{ 5 Infrorbitals do_not_form_a_complete_ring_from_antorbital_to_dermosphenotic form_a_complete_ring_from_antorbital_to_dermosphenotic;
+{ 6 Frontal_canals supraorbital_canal_present_on_frontal no_supraorbital_canal_on_frontal;
+{ 7 Frontal_&_parasphenoid Does_not_meet_parasphenoid_lateral_process Meets_parasphenoid_lateral_process;
+{ 8 Parietal Present Absent;
+{ 9 Intercalar Present Absent;
+{ 10 Prootic_and_Exoccipital contact_one_another Widely_separated_by_pterotic;
+{ 11 Prootic_and_basioccipital contact_one_another not_in_contact;
+{ 12 Pterotic_and_basioccipital not_in_contact contact_one_another;
+{ 13 Basisphenoid present absent;
+{ 14 Pterosphenoid absent present;
+{ 15 Parasphenoid_width not_expanded_between_lateral_ethmoids Expanded_between_the_lateral_ethmoids;
+{ 16 Parasphenoid_shaft Divided_posteriorly Entire;
+{ 17 Supraoccipital_crest Present Absent;
+{ 18 jaw_teeth present absent;
+{ 19 Premaxillary_ascending_process Well_developed Absent_or_Reduced;
+{ 20 Premaxillary_articular_process Present Absent;
+{ 21 Maxillary_shaft Expanded_ventrally Uniform;
+{ 22 palatine_teeth present absent;
+{ 23 Palatine_head bear_lateral_projections lack_lateral_projections;
+{ 24 endopterygoid_and_ectopterygoid separate_elements single_element;
+{ 25 Metapterygoid present_as_a_separate_element Fused_to_hyomandibular_or_symplectic;
+{ 26 Metapterygoid_position_relative_to_orbit posterior_to_orbit anterior_to_orbit;
+{ 27 Quadrate_shape more_or_less_fan_shaped elongated,_bearing_a_deep_dorsal_flange;
+{ 28 Quadrate_shaft_length About_the_same_lenght_as_body_of_quadrate Much_longer_than_quadrate_body;
+{ 29 Quadrate_anteriodorsal_expansion absent,_shaft_of_quadrate_of_similar_depth_along_length distinct_lamina_of_bone_reaches_dorsally_at_anterior_extent_of_quadrada;
+{ 30 Quadrate_and_mandible_articulation_position articulate_below_the_orbit articulate_in_front_of_orbit;
+{ 31 Symplectic_flanges absent present;
+{ 32 symplectic_anterior_end not_bifurcated bifurcated;
+{ 33 Hyomandibula_head Bearing_distinct_cranial_condyles Lacking_distinct_cranial_condyles;
+{ 34 Preopercle_interhyal_articulatopm Without_socket_at_articulation_with_interhyal With_socket_at_articulation_with_interhyal;
+{ 35 Preopercle_dorsal_and_ventral_arms With_distinct_dorsal_and_ventral_arms Without_distinct_dorsal_and_ventral_arms;
+{ 36 preopercle_sensory_canal Bearing_an_enclosed_preoperculomandibular_canal Bearing_an_open_preoperculomandibular_canal;
+{ 37 Subopercle_ascending_anterior_limb present absent;
+{ 38 Subopercle_and_interopercle Close_together Widely_separating_from_each_other;
+{ 39 Interopercle_extent Short Elongated;
+{ 40 Opercle_dorsal_projection present absent;
+{ 41 Basihyal Small Elongated;
+{ 42 Urohyal_ventrolateral_flange absent present;
+{ 43 Urohyal_blade Entire Incised_posteriorly;
+{ 44 Hypohyals Overlap_anterior_certohyal Articulate_with_posterior_ceratohyal;
+{ 45 Anterior_ceratohyal Abruptly_becoming_narrower Even_or_gradualy_becoming_narrower_anteriorly;
+{ 46 Struts_that_connects_anterior_and_posterior_ceratohyals Present Absent;
+{ 47 Interhyal Cylindrical_and_free Round_and_sutured_to_posterior_ceratohyal;
+{ 48 Branchiostegal_ray_number More_than_four Four_or_fewer;
+{ 49 branchiostegal_rays_articulating_on_posterior_ceratohyal one_or_more none;
+{ 50 Gill_membrane Free_from_isthmus United_to_isthmus;
+{ 51 Ossified_basibranchials Three Fewer_than_three;
+{ 52 Hypobranchials Three Fewer_than_three;
+{ 53 Epibranchial_3_and_4 With_uncinate_process Without_uncinate_process;
+{ 54 Epibranchial_4 Normal absent;
+{ 55 Pharyngobranchial_1 Present Absent;
+{ 56 Pharyngeal_2_toothplate Present Absent;
+{ 57 Pharyngeal_4_toothplate Present Absent;
+{ 58 Interarcual_cartilage Absent Present;
+{ 59 Gill_filaments Normal,_elongate Lophobranch,_arranged_in_rounded_tufts;
+{ 60 Toothplates_on_the_branchial_arches Present Absent;
+{ 61 Posttemporal_dorsal_process Tightly_attached_with_short_ligament_to_epioccipital Ossified_to_cranium;
+{ 62 Posttemporal_sensory_canal Absent Present;
+{ 63 Supracleitrhum Normal Reduced_or_absent;
+{ 64 Cleithrum_dorsal_plate With_a_pointed_anterodorsal_process Without_a_pointed_anterodorsal_process;
+{ 65 Cleithrum__ventral_limb Entire Divided_into_two_struts;
+{ 66 Cleithrum__posteromedial_extension_to_coracoid absent present;
+{ 67 Postcleithrum_number Two One Absent;
+{ 68 Scapular_foramen Complet Incomplet;
+{ 69 Scapula_and_first_actinost Separate abut_one_another fused;
+{ 70 Coracoid_posterior_extension present,_reaches_further_than_actinosts Absent,_does_not_extend_past_actinosts;
+{ 71 Ectocoracoid Absent Present;
+{ 72 Shape_of_actinost roughly_rectangular Strongly_hourglass-shaped;
+{ 73 pectoral_actinost_length short,_width_and_length_about_equal elongate,_much_longer_than_wide;
+{ 74 Actinost_4_anteroventral_spike absent present;
+{ 75 Pelvic_fins present absent;
+{ 76 Pelvic_spines Present Absent;
+{ 77 Pelvic_girdle_left_and_right__meet_in_midline Separate,_left_and_right_do_not_meed_in_midline left_and_right_joined_in_midline_by_a_suture;
+{ 78 Pelvic_girdle_posterior_process Present Absent;
+{ 79 2nd_Dorsal_fin_spines Present Absent;
+{ 80 Anal_fin_spines present absent;
+{ 81 fusion_of_anterior_centra absent present;
+{ 82 Anterior_vertebrae_length Normal Longer_than_posterior_one;
+{ 83 Transverse_process_on_the_first_two_vertebrae Present Absent;
+{ 84 Anterior_vertebrae_and_scute_connection Lack_lateral_process_to_scutes Bear_lateral_processes_to_scutes;
+{ 85 Neural_arch_of_precaudal_vertebra Not_pierced_by_foramina Pierced_by_foramina;
+{ 86 Ribs Present Absent;
+{ 87 Epipleurals present absent;
+{ 88 Bony_scutes Absent Present;
+{ 89 Parhypural Autogeous Fused_to_centrum_or_hypurals;
+{ 90 Hypural_fusion Autogenus All_fused_to_centrum;
+{ 91 number_of_hypural_plates Organized_into_three_or_more_plantes Into_two_plates Into_a_single_plate;
+{ 92 Length_of_neural_spine_of_preural_2 Shorter_than_other_preneurals The_same_size_as_other_preneurals;
+;
+
+
+ccode  - 0.92;
+
+
+;

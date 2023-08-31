@@ -1,0 +1,99 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 16.45.49'
+33 48
+
+&[num]
+Abies                                0?101?011???1011?1100117001121001
+Cathaya                              00000000100010??101102?5010020001
+Cedrus                               0000101?10?01030010102004?1121001
+Larix                                0?100?0?10101011?0???1150?0020001
+Keteleeria                           0000000011?011101111?222011021001
+Picea                                00?0??0?10?0101010?0?12?4?0020001
+Pinus                                10?001??1?0110100?10?0?5410020001
+Pseudolarix                          10101001101010?00100?235610121001
+Pseudotsuga                          0110010?10?010100010?115010020001
+Tsuga                                0?10000??0?01031?1100115010021001
+Pseudoaraucaria_arnoldii             0000100011000010002?0115531021011
+Pseudoaraucaria_benstedii            ?000100?1?0000?00?100?1?131021011
+Pseudoaraucaria_gibbosa              10101001110000300?100215031020011
+Pseudoaraucaria_heeri                100010001000001001100112031021011
+Pseudoaraucaria_loppinetti           10001000100000100010111?131020011
+Pseudoaraucaria_major                100010001000001000111115431021011
+Obirastrobus_kokubunii               000011011100?03100200235020020001
+Obirastrobus_nihongii                00000100110?104110200225020020001
+Pityostrobus_andraei                 10000?01?100101?0???0005000020001
+Pityostrobus_argonnensis             10100001100010130??10005010020001
+Pityostrobus_beardii                 101010011010101000100005410020101
+Pityostrobus_bommeri                 00110000000010100?010002100020001
+Pityostrobus_californiensis          001101011100101000101235020020001
+Pityostrobus_cliffwoodensis          ?0000100100010??0?100035110020001
+Pityostrobus_corneti                 00100001100011?001110235100021001
+Pityostrobus_hallii                  0000000010011011001000554?0020001
+Pityostrobus_hautrageanus            10100001100000??00?10055100020101
+Pityostrobus_hokodzensis             001010011010101200110005410020101
+Pityostrobus_hueberi                 101000010010111001010052110020001
+Pityostrobus_jacksonii               10000100000010?00?2000?511002??01
+Pityostrobus_kayeii                  101001000000001000100005000020001
+Pityostrobus_leckenbyi               0000000???01102000110115?10021001
+Pityostrobus_lynnii                  100001001101101100??000511002??01
+Pityostrobus_macrocephalus           1010000110000?1?0?1100?5000020101
+Pityostrobus_makahensis              001001001100101100?00025010021001
+Pityostrobus_mcmurryensis            00101000000010101010002?210020001
+Pityostrobus_matsubarae              001000011000001000100235010020001
+Pityostrobus_milleri                 1000110011101013?111005501002??01
+Pityostrobus_oblongus                001000011101102000100125010021001
+Pityostrobus_palmeri                 10100111100?001000110026410020001
+Pityostrobus_pubescens               000010000010101010100013420020001
+Pityostrobus_ramentosa               00000000111110?00010022502002??01
+Pityostrobus_shastaensis             ?010010110001010001100?5010020001
+Pityostrobus_villerotensis           00000000000110110?100035410020001
+Pityostrobus_virginiana              00000?00001100?000100000010020001
+Cryptomeria                          021000011000??000020?344400010002
+Pararaucaria                         1010000?121010500000034460102000?
+Sciadopitys                          020010000010001000200117200010002
+
+;
+
+
+cnames
+{ 0 Ovuliferous_scale_apex thinning_distally thickening_distally_(or_has_umbo);
+{ 1 Bract_length bract_shorter_than_ovuliferous_scale bract_longer_than_ovuliferous_scale bract_and_ovuliferous_scales_equal_in_length;
+{ 2 Sclerenchyma_in_pith absent present;
+{ 3 Resin_canals_in_pith absent present;
+{ 4 Secondary_xylem_of_cone_axis forming_a_continuous_cylinder_(or_little_dissected) in_separate_strands;
+{ 5 Resin_canals_in_secondary_xylem absent present;
+{ 6 Number_of_growth_increments_in_secondary_xylem_of_cone_axis one two;
+{ 7 Sclerenchyma_in_inner_cortex absent present;
+{ 8 Sclerenchyma_in_outer_cortex absent present;
+{ 9 Cortical_resin_canals uniform_in_diameter dilated_markedly_near_points_of_branching absent;
+{ 10 Trichomes_on_the_cone_axis,_scale,_or_bract_base absent present;
+{ 11 Bract_and_scale_traces separate_at_origin united_at_origin;
+{ 12 Scale_trace clearly_derived_from_two_lateral_strands derived_as_single_abaxially_concave_strand;
+{ 13 Scale_trace_-_2 abaxially_concave becoming_cylindrical_after_divergence;
+{ 14 Resin_canals_to_cone-scale_complex_arising_from_cortical_canals as_a_single_branch two_origins three_separate_origins four_separate_origins more_than_four_separate_origins no_resin_canals;
+{ 15 Bract/ovuliferous_scale_separation separates_laterally_first separates_medially_first separates_all_at_once do_not_separate;
+{ 16 Abaxial_lobe_of_bract_base_(or_cone-scale_complex) absent present;
+{ 17 Sclerenchyma_in_bract absent present;
+{ 18 Resin_canals_in_bract_(or_accompanying_bract_trace) absent two more_than_two;
+{ 19 Bract_trace entering_bract terminating_before_entering_free_part_of_bract;
+{ 20 Vascular_ray_in_bract_trace absent present;
+{ 21 Resin_canals_to_ovuliferous_scale_at_scale_base abaxial_to_vascular_tissue adaxial_to_vascular_tissue both_adaxial_and_abaxial_to_vascular_tissue resin_canals_absent;
+{ 22 Resin_canals_to_ovuliferous_scale_at_level_of_seed_body_(not_under_seed_wing) abaxial_to_vascular_tissue adaxial_to_vascular_tissue both_adaxial_and_abaxial_to_vascular_tissue abaxial_and_adaxial_and_between_vascular_bundles no_resin_canals abaxial_and_between_vascular_bundles;
+{ 23 Resin_canals_to_ovuliferous_scale_distal_to_seed_body_(includes_under_wing_and_more_distal_sections) abaxial_to_vascular_tissue adaxial_to_vascular_tissue both_abaxial_and_adaxial_to_vascular_tissue between_vascular_bundles no_resin_canals abaxial_and_adaxial_and_between_vascular_bundles abaxial_and_between_vascular_bundles adaxial_and_between_vascular_bundles;
+{ 24 Sclerenchyma_in_ovuliferous_scale both_abaxial_and_adaxial_to_vascular_tissue abaxial_to_vascular_tissue adaxial_to_vascular_tissue absent abaxial_and_adaxial_and_between_vascular_bundles abaxial_and_between_vascular_bundles adaxial_and_between_vascular_bundles;
+{ 25 Interseminal_ridge absent_between_seeds extending_less_than_half_of_seed_diameter extending_more_than_half_of_seed_diameter extending_between_and_overarching_seeds;
+{ 26 Scale_at_right_angles_to_cone_axis_for_length_of_seed_body_with_sharply_upturned_distal_portion absent present;
+{ 27 Method_of_cone_seed_release cone_spreading scale_abscission_from_cone_axis;
+{ 28 Seed_wings absent sarcotestal_wing(s) wing_formed_from_ovuliferous_scale_tissue;
+{ 29 Resin_vesicles/cavities_in_integument_(seed_coat) absent present;
+{ 30 Ridged_sclerotesta absent present;
+{ 31 Enlarged_parenchyma_pad_or_cushion_at_chalazal_end_of_seed absent present;
+{ 32 Number_of_ovules/ovuliferous_scale one two three_or_mroe;
+;
+
+
+ccode  - 0.32;
+
+
+;
